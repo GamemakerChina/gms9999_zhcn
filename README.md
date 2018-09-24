@@ -13,7 +13,7 @@ zh-CN translation for GameMaker:Studio 1.4.9999
 
 其中字符串内只要是单引号内的内容均可进行翻译。
 
-RC 数据内需要注意，仅 **Caption = ** 、**Hint = **、**Lines.Strings =** 后的内容需要翻译（注意单引号），以及将 **Font.Height = ** 数值从 `-11` 改为 `-12` 外，其余均保持原状。
+RC 数据内需要注意，仅 **Caption =** 、**Hint =**、**Lines.Strings =** 后的内容需要翻译（注意单引号），以及将 **Font.Height = ** 数值从 `-11` 改为 `-12` 外，其余均保持原状。
 
 ## 相关文件介绍
 
