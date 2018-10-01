@@ -80,13 +80,13 @@ RC 数据内需要注意，仅 **Caption =** 、**Hint =**、**Lines.Strings =**
 | 4080:2052 |    ✘     |    TObjectInformationForm    |            !             |
 | 4081:2052 |    ✘     |     TObjectPhysicsShape      |            !             |
 | 4082:2052 |    ✘     |         TOptionForm          |            !             |
-| 4083:2052 |    ✘     |      TOptionStudioForm       |            ✘             |
+| 4083:2052 |    ✘     |      TOptionStudioForm       |            !             |
 | 4084:2052 |    ✘     |         TPasswordDlg         |            !             |
 | 4085:2052 |    ✘     |          TPathForm           |            !             |
 | 4086:2052 |    ✘     |        TPlacementForm        |            !             |
 | 4087:2052 |    ✘     |       TPlayerBuildForm       |            !             |
-| 4088:2052 |    ✘     |       TPreferencesForm       |            ✘             |
-| 4089:2052 |    ✘     |        TProgressForm         | （无字符串，不需要翻译） |
+| 4088:2052 |    ✘     |       TPreferencesForm       |            !             |
+| 4089:2052 |    ✘     |        TProgressForm         |            !             |
 | 4090:2052 |    ✘     |        TResizeDialog         |            !             |
 | 4091:2052 |    ✘     |      TResourceIconForm       |            !             |
 | 4092:2052 |    ✘     |      TRoomControlsForm       |            !             |
