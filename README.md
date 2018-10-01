@@ -42,78 +42,78 @@ RC 数据内需要注意，仅 **Caption =** 、**Hint =**、**Lines.Strings =**
 | 4042:2052 |    !     |          TCommitLog          |            !             |
 | 4043:2052 |    !     |         TCompileForm         |            !             |
 | 4044:2052 |    !     |       TCompletionForm        | （无字符串，不需要翻译） |
-| 4045:2052 |    !     |        TConstantForm         |            !             |
+| 4045:2052 |    !     |        TConstantForm         |            ✘             |
 | 4046:2052 |    ✘     |      TCustomKeyBindForm      |            !             |
-| 4047:2052 |    ✘     |        TDataFileForm         |            !             |
-| 4048:2052 |    ✘     |          TDataForm           |            !             |
-| 4049:2052 |    ✘     |          TEventForm          |            !             |
-| 4050:2052 |    ✘     |         TExportForm          |            !             |
-| 4051:2052 |    ✘     | TExtensionConstantProperties |            !             |
-| 4052:2052 |    ✘     |   TExtensionFileProperties   |            !             |
-| 4053:2052 |    ✘     |        TExtensionForm        |            !             |
-| 4054:2052 |    ✘     | TExtensionFunctionProperties |            !             |
-| 4055:2052 |    ✘     |    TExtensionLibraryForm     |            !             |
-| 4056:2052 |    ✘     |    TExtensionPackageHelp     |            !             |
-| 4057:2052 |    ✘     | TExtensionPackageProperties  |            !             |
-| 4058:2052 |    ✘     |       TExtInstallForm        |            !             |
-| 4059:2052 |    ✘     |          TFontForm           |            !             |
-| 4060:2052 |    ✘     |          TFontRange          |            !             |
-| 4061:2052 |    ✘     |          TGridForm           |            !             |
-| 4062:2052 |    ✘     |          THelpForm           |            !             |
-| 4063:2052 |    ✘     |       THelpOptionsForm       |            !             |
-| 4064:2052 |    ✘     |       TImageEditorForm       |            !             |
-| 4065:2052 |    ✘     |         TImagesForm          | （无字符串，不需要翻译） |
-| 4066:2052 |    ✘     |         TImportForm          |            !             |
-| 4067:2052 |    ✘     |   TImportOldVersionWarning   |            !             |
-| 4068:2052 |    ✘     |        TInstanceOrder        |            !             |
-| 4069:2052 |    ✘     |   TInstancePropertiesForm    |            !             |
-| 4070:2052 |    ✘     |          TKeyBinds           |            !             |
-| 4071:2052 |    ✘     |      TLicenseTargetForm      |            !             |
-| 4072:2052 |    ✘     |          TMainForm           |            !             |
-| 4073:2052 |    ✘     |      TMakerAccount2Step      |            !             |
-| 4074:2052 |    ✘     |     TMaker_ConfigCreate      |            !             |
-| 4075:2052 |    ✘     |     TMaker_ConfigManager     |            !             |
-| 4076:2052 |    ✘     |          TMaskForm           |            !             |
-| 4077:2052 |    ✘     |       TNewProjectForm        |            !             |
-| 4078:2052 |    ✘     |          TNewsForm           |            !             |
-| 4079:2052 |    ✘     |         TObjectForm          |            !             |
-| 4080:2052 |    ✘     |    TObjectInformationForm    |            !             |
-| 4081:2052 |    ✘     |     TObjectPhysicsShape      |            !             |
-| 4082:2052 |    ✘     |         TOptionForm          |            !             |
-| 4083:2052 |    ✘     |      TOptionStudioForm       |            !             |
-| 4084:2052 |    ✘     |         TPasswordDlg         |            !             |
-| 4085:2052 |    ✘     |          TPathForm           |            !             |
-| 4086:2052 |    ✘     |        TPlacementForm        |            !             |
-| 4087:2052 |    ✘     |       TPlayerBuildForm       |            !             |
-| 4088:2052 |    ✘     |       TPreferencesForm       |            !             |
-| 4089:2052 |    ✘     |        TProgressForm         |            !             |
-| 4090:2052 |    ✘     |        TResizeDialog         |            !             |
-| 4091:2052 |    ✘     |      TResourceIconForm       |            !             |
-| 4092:2052 |    ✘     |      TRoomControlsForm       |            !             |
-| 4093:2052 |    ✘     |          TRoomForm           |            !             |
-| 4094:2052 |    ✘     |      TRSSFeedProperties      |            !             |
-| 4095:2052 |    ✘     |         TSaveAsForm          |            !             |
-| 4096:2052 |    ✘     |       TSCM_ConfigForm        |            !             |
-|           |          |      TSCM_ConflictForm       |            !             |
-|           |          |         TSCM_History         |            !             |
-|           |          |       TSCM_StatusForm        |            !             |
-|           |          |         TScriptForm          |            !             |
-|           |          |       TScriptInfoForm        |            !             |
-|           |          |         TShaderForm          |            !             |
-|           |          |          TSoundForm          |            !             |
-|           |          |        TSourceControl        |            !             |
-|           |          |     TSpineAgreementForm      |            !             |
-|           |          |      TSpriteEditorForm       |            !             |
-|           |          |         TSpriteForm          |            !             |
-|           |          |       TStandAloneForm        |            !             |
-|           |          | TSteamWorkShopAgreementForm  |            !             |
-|           |          |      TSteamWorkShopForm      |            !             |
-|           |          |     TStorePropertiesForm     |            !             |
-|           |          |          TStripForm          |            !             |
-|           |          |      TStudioPreferences      |            !             |
-|           |          |        TSupportSearch        |            !             |
-|           |          |        TTimeLineForm         |            !             |
-|           |          |   TTimeLineInformationForm   |            !             |
-|           |          |         TTranspForm          |            !             |
-|           |          |         TTriggerForm         |            !             |
-|           |          |        TValuesDialog         |            !             |
+| 4047:2052 |    ✘     |        TDataFileForm         |            ✘             |
+| 4048:2052 |    ✘     |          TDataForm           |            ✘             |
+| 4049:2052 |    ✘     |          TEventForm          |            ✘             |
+| 4050:2052 |    ✘     |         TExportForm          |            ✘             |
+| 4051:2052 |    ✘     | TExtensionConstantProperties |            ✘             |
+| 4052:2052 |    ✘     |   TExtensionFileProperties   |            ✘             |
+| 4053:2052 |    ✘     |        TExtensionForm        |            ✘             |
+| 4054:2052 |    ✘     | TExtensionFunctionProperties |            ✘             |
+| 4055:2052 |    ✘     |    TExtensionLibraryForm     |            ✘             |
+| 4056:2052 |    ✘     |    TExtensionPackageHelp     |            ✘             |
+| 4057:2052 |    ✘     | TExtensionPackageProperties  |            ✘             |
+| 4058:2052 |    ✘     |       TExtInstallForm        |            ✘             |
+| 4059:2052 |    ✘     |          TFontForm           |            ✘             |
+| 4060:2052 |    ✘     |          TFontRange          |            ✘             |
+| 4061:2052 |    ✘     |          TGridForm           |            ✘             |
+| 4062:2052 |    ✘     |          THelpForm           |            ✘             |
+| 4063:2052 |    ✘     |       THelpOptionsForm       |            ✘             |
+| 4064:2052 |    ✘     |       TImageEditorForm       |            ✘             |
+| 4065:2052 |    ✘     |         TImagesForm          |            ✘             |
+| 4066:2052 |    ✘     |         TImportForm          |            ✘             |
+| 4067:2052 |    ✘     |   TImportOldVersionWarning   |            ✘             |
+| 4068:2052 |    ✘     |        TInstanceOrder        |            ✘             |
+| 4069:2052 |    ✘     |   TInstancePropertiesForm    |            ✘             |
+| 4070:2052 |    ✘     |          TKeyBinds           |            ✘             |
+| 4071:2052 |    ✘     |      TLicenseTargetForm      |            ✘             |
+| 4072:2052 |    ✘     |          TMainForm           |            ✘             |
+| 4073:2052 |    ✘     |      TMakerAccount2Step      |            ✘             |
+| 4074:2052 |    ✘     |     TMaker_ConfigCreate      |            ✘             |
+| 4075:2052 |    ✘     |     TMaker_ConfigManager     |            ✘             |
+| 4076:2052 |    ✘     |          TMaskForm           |            ✘             |
+| 4077:2052 |    ✘     |       TNewProjectForm        |            ✘             |
+| 4078:2052 |    ✘     |          TNewsForm           |            ✘             |
+| 4079:2052 |    ✘     |         TObjectForm          |            ✘             |
+| 4080:2052 |    ✘     |    TObjectInformationForm    |            ✘             |
+| 4081:2052 |    ✘     |     TObjectPhysicsShape      |            ✘             |
+| 4082:2052 |    ✘     |         TOptionForm          |            ✘             |
+| 4083:2052 |    ✘     |      TOptionStudioForm       |            ✘             |
+| 4084:2052 |    ✘     |         TPasswordDlg         |            ✘             |
+| 4085:2052 |    ✘     |          TPathForm           |            ✘             |
+| 4086:2052 |    ✘     |        TPlacementForm        |            ✘             |
+| 4087:2052 |    ✘     |       TPlayerBuildForm       |            ✘             |
+| 4088:2052 |    ✘     |       TPreferencesForm       |            ✘             |
+| 4089:2052 |    ✘     |        TProgressForm         |            ✘             |
+| 4090:2052 |    ✘     |        TResizeDialog         |            ✘             |
+| 4091:2052 |    ✘     |      TResourceIconForm       |            ✘             |
+| 4092:2052 |    ✘     |      TRoomControlsForm       |            ✘             |
+| 4093:2052 |    ✘     |          TRoomForm           |            ✘             |
+| 4094:2052 |    ✘     |      TRSSFeedProperties      |            ✘             |
+| 4095:2052 |    ✘     |         TSaveAsForm          |            ✘             |
+| 4096:2052 |    ✘     |       TSCM_ConfigForm        |            ✘             |
+|           |          |      TSCM_ConflictForm       |            ✘             |
+|           |          |         TSCM_History         |            ✘             |
+|           |          |       TSCM_StatusForm        |            ✘             |
+|           |          |         TScriptForm          |            ✘             |
+|           |          |       TScriptInfoForm        |            ✘             |
+|           |          |         TShaderForm          |            ✘             |
+|           |          |          TSoundForm          |            ✘             |
+|           |          |        TSourceControl        |            ✘             |
+|           |          |     TSpineAgreementForm      |            ✘             |
+|           |          |      TSpriteEditorForm       |            ✘             |
+|           |          |         TSpriteForm          |            ✘             |
+|           |          |       TStandAloneForm        |            ✘             |
+|           |          | TSteamWorkShopAgreementForm  |            ✘             |
+|           |          |      TSteamWorkShopForm      |            ✘             |
+|           |          |     TStorePropertiesForm     |            ✘             |
+|           |          |          TStripForm          |            ✘             |
+|           |          |      TStudioPreferences      |            ✘             |
+|           |          |        TSupportSearch        |            ✘             |
+|           |          |        TTimeLineForm         |            ✘             |
+|           |          |   TTimeLineInformationForm   |            ✘             |
+|           |          |         TTranspForm          |            ✘             |
+|           |          |         TTriggerForm         |            ✘             |
+|           |          |        TValuesDialog         |            ✘             |
