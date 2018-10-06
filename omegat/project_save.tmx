@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add RSS Feed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140346Z" creationid="LiarOnce" creationdate="20181006T140346Z">
+        <seg>添加 RSS 订阅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Applies to</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140249Z" creationid="LiarOnce" creationdate="20181006T140249Z">
@@ -32,8 +40,8 @@
       <tuv lang="EN-US">
         <seg>Apply action to object itself</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140232Z" creationid="LiarOnce" creationdate="20181006T140232Z">
-        <seg>将动作应用于其他实例</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140321Z" creationid="LiarOnce" creationdate="20181006T140232Z">
+        <seg>将动作应用于自身</seg>
       </tuv>
     </tu>
     <tu>
@@ -46,10 +54,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply action to particular object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140310Z" creationid="LiarOnce" creationdate="20181006T140310Z">
+        <seg>将动作应用于特定实例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Asset Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140425Z" creationid="LiarOnce" creationdate="20181006T140425Z">
+        <seg>资源名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Directions:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130508Z" creationid="deciia" creationdate="20181006T130409Z">
         <seg>方向：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Feed URL:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140352Z" creationid="LiarOnce" creationdate="20181006T140352Z">
+        <seg>订阅 URL:</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,10 +94,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Marketplace Beta</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140401Z" creationid="LiarOnce" creationdate="20181006T140401Z">
+        <seg>市场 Beta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modules:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130458Z" creationid="deciia" creationdate="20181006T130341Z">
         <seg>模块：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of Object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140331Z" creationid="LiarOnce" creationdate="20181006T140331Z">
+        <seg>对象名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +130,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140135Z" creationid="LiarOnce" creationdate="20181006T140135Z">
         <seg>对象:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140251Z" creationid="LiarOnce" creationdate="20181006T140251Z">
+        <seg>其它</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140407Z" creationid="LiarOnce" creationdate="20181006T140407Z">
+        <seg>刷新</seg>
       </tuv>
     </tu>
     <tu>
