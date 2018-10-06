@@ -12,6 +12,78 @@
         <seg>关于 Game Maker</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ActionForm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130404Z" creationid="deciia" creationdate="20181006T130404Z">
+        <seg>动作窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Directions:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130508Z" creationid="deciia" creationdate="20181006T130409Z">
+        <seg>方向：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key :</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130437Z" creationid="deciia" creationdate="20181006T130315Z">
+        <seg>密钥：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modules:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130458Z" creationid="deciia" creationdate="20181006T130341Z">
+        <seg>模块：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130349Z" creationid="deciia" creationdate="20181006T130349Z">
+        <seg>确认</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Registerd To :</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130448Z" creationid="deciia" creationdate="20181006T130323Z">
+        <seg>注册给：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Relative</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130531Z" creationid="deciia" creationdate="20181006T130531Z">
+        <seg>相对</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Speed:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130513Z" creationid="deciia" creationdate="20181006T130513Z">
+        <seg>速度：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version 8.1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130246Z" creationid="deciia" creationdate="20181006T130246Z">
+        <seg>版本 8.1</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
