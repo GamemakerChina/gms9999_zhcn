@@ -22,6 +22,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Applies to</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140249Z" creationid="LiarOnce" creationdate="20181006T140249Z">
+        <seg>应用到...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply action to object itself</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140232Z" creationid="LiarOnce" creationdate="20181006T140232Z">
+        <seg>将动作应用于其他实例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply action to other object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140152Z" creationid="LiarOnce" creationdate="20181006T140152Z">
+        <seg>将动作应用于其他实例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Directions:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130508Z" creationid="deciia" creationdate="20181006T130409Z">
@@ -50,6 +74,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130349Z" creationid="deciia" creationdate="20181006T130349Z">
         <seg>确认</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Object:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140135Z" creationid="LiarOnce" creationdate="20181006T140135Z">
+        <seg>对象:</seg>
       </tuv>
     </tu>
     <tu>
