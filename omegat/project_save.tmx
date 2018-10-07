@@ -118,10 +118,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change Transparency</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140332Z" creationid="LiarOnce" creationdate="20181007T140332Z">
+        <seg>修改透明度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click to change the color</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135038Z" creationid="LiarOnce" creationdate="20181007T135038Z">
         <seg>单击修改一个颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Action</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140344Z" creationid="LiarOnce" creationdate="20181007T140344Z">
+        <seg>代码</seg>
       </tuv>
     </tu>
     <tu>
@@ -206,6 +222,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kind:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140317Z" creationid="LiarOnce" creationdate="20181007T140317Z">
+        <seg>类型：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Load the code from a text file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140542Z" creationid="LiarOnce" creationdate="20181007T140542Z">
+        <seg>从一个文本文件中载入代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LoadBtn</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140523Z" creationid="LiarOnce" creationdate="20181007T140523Z">
+        <seg>载入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Marketplace Beta</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140401Z" creationid="LiarOnce" creationdate="20181006T140401Z">
@@ -234,6 +274,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130349Z" creationid="deciia" creationdate="20181006T130349Z">
         <seg>确认</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OK, Save changes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140403Z" creationid="LiarOnce" creationdate="20181007T140403Z">
+        <seg>确定，保存修改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OKBtn</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140349Z" creationid="LiarOnce" creationdate="20181007T140349Z">
+        <seg>确定</seg>
       </tuv>
     </tu>
     <tu>
@@ -298,6 +354,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135111Z" creationid="LiarOnce" creationdate="20181007T135103Z">
         <seg>删除此背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140320Z" creationid="LiarOnce" creationdate="20181007T140320Z">
+        <seg>替换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save the code to a text file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140606Z" creationid="LiarOnce" creationdate="20181007T140606Z">
+        <seg>将代码保存到一个文本文件中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SaveBtn</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140548Z" creationid="LiarOnce" creationdate="20181007T140548Z">
+        <seg>保存</seg>
       </tuv>
     </tu>
     <tu>
