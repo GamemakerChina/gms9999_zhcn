@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Applies To:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141134Z" creationid="LiarOnce" creationdate="20181007T141134Z">
+        <seg>应用到：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Applies to</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140249Z" creationid="LiarOnce" creationdate="20181006T140249Z">
@@ -118,10 +126,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Case sensitive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141121Z" creationid="LiarOnce" creationdate="20181007T141121Z">
+        <seg>区分大小写</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change Transparency</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140332Z" creationid="LiarOnce" creationdate="20181007T140332Z">
         <seg>修改透明度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check the script for syntax errors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140944Z" creationid="LiarOnce" creationdate="20181007T140944Z">
+        <seg>检查脚本内的语法错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CheckBtn</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140924Z" creationid="LiarOnce" creationdate="20181007T140924Z">
+        <seg>检查</seg>
       </tuv>
     </tu>
     <tu>
@@ -138,6 +170,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140344Z" creationid="LiarOnce" creationdate="20181007T140344Z">
         <seg>代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Completion Button</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140956Z" creationid="LiarOnce" creationdate="20181007T140956Z">
+        <seg>代码补全</seg>
       </tuv>
     </tu>
     <tu>
@@ -198,10 +238,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enable code completion help.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141004Z" creationid="LiarOnce" creationdate="20181007T141004Z">
+        <seg>启用代码自动补全帮助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Feed URL:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140352Z" creationid="LiarOnce" creationdate="20181006T140352Z">
         <seg>订阅 URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141027Z" creationid="LiarOnce" creationdate="20181007T141027Z">
+        <seg>查找</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,10 +270,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141107Z" creationid="LiarOnce" creationdate="20181007T141107Z">
+        <seg>第一个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Halve</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134954Z" creationid="LiarOnce" creationdate="20181007T134954Z">
         <seg>减半</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HelpBtn</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141009Z" creationid="LiarOnce" creationdate="20181007T141009Z">
+        <seg>帮助</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Last</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141114Z" creationid="LiarOnce" creationdate="20181007T141114Z">
+        <seg>最后一个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Load the code from a text file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140542Z" creationid="LiarOnce" creationdate="20181007T140542Z">
@@ -274,6 +354,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140401Z" creationid="LiarOnce" creationdate="20181006T140401Z">
         <seg>市场 Beta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message for commit:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141141Z" creationid="LiarOnce" creationdate="20181007T141141Z">
+        <seg>提交的消息：</seg>
       </tuv>
     </tu>
     <tu>
@@ -354,6 +442,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134922Z" creationid="LiarOnce" creationdate="20181007T134922Z">
         <seg>百分比:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141034Z" creationid="LiarOnce" creationdate="20181007T141034Z">
+        <seg>上一个</seg>
       </tuv>
     </tu>
     <tu>
@@ -462,10 +558,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show the help file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141022Z" creationid="LiarOnce" creationdate="20181007T141022Z">
+        <seg>显示帮助文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Soft shadow</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135618Z" creationid="LiarOnce" creationdate="20181007T135618Z">
         <seg>柔体阴影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source Control Commit Message</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141205Z" creationid="LiarOnce" creationdate="20181007T141205Z">
+        <seg>源码控制提交消息</seg>
       </tuv>
     </tu>
     <tu>
@@ -506,6 +618,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135349Z" creationid="LiarOnce" creationdate="20181007T135349Z">
         <seg>垂直：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whole word only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141118Z" creationid="LiarOnce" creationdate="20181007T141118Z">
+        <seg>全词匹配</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
