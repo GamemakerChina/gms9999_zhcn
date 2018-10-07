@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Change</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142455Z" creationid="LiarOnce" creationdate="20181007T142455Z">
+        <seg>&amp;修改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Clear</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142126Z" creationid="LiarOnce" creationdate="20181007T142126Z">
@@ -34,6 +42,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142118Z" creationid="LiarOnce" creationdate="20181007T142118Z">
         <seg>&amp;删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Destroy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142519Z" creationid="LiarOnce" creationdate="20181007T142519Z">
+        <seg>&amp;销毁</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,10 +270,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>C&amp;lear</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142444Z" creationid="LiarOnce" creationdate="20181007T142444Z">
+        <seg>清除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C&amp;reate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142510Z" creationid="LiarOnce" creationdate="20181007T142510Z">
+        <seg>创建</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ca&amp;ncel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142500Z" creationid="LiarOnce" creationdate="20181007T142500Z">
+        <seg>取消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel Download</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141536Z" creationid="LiarOnce" creationdate="20181007T141536Z">
         <seg>取消下载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel all changes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142241Z" creationid="LiarOnce" creationdate="20181007T142241Z">
+        <seg>取消所有更改</seg>
       </tuv>
     </tu>
     <tu>
@@ -358,6 +406,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Confirm changes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142230Z" creationid="LiarOnce" creationdate="20181007T142230Z">
+        <seg>确认更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copies To :</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142340Z" creationid="LiarOnce" creationdate="20181007T142340Z">
+        <seg>拷贝到:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copy the selected text to the clipboard</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140701Z" creationid="LiarOnce" creationdate="20181007T140701Z">
@@ -394,6 +458,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141530Z" creationid="LiarOnce" creationdate="20181007T141530Z">
         <seg>删除本地内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deselect All Platforms</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142429Z" creationid="LiarOnce" creationdate="20181007T142429Z">
+        <seg>反选所有平台</seg>
       </tuv>
     </tu>
     <tu>
@@ -450,6 +522,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140352Z" creationid="LiarOnce" creationdate="20181006T140352Z">
         <seg>订阅 URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File &amp;Name:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142325Z" creationid="LiarOnce" creationdate="20181007T142325Z">
+        <seg>文件&amp;名：</seg>
       </tuv>
     </tu>
     <tu>
@@ -534,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Included File Properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142313Z" creationid="LiarOnce" creationdate="20181007T142313Z">
+        <seg>内含文件属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Key :</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141327Z" creationid="deciia" creationdate="20181006T130315Z">
@@ -570,6 +658,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140542Z" creationid="LiarOnce" creationdate="20181007T140542Z">
         <seg>从一个文本文件中载入代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Load the resource data from a file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142354Z" creationid="LiarOnce" creationdate="20181007T142354Z">
+        <seg>从文件中载入资源</seg>
       </tuv>
     </tu>
     <tu>
@@ -682,6 +778,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135334Z" creationid="LiarOnce" creationdate="20181007T135334Z">
         <seg>透明度：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Original File:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142335Z" creationid="LiarOnce" creationdate="20181007T142335Z">
+        <seg>原文件:</seg>
       </tuv>
     </tu>
     <tu>
@@ -806,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sa&amp;ve</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142221Z" creationid="LiarOnce" creationdate="20181007T142221Z">
+        <seg>&amp;保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save the code to a text file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140606Z" creationid="LiarOnce" creationdate="20181007T140606Z">
@@ -826,6 +938,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140918Z" creationid="LiarOnce" creationdate="20181007T140918Z">
         <seg>搜索字符串</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select All Platforms</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142419Z" creationid="LiarOnce" creationdate="20181007T142419Z">
+        <seg>选择所有平台</seg>
       </tuv>
     </tu>
     <tu>
