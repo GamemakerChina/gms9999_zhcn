@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Angle:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134652Z" creationid="LiarOnce" creationdate="20181007T134652Z">
+        <seg>角度：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Applies to</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140249Z" creationid="LiarOnce" creationdate="20181006T140249Z">
@@ -66,6 +74,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140425Z" creationid="LiarOnce" creationdate="20181006T140425Z">
         <seg>资源名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blur Colors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134746Z" creationid="LiarOnce" creationdate="20181007T134746Z">
+        <seg>模糊颜色</seg>
       </tuv>
     </tu>
     <tu>
