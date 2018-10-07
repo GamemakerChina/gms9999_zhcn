@@ -166,6 +166,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copy the selected text to the clipboard</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140701Z" creationid="LiarOnce" creationdate="20181007T140701Z">
+        <seg>将所选文本复制到剪贴板上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cut the selected text to the clipboard</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140659Z" creationid="LiarOnce" creationdate="20181007T140659Z">
+        <seg>将所选文本剪切到剪贴板上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Directions:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130508Z" creationid="deciia" creationdate="20181006T130409Z">
@@ -186,6 +202,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140352Z" creationid="LiarOnce" creationdate="20181006T140352Z">
         <seg>订阅 URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FindBtn</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140908Z" creationid="LiarOnce" creationdate="20181007T140908Z">
+        <seg>搜索</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,10 +342,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Paste the text from the clipboard</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140903Z" creationid="LiarOnce" creationdate="20181007T140903Z">
+        <seg>从剪贴板粘贴文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Percentage:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134922Z" creationid="LiarOnce" creationdate="20181007T134922Z">
         <seg>百分比:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140611Z" creationid="LiarOnce" creationdate="20181007T140611Z">
+        <seg>打印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print the code</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140619Z" creationid="LiarOnce" creationdate="20181007T140619Z">
+        <seg>打印代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RedoBtn</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140646Z" creationid="LiarOnce" creationdate="20181007T140646Z">
+        <seg>重做</seg>
       </tuv>
     </tu>
     <tu>
@@ -382,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search for a string</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140918Z" creationid="LiarOnce" creationdate="20181007T140918Z">
+        <seg>搜索字符串</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sharpen Colors</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135924Z" creationid="LiarOnce" creationdate="20181007T135924Z">
@@ -410,6 +474,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130513Z" creationid="deciia" creationdate="20181006T130513Z">
         <seg>速度：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undo the last change</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140635Z" creationid="LiarOnce" creationdate="20181007T140635Z">
+        <seg>撤销最后一次修改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UndoBtn</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140623Z" creationid="LiarOnce" creationdate="20181007T140623Z">
+        <seg>撤销</seg>
       </tuv>
     </tu>
     <tu>
