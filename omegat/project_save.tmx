@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Soft shadow</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135618Z" creationid="LiarOnce" creationdate="20181007T135618Z">
+        <seg>柔体阴影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Speed:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130513Z" creationid="deciia" creationdate="20181006T130513Z">
