@@ -6,10 +6,42 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Cancel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141658Z" creationid="LiarOnce" creationdate="20181007T141658Z">
+        <seg>&amp;取消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Edit Background</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141729Z" creationid="LiarOnce" creationdate="20181007T141729Z">
+        <seg>&amp;修改背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Load Background</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141714Z" creationid="LiarOnce" creationdate="20181007T141714Z">
+        <seg>&amp;载入背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Name:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141349Z" creationid="LiarOnce" creationdate="20181007T141349Z">
         <seg>&amp;名称:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;OK</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141652Z" creationid="LiarOnce" creationdate="20181007T141652Z">
+        <seg>&amp;确定</seg>
       </tuv>
     </tu>
     <tu>
@@ -126,10 +158,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto Login on Startup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141625Z" creationid="LiarOnce" creationdate="20181007T141625Z">
+        <seg>启动时自动登录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Awaiting Download</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141440Z" creationid="LiarOnce" creationdate="20181007T141440Z">
         <seg>等待下载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Background Properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141706Z" creationid="LiarOnce" creationdate="20181007T141706Z">
+        <seg>背景属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create a new account...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141601Z" creationid="LiarOnce" creationdate="20181007T141601Z">
+        <seg>新建一个账户...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cut the selected text to the clipboard</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140659Z" creationid="LiarOnce" creationdate="20181007T140659Z">
@@ -278,10 +334,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don't have a Marketplace account?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141611Z" creationid="LiarOnce" creationdate="20181007T141611Z">
+        <seg>没有市场账号?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Double</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135012Z" creationid="LiarOnce" creationdate="20181007T135012Z">
         <seg>双倍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit the background image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141737Z" creationid="LiarOnce" creationdate="20181007T141737Z">
+        <seg>修改背景图片</seg>
       </tuv>
     </tu>
     <tu>
@@ -342,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Forgot?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141615Z" creationid="LiarOnce" creationdate="20181007T141615Z">
+        <seg>忘记?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Halve</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134954Z" creationid="LiarOnce" creationdate="20181007T134954Z">
@@ -398,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Load the background from a file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141723Z" creationid="LiarOnce" creationdate="20181007T141723Z">
+        <seg>从文件中载入背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Load the code from a text file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140542Z" creationid="LiarOnce" creationdate="20181007T140542Z">
@@ -418,6 +506,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140401Z" creationid="LiarOnce" creationdate="20181006T140401Z">
         <seg>市场 Beta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marketplace Beta Login</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141549Z" creationid="LiarOnce" creationdate="20181007T141549Z">
+        <seg>市场 Beta 登录</seg>
       </tuv>
     </tu>
     <tu>
@@ -730,6 +826,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141429Z" creationid="LiarOnce" creationdate="20181007T141429Z">
         <seg>当前你的库的筛选器中没有任何资产。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to Audio Group:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141642Z" creationid="LiarOnce" creationdate="20181007T141642Z">
+        <seg>到音频组:</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
