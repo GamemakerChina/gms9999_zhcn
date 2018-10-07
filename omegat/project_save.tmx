@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add/Modify Triggers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143200Z" creationid="LiarOnce" creationdate="20181007T143200Z">
+        <seg>添加 / 修改触发器s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alarm Event</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142536Z" creationid="LiarOnce" creationdate="20181007T142536Z">
@@ -630,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit Extension Macros</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143329Z" creationid="LiarOnce" creationdate="20181007T143329Z">
+        <seg>编辑扩展常量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit the background image</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141737Z" creationid="LiarOnce" creationdate="20181007T141737Z">
@@ -642,6 +658,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141004Z" creationid="LiarOnce" creationdate="20181007T141004Z">
         <seg>启用代码自动补全帮助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exporting Resources</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143214Z" creationid="LiarOnce" creationdate="20181007T143214Z">
+        <seg>导出资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extension Packages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143258Z" creationid="LiarOnce" creationdate="20181007T143258Z">
+        <seg>扩展包</seg>
       </tuv>
     </tu>
     <tu>
@@ -666,6 +698,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141510Z" creationid="LiarOnce" creationdate="20181007T141510Z">
         <seg>文件大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143345Z" creationid="LiarOnce" creationdate="20181007T143345Z">
+        <seg>文件名</seg>
       </tuv>
     </tu>
     <tu>
@@ -714,6 +754,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143055Z" creationid="LiarOnce" creationdate="20181007T143055Z">
         <seg>功能键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Game Information</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143316Z" creationid="LiarOnce" creationdate="20181007T143316Z">
+        <seg>游戏信息</seg>
       </tuv>
     </tu>
     <tu>
@@ -850,6 +898,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143102Z" creationid="LiarOnce" creationdate="20181007T143102Z">
         <seg>加载图片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Include Files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143246Z" creationid="LiarOnce" creationdate="20181007T143246Z">
+        <seg>内含文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -1094,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Name :</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143342Z" creationid="LiarOnce" creationdate="20181007T143342Z">
+        <seg>名称:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Name of Object</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140331Z" creationid="LiarOnce" creationdate="20181006T140331Z">
@@ -1326,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resources to Export</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143224Z" creationid="LiarOnce" creationdate="20181007T143224Z">
+        <seg>要导出的资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Revert</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142042Z" creationid="LiarOnce" creationdate="20181007T142042Z">
@@ -1422,6 +1494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select None</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143233Z" creationid="LiarOnce" creationdate="20181007T143233Z">
+        <seg>全不选Select None</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sharpen Colors</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135924Z" creationid="LiarOnce" creationdate="20181007T135924Z">
@@ -1474,6 +1554,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142018Z" creationid="LiarOnce" creationdate="20181007T142018Z">
         <seg>状态:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System Event</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143142Z" creationid="LiarOnce" creationdate="20181007T143142Z">
+        <seg>系统事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time Lines</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143243Z" creationid="LiarOnce" creationdate="20181007T143243Z">
+        <seg>时间线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trigger Events</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143307Z" creationid="LiarOnce" creationdate="20181007T143307Z">
+        <seg>触发器事件</seg>
       </tuv>
     </tu>
     <tu>
