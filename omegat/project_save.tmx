@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Name:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141349Z" creationid="LiarOnce" creationdate="20181007T141349Z">
+        <seg>&amp;名称:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>180 degrees</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134859Z" creationid="LiarOnce" creationdate="20181007T134859Z">
@@ -50,6 +58,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140346Z" creationid="LiarOnce" creationdate="20181006T140346Z">
         <seg>添加 RSS 订阅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add to Project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141524Z" creationid="LiarOnce" creationdate="20181007T141524Z">
+        <seg>添加到项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -110,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Awaiting Download</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141440Z" creationid="LiarOnce" creationdate="20181007T141440Z">
+        <seg>等待下载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blur Colors</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134746Z" creationid="LiarOnce" creationdate="20181007T134746Z">
@@ -122,6 +146,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134839Z" creationid="LiarOnce" creationdate="20181007T134839Z">
         <seg>模糊透明度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel Download</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141536Z" creationid="LiarOnce" creationdate="20181007T141536Z">
+        <seg>取消下载</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create New Asset Package</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141517Z" creationid="LiarOnce" creationdate="20181007T141517Z">
+        <seg>新建资源包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cut the selected text to the clipboard</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140659Z" creationid="LiarOnce" creationdate="20181007T140659Z">
@@ -222,10 +262,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete Local Content</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141530Z" creationid="LiarOnce" creationdate="20181007T141530Z">
+        <seg>删除本地内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Directions:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130508Z" creationid="deciia" creationdate="20181006T130409Z">
-        <seg>方向：</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141303Z" creationid="deciia" creationdate="20181006T130409Z">
+        <seg>方向:</seg>
       </tuv>
     </tu>
     <tu>
@@ -250,6 +298,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140352Z" creationid="LiarOnce" creationdate="20181006T140352Z">
         <seg>订阅 URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141510Z" creationid="LiarOnce" creationdate="20181007T141510Z">
+        <seg>文件大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filename:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141257Z" creationid="LiarOnce" creationdate="20181007T141257Z">
+        <seg>文件名:</seg>
       </tuv>
     </tu>
     <tu>
@@ -312,8 +376,8 @@
       <tuv lang="EN-US">
         <seg>Key :</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130437Z" creationid="deciia" creationdate="20181006T130315Z">
-        <seg>密钥：</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141327Z" creationid="deciia" creationdate="20181006T130315Z">
+        <seg>密钥:</seg>
       </tuv>
     </tu>
     <tu>
@@ -368,8 +432,16 @@
       <tuv lang="EN-US">
         <seg>Modules:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130458Z" creationid="deciia" creationdate="20181006T130341Z">
-        <seg>模块：</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141314Z" creationid="deciia" creationdate="20181006T130341Z">
+        <seg>模块:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141352Z" creationid="LiarOnce" creationdate="20181007T141352Z">
+        <seg>非</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,6 +450,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140331Z" creationid="LiarOnce" creationdate="20181006T140331Z">
         <seg>对象名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Filter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141449Z" creationid="LiarOnce" creationdate="20181007T141449Z">
+        <seg>无过滤</seg>
       </tuv>
     </tu>
     <tu>
@@ -426,6 +506,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140251Z" creationid="LiarOnce" creationdate="20181006T140251Z">
         <seg>其它</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Package ID</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141504Z" creationid="LiarOnce" creationdate="20181007T141504Z">
+        <seg>包 ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Package Manager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141500Z" creationid="LiarOnce" creationdate="20181007T141500Z">
+        <seg>包管理器</seg>
       </tuv>
     </tu>
     <tu>
@@ -488,8 +584,8 @@
       <tuv lang="EN-US">
         <seg>Registerd To :</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130448Z" creationid="deciia" creationdate="20181006T130323Z">
-        <seg>注册给：</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141322Z" creationid="deciia" creationdate="20181006T130323Z">
+        <seg>注册给:</seg>
       </tuv>
     </tu>
     <tu>
@@ -584,8 +680,8 @@
       <tuv lang="EN-US">
         <seg>Speed:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130513Z" creationid="deciia" creationdate="20181006T130513Z">
-        <seg>速度：</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141307Z" creationid="deciia" creationdate="20181006T130513Z">
+        <seg>速度:</seg>
       </tuv>
     </tu>
     <tu>
@@ -626,6 +722,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141118Z" creationid="LiarOnce" creationdate="20181007T141118Z">
         <seg>全词匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You do not currently have any assets in your Library with this filter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141429Z" creationid="LiarOnce" creationdate="20181007T141429Z">
+        <seg>当前你的库的筛选器中没有任何资产。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
