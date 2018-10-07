@@ -126,6 +126,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color1:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135941Z" creationid="LiarOnce" creationdate="20181007T135941Z">
+        <seg>颜色1:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color2:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135948Z" creationid="LiarOnce" creationdate="20181007T135948Z">
+        <seg>颜色2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135025Z" creationid="LiarOnce" creationdate="20181007T135025Z">
@@ -282,6 +298,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135111Z" creationid="LiarOnce" creationdate="20181007T135103Z">
         <seg>删除此背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sharpen Colors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135924Z" creationid="LiarOnce" creationdate="20181007T135924Z">
+        <seg>锐化颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sharpen Transparency</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135935Z" creationid="LiarOnce" creationdate="20181007T135935Z">
+        <seg>锐化透明度</seg>
       </tuv>
     </tu>
     <tu>
