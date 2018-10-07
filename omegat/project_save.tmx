@@ -6,6 +6,30 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>180 degrees</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134859Z" creationid="LiarOnce" creationdate="20181007T134859Z">
+        <seg>180 度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>270 degrees</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134906Z" creationid="LiarOnce" creationdate="20181007T134906Z">
+        <seg>270 度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>90 degrees</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134854Z" creationid="LiarOnce" creationdate="20181007T134854Z">
+        <seg>90 度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>About Game Maker</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T052853Z" creationid="LiarOnce" creationdate="20181006T052853Z">
@@ -86,6 +110,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blur Transparency</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134839Z" creationid="LiarOnce" creationdate="20181007T134839Z">
+        <seg>模糊透明度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to change the color</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135038Z" creationid="LiarOnce" creationdate="20181007T135038Z">
+        <seg>单击修改一个颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135025Z" creationid="LiarOnce" creationdate="20181007T135025Z">
+        <seg>颜色：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Directions:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130508Z" creationid="deciia" creationdate="20181006T130409Z">
@@ -94,10 +142,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Double</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135012Z" creationid="LiarOnce" creationdate="20181007T135012Z">
+        <seg>双倍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Feed URL:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140352Z" creationid="LiarOnce" creationdate="20181006T140352Z">
         <seg>订阅 URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Halve</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134954Z" creationid="LiarOnce" creationdate="20181007T134954Z">
+        <seg>减半</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horizontal</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134927Z" creationid="LiarOnce" creationdate="20181007T134927Z">
+        <seg>水平</seg>
       </tuv>
     </tu>
     <tu>
@@ -154,6 +226,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140251Z" creationid="LiarOnce" creationdate="20181006T140251Z">
         <seg>其它</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Percentage:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134922Z" creationid="LiarOnce" creationdate="20181007T134922Z">
+        <seg>百分比:</seg>
       </tuv>
     </tu>
     <tu>
