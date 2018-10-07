@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Asynchronous</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142640Z" creationid="LiarOnce" creationdate="20181007T142640Z">
+        <seg>异步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141658Z" creationid="LiarOnce" creationdate="20181007T141658Z">
@@ -70,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Keyboard</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142603Z" creationid="LiarOnce" creationdate="20181007T142603Z">
+        <seg>&amp;键盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Load</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142210Z" creationid="LiarOnce" creationdate="20181007T142210Z">
@@ -82,6 +98,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141714Z" creationid="LiarOnce" creationdate="20181007T141714Z">
         <seg>&amp;载入背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Mouse</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142612Z" creationid="LiarOnce" creationdate="20181007T142612Z">
+        <seg>鼠标</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,6 +130,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142138Z" creationid="LiarOnce" creationdate="20181007T142138Z">
         <seg>&amp;分类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Step</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142539Z" creationid="LiarOnce" creationdate="20181007T142539Z">
+        <seg>步</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A&amp;larm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142533Z" creationid="LiarOnce" creationdate="20181007T142526Z">
+        <seg>计时器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>About Game Maker</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T052853Z" creationid="LiarOnce" creationdate="20181006T052853Z">
@@ -170,6 +210,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141524Z" creationid="LiarOnce" creationdate="20181007T141524Z">
         <seg>添加到项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alarm Event</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142536Z" creationid="LiarOnce" creationdate="20181007T142536Z">
+        <seg>计时器事件</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Asynchronous Event</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142643Z" creationid="LiarOnce" creationdate="20181007T142643Z">
+        <seg>异步事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto Login on Startup</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141625Z" creationid="LiarOnce" creationdate="20181007T141625Z">
@@ -274,6 +330,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142444Z" creationid="LiarOnce" creationdate="20181007T142444Z">
         <seg>清除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C&amp;ollision</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142556Z" creationid="LiarOnce" creationdate="20181007T142556Z">
+        <seg>碰撞</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,6 +566,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dr&amp;aw</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142636Z" creationid="LiarOnce" creationdate="20181007T142636Z">
+        <seg>绘制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw Event</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142746Z" creationid="LiarOnce" creationdate="20181007T142746Z">
+        <seg>绘制事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit the background image</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141737Z" creationid="LiarOnce" creationdate="20181007T141737Z">
@@ -622,10 +702,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ke&amp;y Release</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142742Z" creationid="LiarOnce" creationdate="20181007T142742Z">
+        <seg>释放键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key &amp;Press</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142706Z" creationid="LiarOnce" creationdate="20181007T142647Z">
+        <seg>按下键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Key :</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141327Z" creationid="deciia" creationdate="20181006T130315Z">
         <seg>密钥:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key Press Event</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142701Z" creationid="LiarOnce" creationdate="20181007T142701Z">
+        <seg>按下键事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key Release Event</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142724Z" creationid="LiarOnce" creationdate="20181007T142724Z">
+        <seg>释放键事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keyboard Event</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142608Z" creationid="LiarOnce" creationdate="20181007T142608Z">
+        <seg>键盘事件</seg>
       </tuv>
     </tu>
     <tu>
@@ -642,6 +762,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141114Z" creationid="LiarOnce" creationdate="20181007T141114Z">
         <seg>最后一个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left button</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142757Z" creationid="LiarOnce" creationdate="20181007T142757Z">
+        <seg>左键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left pressed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142813Z" creationid="LiarOnce" creationdate="20181007T142813Z">
+        <seg>左键按下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left released</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142820Z" creationid="LiarOnce" creationdate="20181007T142820Z">
+        <seg>左键放开</seg>
       </tuv>
     </tu>
     <tu>
@@ -702,10 +846,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Middle button</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142807Z" creationid="LiarOnce" creationdate="20181007T142807Z">
+        <seg>中键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Middle pressed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142818Z" creationid="LiarOnce" creationdate="20181007T142818Z">
+        <seg>中键按下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modules:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141314Z" creationid="deciia" creationdate="20181006T130341Z">
         <seg>模块:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mouse Event</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142614Z" creationid="LiarOnce" creationdate="20181007T142614Z">
+        <seg>鼠标事件</seg>
       </tuv>
     </tu>
     <tu>
@@ -738,6 +906,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141449Z" creationid="LiarOnce" creationdate="20181007T141449Z">
         <seg>无过滤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No button</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142811Z" creationid="LiarOnce" creationdate="20181007T142811Z">
+        <seg>无鼠标键</seg>
       </tuv>
     </tu>
     <tu>
@@ -790,10 +966,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ot&amp;her</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142619Z" creationid="LiarOnce" creationdate="20181007T142619Z">
+        <seg>其他</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140251Z" creationid="LiarOnce" creationdate="20181006T140251Z">
         <seg>其它</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other Event</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142630Z" creationid="LiarOnce" creationdate="20181007T142630Z">
+        <seg>其他事件</seg>
       </tuv>
     </tu>
     <tu>
@@ -906,6 +1098,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142042Z" creationid="LiarOnce" creationdate="20181007T142042Z">
         <seg>还原</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right button</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142802Z" creationid="LiarOnce" creationdate="20181007T142802Z">
+        <seg>右键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right pressed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142815Z" creationid="LiarOnce" creationdate="20181007T142815Z">
+        <seg>右键按下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right released</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142821Z" creationid="LiarOnce" creationdate="20181007T142821Z">
+        <seg>右键放开</seg>
       </tuv>
     </tu>
     <tu>
