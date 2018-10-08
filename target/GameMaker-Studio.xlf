@@ -22,19 +22,19 @@
           </trans-unit>
           <trans-unit id="Key_Black.Caption">
             <source>Key  :</source>
-            <target>密钥：</target>
+            <target>密钥:</target>
           </trans-unit>
           <trans-unit id="Key_White.Caption">
             <source>Key  :</source>
-            <target>密钥：</target>
+            <target>密钥:</target>
           </trans-unit>
           <trans-unit id="RegisteredTo_Black.Caption">
             <source>Registerd To :</source>
-            <target>注册给：</target>
+            <target>注册给:</target>
           </trans-unit>
           <trans-unit id="RegisteredTo_White.Caption">
             <source>Registerd To :</source>
-            <target>注册给：</target>
+            <target>注册给:</target>
           </trans-unit>
           <trans-unit id="CopyrightLabel.Caption">
             <source>Copyright © 1999-2015 YoYoGames Ltd</source>
@@ -46,11 +46,11 @@
           </trans-unit>
           <trans-unit id="Label2.Caption">
             <source>Modules:</source>
-            <target>模块：</target>
+            <target>模块:</target>
           </trans-unit>
           <trans-unit id="Modules_White.Caption">
             <source>Modules:</source>
-            <target>模块：</target>
+            <target>模块:</target>
           </trans-unit>
           <trans-unit id="Button1.Caption">
             <source>OK</source>
@@ -64,15 +64,15 @@
           </trans-unit>
           <trans-unit id="MotionBox.MotionText.Caption">
             <source>Directions:</source>
-            <target>方向：</target>
+            <target>方向:</target>
           </trans-unit>
           <trans-unit id="MotionBox.StaticText1.Caption">
             <source>Speed:</source>
-            <target>速度：</target>
+            <target>速度:</target>
           </trans-unit>
           <trans-unit id="MotionBox.Relative2Btn.Caption">
             <source>Relative</source>
-            <target>相对        </target>
+            <target>相对</target>
           </trans-unit>
           <trans-unit id="MotionBox.Relative2Btn.Hint">
             <source>Values are relative to current values</source>
@@ -112,7 +112,7 @@
           </trans-unit>
           <trans-unit id="ValueBox.RelativeBtn.Caption">
             <source>Relative</source>
-            <target>相对        </target>
+            <target>相对</target>
           </trans-unit>
           <trans-unit id="ValueBox.RelativeBtn.Hint">
             <source>Values are relative to current values</source>
@@ -120,7 +120,7 @@
           </trans-unit>
           <trans-unit id="ValueBox.NotBtn.Caption">
             <source>NOT</source>
-            <target>NOT</target>
+            <target>非</target>
           </trans-unit>
           <trans-unit id="ValueBox.NotBtn.Hint">
             <source>Reverse the result of the question</source>
@@ -132,7 +132,7 @@
           </trans-unit>
           <trans-unit id="WhoBox.Caption">
             <source> Applies to </source>
-            <target> Applies to </target>
+            <target>应用到...</target>
           </trans-unit>
           <trans-unit id="WhoBox.WhoSelf.Caption">
             <source>Self</source>
@@ -140,37 +140,37 @@
           </trans-unit>
           <trans-unit id="WhoBox.WhoSelf.Hint">
             <source>Apply action to object itself</source>
-            <target>Apply action to object itself</target>
+            <target>将动作应用于自身</target>
           </trans-unit>
           <trans-unit id="WhoBox.WhoOther.Caption">
             <source>Other</source>
-            <target>Other</target>
+            <target>其它</target>
           </trans-unit>
           <trans-unit id="WhoBox.WhoOther.Hint">
             <source>Apply action to other object</source>
-            <target>Apply action to other object</target>
+            <target>将动作应用于其他实例</target>
           </trans-unit>
           <trans-unit id="WhoBox.WhoObject.Caption">
             <source>Object:</source>
-            <target>Object:</target>
+            <target>对象:</target>
           </trans-unit>
           <trans-unit id="WhoBox.WhoObject.Hint">
             <source>Apply action to particular object</source>
-            <target>Apply action to particular object</target>
+            <target>将动作应用于特定实例</target>
           </trans-unit>
           <trans-unit id="WhoBox.WhoName.Hint">
             <source>Name of Object</source>
-            <target>Name of Object</target>
+            <target>对象名称</target>
           </trans-unit>
         </group>
         <group id="TADDRSSFEEDFORM" datatype="form">
           <trans-unit id="Caption">
             <source>Add RSS Feed</source>
-            <target>Add RSS Feed</target>
+            <target>添加 RSS 订阅</target>
           </trans-unit>
           <trans-unit id="Label1.Caption">
             <source>Feed URL:</source>
-            <target>Feed URL:</target>
+            <target>订阅 URL:</target>
           </trans-unit>
           <trans-unit id="OK.Caption">
             <source>OK</source>
@@ -190,7 +190,7 @@
         <group id="TASSETSTOREFORM" datatype="form">
           <trans-unit id="Caption">
             <source>Marketplace Beta</source>
-            <target>Marketplace Beta</target>
+            <target>市场 Beta</target>
           </trans-unit>
           <trans-unit id="PageControl1.AssetStoreTab.Caption">
             <source>Marketplace</source>
@@ -214,7 +214,7 @@
           </trans-unit>
           <trans-unit id="PageControl1.AssetStoreTab.ToolBar1.RefreshButton.Caption">
             <source>Refresh</source>
-            <target>Refresh</target>
+            <target>刷新</target>
           </trans-unit>
           <trans-unit id="PageControl1.LibraryTab.Caption">
             <source>My Library</source>
@@ -222,7 +222,7 @@
           </trans-unit>
           <trans-unit id="PageControl1.LibraryTab.Panel1.AssetNameLabel.Caption">
             <source>Asset Name</source>
-            <target>Asset Name</target>
+            <target>资源名称</target>
           </trans-unit>
           <trans-unit id="PageControl1.LibraryTab.Panel1.StatusLabel.Caption">
             <source>Status</source>
@@ -246,11 +246,11 @@
           </trans-unit>
           <trans-unit id="PageControl1.LibraryTab.Panel1.NoAssetsButton.Caption">
             <source>You do not currently have any assets in your Library with this filter. Click to visit the Marketplace and browse assets.</source>
-            <target>You do not currently have any assets in your Library with this filter. Click to visit the Marketplace and browse assets.</target>
+            <target>当前你的库的筛选器中没有任何资产。Click to visit the Marketplace and browse assets.</target>
           </trans-unit>
           <trans-unit id="PageControl1.LibraryTab.Panel1.StatusFilter.Items.Strings.Awaiting Download">
             <source>Awaiting Download</source>
-            <target>Awaiting Download</target>
+            <target>等待下载</target>
           </trans-unit>
           <trans-unit id="PageControl1.LibraryTab.Panel1.StatusFilter.Items.Strings.Downloaded">
             <source>Downloaded</source>
@@ -258,11 +258,11 @@
           </trans-unit>
           <trans-unit id="PageControl1.LibraryTab.Panel1.StatusFilter.Items.Strings.No Filter">
             <source>No Filter</source>
-            <target>No Filter</target>
+            <target>无过滤</target>
           </trans-unit>
           <trans-unit id="PageControl1.PublishTab.Caption">
             <source>Package Manager</source>
-            <target>Package Manager</target>
+            <target>包管理器</target>
           </trans-unit>
           <trans-unit id="PageControl1.PublishTab.UploadPanel.Label3.Caption">
             <source>Version</source>
@@ -270,15 +270,15 @@
           </trans-unit>
           <trans-unit id="PageControl1.PublishTab.UploadPanel.Label4.Caption">
             <source>Package ID</source>
-            <target>Package ID</target>
+            <target>包 ID</target>
           </trans-unit>
           <trans-unit id="PageControl1.PublishTab.UploadPanel.Label1.Caption">
             <source>Asset Name</source>
-            <target>Asset Name</target>
+            <target>资源名称</target>
           </trans-unit>
           <trans-unit id="PageControl1.PublishTab.UploadPanel.Label2.Caption">
             <source>File Size</source>
-            <target>File Size</target>
+            <target>文件大小</target>
           </trans-unit>
           <trans-unit id="PageControl1.PublishTab.UploadPanel.UploadListEditor.Strings.Strings.asd=123">
             <source>asd=123</source>
@@ -290,15 +290,15 @@
           </trans-unit>
           <trans-unit id="PageControl1.PublishTab.UploadPanel.UploadListEditor.TitleCaptions.Strings.Package ID">
             <source>Package ID</source>
-            <target>Package ID</target>
+            <target>包 ID</target>
           </trans-unit>
           <trans-unit id="PageControl1.PublishTab.UploadPanel.CreateRouteButton.Caption">
             <source>Create New Asset Package</source>
-            <target>Create New Asset Package</target>
+            <target>新建资源包</target>
           </trans-unit>
           <trans-unit id="PopupMenu1.AddtoProject1.Caption">
             <source>Add to Project</source>
-            <target>Add to Project</target>
+            <target>添加到项目</target>
           </trans-unit>
           <trans-unit id="PopupMenu1.Update1.Caption">
             <source>Update</source>
@@ -306,17 +306,17 @@
           </trans-unit>
           <trans-unit id="PopupMenu1.DeleteLocalContent1.Caption">
             <source>Delete Local Content</source>
-            <target>Delete Local Content</target>
+            <target>删除本地内容</target>
           </trans-unit>
           <trans-unit id="PopupMenu1.CancelDownload1.Caption">
             <source>Cancel Download</source>
-            <target>Cancel Download</target>
+            <target>取消下载</target>
           </trans-unit>
         </group>
         <group id="TASSETSTORELOGIN" datatype="form">
           <trans-unit id="Caption">
             <source>Marketplace Beta Login</source>
-            <target>Marketplace Beta Login</target>
+            <target>市场 Beta 登录</target>
           </trans-unit>
           <trans-unit id="Label2.Caption">
             <source>Email</source>
@@ -328,15 +328,15 @@
           </trans-unit>
           <trans-unit id="RegisterLabel.Caption">
             <source>Create a new account...</source>
-            <target>Create a new account...</target>
+            <target>新建一个账户...</target>
           </trans-unit>
           <trans-unit id="Label3.Caption">
             <source>Don't have a Marketplace account?</source>
-            <target>Don't have a Marketplace account?</target>
+            <target>没有市场账号?</target>
           </trans-unit>
           <trans-unit id="ForgotPassword.Caption">
             <source>Forgot?</source>
-            <target>Forgot?</target>
+            <target>忘记?</target>
           </trans-unit>
           <trans-unit id="OKBtn.Caption">
             <source>Login</source>
@@ -356,7 +356,7 @@
           </trans-unit>
           <trans-unit id="AutoLogin.Caption">
             <source>Auto Login on Startup</source>
-            <target>Auto Login on Startup</target>
+            <target>启动时自动登录</target>
           </trans-unit>
         </group>
         <group id="TAUDIOGROUPSFORM" datatype="form">
@@ -370,7 +370,7 @@
           </trans-unit>
           <trans-unit id="AudioGroups_GroupBox.agAssignLabel.Caption">
             <source>to Audio Group:</source>
-            <target>to Audio Group:</target>
+            <target>到音频组:</target>
           </trans-unit>
           <trans-unit id="AudioGroups_GroupBox.agAssignCombo.Text">
             <source>Default</source>
@@ -378,17 +378,17 @@
           </trans-unit>
           <trans-unit id="AG_OKBtn.Caption">
             <source>&amp;OK</source>
-            <target>&amp;OK</target>
+            <target>&amp;确定</target>
           </trans-unit>
           <trans-unit id="AG_CancelBtn.Caption">
             <source>&amp;Cancel</source>
-            <target>&amp;Cancel</target>
+            <target>&amp;取消</target>
           </trans-unit>
         </group>
         <group id="TBACKGROUNDFORM" datatype="form">
           <trans-unit id="Caption">
             <source>Background Properties</source>
-            <target>Background Properties</target>
+            <target>背景属性</target>
           </trans-unit>
           <trans-unit id="Panel1.Caption">
             <source>Settings</source>
@@ -396,7 +396,7 @@
           </trans-unit>
           <trans-unit id="Panel1.NameLabel.Caption">
             <source>&amp;Name:</source>
-            <target>&amp;Name:</target>
+            <target>&amp;名称:</target>
           </trans-unit>
           <trans-unit id="Panel1.WidthLabel.Caption">
             <source>Width: 32</source>
@@ -408,7 +408,7 @@
           </trans-unit>
           <trans-unit id="Panel1.OKBtn.Caption">
             <source>&amp;OK</source>
-            <target>&amp;OK</target>
+            <target>&amp;确定</target>
           </trans-unit>
           <trans-unit id="Panel1.NameEdit.Hint">
             <source>The name of the background</source>
@@ -416,19 +416,19 @@
           </trans-unit>
           <trans-unit id="Panel1.FileBtn.Caption">
             <source>&amp;Load Background</source>
-            <target>&amp;Load Background</target>
+            <target>&amp;载入背景</target>
           </trans-unit>
           <trans-unit id="Panel1.FileBtn.Hint">
             <source>Load the background from a file</source>
-            <target>Load the background from a file</target>
+            <target>从文件中载入背景</target>
           </trans-unit>
           <trans-unit id="Panel1.EditBtn.Caption">
             <source>&amp;Edit Background</source>
-            <target>&amp;Edit Background</target>
+            <target>&amp;修改背景</target>
           </trans-unit>
           <trans-unit id="Panel1.EditBtn.Hint">
             <source>Edit the background image</source>
-            <target>Edit the background image</target>
+            <target>修改背景图片</target>
           </trans-unit>
           <trans-unit id="Panel1.TilePropertyGroup.Caption">
             <source> Tile Properties </source>
@@ -636,11 +636,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="FadeGroup.ColorName.Caption">
             <source>Color:</source>
-            <target>Color:</target>
+            <target>颜色：</target>
           </trans-unit>
           <trans-unit id="FadeGroup.FadeColorBtn.Hint">
             <source>Click to change the color</source>
-            <target>Click to change the color</target>
+            <target>单击修改一个颜色</target>
           </trans-unit>
           <trans-unit id="FadeGroup.Label5.Caption">
             <source>Amount:</source>
@@ -680,7 +680,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="TransparencyGroup.Label9.Caption">
             <source>Opacity (alpha):</source>
-            <target>Opacity (alpha):</target>
+            <target>透明度：</target>
           </trans-unit>
           <trans-unit id="TransparencyGroup.TransparencyValue2.Text">
             <source>127</source>
@@ -688,7 +688,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="TransparencyGroup.TransparencyRel.Caption">
             <source>Relative</source>
-            <target>相对        </target>
+            <target>相对</target>
           </trans-unit>
           <trans-unit id="HueGroup.Label7.Caption">
             <source>Hue:</source>
@@ -736,15 +736,15 @@ windows you are using.
           </trans-unit>
           <trans-unit id="EraseGroup.Label12.Caption">
             <source>Color:</source>
-            <target>Color:</target>
+            <target>颜色：</target>
           </trans-unit>
           <trans-unit id="EraseGroup.EraseColorBtn.Hint">
             <source>Click to change the color</source>
-            <target>Click to change the color</target>
+            <target>单击修改一个颜色</target>
           </trans-unit>
           <trans-unit id="EraseGroup.Label14.Caption">
             <source>Opacity (alpha):</source>
-            <target>Opacity (alpha):</target>
+            <target>透明度：</target>
           </trans-unit>
           <trans-unit id="EraseGroup.Label18.Caption">
             <source>(you can also click on the original image to change this)</source>
@@ -756,11 +756,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ShiftGroup.Label13.Caption">
             <source>Horizontal:</source>
-            <target>Horizontal:</target>
+            <target>水平：</target>
           </trans-unit>
           <trans-unit id="ShiftGroup.Label15.Caption">
             <source>Vertical:</source>
-            <target>Vertical:</target>
+            <target>垂直：</target>
           </trans-unit>
           <trans-unit id="ShiftGroup.ShiftXValue.Text">
             <source>0</source>
@@ -788,11 +788,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="BackGroup.Label19.Caption">
             <source>Color:</source>
-            <target>Color:</target>
+            <target>颜色：</target>
           </trans-unit>
           <trans-unit id="BackGroup.BackColorBtn.Hint">
             <source>Click to change the color</source>
-            <target>Click to change the color</target>
+            <target>单击修改一个颜色</target>
           </trans-unit>
           <trans-unit id="BackGroup.Label20.Caption">
             <source>Tolerance:</source>
@@ -820,15 +820,15 @@ windows you are using.
           </trans-unit>
           <trans-unit id="BlurGroup.BlurColors.Caption">
             <source>Blur Colors</source>
-            <target>Blur Colors</target>
+            <target>模糊颜色</target>
           </trans-unit>
           <trans-unit id="BlurGroup.BlurTransparency.Caption">
             <source>Blur Transparency</source>
-            <target>Blur Transparency</target>
+            <target>模糊透明度</target>
           </trans-unit>
           <trans-unit id="RotateGroup.Label6.Caption">
             <source>Angle:</source>
-            <target>Angle:</target>
+            <target>角度：</target>
           </trans-unit>
           <trans-unit id="RotateGroup.RotateValue.Text">
             <source>90</source>
@@ -840,19 +840,19 @@ windows you are using.
           </trans-unit>
           <trans-unit id="RotateGroup.Rotate90Btn.Caption">
             <source>90 degrees</source>
-            <target>90 degrees</target>
+            <target>90 度</target>
           </trans-unit>
           <trans-unit id="RotateGroup.Rotate180Btn.Caption">
             <source>180 degrees</source>
-            <target>180 degrees</target>
+            <target>180 度</target>
           </trans-unit>
           <trans-unit id="RotateGroup.Rotate270Btn.Caption">
             <source>270 degrees</source>
-            <target>270 degrees</target>
+            <target>270 度</target>
           </trans-unit>
           <trans-unit id="ScaleGroup.Label22.Caption">
             <source>Percentage:</source>
-            <target>Percentage:</target>
+            <target>百分比:</target>
           </trans-unit>
           <trans-unit id="ScaleGroup.ScaleValue.Text">
             <source>100</source>
@@ -860,15 +860,15 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ScaleGroup.HorizontalCheck.Caption">
             <source>Horizontal</source>
-            <target>Horizontal</target>
+            <target>水平</target>
           </trans-unit>
           <trans-unit id="ScaleGroup.HalveBtn.Caption">
             <source>Halve</source>
-            <target>Halve</target>
+            <target>减半</target>
           </trans-unit>
           <trans-unit id="ScaleGroup.DoubleBtn.Caption">
             <source>Double</source>
-            <target>Double</target>
+            <target>双倍</target>
           </trans-unit>
           <trans-unit id="ScaleGroup.VerticalCheck.Caption">
             <source>Vertical</source>
@@ -876,11 +876,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="OutlineGroup.Label23.Caption">
             <source>Color:</source>
-            <target>Color:</target>
+            <target>颜色：</target>
           </trans-unit>
           <trans-unit id="OutlineGroup.OutlineColorBtn.Hint">
             <source>Click to change the color</source>
-            <target>Click to change the color</target>
+            <target>单击修改一个颜色</target>
           </trans-unit>
           <trans-unit id="OutlineGroup.Label25.Caption">
             <source>(you can also click on the original image to change this)</source>
@@ -896,7 +896,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="OutlineGroup.RemoveCheck.Caption">
             <source>Remove the image</source>
-            <target>Remove the image</target>
+            <target>删除此背景</target>
           </trans-unit>
           <trans-unit id="OutlineGroup.SmoothCheck.Caption">
             <source>Smooth</source>
@@ -908,11 +908,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="GlowGroup.Label26.Caption">
             <source>Color:</source>
-            <target>Color:</target>
+            <target>颜色：</target>
           </trans-unit>
           <trans-unit id="GlowGroup.GlowColorBtn.Hint">
             <source>Click to change the color</source>
-            <target>Click to change the color</target>
+            <target>单击修改一个颜色</target>
           </trans-unit>
           <trans-unit id="GlowGroup.Label27.Caption">
             <source>(you can also click on the original image to change this)</source>
@@ -924,7 +924,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="GlowGroup.Label34.Caption">
             <source>Opacity (alpha):</source>
-            <target>Opacity (alpha):</target>
+            <target>透明度：</target>
           </trans-unit>
           <trans-unit id="GlowGroup.GlowValue.Text">
             <source>4</source>
@@ -940,11 +940,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ShadowGroup.Label29.Caption">
             <source>Color:</source>
-            <target>Color:</target>
+            <target>颜色：</target>
           </trans-unit>
           <trans-unit id="ShadowGroup.ShadowColorBtn.Hint">
             <source>Click to change the color</source>
-            <target>Click to change the color</target>
+            <target>单击修改一个颜色</target>
           </trans-unit>
           <trans-unit id="ShadowGroup.Label30.Caption">
             <source>(you can also click on the original image to change this)</source>
@@ -952,15 +952,15 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ShadowGroup.Label31.Caption">
             <source>Horizontal:</source>
-            <target>Horizontal:</target>
+            <target>水平：</target>
           </trans-unit>
           <trans-unit id="ShadowGroup.Label32.Caption">
             <source>Vertical:</source>
-            <target>Vertical:</target>
+            <target>垂直：</target>
           </trans-unit>
           <trans-unit id="ShadowGroup.Label33.Caption">
             <source>Opacity (alpha):</source>
-            <target>Opacity (alpha):</target>
+            <target>透明度：</target>
           </trans-unit>
           <trans-unit id="ShadowGroup.ShadowXValue.Text">
             <source>4</source>
@@ -976,15 +976,15 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ShadowGroup.ShadowCheck.Caption">
             <source>Soft shadow</source>
-            <target>Soft shadow</target>
+            <target>柔体阴影</target>
           </trans-unit>
           <trans-unit id="SkewGroup.Label35.Caption">
             <source>Horizontal:</source>
-            <target>Horizontal:</target>
+            <target>水平：</target>
           </trans-unit>
           <trans-unit id="SkewGroup.Label36.Caption">
             <source>Vertical:</source>
-            <target>Vertical:</target>
+            <target>垂直：</target>
           </trans-unit>
           <trans-unit id="SkewGroup.SkewXValue.Text">
             <source>0</source>
@@ -996,11 +996,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ButtonGroup.Label37.Caption">
             <source>Color:</source>
-            <target>Color:</target>
+            <target>颜色：</target>
           </trans-unit>
           <trans-unit id="ButtonGroup.ButtonColorBtn.Hint">
             <source>Click to change the color</source>
-            <target>Click to change the color</target>
+            <target>单击修改一个颜色</target>
           </trans-unit>
           <trans-unit id="ButtonGroup.Label38.Caption">
             <source>(you can also click on the original image to change this)</source>
@@ -1012,7 +1012,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ButtonGroup.Label40.Caption">
             <source>Opacity (alpha):</source>
-            <target>Opacity (alpha):</target>
+            <target>透明度：</target>
           </trans-unit>
           <trans-unit id="ButtonGroup.ButtonValue.Text">
             <source>8</source>
@@ -1040,35 +1040,35 @@ windows you are using.
           </trans-unit>
           <trans-unit id="SharpenGroup.SharpenColors.Caption">
             <source>Sharpen Colors</source>
-            <target>Sharpen Colors</target>
+            <target>锐化颜色</target>
           </trans-unit>
           <trans-unit id="SharpenGroup.SharpenTransparency.Caption">
             <source>Sharpen Transparency</source>
-            <target>Sharpen Transparency</target>
+            <target>锐化透明度</target>
           </trans-unit>
           <trans-unit id="GradientGroup.Label41.Caption">
             <source>Color1:</source>
-            <target>Color1:</target>
+            <target>颜色1:</target>
           </trans-unit>
           <trans-unit id="GradientGroup.GradientColor1.Hint">
             <source>Click to change the color</source>
-            <target>Click to change the color</target>
+            <target>单击修改一个颜色</target>
           </trans-unit>
           <trans-unit id="GradientGroup.Label42.Caption">
             <source>Opacity (alpha):</source>
-            <target>Opacity (alpha):</target>
+            <target>透明度：</target>
           </trans-unit>
           <trans-unit id="GradientGroup.GradientColor2.Hint">
             <source>Click to change the color</source>
-            <target>Click to change the color</target>
+            <target>单击修改一个颜色</target>
           </trans-unit>
           <trans-unit id="GradientGroup.Label43.Caption">
             <source>Color2:</source>
-            <target>Color2:</target>
+            <target>颜色2:</target>
           </trans-unit>
           <trans-unit id="GradientGroup.Label44.Caption">
             <source>Kind:</source>
-            <target>Kind:</target>
+            <target>类型：</target>
           </trans-unit>
           <trans-unit id="GradientGroup.GradientTransValue.Text">
             <source>255</source>
@@ -1076,25 +1076,25 @@ windows you are using.
           </trans-unit>
           <trans-unit id="GradientGroup.GradientReplace.Caption">
             <source>Replace</source>
-            <target>Replace</target>
+            <target>替换</target>
           </trans-unit>
           <trans-unit id="GradientGroup.GradientChange.Caption">
             <source>Change Transparency</source>
-            <target>Change Transparency</target>
+            <target>修改透明度</target>
           </trans-unit>
         </group>
         <group id="TCODEFORM" datatype="form">
           <trans-unit id="Caption">
             <source>Code Action</source>
-            <target>Code Action</target>
+            <target>代码</target>
           </trans-unit>
           <trans-unit id="ToolBar.OKBtn.Caption">
             <source>OKBtn</source>
-            <target>OKBtn</target>
+            <target>确定</target>
           </trans-unit>
           <trans-unit id="ToolBar.OKBtn.Hint">
             <source>OK, Save changes</source>
-            <target>OK, Save changes</target>
+            <target>确定，保存修改</target>
           </trans-unit>
           <trans-unit id="ToolBar.ToolButton3.Caption">
             <source>ToolButton3</source>
@@ -1102,27 +1102,27 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ToolBar.LoadBtn.Caption">
             <source>LoadBtn</source>
-            <target>LoadBtn</target>
+            <target>载入</target>
           </trans-unit>
           <trans-unit id="ToolBar.LoadBtn.Hint">
             <source>Load the code from a text file</source>
-            <target>Load the code from a text file</target>
+            <target>从一个文本文件中载入代码</target>
           </trans-unit>
           <trans-unit id="ToolBar.SaveBtn.Caption">
             <source>SaveBtn</source>
-            <target>SaveBtn</target>
+            <target>保存</target>
           </trans-unit>
           <trans-unit id="ToolBar.SaveBtn.Hint">
             <source>Save the code to a text file</source>
-            <target>Save the code to a text file</target>
+            <target>将代码保存到一个文本文件中</target>
           </trans-unit>
           <trans-unit id="ToolBar.PrintBtn.Caption">
             <source>Print</source>
-            <target>Print</target>
+            <target>打印</target>
           </trans-unit>
           <trans-unit id="ToolBar.PrintBtn.Hint">
             <source>Print the code</source>
-            <target>Print the code</target>
+            <target>打印代码</target>
           </trans-unit>
           <trans-unit id="ToolBar.ToolButton2.Caption">
             <source>ToolButton2</source>
@@ -1130,15 +1130,15 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ToolBar.UndoBtn.Caption">
             <source>UndoBtn</source>
-            <target>UndoBtn</target>
+            <target>撤销</target>
           </trans-unit>
           <trans-unit id="ToolBar.UndoBtn.Hint">
             <source>Undo the last change</source>
-            <target>Undo the last change</target>
+            <target>撤销最后一次修改</target>
           </trans-unit>
           <trans-unit id="ToolBar.RedoBtn.Caption">
             <source>RedoBtn</source>
-            <target>RedoBtn</target>
+            <target>重做</target>
           </trans-unit>
           <trans-unit id="ToolBar.ToolButton4.Caption">
             <source>ToolButton4</source>
@@ -1146,15 +1146,15 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ToolBar.CutBtn.Hint">
             <source>Cut the selected text to the clipboard</source>
-            <target>Cut the selected text to the clipboard</target>
+            <target>将所选文本剪切到剪贴板上</target>
           </trans-unit>
           <trans-unit id="ToolBar.CopyBtn.Hint">
             <source>Copy the selected text to the clipboard</source>
-            <target>Copy the selected text to the clipboard</target>
+            <target>将所选文本复制到剪贴板上</target>
           </trans-unit>
           <trans-unit id="ToolBar.PasteBtn.Hint">
             <source>Paste the text from the clipboard</source>
-            <target>Paste the text from the clipboard</target>
+            <target>从剪贴板粘贴文本</target>
           </trans-unit>
           <trans-unit id="ToolBar.ToolButton1.Caption">
             <source>ToolButton1</source>
@@ -1162,19 +1162,19 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ToolBar.FindBtn.Caption">
             <source>FindBtn</source>
-            <target>FindBtn</target>
+            <target>搜索</target>
           </trans-unit>
           <trans-unit id="ToolBar.FindBtn.Hint">
             <source>Search for a string</source>
-            <target>Search for a string</target>
+            <target>搜索字符串</target>
           </trans-unit>
           <trans-unit id="ToolBar.CheckBtn.Caption">
             <source>CheckBtn</source>
-            <target>CheckBtn</target>
+            <target>检查</target>
           </trans-unit>
           <trans-unit id="ToolBar.CheckBtn.Hint">
             <source>Check the script for syntax errors</source>
-            <target>Check the script for syntax errors</target>
+            <target>检查脚本内的语法错误</target>
           </trans-unit>
           <trans-unit id="ToolBar.ToolButton5.Caption">
             <source>ToolButton5</source>
@@ -1182,27 +1182,27 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ToolBar.CodeCompletionButton.Caption">
             <source>Code Completion Button</source>
-            <target>Code Completion Button</target>
+            <target>代码补全</target>
           </trans-unit>
           <trans-unit id="ToolBar.CodeCompletionButton.Hint">
             <source>Enable code completion help.</source>
-            <target>Enable code completion help.</target>
+            <target>启用代码自动补全帮助</target>
           </trans-unit>
           <trans-unit id="ToolBar.HelpBtn.Caption">
             <source>HelpBtn</source>
-            <target>HelpBtn</target>
+            <target>帮助</target>
           </trans-unit>
           <trans-unit id="ToolBar.HelpBtn.Hint">
             <source>Show the help file</source>
-            <target>Show the help file</target>
+            <target>显示帮助文件</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.Caption">
             <source> Find </source>
-            <target> Find </target>
+            <target>查找</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindNextBtn.Caption">
             <source>Next</source>
-            <target>Next</target>
+            <target>下一个</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindNextBtn.Hint">
             <source>Find the next occurrence of the string</source>
@@ -1210,7 +1210,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindPreviousBtn.Caption">
             <source>Previous</source>
-            <target>Previous</target>
+            <target>上一个</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindPreviousBtn.Hint">
             <source>Find the previous occurrence of the string</source>
@@ -1218,7 +1218,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindFirstBtn.Caption">
             <source>First</source>
-            <target>First</target>
+            <target>第一个</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindFirstBtn.Hint">
             <source>Find the first occurrence of the string</source>
@@ -1226,7 +1226,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindLastBtn.Caption">
             <source>Last</source>
-            <target>Last</target>
+            <target>最后一个</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindLastBtn.Hint">
             <source>Find the last occurrence of the string</source>
@@ -1234,19 +1234,19 @@ windows you are using.
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindCaseCheck.Caption">
             <source>Case sensitive</source>
-            <target>Case sensitive</target>
+            <target>区分大小写</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindWholeCheck.Caption">
             <source>Whole word only</source>
-            <target>Whole word only</target>
+            <target>全词匹配</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.Caption">
             <source> Replace</source>
-            <target> Replace</target>
+            <target>替换</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.ReplaceNextBtn.Caption">
             <source>Next</source>
-            <target>Next</target>
+            <target>下一个</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.ReplaceNextBtn.Hint">
             <source>Replace the next occurrence of the string</source>
@@ -1254,7 +1254,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.ReplacePreviousBtn.Caption">
             <source>Previous</source>
-            <target>Previous</target>
+            <target>上一个</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.ReplacePreviousBtn.Hint">
             <source>Replace the previous occurrence of the string</source>
@@ -1262,7 +1262,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.ReplaceFirstBtn.Caption">
             <source>First</source>
-            <target>First</target>
+            <target>第一个</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.ReplaceFirstBtn.Hint">
             <source>Replace the first occurrence of the string</source>
@@ -1270,7 +1270,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.ReplaceLastBtn.Caption">
             <source>Last</source>
-            <target>Last</target>
+            <target>最后一个</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.ReplaceLastBtn.Hint">
             <source>Replace the last occurrence of the string</source>
@@ -1286,7 +1286,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="WhoPanel.AppliesLabel.Caption">
             <source>Applies To: </source>
-            <target>Applies To: </target>
+            <target>应用到：</target>
           </trans-unit>
           <trans-unit id="WhoPanel.WhoSelf.Caption">
             <source>Self</source>
@@ -1294,33 +1294,33 @@ windows you are using.
           </trans-unit>
           <trans-unit id="WhoPanel.WhoSelf.Hint">
             <source>Apply action to object itself</source>
-            <target>Apply action to object itself</target>
+            <target>将动作应用于自身</target>
           </trans-unit>
           <trans-unit id="WhoPanel.WhoOther.Caption">
             <source>Other</source>
-            <target>Other</target>
+            <target>其它</target>
           </trans-unit>
           <trans-unit id="WhoPanel.WhoOther.Hint">
             <source>Apply action to other object</source>
-            <target>Apply action to other object</target>
+            <target>将动作应用于其他实例</target>
           </trans-unit>
           <trans-unit id="WhoPanel.WhoObject.Caption">
             <source>Object:</source>
-            <target>Object:</target>
+            <target>对象:</target>
           </trans-unit>
           <trans-unit id="WhoPanel.WhoObject.Hint">
             <source>Apply action to particular object</source>
-            <target>Apply action to particular object</target>
+            <target>将动作应用于特定实例</target>
           </trans-unit>
         </group>
         <group id="TCOMMITLOG" datatype="form">
           <trans-unit id="Caption">
             <source>Source Control Commit Message</source>
-            <target>Source Control Commit Message</target>
+            <target>源码控制提交消息</target>
           </trans-unit>
           <trans-unit id="CommitLabel.Caption">
             <source>Message for commit:</source>
-            <target>Message for commit:</target>
+            <target>提交的消息：</target>
           </trans-unit>
           <trans-unit id="commitOK.Caption">
             <source>OK</source>
@@ -1340,11 +1340,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="Panel1.Label1.Caption">
             <source>Filename:</source>
-            <target>Filename:</target>
+            <target>文件名:</target>
           </trans-unit>
           <trans-unit id="Panel1.Label2.Caption">
             <source>Status:</source>
-            <target>Status:</target>
+            <target>状态:</target>
           </trans-unit>
           <trans-unit id="SelectAll.Caption">
             <source>Select All</source>
@@ -1360,17 +1360,17 @@ windows you are using.
           </trans-unit>
           <trans-unit id="RevertItemMenu.Revert1.Caption">
             <source>Revert</source>
-            <target>Revert</target>
+            <target>还原</target>
           </trans-unit>
         </group>
         <group id="TCOMPILEFORM" datatype="form">
           <trans-unit id="Caption">
             <source>Compile Messages</source>
-            <target>Compile Messages</target>
+            <target>编译消息</target>
           </trans-unit>
           <trans-unit id="PageControl1.CompileTab.Caption">
             <source>Compile</source>
-            <target>Compile</target>
+            <target>编译</target>
           </trans-unit>
           <trans-unit id="PageControl1.SourceControlTab.Caption">
             <source>Source Control</source>
@@ -1382,7 +1382,7 @@ windows you are using.
         <group id="TCONSTANTFORM" datatype="form">
           <trans-unit id="Caption">
             <source>User-Defined Macros</source>
-            <target>User-Defined Macros</target>
+            <target>用户定义常量</target>
           </trans-unit>
           <trans-unit id="GroupBox7.ConstantList.TitleCaptions.Strings.Name">
             <source>Name</source>
@@ -1394,7 +1394,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="GroupBox7.AddConstantBtn.Caption">
             <source>&amp;Add</source>
-            <target>&amp;Add</target>
+            <target>&amp;添加</target>
           </trans-unit>
           <trans-unit id="GroupBox7.AddConstantBtn.Hint">
             <source>Append a macro at the end of the list</source>
@@ -1402,7 +1402,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="GroupBox7.DeleteConstantBtn.Caption">
             <source>&amp;Delete</source>
-            <target>&amp;Delete</target>
+            <target>&amp;删除</target>
           </trans-unit>
           <trans-unit id="GroupBox7.DeleteConstantBtn.Hint">
             <source>Delete the current macro</source>
@@ -1410,7 +1410,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="GroupBox7.ClearConstantBtn.Caption">
             <source>&amp;Clear</source>
-            <target>&amp;Clear</target>
+            <target>&amp;清除</target>
           </trans-unit>
           <trans-unit id="GroupBox7.ClearConstantBtn.Hint">
             <source>Clear all the macros</source>
@@ -1418,7 +1418,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="GroupBox7.SortConstantBtn.Caption">
             <source>&amp;Sort</source>
-            <target>&amp;Sort</target>
+            <target>&amp;分类</target>
           </trans-unit>
           <trans-unit id="GroupBox7.SortConstantBtn.Hint">
             <source>Sort the macros</source>
@@ -1426,7 +1426,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="GroupBox7.InsertConstantBtn.Caption">
             <source>&amp;Insert</source>
-            <target>&amp;Insert</target>
+            <target>&amp;插入</target>
           </trans-unit>
           <trans-unit id="GroupBox7.InsertConstantBtn.Hint">
             <source>Insert a macro before the current one</source>
@@ -1434,7 +1434,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="GroupBox7.UpConstantBtn.Caption">
             <source>&amp;Up</source>
-            <target>&amp;Up</target>
+            <target>&amp;上</target>
           </trans-unit>
           <trans-unit id="GroupBox7.UpConstantBtn.Hint">
             <source>Moves the macro up</source>
@@ -1442,7 +1442,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="GroupBox7.DownConstantBtn.Caption">
             <source>Do&amp;wn</source>
-            <target>Do&amp;wn</target>
+            <target>&amp;下</target>
           </trans-unit>
           <trans-unit id="GroupBox7.DownConstantBtn.Hint">
             <source>Moves the macro down</source>
@@ -1450,7 +1450,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="GroupBox7.LoadBtn.Caption">
             <source>&amp;Load</source>
-            <target>&amp;Load</target>
+            <target>&amp;载入</target>
           </trans-unit>
           <trans-unit id="GroupBox7.LoadBtn.Hint">
             <source>Load the macros from a text file</source>
@@ -1458,7 +1458,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="GroupBox7.SaveBtn.Caption">
             <source>Sa&amp;ve</source>
-            <target>Sa&amp;ve</target>
+            <target>&amp;保存</target>
           </trans-unit>
           <trans-unit id="GroupBox7.SaveBtn.Hint">
             <source>Save the macros to a text file</source>
@@ -1466,19 +1466,19 @@ windows you are using.
           </trans-unit>
           <trans-unit id="OKBtn.Caption">
             <source>&amp;OK</source>
-            <target>&amp;OK</target>
+            <target>&amp;确定</target>
           </trans-unit>
           <trans-unit id="OKBtn.Hint">
             <source>Confirm changes</source>
-            <target>Confirm changes</target>
+            <target>确认更改</target>
           </trans-unit>
           <trans-unit id="CancelButton.Caption">
             <source>&amp;Cancel</source>
-            <target>&amp;Cancel</target>
+            <target>&amp;取消</target>
           </trans-unit>
           <trans-unit id="CancelButton.Hint">
             <source>Cancel all changes</source>
-            <target>Cancel all changes</target>
+            <target>取消所有更改</target>
           </trans-unit>
           <trans-unit id="OpenDialog1.FileName">
             <source>constants.txt</source>
@@ -1506,11 +1506,11 @@ windows you are using.
         <group id="TDATAFILEFORM" datatype="form">
           <trans-unit id="Caption">
             <source>Included File Properties</source>
-            <target>Included File Properties</target>
+            <target>内含文件属性</target>
           </trans-unit>
           <trans-unit id="Label1.Caption">
             <source>File &amp;Name:</source>
-            <target>File &amp;Name:</target>
+            <target>文件&amp;名：</target>
           </trans-unit>
           <trans-unit id="SizeLabel.Caption">
             <source>Size: 0 bytes</source>
@@ -1518,15 +1518,15 @@ windows you are using.
           </trans-unit>
           <trans-unit id="OrigNameLabel.Caption">
             <source>Original File:</source>
-            <target>Original File:</target>
+            <target>原文件:</target>
           </trans-unit>
           <trans-unit id="Label2.Caption">
             <source>Copies To :</source>
-            <target>Copies To :</target>
+            <target>拷贝到:</target>
           </trans-unit>
           <trans-unit id="OKBtn.Caption">
             <source>&amp;OK</source>
-            <target>&amp;OK</target>
+            <target>&amp;确定</target>
           </trans-unit>
           <trans-unit id="FileNameEdit.Hint">
             <source>The filename under which to save the resource</source>
@@ -1534,15 +1534,15 @@ windows you are using.
           </trans-unit>
           <trans-unit id="LoadFileBtn.Caption">
             <source>&amp;Load</source>
-            <target>&amp;Load</target>
+            <target>&amp;载入</target>
           </trans-unit>
           <trans-unit id="LoadFileBtn.Hint">
             <source>Load the resource data from a file</source>
-            <target>Load the resource data from a file</target>
+            <target>从文件中载入资源</target>
           </trans-unit>
           <trans-unit id="CancelBtn.Caption">
             <source>&amp;Cancel</source>
-            <target>&amp;Cancel</target>
+            <target>&amp;取消</target>
           </trans-unit>
           <trans-unit id="CheckListBox1.Hint">
             <source>Targets to copy to</source>
@@ -1554,7 +1554,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="CopyToAll.Hint">
             <source>Select All Platforms</source>
-            <target>Select All Platforms</target>
+            <target>选择所有平台</target>
           </trans-unit>
           <trans-unit id="CopyToNone.Caption">
             <source>None</source>
@@ -1562,7 +1562,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="CopyToNone.Hint">
             <source>Deselect All Platforms</source>
-            <target>Deselect All Platforms</target>
+            <target>反选所有平台</target>
           </trans-unit>
         </group>
         <group id="TDATAFORM" datatype="form">
@@ -1580,7 +1580,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="GroupBox9.IncludeAddBtn.Caption">
             <source>&amp;Add</source>
-            <target>&amp;Add</target>
+            <target>&amp;添加</target>
           </trans-unit>
           <trans-unit id="GroupBox9.IncludeAddBtn.Hint">
             <source>Add a file to be included</source>
@@ -1588,7 +1588,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="GroupBox9.IncludeDeleteBtn.Caption">
             <source>&amp;Delete</source>
-            <target>&amp;Delete</target>
+            <target>&amp;删除</target>
           </trans-unit>
           <trans-unit id="GroupBox9.IncludeDeleteBtn.Hint">
             <source>Delete the indicated included file</source>
@@ -1596,7 +1596,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="GroupBox9.IncludeClearBtn.Caption">
             <source>C&amp;lear</source>
-            <target>C&amp;lear</target>
+            <target>清除</target>
           </trans-unit>
           <trans-unit id="GroupBox9.IncludeClearBtn.Hint">
             <source>Clear the list of included files</source>
@@ -1604,7 +1604,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="GroupBox9.IncludeChangeBtn.Caption">
             <source>&amp;Change</source>
-            <target>&amp;Change</target>
+            <target>&amp;修改</target>
           </trans-unit>
           <trans-unit id="GroupBox9.IncludeChangeBtn.Hint">
             <source>Change the properties of the included file</source>
@@ -1612,7 +1612,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="OKBtn.Caption">
             <source>&amp;OK</source>
-            <target>&amp;OK</target>
+            <target>&amp;确定</target>
           </trans-unit>
         </group>
         <group id="TEVENTFORM" datatype="form">
@@ -1622,11 +1622,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="CancelBtn.Caption">
             <source>Ca&amp;ncel</source>
-            <target>Ca&amp;ncel</target>
+            <target>取消</target>
           </trans-unit>
           <trans-unit id="CreateBtn.Caption">
             <source>C&amp;reate</source>
-            <target>C&amp;reate</target>
+            <target>创建</target>
           </trans-unit>
           <trans-unit id="CreateBtn.Hint">
             <source>Create Event</source>
@@ -1634,7 +1634,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="DestroyBtn.Caption">
             <source>&amp;Destroy</source>
-            <target>&amp;Destroy</target>
+            <target>&amp;销毁</target>
           </trans-unit>
           <trans-unit id="DestroyBtn.Hint">
             <source>Destroy Event</source>
@@ -1642,15 +1642,15 @@ windows you are using.
           </trans-unit>
           <trans-unit id="AlarmBtn.Caption">
             <source>A&amp;larm</source>
-            <target>A&amp;larm</target>
+            <target>计时器</target>
           </trans-unit>
           <trans-unit id="AlarmBtn.Hint">
             <source>Alarm Event</source>
-            <target>Alarm Event</target>
+            <target>计时器事件</target>
           </trans-unit>
           <trans-unit id="StepBtn.Caption">
             <source>&amp;Step</source>
-            <target>&amp;Step</target>
+            <target>步</target>
           </trans-unit>
           <trans-unit id="StepBtn.Hint">
             <source>Step Event</source>
@@ -1658,63 +1658,63 @@ windows you are using.
           </trans-unit>
           <trans-unit id="CollisionBtn.Caption">
             <source>C&amp;ollision</source>
-            <target>C&amp;ollision</target>
+            <target>碰撞</target>
           </trans-unit>
           <trans-unit id="KeyboardBtn.Caption">
             <source>&amp;Keyboard</source>
-            <target>&amp;Keyboard</target>
+            <target>&amp;键盘</target>
           </trans-unit>
           <trans-unit id="KeyboardBtn.Hint">
             <source>Keyboard Event</source>
-            <target>Keyboard Event</target>
+            <target>键盘事件</target>
           </trans-unit>
           <trans-unit id="MouseBtn.Caption">
             <source>&amp;Mouse</source>
-            <target>&amp;Mouse</target>
+            <target>鼠标</target>
           </trans-unit>
           <trans-unit id="MouseBtn.Hint">
             <source>Mouse Event</source>
-            <target>Mouse Event</target>
+            <target>鼠标事件</target>
           </trans-unit>
           <trans-unit id="OtherBtn.Caption">
             <source>Ot&amp;her</source>
-            <target>Ot&amp;her</target>
+            <target>其他</target>
           </trans-unit>
           <trans-unit id="OtherBtn.Hint">
             <source>Other Event</source>
-            <target>Other Event</target>
+            <target>其他事件</target>
           </trans-unit>
           <trans-unit id="KeyPressBtn.Caption">
             <source>Key &amp;Press</source>
-            <target>Key &amp;Press</target>
+            <target>按下键</target>
           </trans-unit>
           <trans-unit id="KeyPressBtn.Hint">
             <source>Key Press Event</source>
-            <target>Key Press Event</target>
+            <target>按下键事件</target>
           </trans-unit>
           <trans-unit id="KeyReleaseBtn.Caption">
             <source>Ke&amp;y Release</source>
-            <target>Ke&amp;y Release</target>
+            <target>释放键</target>
           </trans-unit>
           <trans-unit id="KeyReleaseBtn.Hint">
             <source>Key Release Event</source>
-            <target>Key Release Event</target>
+            <target>释放键事件</target>
           </trans-unit>
           <trans-unit id="DrawingBtn.Caption">
             <source>Dr&amp;aw</source>
-            <target>Dr&amp;aw</target>
+            <target>绘制</target>
           </trans-unit>
           <trans-unit id="DrawingBtn.Hint">
             <source>Draw Event</source>
-            <target>Draw Event</target>
+            <target>绘制事件</target>
           </trans-unit>
           <trans-unit id="BitBtn1.Caption">
             <source>&amp;Asynchronous</source>
-            <target>&amp;Asynchronous</target>
+            <target>异步</target>
           </trans-unit>
           <trans-unit id="BitBtn1.Hint">
             <source>Asynchronous Event</source>
-            <target>Asynchronous Event</target>
+            <target>异步事件</target>
           </trans-unit>
           <trans-unit id="AlarmMenu.Alarm01.Caption">
             <source>Alarm 0</source>
@@ -1778,15 +1778,15 @@ windows you are using.
           </trans-unit>
           <trans-unit id="MouseMenu.MenuItem1.Caption">
             <source>Left button</source>
-            <target>Left button</target>
+            <target>鼠标左键</target>
           </trans-unit>
           <trans-unit id="MouseMenu.MenuItem2.Caption">
             <source>Right button</source>
-            <target>Right button</target>
+            <target>鼠标右键</target>
           </trans-unit>
           <trans-unit id="MouseMenu.MenuItem3.Caption">
             <source>Middle button</source>
-            <target>Middle button</target>
+            <target>鼠标中键</target>
           </trans-unit>
           <trans-unit id="MouseMenu.MenuItem4.Caption">
             <source>-</source>
@@ -1794,7 +1794,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="MouseMenu.NoMouse1.Caption">
             <source>No button</source>
-            <target>No button</target>
+            <target>无鼠标键</target>
           </trans-unit>
           <trans-unit id="MouseMenu.N19.Caption">
             <source>-</source>
@@ -1802,15 +1802,15 @@ windows you are using.
           </trans-unit>
           <trans-unit id="MouseMenu.Leftpressed1.Caption">
             <source>Left pressed</source>
-            <target>Left pressed</target>
+            <target>左键按下</target>
           </trans-unit>
           <trans-unit id="MouseMenu.Rightpressed1.Caption">
             <source>Right pressed</source>
-            <target>Right pressed</target>
+            <target>右键按下</target>
           </trans-unit>
           <trans-unit id="MouseMenu.Middlepressed1.Caption">
             <source>Middle pressed</source>
-            <target>Middle pressed</target>
+            <target>中键按下</target>
           </trans-unit>
           <trans-unit id="MouseMenu.N20.Caption">
             <source>-</source>
@@ -1818,15 +1818,15 @@ windows you are using.
           </trans-unit>
           <trans-unit id="MouseMenu.Leftreleased1.Caption">
             <source>Left released</source>
-            <target>Left released</target>
+            <target>左键放开</target>
           </trans-unit>
           <trans-unit id="MouseMenu.Rightreleased1.Caption">
             <source>Right released</source>
-            <target>Right released</target>
+            <target>右键放开</target>
           </trans-unit>
           <trans-unit id="MouseMenu.Middlereleased1.Caption">
             <source>Middle released</source>
-            <target>Middle released</target>
+            <target>中键放开</target>
           </trans-unit>
           <trans-unit id="MouseMenu.N1.Caption">
             <source>-</source>
@@ -1834,11 +1834,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="MouseMenu.Mouseenter1.Caption">
             <source>Mouse enter</source>
-            <target>Mouse enter</target>
+            <target>鼠标移入</target>
           </trans-unit>
           <trans-unit id="MouseMenu.Mouseleave1.Caption">
             <source>Mouse leave</source>
-            <target>Mouse leave</target>
+            <target>鼠标移出</target>
           </trans-unit>
           <trans-unit id="MouseMenu.N22.Caption">
             <source>-</source>
@@ -1846,11 +1846,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="MouseMenu.Mousewheelup1.Caption">
             <source>Mouse wheel up</source>
-            <target>Mouse wheel up</target>
+            <target>鼠标滚轮向上滚动</target>
           </trans-unit>
           <trans-unit id="MouseMenu.Mousewheeldown1.Caption">
             <source>Mouse wheel down</source>
-            <target>Mouse wheel down</target>
+            <target>鼠标滚轮向下滚动</target>
           </trans-unit>
           <trans-unit id="MouseMenu.N13.Caption">
             <source>-</source>
@@ -1858,19 +1858,19 @@ windows you are using.
           </trans-unit>
           <trans-unit id="MouseMenu.Globalmouse1.Caption">
             <source>Global mouse</source>
-            <target>Global mouse</target>
+            <target>全局鼠标</target>
           </trans-unit>
           <trans-unit id="MouseMenu.Globalmouse1.Globalmousepress1.Caption">
             <source>Global left button</source>
-            <target>Global left button</target>
+            <target>全局鼠标左键</target>
           </trans-unit>
           <trans-unit id="MouseMenu.Globalmouse1.Globalmouserelease1.Caption">
             <source>Global right button</source>
-            <target>Global right button</target>
+            <target>全局鼠标右键</target>
           </trans-unit>
           <trans-unit id="MouseMenu.Globalmouse1.Globalrightbutton1.Caption">
             <source>Global middle button</source>
-            <target>Global middle button</target>
+            <target>全局鼠标中键</target>
           </trans-unit>
           <trans-unit id="MouseMenu.Globalmouse1.N17.Caption">
             <source>-</source>
@@ -1878,15 +1878,15 @@ windows you are using.
           </trans-unit>
           <trans-unit id="MouseMenu.Globalmouse1.Globalleftbutton1.Caption">
             <source>Global left pressed</source>
-            <target>Global left pressed</target>
+            <target>全局左键按下</target>
           </trans-unit>
           <trans-unit id="MouseMenu.Globalmouse1.Globalrightbutton2.Caption">
             <source>Global right pressed</source>
-            <target>Global right pressed</target>
+            <target>全局右键按下</target>
           </trans-unit>
           <trans-unit id="MouseMenu.Globalmouse1.Globalmiddlebutton1.Caption">
             <source>Global middle pressed</source>
-            <target>Global middle pressed</target>
+            <target>全局中键按下</target>
           </trans-unit>
           <trans-unit id="MouseMenu.Globalmouse1.N18.Caption">
             <source>-</source>
@@ -1894,15 +1894,15 @@ windows you are using.
           </trans-unit>
           <trans-unit id="MouseMenu.Globalmouse1.Globalleftbutton2.Caption">
             <source>Global left released</source>
-            <target>Global left released</target>
+            <target>全局左键松开</target>
           </trans-unit>
           <trans-unit id="MouseMenu.Globalmouse1.Globalrightbutton3.Caption">
             <source>Global right released</source>
-            <target>Global right released</target>
+            <target>全局右键松开</target>
           </trans-unit>
           <trans-unit id="MouseMenu.Globalmouse1.Globalmiddlebutton2.Caption">
             <source>Global middle released</source>
-            <target>Global middle released</target>
+            <target>全局中键松开</target>
           </trans-unit>
           <trans-unit id="MouseMenu.N2.Caption">
             <source>-</source>
@@ -1934,7 +1934,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="MouseMenu.Joystick1.Button11.Caption">
             <source>Button 1</source>
-            <target>Button 1</target>
+            <target>按钮 1</target>
           </trans-unit>
           <trans-unit id="MouseMenu.Joystick1.Button21.Caption">
             <source>Button 2</source>
@@ -1990,7 +1990,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="MouseMenu.Joystick2.Button12.Caption">
             <source>Button 1</source>
-            <target>Button 1</target>
+            <target>按钮 1</target>
           </trans-unit>
           <trans-unit id="MouseMenu.Joystick2.Button22.Caption">
             <source>Button 2</source>
@@ -2022,11 +2022,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="OtherMenu.MenuItem5.Caption">
             <source>Outside room</source>
-            <target>Outside room</target>
+            <target>离开房间</target>
           </trans-unit>
           <trans-unit id="OtherMenu.MenuItem6.Caption">
             <source>Intersect boundary</source>
-            <target>Intersect boundary</target>
+            <target>相交边界</target>
           </trans-unit>
           <trans-unit id="OtherMenu.N24.Caption">
             <source>-</source>
@@ -2110,11 +2110,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="OtherMenu.GameStart1.Caption">
             <source>Game start</source>
-            <target>Game start</target>
+            <target>游戏开始</target>
           </trans-unit>
           <trans-unit id="OtherMenu.GameEnd1.Caption">
             <source>Game end</source>
-            <target>Game end</target>
+            <target>游戏结束</target>
           </trans-unit>
           <trans-unit id="OtherMenu.N10.Caption">
             <source>-</source>
@@ -2122,11 +2122,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="OtherMenu.RoomStart1.Caption">
             <source>Room start</source>
-            <target>Room start</target>
+            <target>房间开始事件</target>
           </trans-unit>
           <trans-unit id="OtherMenu.RoomEnd1.Caption">
             <source>Room end</source>
-            <target>Room end</target>
+            <target>房间结束事件</target>
           </trans-unit>
           <trans-unit id="OtherMenu.N12.Caption">
             <source>-</source>
@@ -2146,15 +2146,15 @@ windows you are using.
           </trans-unit>
           <trans-unit id="OtherMenu.AnimationEnd1.Caption">
             <source>Animation end</source>
-            <target>Animation end</target>
+            <target>动画结束</target>
           </trans-unit>
           <trans-unit id="OtherMenu.Animationupdate1.Caption">
             <source>Animation update</source>
-            <target>Animation update</target>
+            <target>动画更新</target>
           </trans-unit>
           <trans-unit id="OtherMenu.AnimationEvent1.Caption">
             <source>Animation event</source>
-            <target>Animation event</target>
+            <target>动画事件</target>
           </trans-unit>
           <trans-unit id="OtherMenu.N15.Caption">
             <source>-</source>
@@ -2170,7 +2170,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="OtherMenu.UserDefined1.Caption">
             <source>User defined</source>
-            <target>User defined</target>
+            <target>用户定义</target>
           </trans-unit>
           <trans-unit id="OtherMenu.UserDefined1.User01.Caption">
             <source>User 0</source>
@@ -2498,7 +2498,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="KeyBoardMenu.FunctionKeys1.Caption">
             <source>Function keys</source>
-            <target>Function keys</target>
+            <target>功能键</target>
           </trans-unit>
           <trans-unit id="KeyBoardMenu.FunctionKeys1.F11.Caption">
             <source>F1</source>
@@ -2598,7 +2598,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="WebMenu.MenuItem14.Caption">
             <source>Image Loaded</source>
-            <target>Image Loaded</target>
+            <target>加载图片</target>
           </trans-unit>
           <trans-unit id="WebMenu.Asynchronous.Caption">
             <source>HTTP</source>
@@ -2606,7 +2606,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="WebMenu.UserInteractions.Caption">
             <source>Dialog</source>
-            <target>Dialog</target>
+            <target>对话框</target>
           </trans-unit>
           <trans-unit id="WebMenu.IAP1.Caption">
             <source>IAP</source>
@@ -2618,7 +2618,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="WebMenu.NetworkingEventMenuItem.Caption">
             <source>Networking</source>
-            <target>Networking</target>
+            <target>联网</target>
           </trans-unit>
           <trans-unit id="WebMenu.SteamEventMenuItem.Caption">
             <source>Steam</source>
@@ -2630,15 +2630,15 @@ windows you are using.
           </trans-unit>
           <trans-unit id="WebMenu.PushNotification1.Caption">
             <source>Push Notification</source>
-            <target>Push Notification</target>
+            <target>推送通知</target>
           </trans-unit>
           <trans-unit id="WebMenu.SaveLoad1.Caption">
             <source>Save / Load</source>
-            <target>Save / Load</target>
+            <target>保存/载入</target>
           </trans-unit>
           <trans-unit id="WebMenu.AudioRecording1.Caption">
             <source>Audio Recording</source>
-            <target>Audio Recording</target>
+            <target>录音</target>
           </trans-unit>
           <trans-unit id="WebMenu.AudioPlayback1.Caption">
             <source>Audio Playback</source>
@@ -2646,11 +2646,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="WebMenu.SystemEvent1.Caption">
             <source>System Event</source>
-            <target>System Event</target>
+            <target>系统事件</target>
           </trans-unit>
           <trans-unit id="TriggerMenu.AddModifyTriggers1.Caption">
             <source>Add/Modify Triggers</source>
-            <target>Add/Modify Triggers</target>
+            <target>添加 / 修改触发器s</target>
           </trans-unit>
           <trans-unit id="DrawMenu.MenuItem16.Caption">
             <source>Draw</source>
@@ -2704,11 +2704,11 @@ windows you are using.
         <group id="TEXPORTFORM" datatype="form">
           <trans-unit id="Caption">
             <source>Exporting Resources</source>
-            <target>Exporting Resources</target>
+            <target>导出资源</target>
           </trans-unit>
           <trans-unit id="ExportGroup.Caption">
             <source> Resources to Export </source>
-            <target> Resources to Export </target>
+            <target>要导出的资源</target>
           </trans-unit>
           <trans-unit id="ExportGroup.SpritesCheck.Caption">
             <source>Sprites</source>
@@ -2724,7 +2724,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ExportGroup.NoneBtn.Caption">
             <source>Select None</source>
-            <target>Select None</target>
+            <target>全不选Select None</target>
           </trans-unit>
           <trans-unit id="ExportGroup.SoundsCheck.Caption">
             <source>Sounds</source>
@@ -2740,7 +2740,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ExportGroup.TimelinesCheck.Caption">
             <source>Time Lines</source>
-            <target>Time Lines</target>
+            <target>时间线</target>
           </trans-unit>
           <trans-unit id="ExportGroup.FontsCheck.Caption">
             <source>Fonts</source>
@@ -2760,19 +2760,19 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ExportGroup.IncludefilesCheck.Caption">
             <source>Include Files</source>
-            <target>Include Files</target>
+            <target>内含文件</target>
           </trans-unit>
           <trans-unit id="ExportGroup.ExtensionsCheck.Caption">
             <source>Extension Packages</source>
-            <target>Extension Packages</target>
+            <target>扩展包</target>
           </trans-unit>
           <trans-unit id="ExportGroup.TriggersCheck.Caption">
             <source>Trigger Events</source>
-            <target>Trigger Events</target>
+            <target>触发器事件</target>
           </trans-unit>
           <trans-unit id="ExportGroup.HelpCheck.Caption">
             <source>Game Information</source>
-            <target>Game Information</target>
+            <target>游戏信息</target>
           </trans-unit>
           <trans-unit id="ExportGroup.SettingsCheck.Caption">
             <source>Global Game Settings</source>
@@ -2790,7 +2790,7 @@ windows you are using.
         <group id="TEXTENSIONCONSTANTPROPERTIES" datatype="form">
           <trans-unit id="Caption">
             <source>Edit Extension Macros</source>
-            <target>Edit Extension Macros</target>
+            <target>编辑扩展常量</target>
           </trans-unit>
           <trans-unit id="Label1.Caption">
             <source>Name:</source>
@@ -2820,7 +2820,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="NameLabel.Caption">
             <source>Name :</source>
-            <target>Name :</target>
+            <target>名称:</target>
           </trans-unit>
           <trans-unit id="InitLabel.Caption">
             <source>Init Function:</source>
@@ -2832,7 +2832,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="Label2.Caption">
             <source>Copies To :</source>
-            <target>Copies To :</target>
+            <target>拷贝到:</target>
           </trans-unit>
           <trans-unit id="Label1.Caption">
             <source>Proxy Files:</source>
@@ -2852,7 +2852,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ValueListEditor1.TitleCaptions.Strings.File name">
             <source>File name</source>
-            <target>File name</target>
+            <target>文件名</target>
           </trans-unit>
           <trans-unit id="ValueListEditor1.TitleCaptions.Strings.Target">
             <source>Target</source>
@@ -2874,7 +2874,7 @@ windows you are using.
         <group id="TEXTENSIONFORM" datatype="form">
           <trans-unit id="Caption">
             <source>Extension Packages</source>
-            <target>Extension Packages</target>
+            <target>扩展包</target>
           </trans-unit>
           <trans-unit id="Label10.Caption">
             <source>Active packages:</source>
@@ -3054,7 +3054,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="RefreshExtensionsButton.Caption">
             <source>Refresh</source>
-            <target>Refresh</target>
+            <target>刷新</target>
           </trans-unit>
           <trans-unit id="UpdateButton.Caption">
             <source>Update</source>
@@ -3094,7 +3094,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="PageControl1.TabSheet1.NameLabel.Caption">
             <source>Name :</source>
-            <target>Name :</target>
+            <target>名称:</target>
           </trans-unit>
           <trans-unit id="PageControl1.TabSheet1.VersionLabel.Caption">
             <source>Version :</source>
@@ -3372,7 +3372,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="PageControl1.ReviewSheet.ReviewAssetName.Caption">
             <source>Asset Name</source>
-            <target>Asset Name</target>
+            <target>资源名称</target>
           </trans-unit>
           <trans-unit id="PageControl1.ReviewSheet.ReviewAssetPackageID.Caption">
             <source>com.package.id</source>
@@ -3396,11 +3396,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ExportNextButton.Caption">
             <source>Next</source>
-            <target>Next</target>
+            <target>下一个</target>
           </trans-unit>
           <trans-unit id="AssetNextButton.Caption">
             <source>Next</source>
-            <target>Next</target>
+            <target>下一个</target>
           </trans-unit>
           <trans-unit id="ReviewCreateButton.Caption">
             <source>Create</source>
@@ -3492,7 +3492,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="OKBtn.Caption">
             <source>&amp;OK</source>
-            <target>&amp;OK</target>
+            <target>&amp;确定</target>
           </trans-unit>
           <trans-unit id="NameEdit.Hint">
             <source>The name of the font</source>
@@ -3722,11 +3722,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ColorValue.Hint">
             <source>Click to change the color</source>
-            <target>Click to change the color</target>
+            <target>单击修改一个颜色</target>
           </trans-unit>
           <trans-unit id="ColorLabel.Caption">
             <source>Color:</source>
-            <target>Color:</target>
+            <target>颜色：</target>
           </trans-unit>
           <trans-unit id="Label1.Caption">
             <source>Horizontal size:</source>
@@ -3768,7 +3768,7 @@ windows you are using.
         <group id="THELPFORM" datatype="form">
           <trans-unit id="Caption">
             <source>Game Information</source>
-            <target>Game Information</target>
+            <target>游戏信息</target>
           </trans-unit>
           <trans-unit id="ToolBar.OKButton.Caption">
             <source>OKButton</source>
@@ -4062,11 +4062,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="OKBtn.Caption">
             <source>&amp;OK</source>
-            <target>&amp;OK</target>
+            <target>&amp;确定</target>
           </trans-unit>
           <trans-unit id="CancelBtn.Caption">
             <source>&amp;Cancel</source>
-            <target>&amp;Cancel</target>
+            <target>&amp;取消</target>
           </trans-unit>
           <trans-unit id="HelpSeparateCheck.Caption">
             <source>&amp;Show help in a separate window</source>
@@ -4086,7 +4086,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="HelpPanel.HelpCaptionEdit.Text">
             <source>Game Information</source>
-            <target>Game Information</target>
+            <target>游戏信息</target>
           </trans-unit>
           <trans-unit id="HelpPanel.PositionBox.Caption">
             <source> Position </source>
@@ -4240,7 +4240,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="RightPanel.DrawModeGroup.Items.Strings.Replace">
             <source>Replace</source>
-            <target>Replace</target>
+            <target>替换</target>
           </trans-unit>
           <trans-unit id="RightPanel.PreviewBox.Caption">
             <source>Preview </source>
@@ -4660,7 +4660,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ActionList.Action_Undo.Hint">
             <source>Undo the last change</source>
-            <target>Undo the last change</target>
+            <target>撤销最后一次修改</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_Undo.ShortCut">
             <source>Ctrl+Z</source>
@@ -5136,7 +5136,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ActionList.Action_Delete.Caption">
             <source>&amp;Delete</source>
-            <target>&amp;Delete</target>
+            <target>&amp;删除</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_Delete.Hint">
             <source>Delete the selection</source>
@@ -5324,7 +5324,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ExportGroup.NoneBtn.Caption">
             <source>Select None</source>
-            <target>Select None</target>
+            <target>全不选Select None</target>
           </trans-unit>
           <trans-unit id="ExportGroup.SoundsCheck.Caption">
             <source>Sounds</source>
@@ -5340,7 +5340,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ExportGroup.TimelinesCheck.Caption">
             <source>Time Lines</source>
-            <target>Time Lines</target>
+            <target>时间线</target>
           </trans-unit>
           <trans-unit id="ExportGroup.FontsCheck.Caption">
             <source>Fonts</source>
@@ -5360,19 +5360,19 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ExportGroup.IncludefilesCheck.Caption">
             <source>Include Files</source>
-            <target>Include Files</target>
+            <target>内含文件</target>
           </trans-unit>
           <trans-unit id="ExportGroup.ExtensionsCheck.Caption">
             <source>Extension Packages</source>
-            <target>Extension Packages</target>
+            <target>扩展包</target>
           </trans-unit>
           <trans-unit id="ExportGroup.TriggersCheck.Caption">
             <source>Trigger Events</source>
-            <target>Trigger Events</target>
+            <target>触发器事件</target>
           </trans-unit>
           <trans-unit id="ExportGroup.HelpCheck.Caption">
             <source>Game Information</source>
-            <target>Game Information</target>
+            <target>游戏信息</target>
           </trans-unit>
           <trans-unit id="ExportGroup.SettingsCheck.Caption">
             <source>Global Game Settings</source>
@@ -5476,7 +5476,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="FindBox.FindNext.Caption">
             <source>Next</source>
-            <target>Next</target>
+            <target>下一个</target>
           </trans-unit>
           <trans-unit id="FindBox.FindNext.Hint">
             <source>Find Next instance with given name</source>
@@ -5484,7 +5484,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="FindBox.FindPrevious.Caption">
             <source>Previous</source>
-            <target>Previous</target>
+            <target>上一个</target>
           </trans-unit>
           <trans-unit id="FindBox.FindPrevious.Hint">
             <source>Find previous instance with given name</source>
@@ -5836,7 +5836,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="Panel1.SearchForResourcesPanel.SearchOptionPanel.SearchOptionPanelPrev.SearchForResourcesPrev.Caption">
             <source>Previous</source>
-            <target>Previous</target>
+            <target>上一个</target>
           </trans-unit>
           <trans-unit id="Panel1.SearchForResourcesPanel.SearchOptionPanel.SearchOptionPanelPrev.SearchForResourcesPrev.Hint">
             <source>Previous Resource</source>
@@ -5844,7 +5844,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="Panel1.SearchForResourcesPanel.SearchOptionPanel.SearchOptionPanelNext.SearchForResourcesNext.Caption">
             <source>Next</source>
-            <target>Next</target>
+            <target>下一个</target>
           </trans-unit>
           <trans-unit id="Panel1.SearchForResourcesPanel.SearchOptionPanel.SearchOptionPanelNext.SearchForResourcesNext.Hint">
             <source>Next Resource</source>
@@ -6104,11 +6104,11 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="Panel3.TutorialPanel.PreviousBtn.Caption">
             <source>Previous</source>
-            <target>Previous</target>
+            <target>上一个</target>
           </trans-unit>
           <trans-unit id="Panel3.TutorialPanel.NextBtn.Caption">
             <source>Next</source>
-            <target>Next</target>
+            <target>下一个</target>
           </trans-unit>
           <trans-unit id="Panel3.TutorialPanel.CancelBtn.Caption">
             <source>Close</source>
@@ -6276,7 +6276,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="MainMenu.Edit1.Delete2.Caption">
             <source>&amp;Delete</source>
-            <target>&amp;Delete</target>
+            <target>&amp;删除</target>
           </trans-unit>
           <trans-unit id="MainMenu.Edit1.Delete2.ShortCut">
             <source>Shift+Del</source>
@@ -6904,7 +6904,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="ResourceMenu.Delete1.Caption">
             <source>&amp;Delete</source>
-            <target>&amp;Delete</target>
+            <target>&amp;删除</target>
           </trans-unit>
           <trans-unit id="ResourceMenu.Delete1.ShortCut">
             <source>Shift+Del</source>
@@ -7124,7 +7124,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="Panel1.OKBtn.Caption">
             <source>&amp;OK</source>
-            <target>&amp;OK</target>
+            <target>&amp;确定</target>
           </trans-unit>
           <trans-unit id="Panel1.ImageGroup.Caption">
             <source> Image </source>
@@ -7794,7 +7794,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="Panel1.Label2.Caption">
             <source>&amp;Name:</source>
-            <target>&amp;Name:</target>
+            <target>&amp;名称:</target>
           </trans-unit>
           <trans-unit id="Panel1.Label6.Caption">
             <source>&amp;Depth:</source>
@@ -8018,7 +8018,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="Panel1.Panel3.OKBtn.Caption">
             <source>&amp;OK</source>
-            <target>&amp;OK</target>
+            <target>&amp;确定</target>
           </trans-unit>
           <trans-unit id="Panel1.Panel3.ShowInformationBtn.Caption">
             <source>Show &amp;Information</source>
@@ -8118,7 +8118,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="ListMenu.Delete1.Caption">
             <source>&amp;Delete</source>
-            <target>&amp;Delete</target>
+            <target>&amp;删除</target>
           </trans-unit>
           <trans-unit id="ListMenu.Delete1.ShortCut">
             <source>Del</source>
@@ -8142,7 +8142,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="ListMenu.Clear1.Caption">
             <source>C&amp;lear</source>
-            <target>C&amp;lear</target>
+            <target>清除</target>
           </trans-unit>
           <trans-unit id="ListMenu.Undo1.Caption">
             <source>Undo Last Operation</source>
@@ -8196,7 +8196,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="ToolBar.OKBtn.Caption">
             <source>OKBtn</source>
-            <target>OKBtn</target>
+            <target>确定</target>
           </trans-unit>
           <trans-unit id="ToolBar.OKBtn.Hint">
             <source>Close the form</source>
@@ -8208,7 +8208,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="ToolBar.SaveBtn.Caption">
             <source>SaveBtn</source>
-            <target>SaveBtn</target>
+            <target>保存</target>
           </trans-unit>
           <trans-unit id="ToolBar.SaveBtn.Hint">
             <source>Save the object information to a file</source>
@@ -8384,11 +8384,11 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="OKBtn.Caption">
             <source>&amp;OK</source>
-            <target>&amp;OK</target>
+            <target>&amp;确定</target>
           </trans-unit>
           <trans-unit id="CancelBtn.Caption">
             <source>&amp;Cancel</source>
-            <target>&amp;Cancel</target>
+            <target>&amp;取消</target>
           </trans-unit>
           <trans-unit id="PageControl1.GeneralSheet.Caption">
             <source>&amp;General</source>
@@ -12722,7 +12722,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="PageControl1.TizenSheet.TizenPageControl.TizenGeneral.TizenNetworkGroupBox.TizenAddUrlBtn.Caption">
             <source>&amp;Add</source>
-            <target>&amp;Add</target>
+            <target>&amp;添加</target>
           </trans-unit>
           <trans-unit id="PageControl1.TizenSheet.TizenPageControl.TizenGeneral.TizenNetworkGroupBox.TizenAddUrlBtn.Hint">
             <source>Append a url at the end of the list</source>
@@ -16554,7 +16554,7 @@ Further source control commands can be found in the resource tree menu.</target>
           </trans-unit>
           <trans-unit id="Panel1.Label2.Caption">
             <source>&amp;Name:</source>
-            <target>&amp;Name:</target>
+            <target>&amp;名称:</target>
           </trans-unit>
           <trans-unit id="Panel1.Label1.Caption">
             <source>&amp;X:</source>
@@ -16610,7 +16610,7 @@ Further source control commands can be found in the resource tree menu.</target>
           </trans-unit>
           <trans-unit id="Panel1.AddBtn.Caption">
             <source>&amp;Add</source>
-            <target>&amp;Add</target>
+            <target>&amp;添加</target>
           </trans-unit>
           <trans-unit id="Panel1.AddBtn.Hint">
             <source>Add the point to the path</source>
@@ -16618,7 +16618,7 @@ Further source control commands can be found in the resource tree menu.</target>
           </trans-unit>
           <trans-unit id="Panel1.DeleteBtn.Caption">
             <source>&amp;Delete</source>
-            <target>&amp;Delete</target>
+            <target>&amp;删除</target>
           </trans-unit>
           <trans-unit id="Panel1.DeleteBtn.Hint">
             <source>Delete the point from the path</source>
@@ -16626,7 +16626,7 @@ Further source control commands can be found in the resource tree menu.</target>
           </trans-unit>
           <trans-unit id="Panel1.InsertBtn.Caption">
             <source>&amp;Insert</source>
-            <target>&amp;Insert</target>
+            <target>&amp;插入</target>
           </trans-unit>
           <trans-unit id="Panel1.InsertBtn.Hint">
             <source>Insert the point before the current one</source>
@@ -16894,7 +16894,7 @@ Further source control commands can be found in the resource tree menu.</target>
           </trans-unit>
           <trans-unit id="PageControl1.DeveloperTab.DeveloperPanel.DevNext.Caption">
             <source>Next</source>
-            <target>Next</target>
+            <target>下一个</target>
           </trans-unit>
           <trans-unit id="PageControl1.GameSelectionTab.Caption">
             <source>Game Selection</source>
@@ -16978,7 +16978,7 @@ Further source control commands can be found in the resource tree menu.</target>
           </trans-unit>
           <trans-unit id="PageControl1.Version.VersionPanel.Button1.Caption">
             <source>Next</source>
-            <target>Next</target>
+            <target>下一个</target>
           </trans-unit>
           <trans-unit id="PageControl1.Version.VersionPanel.Button2.Caption">
             <source>Back</source>
@@ -17036,11 +17036,11 @@ Further source control commands can be found in the resource tree menu.</target>
           </trans-unit>
           <trans-unit id="OKBtn.Caption">
             <source>&amp;OK</source>
-            <target>&amp;OK</target>
+            <target>&amp;确定</target>
           </trans-unit>
           <trans-unit id="CancelBtn.Caption">
             <source>&amp;Cancel</source>
-            <target>&amp;Cancel</target>
+            <target>&amp;取消</target>
           </trans-unit>
           <trans-unit id="PageControl1.TabSheet1.Caption">
             <source>&amp;General</source>
@@ -18016,11 +18016,11 @@ Further source control commands can be found in the resource tree menu.</target>
           </trans-unit>
           <trans-unit id="BitBtn1.Caption">
             <source>&amp;OK</source>
-            <target>&amp;OK</target>
+            <target>&amp;确定</target>
           </trans-unit>
           <trans-unit id="BitBtn2.Caption">
             <source>&amp;Cancel</source>
-            <target>&amp;Cancel</target>
+            <target>&amp;取消</target>
           </trans-unit>
           <trans-unit id="QualityPanel.Caption">
             <source> Quality </source>
@@ -18304,7 +18304,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="Panel1.ScrollBox3.TabPages.TabSettings.Panel8.Label8.Caption">
             <source>&amp;Name:</source>
-            <target>&amp;Name:</target>
+            <target>&amp;名称:</target>
           </trans-unit>
           <trans-unit id="Panel1.ScrollBox3.TabPages.TabSettings.Panel8.Value1Text.Caption">
             <source>&amp;Width:</source>
@@ -18500,7 +18500,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="Panel1.ScrollBox3.TabPages.TabBackgrounds.Panel5.Label9.Caption">
             <source>Color:</source>
-            <target>Color:</target>
+            <target>颜色：</target>
           </trans-unit>
           <trans-unit id="Panel1.ScrollBox3.TabPages.TabBackgrounds.Panel5.BackgroundColor.Hint">
             <source>Click to change the background color used</source>
@@ -19334,7 +19334,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="Label1.Caption">
             <source>Feed URL:</source>
-            <target>Feed URL:</target>
+            <target>订阅 URL:</target>
           </trans-unit>
           <trans-unit id="Label2.Caption">
             <source>Feed Name:</source>
@@ -19556,7 +19556,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="RefreshBtn.Caption">
             <source>Refresh</source>
-            <target>Refresh</target>
+            <target>刷新</target>
           </trans-unit>
           <trans-unit id="CloseBtn.Caption">
             <source>Close</source>
@@ -19604,7 +19604,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="RefreshBtn.Caption">
             <source>Refresh</source>
-            <target>Refresh</target>
+            <target>刷新</target>
           </trans-unit>
           <trans-unit id="OnlyProjectFilesCheck.Caption">
             <source>Only Check Project Files</source>
@@ -19626,7 +19626,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar.OKBtn.Hint">
             <source>OK, Save changes</source>
-            <target>OK, Save changes</target>
+            <target>确定，保存修改</target>
           </trans-unit>
           <trans-unit id="ToolBar.LoadBtn.Caption">
             <source>Load</source>
@@ -19634,7 +19634,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar.LoadBtn.Hint">
             <source>Load the code from a text file</source>
-            <target>Load the code from a text file</target>
+            <target>从一个文本文件中载入代码</target>
           </trans-unit>
           <trans-unit id="ToolBar.SaveBtn.Caption">
             <source>Save</source>
@@ -19642,15 +19642,15 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar.SaveBtn.Hint">
             <source>Save the code to a text file</source>
-            <target>Save the code to a text file</target>
+            <target>将代码保存到一个文本文件中</target>
           </trans-unit>
           <trans-unit id="ToolBar.PrintBtn.Caption">
             <source>Print</source>
-            <target>Print</target>
+            <target>打印</target>
           </trans-unit>
           <trans-unit id="ToolBar.PrintBtn.Hint">
             <source>Print the code</source>
-            <target>Print the code</target>
+            <target>打印代码</target>
           </trans-unit>
           <trans-unit id="ToolBar.UndoBtn.Caption">
             <source>Undo</source>
@@ -19658,7 +19658,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar.UndoBtn.Hint">
             <source>Undo the last change</source>
-            <target>Undo the last change</target>
+            <target>撤销最后一次修改</target>
           </trans-unit>
           <trans-unit id="ToolBar.RedoBtn.Caption">
             <source>Redo</source>
@@ -19674,7 +19674,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar.CutBtn.Hint">
             <source>Cut the selected text to the clipboard</source>
-            <target>Cut the selected text to the clipboard</target>
+            <target>将所选文本剪切到剪贴板上</target>
           </trans-unit>
           <trans-unit id="ToolBar.CopyBtn.Caption">
             <source>Copy</source>
@@ -19682,7 +19682,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar.CopyBtn.Hint">
             <source>Copy the selected text to the clipboard</source>
-            <target>Copy the selected text to the clipboard</target>
+            <target>将所选文本复制到剪贴板上</target>
           </trans-unit>
           <trans-unit id="ToolBar.PasteBtn.Caption">
             <source>Paste</source>
@@ -19690,11 +19690,11 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar.PasteBtn.Hint">
             <source>Paste the text from the clipboard</source>
-            <target>Paste the text from the clipboard</target>
+            <target>从剪贴板粘贴文本</target>
           </trans-unit>
           <trans-unit id="ToolBar.FindBtn.Caption">
             <source>Find</source>
-            <target>Find</target>
+            <target>查找</target>
           </trans-unit>
           <trans-unit id="ToolBar.FindBtn.Hint">
             <source>Show the find and replace panel</source>
@@ -19706,7 +19706,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar.CheckBtn.Hint">
             <source>Check the script for syntax errors</source>
-            <target>Check the script for syntax errors</target>
+            <target>检查脚本内的语法错误</target>
           </trans-unit>
           <trans-unit id="ToolBar.CodeCompletionButton.Caption">
             <source>Code Completion</source>
@@ -19714,11 +19714,11 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar.CodeCompletionButton.Hint">
             <source>Enable code completion help.</source>
-            <target>Enable code completion help.</target>
+            <target>启用代码自动补全帮助</target>
           </trans-unit>
           <trans-unit id="ToolBar.Namelabel.Caption">
             <source>  &amp;Name: </source>
-            <target>  &amp;Name: </target>
+            <target>&amp;名称:</target>
           </trans-unit>
           <trans-unit id="ToolBar.NameEdit.Hint">
             <source>The name of the script</source>
@@ -19726,7 +19726,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar.WhoLabel.Caption">
             <source>   Applies To:  </source>
-            <target>   Applies To:  </target>
+            <target>应用到：</target>
           </trans-unit>
           <trans-unit id="ToolBar.WhoSelf.Caption">
             <source>Self</source>
@@ -19734,23 +19734,23 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar.WhoSelf.Hint">
             <source>Apply action to object itself</source>
-            <target>Apply action to object itself</target>
+            <target>将动作应用于自身</target>
           </trans-unit>
           <trans-unit id="ToolBar.WhoOther.Caption">
             <source>Other</source>
-            <target>Other</target>
+            <target>其它</target>
           </trans-unit>
           <trans-unit id="ToolBar.WhoOther.Hint">
             <source>Apply action to other object</source>
-            <target>Apply action to other object</target>
+            <target>将动作应用于其他实例</target>
           </trans-unit>
           <trans-unit id="ToolBar.WhoObject.Caption">
             <source>Object:</source>
-            <target>Object:</target>
+            <target>对象:</target>
           </trans-unit>
           <trans-unit id="ToolBar.WhoObject.Hint">
             <source>Apply action to particular object</source>
-            <target>Apply action to particular object</target>
+            <target>将动作应用于特定实例</target>
           </trans-unit>
           <trans-unit id="ToolBar.WhoName.Hint">
             <source>Name of Object script applies to</source>
@@ -19766,11 +19766,11 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.Caption">
             <source> Find </source>
-            <target> Find </target>
+            <target>查找</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindNextBtn.Caption">
             <source>Next</source>
-            <target>Next</target>
+            <target>下一个</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindNextBtn.Hint">
             <source>Find the next occurrence of the string</source>
@@ -19778,7 +19778,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindPreviousBtn.Caption">
             <source>Previous</source>
-            <target>Previous</target>
+            <target>上一个</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindPreviousBtn.Hint">
             <source>Find the previous occurrence of the string</source>
@@ -19786,7 +19786,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindFirstBtn.Caption">
             <source>First</source>
-            <target>First</target>
+            <target>第一个</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindFirstBtn.Hint">
             <source>Find the first occurrence of the string</source>
@@ -19794,7 +19794,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindLastBtn.Caption">
             <source>Last</source>
-            <target>Last</target>
+            <target>最后一个</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindLastBtn.Hint">
             <source>Find the last occurrence of the string</source>
@@ -19802,7 +19802,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindCaseCheck.Caption">
             <source>Case sensitive</source>
-            <target>Case sensitive</target>
+            <target>区分大小写</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindCaseCheck.Hint">
             <source>Toggle case sensitivity of search</source>
@@ -19810,7 +19810,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindWholeCheck.Caption">
             <source>Whole word only</source>
-            <target>Whole word only</target>
+            <target>全词匹配</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindWholeCheck.Hint">
             <source>Toggle searching for whole words only</source>
@@ -19822,11 +19822,11 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.Caption">
             <source> Replace</source>
-            <target> Replace</target>
+            <target>替换</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.ReplaceNextBtn.Caption">
             <source>Next</source>
-            <target>Next</target>
+            <target>下一个</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.ReplaceNextBtn.Hint">
             <source>Replace the next occurrence of the string</source>
@@ -19834,7 +19834,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.ReplacePreviousBtn.Caption">
             <source>Previous</source>
-            <target>Previous</target>
+            <target>上一个</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.ReplacePreviousBtn.Hint">
             <source>Replace the previous occurrence of the string</source>
@@ -19842,7 +19842,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.ReplaceFirstBtn.Caption">
             <source>First</source>
-            <target>First</target>
+            <target>第一个</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.ReplaceFirstBtn.Hint">
             <source>Replace the first occurrence of the string</source>
@@ -19850,7 +19850,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.ReplaceLastBtn.Caption">
             <source>Last</source>
-            <target>Last</target>
+            <target>最后一个</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.ReplaceLastBtn.Hint">
             <source>Replace the last occurrence of the string</source>
@@ -19916,7 +19916,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar.OKBtn.Caption">
             <source>OKBtn</source>
-            <target>OKBtn</target>
+            <target>确定</target>
           </trans-unit>
           <trans-unit id="ToolBar.OKBtn.Hint">
             <source>Close the form</source>
@@ -19928,7 +19928,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar.SaveBtn.Caption">
             <source>SaveBtn</source>
-            <target>SaveBtn</target>
+            <target>保存</target>
           </trans-unit>
           <trans-unit id="ToolBar.SaveBtn.Hint">
             <source>Save the information to a file</source>
@@ -19978,7 +19978,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar.OKBtn.Hint">
             <source>OK, Save changes</source>
-            <target>OK, Save changes</target>
+            <target>确定，保存修改</target>
           </trans-unit>
           <trans-unit id="ToolBar.LoadBtn.Caption">
             <source>Load</source>
@@ -19986,7 +19986,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar.LoadBtn.Hint">
             <source>Load the code from a text file</source>
-            <target>Load the code from a text file</target>
+            <target>从一个文本文件中载入代码</target>
           </trans-unit>
           <trans-unit id="ToolBar.SaveBtn.Caption">
             <source>Save</source>
@@ -19994,15 +19994,15 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar.SaveBtn.Hint">
             <source>Save the code to a text file</source>
-            <target>Save the code to a text file</target>
+            <target>将代码保存到一个文本文件中</target>
           </trans-unit>
           <trans-unit id="ToolBar.PrintBtn.Caption">
             <source>Print</source>
-            <target>Print</target>
+            <target>打印</target>
           </trans-unit>
           <trans-unit id="ToolBar.PrintBtn.Hint">
             <source>Print the code</source>
-            <target>Print the code</target>
+            <target>打印代码</target>
           </trans-unit>
           <trans-unit id="ToolBar.UndoBtn.Caption">
             <source>Undo</source>
@@ -20010,7 +20010,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar.UndoBtn.Hint">
             <source>Undo the last change</source>
-            <target>Undo the last change</target>
+            <target>撤销最后一次修改</target>
           </trans-unit>
           <trans-unit id="ToolBar.RedoBtn.Caption">
             <source>Redo</source>
@@ -20026,7 +20026,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar.CutBtn.Hint">
             <source>Cut the selected text to the clipboard</source>
-            <target>Cut the selected text to the clipboard</target>
+            <target>将所选文本剪切到剪贴板上</target>
           </trans-unit>
           <trans-unit id="ToolBar.CopyBtn.Caption">
             <source>Copy</source>
@@ -20034,7 +20034,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar.CopyBtn.Hint">
             <source>Copy the selected text to the clipboard</source>
-            <target>Copy the selected text to the clipboard</target>
+            <target>将所选文本复制到剪贴板上</target>
           </trans-unit>
           <trans-unit id="ToolBar.PasteBtn.Caption">
             <source>Paste</source>
@@ -20042,11 +20042,11 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar.PasteBtn.Hint">
             <source>Paste the text from the clipboard</source>
-            <target>Paste the text from the clipboard</target>
+            <target>从剪贴板粘贴文本</target>
           </trans-unit>
           <trans-unit id="ToolBar.FindBtn.Caption">
             <source>Find</source>
-            <target>Find</target>
+            <target>查找</target>
           </trans-unit>
           <trans-unit id="ToolBar.FindBtn.Hint">
             <source>Show the find and replace panel</source>
@@ -20058,11 +20058,11 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar.CodeCompletionButton.Hint">
             <source>Enable code completion help.</source>
-            <target>Enable code completion help.</target>
+            <target>启用代码自动补全帮助</target>
           </trans-unit>
           <trans-unit id="ToolBar.Namelabel.Caption">
             <source>  &amp;Name: </source>
-            <target>  &amp;Name: </target>
+            <target>&amp;名称:</target>
           </trans-unit>
           <trans-unit id="ToolBar.NameEdit.Hint">
             <source>The name of the shader</source>
@@ -20090,11 +20090,11 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.Caption">
             <source> Find </source>
-            <target> Find </target>
+            <target>查找</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindNextBtn.Caption">
             <source>Next</source>
-            <target>Next</target>
+            <target>下一个</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindNextBtn.Hint">
             <source>Find the next occurrence of the string</source>
@@ -20102,7 +20102,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindPreviousBtn.Caption">
             <source>Previous</source>
-            <target>Previous</target>
+            <target>上一个</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindPreviousBtn.Hint">
             <source>Find the previous occurrence of the string</source>
@@ -20110,7 +20110,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindFirstBtn.Caption">
             <source>First</source>
-            <target>First</target>
+            <target>第一个</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindFirstBtn.Hint">
             <source>Find the first occurrence of the string</source>
@@ -20118,7 +20118,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindLastBtn.Caption">
             <source>Last</source>
-            <target>Last</target>
+            <target>最后一个</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindLastBtn.Hint">
             <source>Find the last occurrence of the string</source>
@@ -20126,7 +20126,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindCaseCheck.Caption">
             <source>Case sensitive</source>
-            <target>Case sensitive</target>
+            <target>区分大小写</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindCaseCheck.Hint">
             <source>Toggle case sensitivity in search</source>
@@ -20134,7 +20134,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindWholeCheck.Caption">
             <source>Whole word only</source>
-            <target>Whole word only</target>
+            <target>全词匹配</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox1.FindWholeCheck.Hint">
             <source>Toggle whole words only in search</source>
@@ -20146,11 +20146,11 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.Caption">
             <source> Replace</source>
-            <target> Replace</target>
+            <target>替换</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.ReplaceNextBtn.Caption">
             <source>Next</source>
-            <target>Next</target>
+            <target>下一个</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.ReplaceNextBtn.Hint">
             <source>Replace the next occurrence of the string</source>
@@ -20158,7 +20158,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.ReplacePreviousBtn.Caption">
             <source>Previous</source>
-            <target>Previous</target>
+            <target>上一个</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.ReplacePreviousBtn.Hint">
             <source>Replace the previous occurrence of the string</source>
@@ -20166,7 +20166,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.ReplaceFirstBtn.Caption">
             <source>First</source>
-            <target>First</target>
+            <target>第一个</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.ReplaceFirstBtn.Hint">
             <source>Replace the first occurrence of the string</source>
@@ -20174,7 +20174,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.ReplaceLastBtn.Caption">
             <source>Last</source>
-            <target>Last</target>
+            <target>最后一个</target>
           </trans-unit>
           <trans-unit id="SearchPanel.GroupBox2.ReplaceLastBtn.Hint">
             <source>Replace the last occurrence of the string</source>
@@ -20224,7 +20224,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="NameLabel.Caption">
             <source>&amp;Name:</source>
-            <target>&amp;Name:</target>
+            <target>&amp;名称:</target>
           </trans-unit>
           <trans-unit id="NameEdit.Hint">
             <source>The name of the sound</source>
@@ -20236,7 +20236,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="AdvancedPanel.FileNameLabel.Caption">
             <source>Filename: </source>
-            <target>Filename: </target>
+            <target>文件名:</target>
           </trans-unit>
           <trans-unit id="AdvancedPanel.AudioGroupLabel.Caption">
             <source>Audio Group:</source>
@@ -20452,7 +20452,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="OKBtn.Caption">
             <source>&amp;OK</source>
-            <target>&amp;OK</target>
+            <target>&amp;确定</target>
           </trans-unit>
           <trans-unit id="FileBtn.Hint">
             <source>Load the sound from a file</source>
@@ -20520,7 +20520,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="OKBtn.Caption">
             <source>&amp;OK</source>
-            <target>&amp;OK</target>
+            <target>&amp;确定</target>
           </trans-unit>
           <trans-unit id="SpineAgreementCheckBox.Caption">
             <source>I agree to the terms listed</source>
@@ -20546,7 +20546,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="Panel1.PreviewPanel.Label1.Caption">
             <source>Speed:</source>
-            <target>速度：</target>
+            <target>速度:</target>
           </trans-unit>
           <trans-unit id="Panel1.PreviewPanel.Label2.Caption">
             <source>This is not the speed in the game! Use only for preview.</source>
@@ -20858,7 +20858,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="MainMenu1.Edit1.DeleteImage1.Caption">
             <source>&amp;Delete</source>
-            <target>&amp;Delete</target>
+            <target>&amp;删除</target>
           </trans-unit>
           <trans-unit id="MainMenu1.Edit1.DeleteImage1.ShortCut">
             <source>Del</source>
@@ -21471,7 +21471,7 @@ Middle mouse button = scroll
             </trans-unit>
             <trans-unit id="All.F:\Program Files\Steam\steamapps\common\gamemaker_studio\GameMaker-Studio.exe.Forms.TSPRITEEDITORFORM.MainMenu1.Edit1.DeleteImage1.Caption">
               <source>&amp;Delete</source>
-              <target>&amp;Delete</target>
+              <target>&amp;删除</target>
             </trans-unit>
             <trans-unit id="All.F:\Program Files\Steam\steamapps\common\gamemaker_studio\GameMaker-Studio.exe.Forms.TSPRITEEDITORFORM.MainMenu1.Edit1.DeleteImage1.ShortCut">
               <source>Del</source>
@@ -21958,7 +21958,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="Panel1.NameLabel.Caption">
             <source>&amp;Name:</source>
-            <target>&amp;Name:</target>
+            <target>&amp;名称:</target>
           </trans-unit>
           <trans-unit id="Panel1.NumberLabel.Caption">
             <source>Number of subimages: 1</source>
@@ -21990,7 +21990,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="Panel1.OKBtn.Caption">
             <source>&amp;OK</source>
-            <target>&amp;OK</target>
+            <target>&amp;确定</target>
           </trans-unit>
           <trans-unit id="Panel1.NameEdit.Hint">
             <source>The name of the sprite</source>
@@ -23054,11 +23054,11 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="StorePropsOKBtn.Caption">
             <source>&amp;OK</source>
-            <target>&amp;OK</target>
+            <target>&amp;确定</target>
           </trans-unit>
           <trans-unit id="StorePropsCancelBtn.Caption">
             <source>&amp;Cancel</source>
-            <target>&amp;Cancel</target>
+            <target>&amp;取消</target>
           </trans-unit>
         </group>
         <group id="TSTRIPFORM" datatype="form">
@@ -23188,11 +23188,11 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ButtonPanel.BitBtn1.Caption">
             <source>&amp;OK</source>
-            <target>&amp;OK</target>
+            <target>&amp;确定</target>
           </trans-unit>
           <trans-unit id="ButtonPanel.BitBtn2.Caption">
             <source>&amp;Cancel</source>
-            <target>&amp;Cancel</target>
+            <target>&amp;取消</target>
           </trans-unit>
         </group>
         <group id="TSTUDIOPREFERENCES" datatype="form">
@@ -24264,7 +24264,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="GroupBox1.SearchInBox.Items.Strings.Time Lines">
             <source>Time Lines</source>
-            <target>Time Lines</target>
+            <target>时间线</target>
           </trans-unit>
           <trans-unit id="GroupBox1.SearchEverythingCheck.Caption">
             <source>Everything</source>
@@ -24358,11 +24358,11 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ButtonPanel.Label2.Caption">
             <source>&amp;Name:</source>
-            <target>&amp;Name:</target>
+            <target>&amp;名称:</target>
           </trans-unit>
           <trans-unit id="ButtonPanel.OKBtn.Caption">
             <source>&amp;OK</source>
-            <target>&amp;OK</target>
+            <target>&amp;确定</target>
           </trans-unit>
           <trans-unit id="ButtonPanel.NameEdit.Hint">
             <source>The name of the time line</source>
@@ -24370,7 +24370,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ButtonPanel.AddBtn.Caption">
             <source>&amp;Add</source>
-            <target>&amp;Add</target>
+            <target>&amp;添加</target>
           </trans-unit>
           <trans-unit id="ButtonPanel.AddBtn.Hint">
             <source>Click here to add another moment</source>
@@ -24378,7 +24378,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ButtonPanel.ChangeBtn.Caption">
             <source>&amp;Change</source>
-            <target>&amp;Change</target>
+            <target>&amp;修改</target>
           </trans-unit>
           <trans-unit id="ButtonPanel.ChangeBtn.Hint">
             <source>Change the moment</source>
@@ -24386,7 +24386,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ButtonPanel.Delete.Caption">
             <source>&amp;Delete</source>
-            <target>&amp;Delete</target>
+            <target>&amp;删除</target>
           </trans-unit>
           <trans-unit id="ButtonPanel.Delete.Hint">
             <source>Delete  moments</source>
@@ -24418,7 +24418,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ButtonPanel.ClearBtn.Caption">
             <source>C&amp;lear</source>
-            <target>C&amp;lear</target>
+            <target>清除</target>
           </trans-unit>
           <trans-unit id="ButtonPanel.ClearBtn.Hint">
             <source>Clears all moments</source>
@@ -24502,7 +24502,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ListMenu.Delete1.Caption">
             <source>&amp;Delete</source>
-            <target>&amp;Delete</target>
+            <target>&amp;删除</target>
           </trans-unit>
           <trans-unit id="ListMenu.Delete1.ShortCut">
             <source>Del</source>
@@ -24526,7 +24526,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ListMenu.Clear1.Caption">
             <source>C&amp;lear</source>
-            <target>C&amp;lear</target>
+            <target>清除</target>
           </trans-unit>
           <trans-unit id="EventsMenu.AddEvent1.Caption">
             <source>Add Moment</source>
@@ -24560,7 +24560,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar.OKBtn.Caption">
             <source>OKBtn</source>
-            <target>OKBtn</target>
+            <target>确定</target>
           </trans-unit>
           <trans-unit id="ToolBar.OKBtn.Hint">
             <source>Close the form</source>
@@ -24572,7 +24572,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar.SaveBtn.Caption">
             <source>SaveBtn</source>
-            <target>SaveBtn</target>
+            <target>保存</target>
           </trans-unit>
           <trans-unit id="ToolBar.SaveBtn.Hint">
             <source>Save the object information to a file</source>
@@ -24602,27 +24602,27 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ColorValue.Hint">
             <source>Click to change the color</source>
-            <target>Click to change the color</target>
+            <target>单击修改一个颜色</target>
           </trans-unit>
           <trans-unit id="ColorLabel.Caption">
             <source>Color:</source>
-            <target>Color:</target>
+            <target>颜色：</target>
           </trans-unit>
           <trans-unit id="Label1.Caption">
             <source>Color1:</source>
-            <target>Color1:</target>
+            <target>颜色1:</target>
           </trans-unit>
           <trans-unit id="Label2.Caption">
             <source>Color2:</source>
-            <target>Color2:</target>
+            <target>颜色2:</target>
           </trans-unit>
           <trans-unit id="BlockColourShape1.Hint">
             <source>Click to change the color</source>
-            <target>Click to change the color</target>
+            <target>单击修改一个颜色</target>
           </trans-unit>
           <trans-unit id="BlockColourShape2.Hint">
             <source>Click to change the color</source>
-            <target>Click to change the color</target>
+            <target>单击修改一个颜色</target>
           </trans-unit>
           <trans-unit id="OkBtn.Caption">
             <source>OK</source>
@@ -24660,7 +24660,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="TriggerGroup.Label1.Caption">
             <source>&amp;Name:</source>
-            <target>&amp;Name:</target>
+            <target>&amp;名称:</target>
           </trans-unit>
           <trans-unit id="TriggerGroup.Label2.Caption">
             <source>&amp;Condition:</source>
@@ -24720,7 +24720,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="AddBtn.Caption">
             <source>&amp;Add</source>
-            <target>&amp;Add</target>
+            <target>&amp;添加</target>
           </trans-unit>
           <trans-unit id="AddBtn.Hint">
             <source>Add a trigger to the list</source>
@@ -24728,7 +24728,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="DeleteBtn.Caption">
             <source>&amp;Delete</source>
-            <target>&amp;Delete</target>
+            <target>&amp;删除</target>
           </trans-unit>
           <trans-unit id="DeleteBtn.Hint">
             <source>Delete the selected trigger. Make sure no object uses it!</source>
@@ -24736,7 +24736,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="OKBtn.Caption">
             <source>&amp;OK</source>
-            <target>&amp;OK</target>
+            <target>&amp;确定</target>
           </trans-unit>
           <trans-unit id="OKBtn.Hint">
             <source>Close the form, saving the changes</source>
@@ -24744,7 +24744,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="LoadBtn.Caption">
             <source>&amp;Load</source>
-            <target>&amp;Load</target>
+            <target>&amp;载入</target>
           </trans-unit>
           <trans-unit id="LoadBtn.Hint">
             <source>Load the collection of triggers from a file.</source>
@@ -24760,7 +24760,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ClearBtn.Caption">
             <source>&amp;Clear</source>
-            <target>&amp;Clear</target>
+            <target>&amp;清除</target>
           </trans-unit>
           <trans-unit id="ClearBtn.Hint">
             <source>Clears the complete list of triggers</source>
