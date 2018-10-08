@@ -486,6 +486,62 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Button 2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T045111Z" creationid="LiarOnce" creationdate="20181008T045111Z">
+        <seg>按钮 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Button 3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T045112Z" creationid="LiarOnce" creationdate="20181008T045112Z">
+        <seg>按钮 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Button 4</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T045113Z" creationid="LiarOnce" creationdate="20181008T045113Z">
+        <seg>按钮 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Button 5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T045113Z" creationid="LiarOnce" creationdate="20181008T045113Z">
+        <seg>按钮 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Button 6</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T045114Z" creationid="LiarOnce" creationdate="20181008T045114Z">
+        <seg>按钮 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Button 7</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T045114Z" creationid="LiarOnce" creationdate="20181008T045114Z">
+        <seg>按钮 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Button 8</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T045115Z" creationid="LiarOnce" creationdate="20181008T045115Z">
+        <seg>按钮 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>C&amp;lear</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142444Z" creationid="LiarOnce" creationdate="20181007T142444Z">
