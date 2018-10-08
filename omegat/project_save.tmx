@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044644Z" creationid="LiarOnce" creationdate="20181008T044644Z">
+        <seg>取消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel Download</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141536Z" creationid="LiarOnce" creationdate="20181007T141536Z">
@@ -1150,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044711Z" creationid="LiarOnce" creationdate="20181008T044711Z">
+        <seg>名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Name :</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143342Z" creationid="LiarOnce" creationdate="20181007T143342Z">
@@ -1390,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Replace All</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044623Z" creationid="LiarOnce" creationdate="20181008T044623Z">
+        <seg>替换全部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resources to Export</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143224Z" creationid="LiarOnce" creationdate="20181007T143224Z">
@@ -1502,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Self</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044631Z" creationid="LiarOnce" creationdate="20181008T044631Z">
+        <seg>自身</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sharpen Colors</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135924Z" creationid="LiarOnce" creationdate="20181007T135924Z">
@@ -1530,6 +1562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135618Z" creationid="LiarOnce" creationdate="20181007T135618Z">
         <seg>柔体阴影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source Control</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044704Z" creationid="LiarOnce" creationdate="20181008T044704Z">
+        <seg>源码控制</seg>
       </tuv>
     </tu>
     <tu>
@@ -1618,6 +1658,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130246Z" creationid="deciia" creationdate="20181006T130246Z">
         <seg>版本 8.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044558Z" creationid="LiarOnce" creationdate="20181008T044558Z">
+        <seg>垂直</seg>
       </tuv>
     </tu>
     <tu>
