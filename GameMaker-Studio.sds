@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<desktop scan="1" scanned="20181006132448" lang="zh" pane="TLogPane" col="4" row="ExportGroup.AllBtn.Caption">
+  <language id="zh" autoime="0" autokeyboard="0"/>
+  <language id="en" autoime="0" autokeyboard="0"/>
+  <sheet>
+    <columns>
+      <item class="TFlagsColumn" width="38"/>
+      <item class="TPathColumn" width="205"/>
+      <item class="TTranslationStatusColumn" width="66"/>
+      <item class="TOriginalColumn" width="409"/>
+      <item class="TTranslationColumn" lang="zh" width="409"/>
+    </columns>
+  </sheet>
+  <view node="TVclFormNode" view="TFormEditor"/>
+  <path>
+    <item>All</item>
+    <item>F:\Program Files\Steam\steamapps\common\gamemaker_studio\GameMaker-Studio.exe</item>
+    <item>Forms</item>
+    <item>TIMPORTFORM</item>
+  </path>
+  <export format="efXliff">
+    <filter>
+      <statuses>[tsNotTranslated]</statuses>
+    </filter>
+    <xliff escape="seNone" items="[eiRowLocked,eiRowMarked,eiTranslationComment,eiMaxChars,eiMaxPixels]" translation="teWriteOriginalIfNoValue" usefullids="0"/>
+  </export>
+</desktop>
