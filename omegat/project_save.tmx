@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Backgrounds</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051417Z" creationid="LiarOnce" creationdate="20181008T051417Z">
+        <seg>背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Begin Step</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044954Z" creationid="LiarOnce" creationdate="20181008T044954Z">
@@ -946,6 +954,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141107Z" creationid="LiarOnce" creationdate="20181007T141107Z">
         <seg>第一个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fonts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051523Z" creationid="LiarOnce" creationdate="20181008T051523Z">
+        <seg>字体</seg>
       </tuv>
     </tu>
     <tu>
@@ -1534,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Paths</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051434Z" creationid="LiarOnce" creationdate="20181008T051434Z">
+        <seg>路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Percentage:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134922Z" creationid="LiarOnce" creationdate="20181007T134922Z">
@@ -1726,10 +1750,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scripts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051440Z" creationid="LiarOnce" creationdate="20181008T051440Z">
+        <seg>脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Search for a string</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140918Z" creationid="LiarOnce" creationdate="20181007T140918Z">
         <seg>搜索字符串</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051403Z" creationid="LiarOnce" creationdate="20181008T051403Z">
+        <seg>全选</seg>
       </tuv>
     </tu>
     <tu>
@@ -1790,6 +1830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sounds</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051425Z" creationid="LiarOnce" creationdate="20181008T051425Z">
+        <seg>声音</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Source Control</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044704Z" creationid="LiarOnce" creationdate="20181008T044704Z">
@@ -1810,6 +1858,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141307Z" creationid="deciia" creationdate="20181006T130513Z">
         <seg>速度:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sprites</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051410Z" creationid="LiarOnce" creationdate="20181008T051410Z">
+        <seg>精灵</seg>
       </tuv>
     </tu>
     <tu>
