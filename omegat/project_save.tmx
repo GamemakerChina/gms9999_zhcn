@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Constants</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051751Z" creationid="LiarOnce" creationdate="20181008T051751Z">
+        <seg>常量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copies To :</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142340Z" creationid="LiarOnce" creationdate="20181007T142340Z">
@@ -1002,6 +1010,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143016Z" creationid="LiarOnce" creationdate="20181007T143016Z">
         <seg>游戏开始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Global Game Settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051801Z" creationid="LiarOnce" creationdate="20181008T051801Z">
+        <seg>全局游戏设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -1478,6 +1494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Objects</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051739Z" creationid="LiarOnce" creationdate="20181008T051739Z">
+        <seg>对象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Opacity (alpha):</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135334Z" creationid="LiarOnce" creationdate="20181007T135334Z">
@@ -1714,6 +1738,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143020Z" creationid="LiarOnce" creationdate="20181007T143020Z">
         <seg>房间开始事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rooms</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051744Z" creationid="LiarOnce" creationdate="20181008T051744Z">
+        <seg>房间</seg>
       </tuv>
     </tu>
     <tu>
