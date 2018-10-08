@@ -206,10 +206,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add All</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T053046Z" creationid="LiarOnce" creationdate="20181008T053046Z">
+        <seg>添加全部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add RSS Feed</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140346Z" creationid="LiarOnce" creationdate="20181006T140346Z">
         <seg>添加 RSS 订阅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Resources</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T053023Z" creationid="LiarOnce" creationdate="20181008T053023Z">
+        <seg>添加资源s</seg>
       </tuv>
     </tu>
     <tu>
@@ -422,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Asset Package:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T053144Z" creationid="LiarOnce" creationdate="20181008T053144Z">
+        <seg>资源包:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Asynchronous Event</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142643Z" creationid="LiarOnce" creationdate="20181007T142643Z">
@@ -458,6 +482,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141440Z" creationid="LiarOnce" creationdate="20181007T141440Z">
         <seg>等待下载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Back</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T053148Z" creationid="LiarOnce" creationdate="20181008T053148Z">
+        <seg>返回</seg>
       </tuv>
     </tu>
     <tu>
@@ -958,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extension:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T053015Z" creationid="LiarOnce" creationdate="20181008T053015Z">
+        <seg>扩展:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Feed URL:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140352Z" creationid="LiarOnce" creationdate="20181006T140352Z">
@@ -1222,6 +1262,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Import All</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T053107Z" creationid="LiarOnce" creationdate="20181008T053107Z">
+        <seg>导入全部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import Resources</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T053052Z" creationid="LiarOnce" creationdate="20181008T053052Z">
+        <seg>导入资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Include Files</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143246Z" creationid="LiarOnce" creationdate="20181007T143246Z">
@@ -1322,6 +1378,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141114Z" creationid="LiarOnce" creationdate="20181007T141114Z">
         <seg>最后一个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn more</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T053033Z" creationid="LiarOnce" creationdate="20181008T053033Z">
+        <seg>了解更多</seg>
       </tuv>
     </tu>
     <tu>
@@ -1826,6 +1890,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142042Z" creationid="LiarOnce" creationdate="20181007T142042Z">
         <seg>还原</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Review</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T053133Z" creationid="LiarOnce" creationdate="20181008T053133Z">
+        <seg>评论</seg>
       </tuv>
     </tu>
     <tu>
