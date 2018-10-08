@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T052945Z" creationid="LiarOnce" creationdate="20181008T052945Z">
+        <seg>添加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add RSS Feed</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140346Z" creationid="LiarOnce" creationdate="20181006T140346Z">
@@ -742,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T052932Z" creationid="LiarOnce" creationdate="20181008T052932Z">
+        <seg>创建</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create Event</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044755Z" creationid="LiarOnce" creationdate="20181008T044755Z">
@@ -918,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Export Resources</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T052958Z" creationid="LiarOnce" creationdate="20181008T052958Z">
+        <seg>导出资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exporting Resources</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143214Z" creationid="LiarOnce" creationdate="20181007T143214Z">
@@ -1042,6 +1066,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143016Z" creationid="LiarOnce" creationdate="20181007T143016Z">
         <seg>游戏开始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T052840Z" creationid="LiarOnce" creationdate="20181008T052840Z">
+        <seg>一般</seg>
       </tuv>
     </tu>
     <tu>
@@ -1638,6 +1670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Package ID:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T052923Z" creationid="LiarOnce" creationdate="20181008T052923Z">
+        <seg>包 ID:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Package Manager</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141500Z" creationid="LiarOnce" creationdate="20181007T141500Z">
@@ -1694,6 +1734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Project:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T053005Z" creationid="LiarOnce" creationdate="20181008T053005Z">
+        <seg>项目:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Push Notification</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143123Z" creationid="LiarOnce" creationdate="20181007T143123Z">
@@ -1730,6 +1778,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T135133Z" creationid="deciia" creationdate="20181006T130531Z">
         <seg>相对</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T052936Z" creationid="LiarOnce" creationdate="20181008T052936Z">
+        <seg>删除</seg>
       </tuv>
     </tu>
     <tu>
@@ -2090,6 +2146,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130246Z" creationid="deciia" creationdate="20181006T130246Z">
         <seg>版本 8.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version :</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T052849Z" creationid="LiarOnce" creationdate="20181008T052849Z">
+        <seg>版本:</seg>
       </tuv>
     </tu>
     <tu>
