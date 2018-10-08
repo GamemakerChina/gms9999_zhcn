@@ -222,10 +222,114 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alarm 0</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044859Z" creationid="LiarOnce" creationdate="20181008T044859Z">
+        <seg>计时器 0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alarm 1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044903Z" creationid="LiarOnce" creationdate="20181008T044903Z">
+        <seg>计时器 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alarm 10</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044939Z" creationid="LiarOnce" creationdate="20181008T044939Z">
+        <seg>计时器 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alarm 11</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044939Z" creationid="LiarOnce" creationdate="20181008T044939Z">
+        <seg>计时器 11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alarm 2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044923Z" creationid="LiarOnce" creationdate="20181008T044923Z">
+        <seg>计时器 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alarm 3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044939Z" creationid="LiarOnce" creationdate="20181008T044939Z">
+        <seg>计时器 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alarm 4</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044939Z" creationid="LiarOnce" creationdate="20181008T044939Z">
+        <seg>计时器 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alarm 5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044939Z" creationid="LiarOnce" creationdate="20181008T044939Z">
+        <seg>计时器 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alarm 6</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044939Z" creationid="LiarOnce" creationdate="20181008T044939Z">
+        <seg>计时器 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alarm 7</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044939Z" creationid="LiarOnce" creationdate="20181008T044939Z">
+        <seg>计时器 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alarm 8</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044939Z" creationid="LiarOnce" creationdate="20181008T044939Z">
+        <seg>计时器 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alarm 9</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044939Z" creationid="LiarOnce" creationdate="20181008T044939Z">
+        <seg>计时器 9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alarm Event</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142536Z" creationid="LiarOnce" creationdate="20181007T142536Z">
         <seg>计时器事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044732Z" creationid="LiarOnce" creationdate="20181008T044732Z">
+        <seg>全部</seg>
       </tuv>
     </tu>
     <tu>
@@ -346,6 +450,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141706Z" creationid="LiarOnce" creationdate="20181007T141706Z">
         <seg>背景属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Begin Step</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044954Z" creationid="LiarOnce" creationdate="20181008T044954Z">
+        <seg>步开始</seg>
       </tuv>
     </tu>
     <tu>
@@ -550,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create Event</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044755Z" creationid="LiarOnce" creationdate="20181008T044755Z">
+        <seg>创建事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create New Asset Package</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141517Z" creationid="LiarOnce" creationdate="20181007T141517Z">
@@ -586,6 +706,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142429Z" creationid="LiarOnce" creationdate="20181007T142429Z">
         <seg>反选所有平台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Destroy Event</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044805Z" creationid="LiarOnce" creationdate="20181008T044805Z">
+        <seg>销毁事件</seg>
       </tuv>
     </tu>
     <tu>
@@ -630,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Down</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T045105Z" creationid="LiarOnce" creationdate="20181008T045105Z">
+        <seg>下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dr&amp;aw</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142636Z" creationid="LiarOnce" creationdate="20181007T142636Z">
@@ -666,6 +802,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141004Z" creationid="LiarOnce" creationdate="20181007T141004Z">
         <seg>启用代码自动补全帮助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End Step</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T045007Z" creationid="LiarOnce" creationdate="20181008T045007Z">
+        <seg>步结束</seg>
       </tuv>
     </tu>
     <tu>
@@ -998,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Left</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T045018Z" creationid="LiarOnce" creationdate="20181008T045018Z">
+        <seg>左</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Left button</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142838Z" creationid="LiarOnce" creationdate="20181007T142757Z">
@@ -1210,6 +1362,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142811Z" creationid="LiarOnce" creationdate="20181007T142811Z">
         <seg>无鼠标键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044740Z" creationid="LiarOnce" creationdate="20181008T044740Z">
+        <seg>无</seg>
       </tuv>
     </tu>
     <tu>
@@ -1430,6 +1590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T045026Z" creationid="LiarOnce" creationdate="20181008T045026Z">
+        <seg>右</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right button</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142842Z" creationid="LiarOnce" creationdate="20181007T142802Z">
@@ -1598,6 +1766,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044949Z" creationid="LiarOnce" creationdate="20181008T044949Z">
+        <seg>步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step Event</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044818Z" creationid="LiarOnce" creationdate="20181008T044818Z">
+        <seg>步事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>System Event</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143142Z" creationid="LiarOnce" creationdate="20181007T143142Z">
@@ -1638,6 +1822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Up</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T045031Z" creationid="LiarOnce" creationdate="20181008T045031Z">
+        <seg>上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>User defined</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143048Z" creationid="LiarOnce" creationdate="20181007T143048Z">
@@ -1650,6 +1842,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142107Z" creationid="LiarOnce" creationdate="20181007T142107Z">
         <seg>用户定义常量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044723Z" creationid="LiarOnce" creationdate="20181008T044723Z">
+        <seg>值</seg>
       </tuv>
     </tu>
     <tu>
