@@ -686,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T044417Z" creationid="LiarOnce" creationdate="20181009T044417Z">
+        <seg>选择...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click to change the color</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135038Z" creationid="LiarOnce" creationdate="20181007T135038Z">
@@ -826,6 +834,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051911Z" creationid="LiarOnce" creationdate="20181008T051911Z">
         <seg>日期:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T044257Z" creationid="LiarOnce" creationdate="20181009T044257Z">
+        <seg>删除</seg>
       </tuv>
     </tu>
     <tu>
@@ -994,6 +1010,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T053015Z" creationid="LiarOnce" creationdate="20181008T053015Z">
         <seg>扩展:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extensions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T044404Z" creationid="LiarOnce" creationdate="20181009T044404Z">
+        <seg>扩展</seg>
       </tuv>
     </tu>
     <tu>
@@ -1274,6 +1298,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T053052Z" creationid="LiarOnce" creationdate="20181008T053052Z">
         <seg>导入资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import To Project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T044401Z" creationid="LiarOnce" creationdate="20181009T044401Z">
+        <seg>导入到项目</seg>
       </tuv>
     </tu>
     <tu>
