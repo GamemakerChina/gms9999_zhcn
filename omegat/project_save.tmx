@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;No Zoom</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050747Z" creationid="LiarOnce" creationdate="20181009T050747Z">
+        <seg>&amp;无缩放</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141652Z" creationid="LiarOnce" creationdate="20181007T141652Z">
@@ -258,6 +266,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045953Z" creationid="LiarOnce" creationdate="20181009T045953Z">
         <seg>&amp;打印...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Redo</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050658Z" creationid="LiarOnce" creationdate="20181009T050658Z">
+        <seg>&amp;重做</seg>
       </tuv>
     </tu>
     <tu>
@@ -4567,6 +4583,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Redo the last undone change</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050712Z" creationid="LiarOnce" creationdate="20181009T050712Z">
+        <seg>重做最后一次修改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>RedoBtn</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140646Z" creationid="LiarOnce" creationdate="20181007T140646Z">
@@ -5569,6 +5593,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Toggle &amp;Grid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050723Z" creationid="LiarOnce" creationdate="20181009T050723Z">
+        <seg>切换网格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Toggle Breakpoint</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170114T035118Z" creationid="deciia" creationdate="20161223T063546Z">
@@ -5968,6 +6000,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141429Z" creationid="LiarOnce" creationdate="20181007T141429Z">
         <seg>当前你的库的筛选器中没有任何资产。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom &amp;In</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050728Z" creationid="LiarOnce" creationdate="20181009T050728Z">
+        <seg>放大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom &amp;Out</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050731Z" creationid="LiarOnce" creationdate="20181009T050731Z">
+        <seg>缩小</seg>
       </tuv>
     </tu>
     <tu>
