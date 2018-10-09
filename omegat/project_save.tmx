@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Clear all</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045134Z" creationid="LiarOnce" creationdate="20181009T045134Z">
+        <seg>&amp;清除全部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Delete</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142118Z" creationid="LiarOnce" creationdate="20181007T142118Z">
@@ -66,6 +74,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141729Z" creationid="LiarOnce" creationdate="20181007T141729Z">
         <seg>&amp;修改背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Font</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045104Z" creationid="LiarOnce" creationdate="20181009T045104Z">
+        <seg>&amp;字体</seg>
       </tuv>
     </tu>
     <tu>
@@ -110,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045058Z" creationid="LiarOnce" creationdate="20181009T045058Z">
+        <seg>&amp;名称:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Name:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141349Z" creationid="LiarOnce" creationdate="20181007T141349Z">
@@ -138,6 +162,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142539Z" creationid="LiarOnce" creationdate="20181007T142539Z">
         <seg>步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Texture Group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045120Z" creationid="LiarOnce" creationdate="20181009T045120Z">
+        <seg>&amp;纹理组</seg>
       </tuv>
     </tu>
     <tu>
@@ -1070,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find More</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045031Z" creationid="LiarOnce" creationdate="20181009T045031Z">
+        <seg>查找更多</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FindBtn</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140908Z" creationid="LiarOnce" creationdate="20181007T140908Z">
@@ -1082,6 +1122,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141107Z" creationid="LiarOnce" creationdate="20181007T141107Z">
         <seg>第一个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font Properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045052Z" creationid="LiarOnce" creationdate="20181009T045052Z">
+        <seg>字体属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -1338,6 +1386,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051938Z" creationid="LiarOnce" creationdate="20181008T051938Z">
         <seg>安装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installed packages:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045005Z" creationid="LiarOnce" creationdate="20181009T045005Z">
+        <seg>已安装的包:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installing Extension Packages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045019Z" creationid="LiarOnce" creationdate="20181009T045019Z">
+        <seg>安装扩展包</seg>
       </tuv>
     </tu>
     <tu>
@@ -2202,6 +2266,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140623Z" creationid="LiarOnce" creationdate="20181007T140623Z">
         <seg>撤销</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uninstall</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045038Z" creationid="LiarOnce" creationdate="20181009T045038Z">
+        <seg>卸载</seg>
       </tuv>
     </tu>
     <tu>
