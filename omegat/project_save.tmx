@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Copy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050029Z" creationid="LiarOnce" creationdate="20181009T050029Z">
+        <seg>&amp;复制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Delete</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142118Z" creationid="LiarOnce" creationdate="20181007T142118Z">
@@ -86,10 +94,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045958Z" creationid="LiarOnce" creationdate="20181009T045958Z">
+        <seg>&amp;编辑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Edit Background</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141729Z" creationid="LiarOnce" creationdate="20181007T141729Z">
         <seg>&amp;修改背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045921Z" creationid="LiarOnce" creationdate="20181009T045921Z">
+        <seg>&amp;文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Load from a file...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045931Z" creationid="LiarOnce" creationdate="20181009T045931Z">
+        <seg>&amp;从文件载入...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Mouse</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142612Z" creationid="LiarOnce" creationdate="20181007T142612Z">
@@ -174,6 +206,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Paste</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050034Z" creationid="LiarOnce" creationdate="20181009T050034Z">
+        <seg>&amp;粘贴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Print...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045953Z" creationid="LiarOnce" creationdate="20181009T045953Z">
+        <seg>&amp;打印...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Save to a file...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045943Z" creationid="LiarOnce" creationdate="20181009T045943Z">
+        <seg>&amp;保存为文件...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Size</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045142Z" creationid="LiarOnce" creationdate="20181009T045142Z">
@@ -202,6 +258,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045120Z" creationid="LiarOnce" creationdate="20181009T045120Z">
         <seg>&amp;纹理组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Undo</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050017Z" creationid="LiarOnce" creationdate="20181009T050017Z">
+        <seg>&amp;撤销</seg>
       </tuv>
     </tu>
     <tu>
@@ -626,6 +690,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T134142Z" creationid="deciia" creationdate="20170105T080824Z">
         <seg>别名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Align Left</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045901Z" creationid="LiarOnce" creationdate="20181009T045901Z">
+        <seg>居左</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Align Right</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045915Z" creationid="LiarOnce" creationdate="20181009T045915Z">
+        <seg>居右</seg>
       </tuv>
     </tu>
     <tu>
@@ -1302,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Centre</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045907Z" creationid="LiarOnce" creationdate="20181009T045907Z">
+        <seg>居中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Certificate (JS)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T084208Z" creationid="deciia" creationdate="20170104T084208Z">
@@ -1762,6 +1850,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T071132Z" creationid="deciia" creationdate="20170103T073400Z">
         <seg>创建时代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cu&amp;t</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050024Z" creationid="LiarOnce" creationdate="20181009T050024Z">
+        <seg>剪切</seg>
       </tuv>
     </tu>
     <tu>
