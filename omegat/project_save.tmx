@@ -14,10 +14,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Anti-Aliasing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045657Z" creationid="LiarOnce" creationdate="20181009T045657Z">
+        <seg>&amp;抗锯齿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Asynchronous</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142640Z" creationid="LiarOnce" creationdate="20181007T142640Z">
         <seg>异步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Bold</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045559Z" creationid="LiarOnce" creationdate="20181009T045559Z">
+        <seg>&amp;粗体</seg>
       </tuv>
     </tu>
     <tu>
@@ -90,6 +106,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142143Z" creationid="LiarOnce" creationdate="20181007T142143Z">
         <seg>&amp;插入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Italic</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045620Z" creationid="LiarOnce" creationdate="20181009T045620Z">
+        <seg>&amp;斜体</seg>
       </tuv>
     </tu>
     <tu>
@@ -462,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add a font range</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045534Z" creationid="LiarOnce" creationdate="20181009T045534Z">
+        <seg>添加字体范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add to Project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141524Z" creationid="LiarOnce" creationdate="20181007T141524Z">
@@ -734,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anti-Aliasing value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045706Z" creationid="LiarOnce" creationdate="20181009T045706Z">
+        <seg>抗锯齿值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anti-alias</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T101027Z" creationid="deciia" creationdate="20170102T101027Z">
@@ -994,6 +1034,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T071002Z" creationid="deciia" creationdate="20170102T071002Z">
         <seg>粗体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bold font</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045613Z" creationid="LiarOnce" creationdate="20181009T045613Z">
+        <seg>粗体字体</seg>
       </tuv>
     </tu>
     <tu>
@@ -1382,6 +1430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clear All Font Ranges</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045548Z" creationid="LiarOnce" creationdate="20181009T045548Z">
+        <seg>清除所有字体范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click to change the color</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135038Z" creationid="LiarOnce" creationdate="20181007T135038Z">
@@ -1402,6 +1458,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T045720Z" creationid="deciia" creationdate="20170104T045720Z">
         <seg>关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close the form</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045506Z" creationid="LiarOnce" creationdate="20181009T045506Z">
+        <seg>关闭窗口</seg>
       </tuv>
     </tu>
     <tu>
@@ -2438,6 +2502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Font Size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045639Z" creationid="LiarOnce" creationdate="20181009T045639Z">
+        <seg>字体大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Font to use</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T054700Z" creationid="deciia" creationdate="20170105T054700Z">
@@ -2983,6 +3055,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T071516Z" creationid="deciia" creationdate="20170102T071516Z">
         <seg>斜体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Italic font</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045629Z" creationid="LiarOnce" creationdate="20181009T045629Z">
+        <seg>斜体字体</seg>
       </tuv>
     </tu>
     <tu>
