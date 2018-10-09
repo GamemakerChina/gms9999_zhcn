@@ -126,6 +126,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Font...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050050Z" creationid="LiarOnce" creationdate="20181009T050050Z">
+        <seg>&amp;字体...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Height:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050207Z" creationid="LiarOnce" creationdate="20181009T050207Z">
+        <seg>高:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Insert</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142143Z" creationid="LiarOnce" creationdate="20181007T142143Z">
@@ -146,6 +162,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142603Z" creationid="LiarOnce" creationdate="20181007T142603Z">
         <seg>&amp;键盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Left:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050135Z" creationid="LiarOnce" creationdate="20181009T050122Z">
+        <seg>左:</seg>
       </tuv>
     </tu>
     <tu>
@@ -258,6 +282,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045120Z" creationid="LiarOnce" creationdate="20181009T045120Z">
         <seg>&amp;纹理组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Top:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050149Z" creationid="LiarOnce" creationdate="20181009T050149Z">
+        <seg>顶:</seg>
       </tuv>
     </tu>
     <tu>
@@ -690,6 +722,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T134142Z" creationid="deciia" creationdate="20170105T080824Z">
         <seg>别名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Align &amp;Center</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050105Z" creationid="LiarOnce" creationdate="20181009T050105Z">
+        <seg>居中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Align &amp;Left</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050056Z" creationid="LiarOnce" creationdate="20181009T050056Z">
+        <seg>居左</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Align &amp;Right</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050114Z" creationid="LiarOnce" creationdate="20181009T050114Z">
+        <seg>居右</seg>
       </tuv>
     </tu>
     <tu>
@@ -1606,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050235Z" creationid="LiarOnce" creationdate="20181009T050235Z">
+        <seg>颜色模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color1:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135941Z" creationid="LiarOnce" creationdate="20181007T135941Z">
@@ -1630,10 +1694,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Colors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050211Z" creationid="LiarOnce" creationdate="20181009T050211Z">
+        <seg>颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Colour</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T073554Z" creationid="deciia" creationdate="20170102T073554Z">
         <seg>颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Colour Mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050239Z" creationid="LiarOnce" creationdate="20181009T050239Z">
+        <seg>颜色模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -3355,6 +3435,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Left Align</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050328Z" creationid="LiarOnce" creationdate="20181009T050303Z">
+        <seg>左对齐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Left button</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142838Z" creationid="LiarOnce" creationdate="20181007T142757Z">
@@ -3927,6 +4015,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051739Z" creationid="LiarOnce" creationdate="20181008T051739Z">
         <seg>对象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opacity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050219Z" creationid="LiarOnce" creationdate="20181009T050219Z">
+        <seg>透明度</seg>
       </tuv>
     </tu>
     <tu>
@@ -4623,6 +4719,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right Align</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050342Z" creationid="LiarOnce" creationdate="20181009T050342Z">
+        <seg>右对齐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right button</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142842Z" creationid="LiarOnce" creationdate="20181007T142802Z">
@@ -4851,6 +4955,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T133903Z" creationid="deciia" creationdate="20170103T133903Z">
         <seg>查找：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &amp;all</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050038Z" creationid="LiarOnce" creationdate="20181009T050038Z">
+        <seg>全选</seg>
       </tuv>
     </tu>
     <tu>
@@ -5712,6 +5824,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T134746Z" creationid="deciia" creationdate="20170103T134746Z">
         <seg>音量：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>W&amp;idth:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050156Z" creationid="LiarOnce" creationdate="20181009T050156Z">
+        <seg>宽:</seg>
       </tuv>
     </tu>
     <tu>
