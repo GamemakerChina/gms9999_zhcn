@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050545Z" creationid="LiarOnce" creationdate="20181009T050545Z">
+        <seg>&amp;图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Insert</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142143Z" creationid="LiarOnce" creationdate="20181007T142143Z">
@@ -222,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;New...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050551Z" creationid="LiarOnce" creationdate="20181009T050551Z">
+        <seg>&amp;新建...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141652Z" creationid="LiarOnce" creationdate="20181007T141652Z">
@@ -242,6 +258,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045953Z" creationid="LiarOnce" creationdate="20181009T045953Z">
         <seg>&amp;打印...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Save as PNG File...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050623Z" creationid="LiarOnce" creationdate="20181009T050623Z">
+        <seg>&amp;保存为 PNG 文件...</seg>
       </tuv>
     </tu>
     <tu>
@@ -294,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Transform</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050523Z" creationid="LiarOnce" creationdate="20181009T050523Z">
+        <seg>&amp;变换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Undo</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050017Z" creationid="LiarOnce" creationdate="20181009T050017Z">
@@ -306,6 +338,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142150Z" creationid="LiarOnce" creationdate="20181007T142150Z">
         <seg>&amp;上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;View</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050516Z" creationid="LiarOnce" creationdate="20181009T050516Z">
+        <seg>&amp;视图</seg>
       </tuv>
     </tu>
     <tu>
@@ -736,32 +776,32 @@
       <tuv lang="EN-US">
         <seg>Align &amp;Left</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050056Z" creationid="LiarOnce" creationdate="20181009T050056Z">
-        <seg>居左</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050406Z" creationid="LiarOnce" creationdate="20181009T050056Z">
+        <seg>左对齐</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Align &amp;Right</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050114Z" creationid="LiarOnce" creationdate="20181009T050114Z">
-        <seg>居右</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050427Z" creationid="LiarOnce" creationdate="20181009T050114Z">
+        <seg>右对齐</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Align Left</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045901Z" creationid="LiarOnce" creationdate="20181009T045901Z">
-        <seg>居左</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050349Z" creationid="LiarOnce" creationdate="20181009T045901Z">
+        <seg>左对齐</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Align Right</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045915Z" creationid="LiarOnce" creationdate="20181009T045915Z">
-        <seg>居右</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050357Z" creationid="LiarOnce" creationdate="20181009T045915Z">
+        <seg>右对齐</seg>
       </tuv>
     </tu>
     <tu>
@@ -1926,6 +1966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create a new, empty image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050610Z" creationid="LiarOnce" creationdate="20181009T050610Z">
+        <seg>创建一个新的空图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creation Code</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T071132Z" creationid="deciia" creationdate="20170103T073400Z">
@@ -2758,6 +2806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>G&amp;rid Settings...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050529Z" creationid="LiarOnce" creationdate="20181009T050529Z">
+        <seg>网格设置...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GCM Sender ID</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180925T040232Z" creationid="deciia" creationdate="20180922T021349Z">
@@ -3527,6 +3583,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T084156Z" creationid="deciia" creationdate="20180922T084156Z">
         <seg>行号文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Load Colour Palette</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050504Z" creationid="LiarOnce" creationdate="20181009T050504Z">
+        <seg>读取调色板</seg>
       </tuv>
     </tu>
     <tu>
@@ -4855,6 +4919,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save Colour Palette</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050458Z" creationid="LiarOnce" creationdate="20181009T050458Z">
+        <seg>保存调色板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save Data Icon</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170312T024632Z" creationid="deciia" creationdate="20170104T083436Z">
@@ -4867,6 +4939,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140606Z" creationid="LiarOnce" creationdate="20181007T140606Z">
         <seg>将代码保存到一个文本文件中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save the image as a PNG file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050646Z" creationid="LiarOnce" creationdate="20181009T050646Z">
+        <seg>保存图像为一个 PNG 文件</seg>
       </tuv>
     </tu>
     <tu>
