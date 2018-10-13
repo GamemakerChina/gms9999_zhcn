@@ -3126,6 +3126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find other extension packages on the website.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130737Z" creationid="LiarOnce" creationdate="20181013T130737Z">
+        <seg>在网站上查找其他扩展包。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find the first occurrence of the string</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124723Z" creationid="LiarOnce" creationdate="20181013T124723Z">
@@ -3238,6 +3246,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Font Test Box</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130813Z" creationid="LiarOnce" creationdate="20181013T130813Z">
+        <seg>字体测试框</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font ranges to copy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130805Z" creationid="LiarOnce" creationdate="20181013T130805Z">
+        <seg>要复制的字体范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Font to use</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T054700Z" creationid="deciia" creationdate="20170105T054700Z">
@@ -3282,6 +3306,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T073036Z" creationid="deciia" creationdate="20170102T073036Z">
         <seg>从文件中获取</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From Range</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130910Z" creationid="LiarOnce" creationdate="20181013T130910Z">
+        <seg>从范围</seg>
       </tuv>
     </tu>
     <tu>
@@ -3859,6 +3891,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Install an extension package</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130741Z" creationid="LiarOnce" creationdate="20181013T130741Z">
+        <seg>安装扩展包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Install or uninstall extension packages</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130258Z" creationid="LiarOnce" creationdate="20181013T130258Z">
@@ -3894,6 +3934,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
         <seg>Installing Extension Packages</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045019Z" creationid="LiarOnce" creationdate="20181009T045019Z">
+        <seg>安装扩展包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installing an Extension Package</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130747Z" creationid="LiarOnce" creationdate="20181013T130747Z">
         <seg>安装扩展包</seg>
       </tuv>
     </tu>
@@ -4359,6 +4407,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130315Z" creationid="LiarOnce" creationdate="20181013T130315Z">
         <seg>扩展名列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of Installed Packages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130729Z" creationid="LiarOnce" creationdate="20181013T130729Z">
+        <seg>已安装软件包列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -4887,6 +4943,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T141755Z" creationid="deciia" creationdate="20170105T102228Z">
         <seg>未连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that the grid is only shown when the image is scaled enough.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131008Z" creationid="LiarOnce" creationdate="20181013T131008Z">
+        <seg>请注意, 只有当图像缩放足够时, 才会显示网格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5527,6 +5591,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Range From</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130914Z" creationid="LiarOnce" creationdate="20181013T130914Z">
+        <seg>范围从</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Range To</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130925Z" creationid="LiarOnce" creationdate="20181013T130925Z">
+        <seg>范围到</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rating</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T075544Z" creationid="deciia" creationdate="20170103T075544Z">
@@ -5635,6 +5715,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T052936Z" creationid="LiarOnce" creationdate="20181008T052936Z">
         <seg>删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove selected font range</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130807Z" creationid="LiarOnce" creationdate="20181013T130807Z">
+        <seg>删除选定的字体范围</seg>
       </tuv>
     </tu>
     <tu>
@@ -6207,6 +6295,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selected characters to copy from font</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130802Z" creationid="LiarOnce" creationdate="20181013T130802Z">
+        <seg>要从字体复制的选定字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selection Colour</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T055537Z" creationid="deciia" creationdate="20170105T055537Z">
@@ -6235,6 +6331,38 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T023102Z" creationid="deciia" creationdate="20180922T023102Z">
         <seg>服务配置 ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the character range to the complete set (0-255)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130953Z" creationid="LiarOnce" creationdate="20181013T130953Z">
+        <seg>将字符范围设置为完整集 (0-255)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the character range to the digits range (48-57)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130956Z" creationid="LiarOnce" creationdate="20181013T130956Z">
+        <seg>将字符范围设置为数字范围 (48-57)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the character range to the letters range (65-122)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130834Z" creationid="LiarOnce" creationdate="20181013T130834Z">
+        <seg>将字符范围设置为字母范围 (65-122)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the character range to the normal range (32-127)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130950Z" creationid="LiarOnce" creationdate="20181013T130950Z">
+        <seg>将字符范围设置为正常范围 (32-127)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6697,6 +6825,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Texture Group for Font page</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130826Z" creationid="LiarOnce" creationdate="20181013T130826Z">
+        <seg>字体页面的纹理组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Texture Group:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121848Z" creationid="LiarOnce" creationdate="20181013T121848Z">
@@ -7061,6 +7197,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045038Z" creationid="LiarOnce" creationdate="20181009T045038Z">
         <seg>卸载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uninstall the selected extension package</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130744Z" creationid="LiarOnce" creationdate="20181013T130744Z">
+        <seg>卸载选定的扩展包</seg>
       </tuv>
     </tu>
     <tu>
