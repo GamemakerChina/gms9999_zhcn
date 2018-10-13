@@ -3347,6 +3347,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hue:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124329Z" creationid="LiarOnce" creationdate="20181013T124329Z">
+        <seg>色调：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I Understand</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123545Z" creationid="LiarOnce" creationdate="20181013T123545Z">
@@ -4239,6 +4247,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170313T145129Z" creationid="deciia" creationdate="20170103T102851Z">
         <seg>新建</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Hue:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124354Z" creationid="LiarOnce" creationdate="20181013T124354Z">
+        <seg>新色调:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5255,6 +5271,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Saturation:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124154Z" creationid="LiarOnce" creationdate="20181013T124154Z">
+        <seg>饱和度:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T100240Z" creationid="deciia" creationdate="20170102T100240Z">
@@ -5517,6 +5541,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180924T025241Z" creationid="deciia" creationdate="20170103T104522Z">
         <seg>移动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shift the hue</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124343Z" creationid="LiarOnce" creationdate="20181013T124343Z">
+        <seg>平移色调</seg>
       </tuv>
     </tu>
     <tu>
