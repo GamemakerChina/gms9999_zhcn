@@ -2758,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>End of path</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125925Z" creationid="LiarOnce" creationdate="20181013T125925Z">
+        <seg>路径结束</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170114T032921Z" creationid="36011" creationdate="20170114T032921Z">
@@ -4495,6 +4503,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142811Z" creationid="LiarOnce" creationdate="20181007T142811Z">
         <seg>无鼠标键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No more health</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125917Z" creationid="LiarOnce" creationdate="20181013T125917Z">
+        <seg>没有更多健康值No more health</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No more lives</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125921Z" creationid="LiarOnce" creationdate="20181013T125905Z">
+        <seg>没有更多生命值</seg>
       </tuv>
     </tu>
     <tu>
@@ -6677,6 +6701,134 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T122942Z" creationid="LiarOnce" creationdate="20181013T122942Z">
         <seg>用于3D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User 0</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125934Z" creationid="LiarOnce" creationdate="20181013T125934Z">
+        <seg>用户 0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User 1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125937Z" creationid="LiarOnce" creationdate="20181013T125937Z">
+        <seg>用户 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User 10</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130005Z" creationid="LiarOnce" creationdate="20181013T130005Z">
+        <seg>用户 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User 11</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130009Z" creationid="LiarOnce" creationdate="20181013T130009Z">
+        <seg>用户 11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User 12</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130012Z" creationid="LiarOnce" creationdate="20181013T130012Z">
+        <seg>用户 12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User 13</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130015Z" creationid="LiarOnce" creationdate="20181013T130015Z">
+        <seg>用户 13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User 14</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130018Z" creationid="LiarOnce" creationdate="20181013T130018Z">
+        <seg>用户 14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User 15</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130020Z" creationid="LiarOnce" creationdate="20181013T130020Z">
+        <seg>用户 15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User 2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125940Z" creationid="LiarOnce" creationdate="20181013T125940Z">
+        <seg>用户 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User 3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125942Z" creationid="LiarOnce" creationdate="20181013T125942Z">
+        <seg>用户 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User 4</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125945Z" creationid="LiarOnce" creationdate="20181013T125945Z">
+        <seg>用户 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User 5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125948Z" creationid="LiarOnce" creationdate="20181013T125948Z">
+        <seg>用户 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User 6</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125950Z" creationid="LiarOnce" creationdate="20181013T125950Z">
+        <seg>用户 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User 7</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125955Z" creationid="LiarOnce" creationdate="20181013T125955Z">
+        <seg>用户 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User 8</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125958Z" creationid="LiarOnce" creationdate="20181013T125958Z">
+        <seg>用户 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User 9</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130001Z" creationid="LiarOnce" creationdate="20181013T130001Z">
+        <seg>用户 9</seg>
       </tuv>
     </tu>
     <tu>
