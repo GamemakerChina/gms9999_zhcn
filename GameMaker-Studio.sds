@@ -1,22 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<desktop scan="1" scanned="20181006132448" lang="zh" pane="TLogPane" col="4" row="ExportGroup.AllBtn.Caption">
+<desktop scan="1" scanned="20181006132448" built="20181013105936" lang="zh" pane="TLogPane" col="3" row="Panel2.ToolBar.Configuration.Hint">
   <language id="zh" autoime="0" autokeyboard="0"/>
   <language id="en" autoime="0" autokeyboard="0"/>
+  <triggers>
+    <item class="TValidateTrigger" position="6" enabled="0"/>
+  </triggers>
   <sheet>
+    <font name="宋体" size="12"/>
     <columns>
-      <item class="TFlagsColumn" width="38"/>
-      <item class="TPathColumn" width="205"/>
-      <item class="TTranslationStatusColumn" width="66"/>
-      <item class="TOriginalColumn" width="409"/>
-      <item class="TTranslationColumn" lang="zh" width="409"/>
+      <item class="TFlagsColumn" width="40"/>
+      <item class="TPathColumn" width="188"/>
+      <item class="TTranslationStatusColumn" width="70"/>
+      <item class="TOriginalColumn" width="375"/>
+      <item class="TTranslationColumn" lang="zh" width="374"/>
     </columns>
+    <params>
+      <findtext>recent</findtext>
+    </params>
   </sheet>
   <view node="TVclFormNode" view="TFormEditor"/>
+  <view node="TVclMenuNode" view="TMenuEditor"/>
   <path>
     <item>All</item>
     <item>F:\Program Files\Steam\steamapps\common\gamemaker_studio\GameMaker-Studio.exe</item>
     <item>Forms</item>
-    <item>TIMPORTFORM</item>
+    <item>TMAINFORM</item>
   </path>
   <export format="efXliff">
     <filter>
