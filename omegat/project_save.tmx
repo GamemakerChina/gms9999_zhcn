@@ -1582,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characters to be copied</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T101538Z" creationid="LiarOnce" creationdate="20181013T101538Z">
+        <seg>要复制的字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20161223T070554Z" creationid="deciia" creationdate="20161223T070554Z">
