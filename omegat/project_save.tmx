@@ -2366,6 +2366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit your extension</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T084651Z" creationid="LiarOnce" creationdate="20181013T084651Z">
+        <seg>编辑你的扩展</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ellipse Tool</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170322T053005Z" creationid="36011" creationdate="20170322T053005Z">
@@ -2586,6 +2594,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T044404Z" creationid="LiarOnce" creationdate="20181009T044404Z">
         <seg>扩展</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extensions List:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T084621Z" creationid="LiarOnce" creationdate="20181013T084621Z">
+        <seg>扩展列表:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3599,6 +3615,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T084156Z" creationid="deciia" creationdate="20180922T084156Z">
         <seg>行号文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Linker Flags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T084632Z" creationid="LiarOnce" creationdate="20181013T084632Z">
+        <seg>连接器标志（Flags）</seg>
       </tuv>
     </tu>
     <tu>
