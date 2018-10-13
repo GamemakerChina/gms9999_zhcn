@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Goto line</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131158Z" creationid="LiarOnce" creationdate="20181013T131158Z">
+        <seg>转到行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Height:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050207Z" creationid="LiarOnce" creationdate="20181009T050207Z">
@@ -346,6 +354,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050523Z" creationid="LiarOnce" creationdate="20181009T050523Z">
         <seg>&amp;变换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Underline</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131301Z" creationid="LiarOnce" creationdate="20181013T131301Z">
+        <seg>下划线</seg>
       </tuv>
     </tu>
     <tu>
@@ -1358,6 +1374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>B&amp;ackground Color...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131316Z" creationid="LiarOnce" creationdate="20181013T131316Z">
+        <seg>背景颜色...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Back</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T053148Z" creationid="LiarOnce" creationdate="20181008T053148Z">
@@ -1554,6 +1578,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T055331Z" creationid="deciia" creationdate="20170105T055331Z">
         <seg>内置变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bullets|Enter bullet mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131130Z" creationid="LiarOnce" creationdate="20181013T131130Z">
+        <seg>子弹|输入项目符号模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -1930,6 +1962,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T045720Z" creationid="deciia" creationdate="20170104T045720Z">
         <seg>关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close saving changes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131149Z" creationid="LiarOnce" creationdate="20181013T131134Z">
+        <seg>关闭，保存更改</seg>
       </tuv>
     </tu>
     <tu>
@@ -3018,6 +3058,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20171129T073208Z" creationid="deciia" creationdate="20171129T073208Z">
         <seg>其它</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F&amp;ormat</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131254Z" creationid="LiarOnce" creationdate="20181013T131254Z">
+        <seg>格式化</seg>
       </tuv>
     </tu>
     <tu>
@@ -6809,6 +6857,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Text C&amp;olor...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131309Z" creationid="LiarOnce" creationdate="20181013T131309Z">
+        <seg>文本颜色...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Text Color</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T090543Z" creationid="LiarOnce" creationdate="20181013T090543Z">
@@ -7261,6 +7317,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T132640Z" creationid="deciia" creationdate="20170103T132640Z">
         <seg>使用他们的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use exclusive or</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131031Z" creationid="LiarOnce" creationdate="20181013T131031Z">
+        <seg>使用独占或</seg>
       </tuv>
     </tu>
     <tu>
