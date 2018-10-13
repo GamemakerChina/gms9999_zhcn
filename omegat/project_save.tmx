@@ -5803,8 +5803,8 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       <tuv lang="EN-US">
         <seg>This texture is used or 3d</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123106Z" creationid="LiarOnce" creationdate="20181013T123106Z">
-        <seg>此纹理被使用或3D</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123442Z" creationid="LiarOnce" creationdate="20181013T123106Z">
+        <seg>使用此纹理或3d</seg>
       </tuv>
     </tu>
     <tu>
