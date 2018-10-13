@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Bulleted List</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131338Z" creationid="LiarOnce" creationdate="20181013T131338Z">
+        <seg>项目符号列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141658Z" creationid="LiarOnce" creationdate="20181007T141658Z">
@@ -310,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Show help in a separate window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131435Z" creationid="LiarOnce" creationdate="20181013T131435Z">
+        <seg>在单独的窗口中显示帮助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Size</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045142Z" creationid="LiarOnce" creationdate="20181009T045142Z">
@@ -394,6 +410,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050516Z" creationid="LiarOnce" creationdate="20181009T050516Z">
         <seg>&amp;视图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Window Caption:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131443Z" creationid="LiarOnce" creationdate="20181013T131443Z">
+        <seg>窗口标题:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1026,6 +1050,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180925T200201Z" creationid="deciia" creationdate="20170105T081956Z">
         <seg>始终安全安装 APK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Always stay on top</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131531Z" creationid="LiarOnce" creationdate="20181013T131531Z">
+        <seg>始终保持在顶部</seg>
       </tuv>
     </tu>
     <tu>
@@ -1850,6 +1882,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140944Z" creationid="LiarOnce" creationdate="20181007T140944Z">
         <seg>检查脚本内的语法错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check when you want the help to be displayed in a separate window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131438Z" creationid="LiarOnce" creationdate="20181013T131438Z">
+        <seg>检查您希望在单独的窗口中显示帮助的时间</seg>
       </tuv>
     </tu>
     <tu>
@@ -3118,6 +3158,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File to load information from</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131408Z" creationid="LiarOnce" creationdate="20181013T131408Z">
+        <seg>从文件中加载信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File to write information to</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131427Z" creationid="LiarOnce" creationdate="20181013T131427Z">
+        <seg>向文件写入信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Filename</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170316T123146Z" creationid="deciia" creationdate="20170105T080809Z">
@@ -3438,6 +3494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Game Information Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131430Z" creationid="LiarOnce" creationdate="20181013T131430Z">
+        <seg>游戏信息选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Game end</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143018Z" creationid="LiarOnce" creationdate="20181007T143018Z">
@@ -3606,6 +3670,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134954Z" creationid="LiarOnce" creationdate="20181007T134954Z">
         <seg>减半</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Height of Help Window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131510Z" creationid="LiarOnce" creationdate="20181013T131510Z">
+        <seg>"帮助"窗口的高度</seg>
       </tuv>
     </tu>
     <tu>
@@ -4351,6 +4423,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050328Z" creationid="LiarOnce" creationdate="20181009T050303Z">
         <seg>左对齐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left Position of Help Window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131455Z" creationid="LiarOnce" creationdate="20181013T131455Z">
+        <seg>"帮助"窗口的左侧位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -6513,6 +6593,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show the window &amp;border and caption</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131525Z" creationid="LiarOnce" creationdate="20181013T131514Z">
+        <seg>显示窗口边框和标题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show the window border and caption</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131517Z" creationid="LiarOnce" creationdate="20181013T131517Z">
+        <seg>显示窗口边框和标题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Signing identities can be easily created in Xcode-&gt;Preferences-&gt;Accounts-&gt;Team-&gt;View Details-&gt;Developer ID Application-&gt;Create.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T081138Z" creationid="deciia" creationdate="20170104T081138Z">
@@ -6693,6 +6789,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051410Z" creationid="LiarOnce" creationdate="20181008T051410Z">
         <seg>精灵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sta&amp;y always on top</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131527Z" creationid="LiarOnce" creationdate="20181013T131527Z">
+        <seg>始终在顶部</seg>
       </tuv>
     </tu>
     <tu>
@@ -7157,6 +7261,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T022700Z" creationid="deciia" creationdate="20170104T022700Z">
         <seg>左上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Top Position of Help Window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131459Z" creationid="LiarOnce" creationdate="20181013T131459Z">
+        <seg>"帮助"窗口的顶部位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -7700,10 +7812,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Width of Help Window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131505Z" creationid="LiarOnce" creationdate="20181013T131505Z">
+        <seg>"帮助"窗口的宽度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Width of a tile (in pixels)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121244Z" creationid="LiarOnce" creationdate="20181013T121244Z">
         <seg>平铺宽度 (以像素为单位)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Window Caption</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131444Z" creationid="LiarOnce" creationdate="20181013T131444Z">
+        <seg>窗口标题</seg>
       </tuv>
     </tu>
     <tu>
