@@ -606,6 +606,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Active Extensions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130248Z" creationid="LiarOnce" creationdate="20181013T130248Z">
+        <seg>活动扩展</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Active packages:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130242Z" creationid="LiarOnce" creationdate="20181013T130242Z">
+        <seg>活动包:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T052945Z" creationid="LiarOnce" creationdate="20181008T052945Z">
@@ -690,6 +706,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045534Z" creationid="LiarOnce" creationdate="20181009T045534Z">
         <seg>添加字体范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add the selected package to the Used list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130256Z" creationid="LiarOnce" creationdate="20181013T130256Z">
+        <seg>将所选包添加到已用列表中</seg>
       </tuv>
     </tu>
     <tu>
@@ -1266,6 +1290,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141625Z" creationid="LiarOnce" creationdate="20181007T141625Z">
         <seg>启动时自动登录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Available Extensions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130253Z" creationid="LiarOnce" creationdate="20181013T130253Z">
+        <seg>可用扩展</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Available packages:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130246Z" creationid="LiarOnce" creationdate="20181013T130246Z">
+        <seg>可用包:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2310,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete selected Extension</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130319Z" creationid="LiarOnce" creationdate="20181013T130319Z">
+        <seg>删除所选扩展名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete the current macro</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124905Z" creationid="LiarOnce" creationdate="20181013T124905Z">
@@ -2462,6 +2510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Display the help file for the selected package</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130300Z" creationid="LiarOnce" creationdate="20181013T130300Z">
+        <seg>显示所选包的帮助文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do&amp;wn</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142204Z" creationid="LiarOnce" creationdate="20181007T142204Z">
@@ -2590,10 +2646,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit Extension Function Properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130302Z" creationid="LiarOnce" creationdate="20181013T130302Z">
+        <seg>编辑扩展函数属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit Extension Macros</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124934Z" creationid="LiarOnce" creationdate="20181007T143329Z">
         <seg>编辑扩展宏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Extension Package Properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130344Z" creationid="LiarOnce" creationdate="20181013T130344Z">
+        <seg>编辑扩展包属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -2830,6 +2902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extension Package Help</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130342Z" creationid="LiarOnce" creationdate="20181013T130342Z">
+        <seg>扩展包帮助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extension Packages</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143258Z" creationid="LiarOnce" creationdate="20181007T143258Z">
@@ -2854,10 +2934,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extensions Library</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130313Z" creationid="LiarOnce" creationdate="20181013T130313Z">
+        <seg>扩展库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extensions List:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T084621Z" creationid="LiarOnce" creationdate="20181013T084621Z">
         <seg>扩展列表:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130305Z" creationid="LiarOnce" creationdate="20181013T130305Z">
+        <seg>外部名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -3603,6 +3699,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Import selected extension to Library</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130317Z" creationid="LiarOnce" creationdate="20181013T130317Z">
+        <seg>将所选扩展导入库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Include Files</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143246Z" creationid="LiarOnce" creationdate="20181007T143246Z">
@@ -3671,6 +3775,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051938Z" creationid="LiarOnce" creationdate="20181008T051938Z">
         <seg>安装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Install or uninstall extension packages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130258Z" creationid="LiarOnce" creationdate="20181013T130258Z">
+        <seg>安装或卸载扩展包</seg>
       </tuv>
     </tu>
     <tu>
@@ -3859,6 +3971,126 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keypad *</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130159Z" creationid="LiarOnce" creationdate="20181013T130118Z">
+        <seg>小键盘 *</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keypad +</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130200Z" creationid="LiarOnce" creationdate="20181013T130118Z">
+        <seg>小键盘 +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keypad -</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130159Z" creationid="LiarOnce" creationdate="20181013T130118Z">
+        <seg>小键盘 -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keypad .</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130202Z" creationid="LiarOnce" creationdate="20181013T130118Z">
+        <seg>小键盘 .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keypad /</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130158Z" creationid="LiarOnce" creationdate="20181013T130118Z">
+        <seg>小键盘 /</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keypad 0</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130149Z" creationid="LiarOnce" creationdate="20181013T130118Z">
+        <seg>小键盘 0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keypad 1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130152Z" creationid="LiarOnce" creationdate="20181013T130118Z">
+        <seg>小键盘 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keypad 2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130153Z" creationid="LiarOnce" creationdate="20181013T130118Z">
+        <seg>小键盘 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keypad 3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130154Z" creationid="LiarOnce" creationdate="20181013T130118Z">
+        <seg>小键盘 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keypad 4</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130154Z" creationid="LiarOnce" creationdate="20181013T130118Z">
+        <seg>小键盘 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keypad 5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130155Z" creationid="LiarOnce" creationdate="20181013T130118Z">
+        <seg>小键盘 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keypad 6</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130156Z" creationid="LiarOnce" creationdate="20181013T130118Z">
+        <seg>小键盘 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keypad 7</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130156Z" creationid="LiarOnce" creationdate="20181013T130118Z">
+        <seg>小键盘 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keypad 8</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130157Z" creationid="LiarOnce" creationdate="20181013T130118Z">
+        <seg>小键盘 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keypad 9</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130157Z" creationid="LiarOnce" creationdate="20181013T130118Z">
+        <seg>小键盘 9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keystore</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T084628Z" creationid="deciia" creationdate="20180922T084628Z">
@@ -4039,6 +4271,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T084632Z" creationid="LiarOnce" creationdate="20181013T084632Z">
         <seg>连接器标志（Flags）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of Extensions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130315Z" creationid="LiarOnce" creationdate="20181013T130315Z">
+        <seg>扩展名列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -4997,6 +5237,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please select the Name and Package ID of your asset from the Marketplace.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130353Z" creationid="LiarOnce" creationdate="20181013T130353Z">
+        <seg>请从市场中选择资产的名称和程序包ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Portrait</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T070017Z" creationid="deciia" creationdate="20170104T065947Z">
@@ -5303,6 +5551,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove the selected package from the Used list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130251Z" creationid="LiarOnce" creationdate="20181013T130251Z">
+        <seg>从已使用的列表中删除所选包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rename</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20161223T064905Z" creationid="deciia" creationdate="20161223T064905Z">
@@ -5443,6 +5699,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143224Z" creationid="LiarOnce" creationdate="20181007T143224Z">
         <seg>要导出的资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Return Type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130307Z" creationid="LiarOnce" creationdate="20181013T130307Z">
+        <seg>返回类型</seg>
       </tuv>
     </tu>
     <tu>
@@ -6661,6 +6925,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T080444Z" creationid="deciia" creationdate="20170103T080444Z">
         <seg>更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upload To Store</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130340Z" creationid="LiarOnce" creationdate="20181013T130340Z">
+        <seg>上传到商店</seg>
       </tuv>
     </tu>
     <tu>
