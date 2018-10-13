@@ -5849,6 +5849,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Underline</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T090534Z" creationid="LiarOnce" creationdate="20181013T090534Z">
+        <seg>强调</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Undo</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20161224T080215Z" creationid="deciia" creationdate="20161224T080215Z">
