@@ -1086,6 +1086,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assign Audio Group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121125Z" creationid="LiarOnce" creationdate="20181013T121125Z">
+        <seg>分配音频组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assign all sounds in group:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121131Z" creationid="LiarOnce" creationdate="20181013T121131Z">
+        <seg>分配组中的所有声音:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Asynchronous Event</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142643Z" creationid="LiarOnce" creationdate="20181007T142643Z">
@@ -3137,6 +3153,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Height of a tile (in pixels)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121233Z" creationid="LiarOnce" creationdate="20181013T121233Z">
+        <seg>平铺高度 (以像素为单位)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>选择一个有个性的翻译，记念一件事物。</note>
       <tuv lang="EN-US">
         <seg>Hello World!!</seg>
@@ -3199,6 +3223,30 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134927Z" creationid="LiarOnce" creationdate="20181007T134927Z">
         <seg>水平</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horizontal Offset:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121223Z" creationid="LiarOnce" creationdate="20181013T121223Z">
+        <seg>水平偏移:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horizontal offset for the first tile</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121704Z" creationid="LiarOnce" creationdate="20181013T121704Z">
+        <seg>第一个图块的水平偏移</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horizontal separation between the tiles</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121644Z" creationid="LiarOnce" creationdate="20181013T121644Z">
+        <seg>平铺之间的水平分隔</seg>
       </tuv>
     </tu>
     <tu>
@@ -3335,6 +3383,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T064419Z" creationid="deciia" creationdate="20170103T113419Z">
         <seg>内含文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indicate whether to use this background as a tile set</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121725Z" creationid="LiarOnce" creationdate="20181013T121725Z">
+        <seg>指示是否将此背景用作图块集</seg>
       </tuv>
     </tu>
     <tu>
@@ -4831,6 +4887,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Replace all occurrences of the string</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121039Z" creationid="LiarOnce" creationdate="20181013T121039Z">
+        <seg>替换字符串中的所有匹配项z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Report a Bug</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T083930Z" creationid="deciia" creationdate="20170102T083930Z">
@@ -5689,6 +5753,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The name of the background</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121141Z" creationid="LiarOnce" creationdate="20181013T121141Z">
+        <seg>背景的名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The name of the font</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085333Z" creationid="LiarOnce" creationdate="20181013T085333Z">
@@ -5697,10 +5769,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tile Height:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121216Z" creationid="LiarOnce" creationdate="20181013T121216Z">
+        <seg>图块高度:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tile Properties</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T110632Z" creationid="deciia" creationdate="20170105T110632Z">
         <seg>图块属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tile Width:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121156Z" creationid="LiarOnce" creationdate="20181013T121156Z">
+        <seg>图块宽度:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6032,6 +6120,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Values are relative to current values</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121102Z" creationid="LiarOnce" creationdate="20181013T121102Z">
+        <seg>值相对于当前值</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>备注：ExtensionEditor_VarArgs：label
 位于扩展 - 文件属性 - 函数 的最下方。
 可变的参数值，还是参数的数目</note>
@@ -6088,6 +6184,30 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044558Z" creationid="LiarOnce" creationdate="20181008T044558Z">
         <seg>垂直</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical Offset:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121224Z" creationid="LiarOnce" creationdate="20181013T121224Z">
+        <seg>垂直偏移:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical offset for the first tile</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121656Z" creationid="LiarOnce" creationdate="20181013T121656Z">
+        <seg>第一个图块的垂直偏移量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical separation between the tiles</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121641Z" creationid="LiarOnce" creationdate="20181013T121641Z">
+        <seg>平铺之间的垂直分隔</seg>
       </tuv>
     </tu>
     <tu>
@@ -6160,6 +6280,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141118Z" creationid="LiarOnce" creationdate="20181007T141118Z">
         <seg>全词匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Width of a tile (in pixels)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121244Z" creationid="LiarOnce" creationdate="20181013T121244Z">
+        <seg>平铺宽度 (以像素为单位)</seg>
       </tuv>
     </tu>
     <tu>
