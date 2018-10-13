@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;High Quality</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085354Z" creationid="LiarOnce" creationdate="20181013T085354Z">
+        <seg>&amp;高质量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Image</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050545Z" creationid="LiarOnce" creationdate="20181009T050545Z">
@@ -1670,6 +1678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Close the form, saving the changes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085606Z" creationid="LiarOnce" creationdate="20181013T085606Z">
+        <seg>保存修改并关闭窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Closed</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T062720Z" creationid="deciia" creationdate="20170103T103746Z">
@@ -3091,6 +3107,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>High Quality font</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085406Z" creationid="LiarOnce" creationdate="20181013T085406Z">
+        <seg>高质量字体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Home</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170320T144004Z" creationid="deciia" creationdate="20170312T104323Z">
@@ -3111,6 +3135,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134927Z" creationid="LiarOnce" creationdate="20181007T134927Z">
         <seg>水平</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horizontal size:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085503Z" creationid="LiarOnce" creationdate="20181013T085503Z">
+        <seg>水平大小:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3215,6 +3247,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143246Z" creationid="LiarOnce" creationdate="20181007T143246Z">
         <seg>内含文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Include in Asset &amp;Package</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085437Z" creationid="LiarOnce" creationdate="20181013T085437Z">
+        <seg>在资源包导入</seg>
       </tuv>
     </tu>
     <tu>
@@ -5297,6 +5337,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Snap to the grid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085549Z" creationid="LiarOnce" creationdate="20181013T085549Z">
+        <seg>对齐到网格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Social</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170320T144136Z" creationid="deciia" creationdate="20170313T005835Z">
@@ -5549,6 +5597,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170322T045824Z" creationid="36011" creationdate="20170322T045824Z">
         <seg>纹理设定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The name of the font</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085333Z" creationid="LiarOnce" creationdate="20181013T085333Z">
+        <seg>字体名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -5936,6 +5992,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044558Z" creationid="LiarOnce" creationdate="20181008T044558Z">
         <seg>垂直</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical size:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085509Z" creationid="LiarOnce" creationdate="20181013T085509Z">
+        <seg>垂直大小:</seg>
       </tuv>
     </tu>
     <tu>
