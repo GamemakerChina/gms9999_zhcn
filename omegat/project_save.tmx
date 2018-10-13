@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add a file to be included</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125111Z" creationid="LiarOnce" creationdate="20181013T125111Z">
+        <seg>添加要包含的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add a font range</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045534Z" creationid="LiarOnce" creationdate="20181009T045534Z">
@@ -1742,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose the Event to Add</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125121Z" creationid="LiarOnce" creationdate="20181013T125121Z">
+        <seg>选择要添加的事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T044417Z" creationid="LiarOnce" creationdate="20181009T044417Z">
@@ -1786,6 +1802,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124950Z" creationid="LiarOnce" creationdate="20181013T124937Z">
         <seg>清除所有宏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear the list of included files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125118Z" creationid="LiarOnce" creationdate="20181013T125118Z">
+        <seg>清除包含的文件列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -2290,6 +2314,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124905Z" creationid="LiarOnce" creationdate="20181013T124905Z">
         <seg>删除当前宏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete the indicated included file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125116Z" creationid="LiarOnce" creationdate="20181013T125116Z">
+        <seg>删除指定的包含文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -2894,6 +2926,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Files to include in the project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125053Z" creationid="LiarOnce" creationdate="20181013T125053Z">
+        <seg>要包括在项目中的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Filter Tree</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180924T032700Z" creationid="deciia" creationdate="20170104T052212Z">
@@ -3375,6 +3415,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085406Z" creationid="LiarOnce" creationdate="20181013T085406Z">
         <seg>高质量字体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hold Combination for 3 Seconds</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125029Z" creationid="LiarOnce" creationdate="20181013T125029Z">
+        <seg>保持组合3秒</seg>
       </tuv>
     </tu>
     <tu>
@@ -4007,6 +4055,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140542Z" creationid="LiarOnce" creationdate="20181007T140542Z">
         <seg>从一个文本文件中载入代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Load the macros from a text file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125017Z" creationid="LiarOnce" creationdate="20181013T125017Z">
+        <seg>从文本文件加载宏</seg>
       </tuv>
     </tu>
     <tu>
@@ -4658,6 +4714,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Outside view 0</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125541Z" creationid="LiarOnce" creationdate="20181013T125541Z">
+        <seg>离开视野 0</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Package 包，程序包，软件包？
 目前全是用程序包，但这种包包含不同的资源，并不完全是程序。</note>
       <tuv lang="EN-US">
@@ -4881,6 +4945,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180927T094419Z" creationid="deciia" creationdate="20170104T073551Z">
         <seg>对输出的.js文件开头插入下列内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press Custom Key Combination</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125024Z" creationid="LiarOnce" creationdate="20181013T125024Z">
+        <seg>按自定义键组合</seg>
       </tuv>
     </tu>
     <tu>
@@ -5511,6 +5583,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save the macros to a text file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125020Z" creationid="LiarOnce" creationdate="20181013T125020Z">
+        <seg>将宏保存到文本文件中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SaveBtn</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140548Z" creationid="LiarOnce" creationdate="20181007T140548Z">
@@ -6097,6 +6177,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Targets to copy to</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125048Z" creationid="LiarOnce" creationdate="20181013T125048Z">
+        <seg>要复制到的目标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Team Identifier</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170316T092910Z" creationid="deciia" creationdate="20170104T071324Z">
@@ -6145,6 +6233,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The filename under which to save the resource</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125042Z" creationid="LiarOnce" creationdate="20181013T125042Z">
+        <seg>要在其中保存资源的文件名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The name of the background</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121141Z" creationid="LiarOnce" creationdate="20181013T121141Z">
@@ -6165,6 +6261,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124611Z" creationid="LiarOnce" creationdate="20181013T124611Z">
         <seg>厚度:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the list of files to be included when creating a stand-alone game.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125105Z" creationid="LiarOnce" creationdate="20181013T125105Z">
+        <seg>这是创建独立游戏时要包括的文件列表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6694,8 +6798,8 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       <tuv lang="EN-US">
         <seg>Views</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="deciia" changedate="20180924T032601Z" creationid="deciia" creationdate="20170102T062625Z">
-        <seg>视图</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125243Z" creationid="deciia" creationdate="20170102T062625Z">
+        <seg>视野</seg>
       </tuv>
     </tu>
     <tu>
