@@ -366,10 +366,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Use as tile set</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121841Z" creationid="LiarOnce" creationdate="20181013T121841Z">
+        <seg>&amp;用作图块集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;View</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050516Z" creationid="LiarOnce" creationdate="20181009T050516Z">
         <seg>&amp;视图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Must be a power of 2)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121851Z" creationid="LiarOnce" creationdate="20181013T121851Z">
+        <seg>(必须为2的幂)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5737,6 +5753,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Texture Group:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121848Z" creationid="LiarOnce" creationdate="20181013T121848Z">
+        <seg>纹理组:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Texture Pages</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170314T162826Z" creationid="deciia" creationdate="20170314T162826Z">
@@ -5797,6 +5821,38 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170320T145721Z" creationid="36011" creationdate="20170320T145721Z">
         <seg>图块集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tile the background horizontally</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121903Z" creationid="LiarOnce" creationdate="20181013T121903Z">
+        <seg>水平平铺背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tile the background vertically</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T122415Z" creationid="LiarOnce" creationdate="20181013T122415Z">
+        <seg>垂直平铺背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tile: Horizontal</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121901Z" creationid="LiarOnce" creationdate="20181013T121901Z">
+        <seg>平铺: 水平</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tile: Vertical</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121904Z" creationid="LiarOnce" creationdate="20181013T121904Z">
+        <seg>平铺: 垂直</seg>
       </tuv>
     </tu>
     <tu>
