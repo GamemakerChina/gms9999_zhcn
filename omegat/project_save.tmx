@@ -1782,6 +1782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clockwise</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124601Z" creationid="LiarOnce" creationdate="20181013T124601Z">
+        <seg>顺时针</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Close</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T045720Z" creationid="deciia" creationdate="20170104T045720Z">
@@ -2890,6 +2898,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T092345Z" creationid="deciia" creationdate="20170102T092345Z">
         <seg>翻转</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flip Vertically</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124418Z" creationid="LiarOnce" creationdate="20181013T124418Z">
+        <seg>垂直翻转</seg>
       </tuv>
     </tu>
     <tu>
@@ -4099,6 +4115,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mirror Horizontally</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124415Z" creationid="LiarOnce" creationdate="20181013T124415Z">
+        <seg>水平镜像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Misc</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T082603Z" creationid="deciia" creationdate="20180922T082603Z">
@@ -4383,6 +4407,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051739Z" creationid="LiarOnce" creationdate="20181008T051739Z">
         <seg>对象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Old Hue:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124402Z" creationid="LiarOnce" creationdate="20181013T124402Z">
+        <seg>旧色调:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4673,6 +4705,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T103029Z" creationid="deciia" creationdate="20170103T103029Z">
         <seg>物理属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place inside image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124613Z" creationid="LiarOnce" creationdate="20181013T124613Z">
+        <seg>放置在图像内</seg>
       </tuv>
     </tu>
     <tu>
@@ -5633,6 +5673,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Smooth Edges</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124627Z" creationid="LiarOnce" creationdate="20181013T124627Z">
+        <seg>平滑边缘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Snap to Grid</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T044905Z" creationid="deciia" creationdate="20170105T044905Z">
@@ -5701,6 +5749,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170114T033039Z" creationid="36011" creationdate="20170114T033039Z">
         <seg>空格键（Space）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124701Z" creationid="LiarOnce" creationdate="20181013T124701Z">
+        <seg>特殊</seg>
       </tuv>
     </tu>
     <tu>
@@ -5825,6 +5881,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Strong</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124653Z" creationid="LiarOnce" creationdate="20181013T124653Z">
+        <seg>强</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Style</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T054940Z" creationid="deciia" creationdate="20161223T084609Z">
@@ -5837,6 +5901,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T051415Z" creationid="deciia" creationdate="20180922T051415Z">
         <seg>提交</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Subtle</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124641Z" creationid="LiarOnce" creationdate="20181013T124641Z">
+        <seg>微妙</seg>
       </tuv>
     </tu>
     <tu>
@@ -5933,6 +6005,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085333Z" creationid="LiarOnce" creationdate="20181013T085333Z">
         <seg>字体名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thickness:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124611Z" creationid="LiarOnce" creationdate="20181013T124611Z">
+        <seg>厚度:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6536,6 +6616,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180926T223605Z" creationid="deciia" creationdate="20170102T083718Z">
         <seg>Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrap Horizontally</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124551Z" creationid="LiarOnce" creationdate="20181013T124410Z">
+        <seg>水平环绕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrap Vertically</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124411Z" creationid="LiarOnce" creationdate="20181013T124411Z">
+        <seg>垂直环绕</seg>
       </tuv>
     </tu>
     <tu>
