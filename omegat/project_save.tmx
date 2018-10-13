@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3rd Party Frameworks + Bundles (Check for weak ref)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130507Z" creationid="LiarOnce" creationdate="20181013T130507Z">
+        <seg>第三方框架 + 捆绑包 (检查弱 ref)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4 seconds</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T065329Z" creationid="deciia" creationdate="20170104T065329Z">
@@ -570,6 +578,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134854Z" creationid="LiarOnce" creationdate="20181007T134854Z">
         <seg>90 度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A unique ID for your extension</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130416Z" creationid="LiarOnce" creationdate="20181013T130416Z">
+        <seg>扩展名的唯一 ID</seg>
       </tuv>
     </tu>
     <tu>
@@ -1022,10 +1038,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Android Permissions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130528Z" creationid="LiarOnce" creationdate="20181013T130528Z">
+        <seg>Android 权限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Android SDK Location</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170318T073254Z" creationid="deciia" creationdate="20170105T081713Z">
         <seg>Android SDK 位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Android Setup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130521Z" creationid="LiarOnce" creationdate="20181013T130521Z">
+        <seg>Android 设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -1106,6 +1138,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T070026Z" creationid="deciia" creationdate="20170104T070026Z">
         <seg>应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Application Level</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130600Z" creationid="LiarOnce" creationdate="20181013T130600Z">
+        <seg>应用级别</seg>
       </tuv>
     </tu>
     <tu>
@@ -1814,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ClassName</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130514Z" creationid="LiarOnce" creationdate="20181013T130514Z">
+        <seg>类名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clean</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T071257Z" creationid="deciia" creationdate="20170103T131958Z">
@@ -2074,6 +2122,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T065312Z" creationid="deciia" creationdate="20170104T065312Z">
         <seg>编译 SDK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compiler Flags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130438Z" creationid="LiarOnce" creationdate="20181013T130438Z">
+        <seg>编译器标志（Flags）:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3763,6 +3819,30 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inject to AndroidManifest.xml</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130536Z" creationid="LiarOnce" creationdate="20181013T130536Z">
+        <seg>注入到 AndroidManifest.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inject to Gradle dependencies</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130616Z" creationid="LiarOnce" creationdate="20181013T130616Z">
+        <seg>注入到 Gradle 依赖项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inject to Info.plist</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130501Z" creationid="LiarOnce" creationdate="20181013T130455Z">
+        <seg>注入到 Info.plist:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insert a macro before the current one</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125001Z" creationid="LiarOnce" creationdate="20181013T125001Z">
@@ -4411,6 +4491,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manifest Level</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130556Z" creationid="LiarOnce" creationdate="20181013T130556Z">
+        <seg>Manifest 级别</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Marketplace</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170318T083823Z" creationid="deciia" creationdate="20170102T084306Z">
@@ -4431,6 +4519,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141549Z" creationid="LiarOnce" creationdate="20181007T141549Z">
         <seg>市场 Beta 登录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marketplace Publisher Console.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130407Z" creationid="LiarOnce" creationdate="20181013T130407Z">
+        <seg>市场发布者控制台。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5743,6 +5839,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Review your asset package before selecting Create:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130716Z" creationid="LiarOnce" creationdate="20181013T130716Z">
+        <seg>在选择创建之前查看您的资源包:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T045026Z" creationid="LiarOnce" creationdate="20181008T045026Z">
@@ -5851,6 +5955,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170311T170620Z" creationid="deciia" creationdate="20170311T170620Z">
         <seg>运行Lint Code 分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RunnerActivity Level</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130607Z" creationid="LiarOnce" creationdate="20181013T130607Z">
+        <seg>RunnerActivity 级别</seg>
       </tuv>
     </tu>
     <tu>
@@ -6063,10 +6175,34 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select resources from your asset package and add them to your project:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130701Z" creationid="LiarOnce" creationdate="20181013T130701Z">
+        <seg>从资产程序包中选择你的资源并将其添加到项目中:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select resources from your project and add them to your asset package:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130637Z" creationid="LiarOnce" creationdate="20181013T130637Z">
+        <seg>从项目中选择资源并添加到你的资源包中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the Texture Group this background belongs to</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T122948Z" creationid="LiarOnce" creationdate="20181013T122948Z">
         <seg>选择此背景所属的纹理组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the platforms that your extension targets.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130418Z" creationid="LiarOnce" creationdate="20181013T130418Z">
+        <seg>选择扩展目标的平台。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6497,6 +6633,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>System Frameworks (Check for weak reference)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130442Z" creationid="LiarOnce" creationdate="20181013T130442Z">
+        <seg>系统框架 (检查弱引用)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tab</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20161224T115515Z" creationid="deciia" creationdate="20161224T075618Z">
@@ -6597,6 +6741,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085333Z" creationid="LiarOnce" creationdate="20181013T085333Z">
         <seg>字体名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The name of your extension</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130414Z" creationid="LiarOnce" creationdate="20181013T130414Z">
+        <seg>扩展名的名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -7448,6 +7600,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T102346Z" creationid="deciia" creationdate="20170103T102346Z">
         <seg>缩小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iOS Setup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130426Z" creationid="LiarOnce" creationdate="20181013T130426Z">
+        <seg>iOS 设置</seg>
       </tuv>
     </tu>
     <tu>
