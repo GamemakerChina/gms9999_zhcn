@@ -5327,6 +5327,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the Texture Group this background belongs to</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T122948Z" creationid="LiarOnce" creationdate="20181013T122948Z">
+        <seg>选择此背景所属的纹理组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selection Colour</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T055537Z" creationid="deciia" creationdate="20170105T055537Z">
@@ -5793,6 +5801,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This texture is used or 3d</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123106Z" creationid="LiarOnce" creationdate="20181013T123106Z">
+        <seg>此纹理被使用或3D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tile Height:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121216Z" creationid="LiarOnce" creationdate="20181013T121216Z">
@@ -6109,6 +6125,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T132640Z" creationid="deciia" creationdate="20170103T132640Z">
         <seg>使用他们的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Used for 3D</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T122942Z" creationid="LiarOnce" creationdate="20181013T122942Z">
+        <seg>用于3D</seg>
       </tuv>
     </tu>
     <tu>
