@@ -646,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add Item</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124756Z" creationid="LiarOnce" creationdate="20181013T124756Z">
+        <seg>添加项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add Placeholder</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170107T050840Z" creationid="deciia" creationdate="20170107T050840Z">
@@ -1050,6 +1058,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T075413Z" creationid="deciia" creationdate="20170104T075413Z">
         <seg>应用 Id</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Append a macro at the end of the list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124835Z" creationid="LiarOnce" creationdate="20181013T124835Z">
+        <seg>在列表末尾追加宏</seg>
       </tuv>
     </tu>
     <tu>
@@ -1766,6 +1782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clear all the macros</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124950Z" creationid="LiarOnce" creationdate="20181013T124937Z">
+        <seg>清除所有宏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click to change the color</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135038Z" creationid="LiarOnce" creationdate="20181007T135038Z">
@@ -1938,6 +1962,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T055323Z" creationid="deciia" creationdate="20170105T055323Z">
         <seg>注释</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CommitLog</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124753Z" creationid="LiarOnce" creationdate="20181013T124753Z">
+        <seg>提交日志</seg>
       </tuv>
     </tu>
     <tu>
@@ -2238,10 +2270,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete Item</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124758Z" creationid="LiarOnce" creationdate="20181013T124758Z">
+        <seg>删除项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete Local Content</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141530Z" creationid="LiarOnce" creationdate="20181007T141530Z">
         <seg>删除本地内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete the current macro</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124905Z" creationid="LiarOnce" creationdate="20181013T124905Z">
+        <seg>删除当前宏</seg>
       </tuv>
     </tu>
     <tu>
@@ -2512,8 +2560,8 @@
       <tuv lang="EN-US">
         <seg>Edit Extension Macros</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143329Z" creationid="LiarOnce" creationdate="20181007T143329Z">
-        <seg>编辑扩展常量</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124934Z" creationid="LiarOnce" creationdate="20181007T143329Z">
+        <seg>编辑扩展宏</seg>
       </tuv>
     </tu>
     <tu>
@@ -2874,6 +2922,38 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045031Z" creationid="LiarOnce" creationdate="20181009T045031Z">
         <seg>查找更多</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find the first occurrence of the string</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124723Z" creationid="LiarOnce" creationdate="20181013T124723Z">
+        <seg>查找字符串的第一个匹配项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find the last occurrence of the string</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124724Z" creationid="LiarOnce" creationdate="20181013T124724Z">
+        <seg>查找字符串的最后一个匹配项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find the next occurrence of the string</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124719Z" creationid="LiarOnce" creationdate="20181013T124719Z">
+        <seg>查找字符串的下一个匹配项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find the previous occurrence of the string</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124721Z" creationid="LiarOnce" creationdate="20181013T124721Z">
+        <seg>查找字符串的上一个匹配项</seg>
       </tuv>
     </tu>
     <tu>
@@ -3523,6 +3603,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insert a macro before the current one</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125001Z" creationid="LiarOnce" creationdate="20181013T125001Z">
+        <seg>在当前项之前插入宏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Install</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051938Z" creationid="LiarOnce" creationdate="20181008T051938Z">
@@ -4083,6 +4171,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Message from Commit Log</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124740Z" creationid="LiarOnce" creationdate="20181013T124740Z">
+        <seg>提交日志中的消息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Middle button</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142844Z" creationid="LiarOnce" creationdate="20181007T142807Z">
@@ -4207,6 +4303,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T092543Z" creationid="deciia" creationdate="20180922T092543Z">
         <seg>移至顶部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moves the macro down</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125010Z" creationid="LiarOnce" creationdate="20181013T125010Z">
+        <seg>向下移动宏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moves the macro up</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125005Z" creationid="LiarOnce" creationdate="20181013T125005Z">
+        <seg>向上移动宏</seg>
       </tuv>
     </tu>
     <tu>
@@ -5071,6 +5183,38 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Replace the first occurrence of the string</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124730Z" creationid="LiarOnce" creationdate="20181013T124730Z">
+        <seg>替换字符串的第一个匹配项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace the last occurrence of the string</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124731Z" creationid="LiarOnce" creationdate="20181013T124731Z">
+        <seg>替换字符串的最后一个匹配项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace the next occurrence of the string</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124727Z" creationid="LiarOnce" creationdate="20181013T124727Z">
+        <seg>替换字符串的下一个匹配项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace the previous occurrence of the string</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124728Z" creationid="LiarOnce" creationdate="20181013T124728Z">
+        <seg>替换字符串的上一个匹配项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Report a Bug</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T083930Z" creationid="deciia" creationdate="20170102T083930Z">
@@ -5709,6 +5853,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135618Z" creationid="LiarOnce" creationdate="20181007T135618Z">
         <seg>柔体阴影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sort the macros</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124953Z" creationid="LiarOnce" creationdate="20181013T124953Z">
+        <seg>对宏进行排序</seg>
       </tuv>
     </tu>
     <tu>
@@ -6379,8 +6531,8 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       <tuv lang="EN-US">
         <seg>User-Defined Macros</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142107Z" creationid="LiarOnce" creationdate="20181007T142107Z">
-        <seg>用户定义常量</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124848Z" creationid="LiarOnce" creationdate="20181007T142107Z">
+        <seg>用户定义宏</seg>
       </tuv>
     </tu>
     <tu>
