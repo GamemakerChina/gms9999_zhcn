@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(you can also click on the original image to change this)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123613Z" creationid="LiarOnce" creationdate="20181013T123613Z">
+        <seg>(您还可以单击原始图像以更改此)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>0 seconds</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T065320Z" creationid="deciia" creationdate="20170104T065320Z">
@@ -918,6 +926,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also indicate information about your machine and the version of windows you are using.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123543Z" creationid="LiarOnce" creationdate="20181013T123543Z">
+        <seg>还指示有关您的计算机和您正在使用的 windows 版本的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Altered Image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123557Z" creationid="LiarOnce" creationdate="20181013T123557Z">
+        <seg>更改的图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternate synchronization method</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180925T055731Z" creationid="deciia" creationdate="20170105T032234Z">
@@ -930,6 +954,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180925T200201Z" creationid="deciia" creationdate="20170105T081956Z">
         <seg>始终安全安装 APK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Amount:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123627Z" creationid="LiarOnce" creationdate="20181013T123603Z">
+        <seg>量:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1066,6 +1098,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140310Z" creationid="LiarOnce" creationdate="20181006T140310Z">
         <seg>将动作应用于特定实例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply settings to all images in the sprite.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124142Z" creationid="LiarOnce" creationdate="20181013T124142Z">
+        <seg>将设置应用于精灵中的所有图像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply to all images in the sprite</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123632Z" creationid="LiarOnce" creationdate="20181013T123632Z">
+        <seg>应用到精灵中的所有图像</seg>
       </tuv>
     </tu>
     <tu>
@@ -1602,6 +1650,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140332Z" creationid="LiarOnce" creationdate="20181007T140332Z">
         <seg>修改透明度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change the Value and Saturation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123547Z" creationid="LiarOnce" creationdate="20181013T123547Z">
+        <seg>更改值和饱和度</seg>
       </tuv>
     </tu>
     <tu>
@@ -2186,6 +2242,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170311T175409Z" creationid="deciia" creationdate="20170311T175409Z">
         <seg>演示项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Describe the problem as carefully as possible, and if possible include an example .gm81 file that exhibits the problematic behavior.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123513Z" creationid="LiarOnce" creationdate="20181013T123513Z">
+        <seg>尽可能仔细地描述问题, 如果可能, 还包括一个展示有问题行为的示例. gm81 文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3283,6 +3347,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I Understand</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123545Z" creationid="LiarOnce" creationdate="20181013T123545Z">
+        <seg>我理解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I agree to the terms listed</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T051302Z" creationid="deciia" creationdate="20180922T051302Z">
@@ -4355,10 +4427,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Original</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123554Z" creationid="LiarOnce" creationdate="20181013T123554Z">
+        <seg>原始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Original File:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142335Z" creationid="LiarOnce" creationdate="20181007T142335Z">
         <seg>原文件:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Original image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123600Z" creationid="LiarOnce" creationdate="20181013T123600Z">
+        <seg>原始图像</seg>
       </tuv>
     </tu>
     <tu>
@@ -4573,10 +4661,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please check and report whether the problem also occured in version 8.0 of Game Maker.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123536Z" creationid="LiarOnce" creationdate="20181013T123528Z">
+        <seg>请检查并报告问题是否也发生在版本8.0 的 Game Maker。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please provide the signing identity that you wish to use here, this should be a Developer ID Application identity and should be present in your Mac's login keychain certificates.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T080800Z" creationid="deciia" creationdate="20170104T080800Z">
         <seg>请提供在这里使用的签名身份，这应该是一个开发者ID应用身份，并且应该在你的Mac登录钥匙扣证书里?。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please report any errors through our bug tracking system by using the "Report a Bug" option on the HELP menu.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123503Z" creationid="LiarOnce" creationdate="20181013T123503Z">
+        <seg>请使用 "帮助" 菜单上的 "报告 bug" 选项, 通过我们的 bug 跟踪系统报告任何错误。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5801,10 +5905,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is the time-limited Beta of GameMaker 8.1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123451Z" creationid="LiarOnce" creationdate="20181013T123451Z">
+        <seg>这是 GameMaker 8.1 的限时测试版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This texture is used or 3d</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123442Z" creationid="LiarOnce" creationdate="20181013T123106Z">
         <seg>使用此纹理或3d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This version is only meant for testing the program, not for producing games.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123454Z" creationid="LiarOnce" creationdate="20181013T123454Z">
+        <seg>此版本仅用于测试程序, 而不是用于生成游戏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6332,6 +6452,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WARNING: GM8.1 Beta</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123447Z" creationid="LiarOnce" creationdate="20181013T123447Z">
+        <seg>警告: GM8.1 Beta 版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Warning</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20161223T081152Z" creationid="deciia" creationdate="20161223T081152Z">
@@ -6388,10 +6516,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are not allowed to distribute games created with this release candidate in any way.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123457Z" creationid="LiarOnce" creationdate="20181013T123457Z">
+        <seg>您不允许以任何方式分发使用此版本候选创建的游戏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You do not currently have any assets in your Library with this filter.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141429Z" creationid="LiarOnce" creationdate="20181007T141429Z">
         <seg>当前你的库的筛选器中没有任何资产。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will need to sign in before you can report bugs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123507Z" creationid="LiarOnce" creationdate="20181013T123507Z">
+        <seg>您将需要登录才能报告 bug。</seg>
       </tuv>
     </tu>
     <tu>
