@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjust Font Size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T090033Z" creationid="LiarOnce" creationdate="20181013T090033Z">
+        <seg>调整字体大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T082557Z" creationid="deciia" creationdate="20180922T082557Z">
@@ -1950,6 +1958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copy|Copy selected item to clipboard</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085752Z" creationid="LiarOnce" creationdate="20181013T085752Z">
+        <seg>复制|将所选项目复制到剪贴板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Country</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T080943Z" creationid="deciia" creationdate="20170105T080943Z">
@@ -2042,6 +2058,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140659Z" creationid="LiarOnce" creationdate="20181007T140659Z">
         <seg>将所选文本剪切到剪贴板上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cut|Delete selected item</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085805Z" creationid="LiarOnce" creationdate="20181013T085705Z">
+        <seg>剪切|复制所选项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -2758,6 +2782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Font Name|Select font name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085834Z" creationid="LiarOnce" creationdate="20181013T085834Z">
+        <seg>字体名称|选择字体名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Font Properties</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045052Z" creationid="LiarOnce" creationdate="20181009T045052Z">
@@ -2778,6 +2810,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045639Z" creationid="LiarOnce" creationdate="20181009T045639Z">
         <seg>字体大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font Size|Select font size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085855Z" creationid="LiarOnce" creationdate="20181013T085855Z">
+        <seg>字体大小|选择字体大小</seg>
       </tuv>
     </tu>
     <tu>
@@ -4381,6 +4421,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Paste|Paste contents of clipboard</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085821Z" creationid="LiarOnce" creationdate="20181013T085757Z">
+        <seg>粘贴|粘贴剪贴板的内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Paths</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051434Z" creationid="LiarOnce" creationdate="20181008T051434Z">
@@ -4497,6 +4545,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140619Z" creationid="LiarOnce" creationdate="20181007T140619Z">
         <seg>打印代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print the document</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085627Z" creationid="LiarOnce" creationdate="20181013T085627Z">
+        <seg>打印文档</seg>
       </tuv>
     </tu>
     <tu>
