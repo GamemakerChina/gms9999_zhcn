@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Diamond</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043609Z" creationid="LiarOnce" creationdate="20181014T043609Z">
+        <seg>菱形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Edit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045958Z" creationid="LiarOnce" creationdate="20181009T045958Z">
@@ -194,6 +202,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141729Z" creationid="LiarOnce" creationdate="20181007T141729Z">
         <seg>&amp;修改背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Ellipse</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043520Z" creationid="LiarOnce" creationdate="20181014T043520Z">
+        <seg>椭圆</seg>
       </tuv>
     </tu>
     <tu>
@@ -526,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Precise</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043603Z" creationid="LiarOnce" creationdate="20181014T043603Z">
+        <seg>精确</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Preferences...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042013Z" creationid="LiarOnce" creationdate="20181014T042013Z">
@@ -562,6 +586,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041925Z" creationid="LiarOnce" creationdate="20181014T041925Z">
         <seg>最近的项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Rectangle</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043516Z" creationid="LiarOnce" creationdate="20181014T043516Z">
+        <seg>矩形</seg>
       </tuv>
     </tu>
     <tu>
@@ -1490,6 +1522,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180926T020654Z" creationid="deciia" creationdate="20180926T020654Z">
         <seg>Alpha值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alpha Tolerance:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043614Z" creationid="LiarOnce" creationdate="20181014T043614Z">
+        <seg>Alpha 公差:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4905,6 +4945,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Height: 32</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043355Z" creationid="LiarOnce" creationdate="20181014T043355Z">
+        <seg>高度:32</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>选择一个有个性的翻译，记念一件事物。</note>
       <tuv lang="EN-US">
         <seg>Hello World!!</seg>
@@ -5207,6 +5255,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T064419Z" creationid="deciia" creationdate="20170103T113419Z">
         <seg>内含文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indicate how the mask should be based on the pixel transparency</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043618Z" creationid="LiarOnce" creationdate="20181014T043618Z">
+        <seg>指示遮罩应如何基于像素透明度</seg>
       </tuv>
     </tu>
     <tu>
@@ -6555,6 +6611,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No zoom</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043512Z" creationid="LiarOnce" creationdate="20181014T043512Z">
+        <seg>无缩放</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>None</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044740Z" creationid="LiarOnce" creationdate="20181008T044740Z">
@@ -7089,6 +7153,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134922Z" creationid="LiarOnce" creationdate="20181007T134922Z">
         <seg>百分比:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Perform pixel precise collision checking</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043605Z" creationid="LiarOnce" creationdate="20181014T043605Z">
+        <seg>执行像素精确碰撞检查</seg>
       </tuv>
     </tu>
     <tu>
@@ -8545,6 +8617,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show collision mask</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043358Z" creationid="LiarOnce" creationdate="20181014T043358Z">
+        <seg>显示碰撞遮罩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show help on GameMaker</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041810Z" creationid="LiarOnce" creationdate="20181014T041810Z">
@@ -8565,6 +8645,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T084229Z" creationid="deciia" creationdate="20180922T032648Z">
         <seg>显示行号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show the collision mark as a dark area in the sprite image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043507Z" creationid="LiarOnce" creationdate="20181014T043507Z">
+        <seg>将碰撞标记显示为精灵图像中的深色区域</seg>
       </tuv>
     </tu>
     <tu>
@@ -8605,6 +8693,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131517Z" creationid="LiarOnce" creationdate="20181013T131517Z">
         <seg>显示窗口边框和标题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043351Z" creationid="LiarOnce" creationdate="20181014T043351Z">
+        <seg>显示:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9641,6 +9737,30 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use a diamond as collision mask</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043611Z" creationid="LiarOnce" creationdate="20181014T043611Z">
+        <seg>使用菱形作为碰撞遮罩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use a disk as collision mask</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043558Z" creationid="LiarOnce" creationdate="20181014T043558Z">
+        <seg>使用椭圆作为碰撞遮罩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use a rectangle as collision mask</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043518Z" creationid="LiarOnce" creationdate="20181014T043518Z">
+        <seg>使用矩形作为碰撞遮罩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use exclusive or</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131031Z" creationid="LiarOnce" creationdate="20181013T131031Z">
@@ -10040,6 +10160,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121244Z" creationid="LiarOnce" creationdate="20181013T121244Z">
         <seg>平铺宽度 (以像素为单位)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Width: 32</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043354Z" creationid="LiarOnce" creationdate="20181014T043354Z">
+        <seg>宽度:32</seg>
       </tuv>
     </tu>
     <tu>
