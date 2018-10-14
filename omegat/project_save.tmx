@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Trim...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023843Z" creationid="LiarOnce" creationdate="20181014T023843Z">
+        <seg>修剪...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Underline</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131301Z" creationid="LiarOnce" creationdate="20181013T131301Z">
@@ -1854,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change all pixels with the same color (H)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023512Z" creationid="LiarOnce" creationdate="20181014T023512Z">
+        <seg>更改具有相同颜色的所有像素 (H)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change how opaque or transparent the drawing colors must be</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T022811Z" creationid="LiarOnce" creationdate="20181014T022811Z">
@@ -2026,6 +2042,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135038Z" creationid="LiarOnce" creationdate="20181007T135038Z">
         <seg>单击修改一个颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to change the hardness of the brush</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023504Z" creationid="LiarOnce" creationdate="20181014T023504Z">
+        <seg>单击以更改画笔的硬度</seg>
       </tuv>
     </tu>
     <tu>
@@ -2846,6 +2870,62 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw a line (L)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023637Z" creationid="LiarOnce" creationdate="20181014T023536Z">
+        <seg>绘制线 (L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw a polygon (P)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023532Z" creationid="LiarOnce" creationdate="20181014T023532Z">
+        <seg>绘制多边形 (P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw a rectangle (R)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023534Z" creationid="LiarOnce" creationdate="20181014T023534Z">
+        <seg>绘制矩形 (R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw a rounded rectangle (O)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023535Z" creationid="LiarOnce" creationdate="20181014T023535Z">
+        <seg>绘制圆角矩形 (O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw an ellipse (I)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023514Z" creationid="LiarOnce" creationdate="20181014T023514Z">
+        <seg>绘制椭圆 (I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw on the image (D)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023531Z" creationid="LiarOnce" creationdate="20181014T023531Z">
+        <seg>在图像上绘制 (D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw text (T)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023530Z" creationid="LiarOnce" creationdate="20181014T023530Z">
+        <seg>绘制文本 (T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Duplicate Event</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T102633Z" creationid="deciia" creationdate="20170103T102633Z">
@@ -3070,6 +3150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Erase parts of the image (E)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023516Z" creationid="LiarOnce" creationdate="20181014T023516Z">
+        <seg>擦除图像的部分 (E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20161223T080942Z" creationid="deciia" creationdate="20161223T080942Z">
@@ -3282,6 +3370,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125053Z" creationid="LiarOnce" creationdate="20181013T125053Z">
         <seg>要包括在项目中的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fill an area (F)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023517Z" creationid="LiarOnce" creationdate="20181014T023517Z">
+        <seg>填充区域 (F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5637,6 +5733,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pick a color from the image (C)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023541Z" creationid="LiarOnce" creationdate="20181014T023541Z">
+        <seg>从图像中选取颜色 (C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place inside image</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124613Z" creationid="LiarOnce" creationdate="20181013T124613Z">
@@ -6591,6 +6695,30 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selecting a region (S)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023524Z" creationid="LiarOnce" creationdate="20181014T023524Z">
+        <seg>选择区域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selecting by spraying (Y)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023525Z" creationid="LiarOnce" creationdate="20181014T023525Z">
+        <seg>喷涂 (Y) 选择</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selecting using a magic wand (W)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023527Z" creationid="LiarOnce" creationdate="20181014T023527Z">
+        <seg>使用魔术棒 (W) 选择</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selection Colour</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T055537Z" creationid="deciia" creationdate="20170105T055537Z">
@@ -6925,6 +7053,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T082257Z" creationid="deciia" creationdate="20180922T082257Z">
         <seg>启动画面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spray paint on the image (A)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023522Z" creationid="LiarOnce" creationdate="20181014T023522Z">
+        <seg>在图像上喷漆 (A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7389,6 +7525,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050723Z" creationid="LiarOnce" creationdate="20181009T050723Z">
         <seg>切换网格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle &amp;Scratch Page</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023655Z" creationid="LiarOnce" creationdate="20181014T023655Z">
+        <seg>切换 Scratch 页面</seg>
       </tuv>
     </tu>
     <tu>
