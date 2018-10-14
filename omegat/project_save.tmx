@@ -4886,6 +4886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Friction of object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044536Z" creationid="LiarOnce" creationdate="20181014T044536Z">
+        <seg>物体的摩擦力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Friction:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044332Z" creationid="LiarOnce" creationdate="20181014T044332Z">
@@ -10724,10 +10732,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whether this object is a sensor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044543Z" creationid="LiarOnce" creationdate="20181014T044543Z">
+        <seg>此对象是否为传感器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whether this object is kinematic</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044430Z" creationid="LiarOnce" creationdate="20181014T044430Z">
         <seg>此对象是否为运动学</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether this object starts active and awake</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044540Z" creationid="LiarOnce" creationdate="20181014T044540Z">
+        <seg>此对象是否开始活动和唤醒</seg>
       </tuv>
     </tu>
     <tu>
