@@ -6359,6 +6359,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resize &amp;Canvas...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T030826Z" creationid="LiarOnce" creationdate="20181014T030826Z">
+        <seg>调整画布大小...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resize the canvas</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T030830Z" creationid="LiarOnce" creationdate="20181014T030830Z">
+        <seg>调整画布大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resource Names</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T084031Z" creationid="deciia" creationdate="20180922T084031Z">
@@ -7353,6 +7369,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Str&amp;etch...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T030844Z" creationid="LiarOnce" creationdate="20181014T030844Z">
+        <seg>拉伸...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Straight Line</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023233Z" creationid="LiarOnce" creationdate="20181014T023233Z">
@@ -7365,6 +7389,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20161223T063159Z" creationid="deciia" creationdate="20161223T063159Z">
         <seg>拉伸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stretch the image to a new size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T031110Z" creationid="LiarOnce" creationdate="20181014T031110Z">
+        <seg>将图像拉伸为新大小</seg>
       </tuv>
     </tu>
     <tu>
