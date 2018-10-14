@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Mirror/Flip...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T030350Z" creationid="LiarOnce" creationdate="20181014T030350Z">
+        <seg>&amp;镜像/翻转...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Mouse</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142612Z" creationid="LiarOnce" creationdate="20181007T142612Z">
@@ -342,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Rotate...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T030416Z" creationid="LiarOnce" creationdate="20181014T030416Z">
+        <seg>&amp;旋转...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Save as PNG File...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050623Z" creationid="LiarOnce" creationdate="20181009T050623Z">
@@ -354,6 +370,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045943Z" creationid="LiarOnce" creationdate="20181009T045943Z">
         <seg>&amp;保存为文件...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Shift...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T030246Z" creationid="LiarOnce" creationdate="20181014T030246Z">
+        <seg>&amp;移动...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5099,6 +5123,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mirror the image horizontally or flip vertically</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T030410Z" creationid="LiarOnce" creationdate="20181014T030410Z">
+        <seg>水平镜像或垂直翻转图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Misc</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T082603Z" creationid="deciia" creationdate="20180922T082603Z">
@@ -6495,6 +6527,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rotate the image over an angle</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T030541Z" creationid="LiarOnce" creationdate="20181014T030541Z">
+        <seg>将图像旋转一定角度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rotation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170219T005858Z" creationid="deciia" creationdate="20170219T005858Z">
@@ -6925,6 +6965,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124343Z" creationid="LiarOnce" creationdate="20181013T124343Z">
         <seg>平移色调</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shift the image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T030248Z" creationid="LiarOnce" creationdate="20181014T030248Z">
+        <seg>移动图像</seg>
       </tuv>
     </tu>
     <tu>
