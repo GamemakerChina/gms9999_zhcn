@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Colorize...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T030143Z" creationid="LiarOnce" creationdate="20181014T030143Z">
+        <seg>&amp;着色...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Copy</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050029Z" creationid="LiarOnce" creationdate="20181009T050029Z">
@@ -1526,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Black and &amp;White...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T030114Z" creationid="LiarOnce" creationdate="20181014T030114Z">
+        <seg>黑白相间...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blend</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170215T151705Z" creationid="deciia" creationdate="20170215T151705Z">
@@ -2242,6 +2258,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135025Z" creationid="LiarOnce" creationdate="20181007T135025Z">
         <seg>颜色：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Colorize the image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T030152Z" creationid="LiarOnce" creationdate="20181014T030152Z">
+        <seg>着色图像</seg>
       </tuv>
     </tu>
     <tu>
@@ -3202,6 +3226,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023516Z" creationid="LiarOnce" creationdate="20181014T023516Z">
         <seg>擦除图像的部分 (E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Erases the image to the current left color</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T025944Z" creationid="LiarOnce" creationdate="20181014T025944Z">
+        <seg>将图像擦除到当前左边的颜色</seg>
       </tuv>
     </tu>
     <tu>
@@ -7709,6 +7741,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170312T025141Z" creationid="deciia" creationdate="20170104T083528Z">
         <seg>奖杯界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turn the image grayscale</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T030024Z" creationid="LiarOnce" creationdate="20181014T030024Z">
+        <seg>打开图像灰度</seg>
       </tuv>
     </tu>
     <tu>
