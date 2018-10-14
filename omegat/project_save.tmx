@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Previous Image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T024040Z" creationid="LiarOnce" creationdate="20181014T024040Z">
+        <seg>&amp;上一张图片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Print...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045953Z" creationid="LiarOnce" creationdate="20181009T045953Z">
@@ -2986,6 +2994,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141737Z" creationid="LiarOnce" creationdate="20181007T141737Z">
         <seg>修改背景图片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit the previous subimage of the sprite</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T024045Z" creationid="LiarOnce" creationdate="20181014T024045Z">
+        <seg>编辑精灵的前子图像</seg>
       </tuv>
     </tu>
     <tu>
@@ -7621,6 +7637,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143307Z" creationid="LiarOnce" creationdate="20181007T143307Z">
         <seg>触发器事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trim the image to remove the transparent space around it</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T024027Z" creationid="LiarOnce" creationdate="20181014T024027Z">
+        <seg>修剪图像以移除周围的透明空间</seg>
       </tuv>
     </tu>
     <tu>
