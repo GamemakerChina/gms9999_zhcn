@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Visible</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044243Z" creationid="LiarOnce" creationdate="20181014T044243Z">
+        <seg>可见</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Window</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042223Z" creationid="LiarOnce" creationdate="20181014T042223Z">
@@ -1714,6 +1722,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134652Z" creationid="LiarOnce" creationdate="20181007T134652Z">
         <seg>角度：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Angular Damping:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044329Z" creationid="LiarOnce" creationdate="20181014T044329Z">
+        <seg>角度阻尼:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Angular damping of object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044506Z" creationid="LiarOnce" creationdate="20181014T044506Z">
+        <seg>物体的角度阻尼</seg>
       </tuv>
     </tu>
     <tu>
@@ -2878,6 +2902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click to select sprite to use</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044247Z" creationid="LiarOnce" creationdate="20181014T044247Z">
+        <seg>单击以选择要使用的精灵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click to visit the Marketplace and browse assets.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T082445Z" creationid="deciia" creationdate="20170103T082445Z">
@@ -2974,10 +3006,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Collision Group:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044325Z" creationid="LiarOnce" creationdate="20181014T044325Z">
+        <seg>碰撞组:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Collision Shape</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180923T090047Z" creationid="deciia" creationdate="20170103T102558Z">
         <seg>碰撞形状</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collision group of object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044522Z" creationid="LiarOnce" creationdate="20181014T044522Z">
+        <seg>物体碰撞组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collision shape used for this object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044345Z" creationid="LiarOnce" creationdate="20181014T044337Z">
+        <seg>用于此物体的碰撞形状</seg>
       </tuv>
     </tu>
     <tu>
@@ -3486,6 +3542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create a new sprite for this object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044307Z" creationid="LiarOnce" creationdate="20181014T044302Z">
+        <seg>为此物体创建新的精灵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create a new, empty image</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050610Z" creationid="LiarOnce" creationdate="20181009T050610Z">
@@ -3730,6 +3794,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170311T175409Z" creationid="deciia" creationdate="20170311T175409Z">
         <seg>演示项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Density of object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044432Z" creationid="LiarOnce" creationdate="20181014T044432Z">
+        <seg>物体密度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Density:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044318Z" creationid="LiarOnce" creationdate="20181014T044318Z">
+        <seg>密度:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4130,6 +4210,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T024127Z" creationid="LiarOnce" creationdate="20181014T024045Z">
         <seg>编辑精灵的上一子图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit the sprite for this object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044312Z" creationid="LiarOnce" creationdate="20181014T044312Z">
+        <seg>编辑此物体的精灵</seg>
       </tuv>
     </tu>
     <tu>
@@ -4794,6 +4882,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044040Z" creationid="LiarOnce" creationdate="20181014T044040Z">
         <seg>免费 MIPS 特别版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Friction:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044332Z" creationid="LiarOnce" creationdate="20181014T044332Z">
+        <seg>阻力:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6171,6 +6267,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Linear Damping of object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044503Z" creationid="LiarOnce" creationdate="20181014T044503Z">
+        <seg>物体的线性阻尼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Linear Damping:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044327Z" creationid="LiarOnce" creationdate="20181014T044327Z">
+        <seg>线性阻尼:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Linker Flags</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T084632Z" creationid="LiarOnce" creationdate="20181013T084632Z">
@@ -6510,6 +6622,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
         <seg>Modify Collision Shape</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T062621Z" creationid="deciia" creationdate="20170103T102751Z">
+        <seg>修改碰撞形状</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modify the collision shape</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044530Z" creationid="LiarOnce" creationdate="20181014T044530Z">
         <seg>修改碰撞形状</seg>
       </tuv>
     </tu>
@@ -8135,6 +8255,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Restitution of object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044514Z" creationid="LiarOnce" creationdate="20181014T044514Z">
+        <seg>物体的恢复度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restitution:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044322Z" creationid="LiarOnce" creationdate="20181014T044322Z">
+        <seg>恢复系数:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Return Type</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130307Z" creationid="LiarOnce" creationdate="20181013T130307Z">
@@ -9649,6 +9785,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The sprite used to represent the object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044258Z" creationid="LiarOnce" creationdate="20181014T044258Z">
+        <seg>用于表示物体的精灵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thickness:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124611Z" creationid="LiarOnce" creationdate="20181013T124611Z">
@@ -10568,6 +10712,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044241Z" creationid="LiarOnce" creationdate="20181014T044241Z">
         <seg>物体是否为固体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether the object is visible</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044244Z" creationid="LiarOnce" creationdate="20181014T044244Z">
+        <seg>对象是否可见</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether this object is kinematic</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044430Z" creationid="LiarOnce" creationdate="20181014T044430Z">
+        <seg>此对象是否为运动学</seg>
       </tuv>
     </tu>
     <tu>
