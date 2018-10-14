@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Clear Recent Files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041941Z" creationid="LiarOnce" creationdate="20181014T041941Z">
+        <seg>清除最近的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Clear all</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045134Z" creationid="LiarOnce" creationdate="20181009T045134Z">
@@ -114,6 +122,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050029Z" creationid="LiarOnce" creationdate="20181009T050029Z">
         <seg>&amp;复制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Create</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042026Z" creationid="LiarOnce" creationdate="20181014T042026Z">
+        <seg>创建</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Create Application...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042007Z" creationid="LiarOnce" creationdate="20181014T042007Z">
+        <seg>创建应用程序...</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Import Project...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041920Z" creationid="LiarOnce" creationdate="20181014T041920Z">
+        <seg>导入项目...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Insert</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142143Z" creationid="LiarOnce" creationdate="20181007T142143Z">
@@ -334,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;New Project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041911Z" creationid="LiarOnce" creationdate="20181014T041911Z">
+        <seg>新项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;New...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050551Z" creationid="LiarOnce" creationdate="20181009T050551Z">
@@ -358,10 +398,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Open Project...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041912Z" creationid="LiarOnce" creationdate="20181014T041912Z">
+        <seg>打开项目..。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Paste</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050034Z" creationid="LiarOnce" creationdate="20181009T050034Z">
         <seg>&amp;粘贴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Preferences...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042013Z" creationid="LiarOnce" creationdate="20181014T042013Z">
+        <seg>偏好设定...</seg>
       </tuv>
     </tu>
     <tu>
@@ -382,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Recent Projects</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041925Z" creationid="LiarOnce" creationdate="20181014T041925Z">
+        <seg>最近的项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Redo</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050658Z" creationid="LiarOnce" creationdate="20181009T050658Z">
@@ -394,6 +458,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T030416Z" creationid="LiarOnce" creationdate="20181014T030416Z">
         <seg>&amp;旋转...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Save</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041946Z" creationid="LiarOnce" creationdate="20181014T041946Z">
+        <seg>保存</seg>
       </tuv>
     </tu>
     <tu>
@@ -1982,6 +2054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041747Z" creationid="LiarOnce" creationdate="20181014T041747Z">
+        <seg>更改选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change Transparency</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140332Z" creationid="LiarOnce" creationdate="20181007T140332Z">
@@ -2018,6 +2098,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123547Z" creationid="LiarOnce" creationdate="20181013T123547Z">
         <seg>更改值和饱和度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change the global game settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041749Z" creationid="LiarOnce" creationdate="20181014T041749Z">
+        <seg>更改全局游戏设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -2502,6 +2590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configuration:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041823Z" creationid="LiarOnce" creationdate="20181014T041823Z">
+        <seg>配置:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configurations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20161223T072554Z" creationid="deciia" creationdate="20161223T072554Z">
@@ -2530,6 +2626,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T073611Z" creationid="deciia" creationdate="20180922T073611Z">
         <seg>连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connect to Steam Workshop</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041854Z" creationid="LiarOnce" creationdate="20181014T041854Z">
+        <seg>连接 Steam 创意工坊</seg>
       </tuv>
     </tu>
     <tu>
@@ -2702,6 +2806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create a room</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041746Z" creationid="LiarOnce" creationdate="20181014T041746Z">
+        <seg>创建房间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create a script</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T033110Z" creationid="LiarOnce" creationdate="20181014T033110Z">
@@ -2810,6 +2922,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085805Z" creationid="LiarOnce" creationdate="20181013T085705Z">
         <seg>剪切|复制所选项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>D&amp;uplicate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042052Z" creationid="LiarOnce" creationdate="20181014T042052Z">
+        <seg>复制</seg>
       </tuv>
     </tu>
     <tu>
@@ -3218,6 +3338,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T102633Z" creationid="deciia" creationdate="20170103T102633Z">
         <seg>复制事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>E&amp;xit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042023Z" creationid="LiarOnce" creationdate="20181014T042023Z">
+        <seg>退出</seg>
       </tuv>
     </tu>
     <tu>
@@ -4939,6 +5067,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Knowledge Base:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041902Z" creationid="LiarOnce" creationdate="20181014T041902Z">
+        <seg>知识库:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Landscape</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T070022Z" creationid="deciia" creationdate="20170104T070022Z">
@@ -5631,6 +5767,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T033106Z" creationid="LiarOnce" creationdate="20181014T033033Z">
         <seg>新路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Room</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041744Z" creationid="LiarOnce" creationdate="20181014T041744Z">
+        <seg>新房间</seg>
       </tuv>
     </tu>
     <tu>
@@ -6527,6 +6671,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recent</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041933Z" creationid="LiarOnce" creationdate="20181014T041933Z">
+        <seg>最近</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Redo</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20161224T080032Z" creationid="deciia" creationdate="20161224T080032Z">
@@ -6999,6 +7151,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sa&amp;ve All</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042002Z" creationid="LiarOnce" creationdate="20181014T042002Z">
+        <seg>保存全部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sat</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T105837Z" creationid="deciia" creationdate="20170105T105837Z">
@@ -7019,6 +7179,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T100240Z" creationid="deciia" creationdate="20170102T100240Z">
         <seg>保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save &amp;As</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041951Z" creationid="LiarOnce" creationdate="20181014T041951Z">
+        <seg>保存为</seg>
       </tuv>
     </tu>
     <tu>
@@ -7175,6 +7343,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search Knowledgebase</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041905Z" creationid="LiarOnce" creationdate="20181014T041905Z">
+        <seg>搜索知识库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Search for a string</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140918Z" creationid="LiarOnce" creationdate="20181007T140918Z">
@@ -7219,6 +7395,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023225Z" creationid="LiarOnce" creationdate="20181014T023225Z">
         <seg>仅选择颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Current Configuration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041825Z" creationid="LiarOnce" creationdate="20181014T041825Z">
+        <seg>选择当前配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Current Target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041820Z" creationid="LiarOnce" creationdate="20181014T041820Z">
+        <seg>选择当前目标</seg>
       </tuv>
     </tu>
     <tu>
@@ -7473,6 +7665,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show help on GameMaker</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041810Z" creationid="LiarOnce" creationdate="20181014T041810Z">
+        <seg>在 GameMaker 上显示帮助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show image in original size</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T025848Z" creationid="LiarOnce" creationdate="20181014T025848Z">
@@ -7653,6 +7853,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170114T033039Z" creationid="36011" creationdate="20170114T033039Z">
         <seg>空格键（Space）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spawn new IDE session</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041858Z" creationid="LiarOnce" creationdate="20181014T041858Z">
+        <seg>生成新 IDE 会话</seg>
       </tuv>
     </tu>
     <tu>
@@ -7881,6 +8089,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Switch to Steam Play mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041839Z" creationid="LiarOnce" creationdate="20181014T041839Z">
+        <seg>切换到 Steam Play 模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>System Event</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143142Z" creationid="LiarOnce" creationdate="20181007T143142Z">
@@ -7917,6 +8133,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T065300Z" creationid="deciia" creationdate="20170104T065300Z">
         <seg>目标平台 SDK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Target:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041818Z" creationid="LiarOnce" creationdate="20181014T041818Z">
+        <seg>目标:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8313,6 +8537,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tutorial Panel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041908Z" creationid="LiarOnce" creationdate="20181014T041908Z">
+        <seg>教程面板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tutorials</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180926T230852Z" creationid="deciia" creationdate="20170311T114618Z">
@@ -8405,6 +8637,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T080444Z" creationid="deciia" creationdate="20170103T080444Z">
         <seg>更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upgrade</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041750Z" creationid="LiarOnce" creationdate="20181014T041750Z">
+        <seg>升级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upgrade your copy of Game Maker Online from the Lite Edition.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041807Z" creationid="LiarOnce" creationdate="20181014T041807Z">
+        <seg>从精简版中在线升级您的 Game Maker 副本。</seg>
       </tuv>
     </tu>
     <tu>
