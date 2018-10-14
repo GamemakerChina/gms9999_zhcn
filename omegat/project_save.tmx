@@ -806,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjust tolerance</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023215Z" creationid="LiarOnce" creationdate="20181014T023215Z">
+        <seg>调整公差</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T082557Z" creationid="deciia" creationdate="20180922T082557Z">
@@ -2150,6 +2158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023222Z" creationid="LiarOnce" creationdate="20181014T023222Z">
+        <seg>仅限颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color1:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135941Z" creationid="LiarOnce" creationdate="20181007T135941Z">
@@ -2738,6 +2754,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135012Z" creationid="LiarOnce" creationdate="20181007T135012Z">
         <seg>双倍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double Arrow</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023242Z" creationid="LiarOnce" creationdate="20181014T023242Z">
+        <seg>双箭头</seg>
       </tuv>
     </tu>
     <tu>
@@ -3742,6 +3766,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134954Z" creationid="LiarOnce" creationdate="20181007T134954Z">
         <seg>减半</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hardness</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023351Z" creationid="LiarOnce" creationdate="20181014T023351Z">
+        <seg>硬度</seg>
       </tuv>
     </tu>
     <tu>
@@ -6495,6 +6527,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Colour Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023225Z" creationid="LiarOnce" creationdate="20181014T023225Z">
+        <seg>仅选择颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Font</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T070814Z" creationid="deciia" creationdate="20170102T070814Z">
@@ -6997,6 +7037,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T035336Z" creationid="deciia" creationdate="20170105T035336Z">
         <seg>商店Logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Straight Line</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023233Z" creationid="LiarOnce" creationdate="20181014T023233Z">
+        <seg>直线</seg>
       </tuv>
     </tu>
     <tu>
