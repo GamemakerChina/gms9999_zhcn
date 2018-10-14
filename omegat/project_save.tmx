@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Intensity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T031414Z" creationid="LiarOnce" creationdate="20181014T031414Z">
+        <seg>强度：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Italic</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045620Z" creationid="LiarOnce" creationdate="20181009T045620Z">
@@ -1814,6 +1822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>C&amp;olorize Partial...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T031409Z" creationid="LiarOnce" creationdate="20181014T031409Z">
+        <seg>部分着色...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>C&amp;reate</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142510Z" creationid="LiarOnce" creationdate="20181007T142510Z">
@@ -1954,6 +1970,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123547Z" creationid="LiarOnce" creationdate="20181013T123547Z">
         <seg>更改值和饱和度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change the intensity and value of the image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T031418Z" creationid="LiarOnce" creationdate="20181014T031418Z">
+        <seg>更改图像的强度和值</seg>
       </tuv>
     </tu>
     <tu>
@@ -2286,6 +2310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Colorize only part of the image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T031401Z" creationid="LiarOnce" creationdate="20181014T031401Z">
+        <seg>仅着色图像的一部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Colorize the image</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T030152Z" creationid="LiarOnce" creationdate="20181014T030152Z">
@@ -2562,6 +2594,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T071132Z" creationid="deciia" creationdate="20170103T073400Z">
         <seg>创建时代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cro&amp;p...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T031119Z" creationid="LiarOnce" creationdate="20181014T031119Z">
+        <seg>裁剪...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crop the image to remove the tranparent space around it</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T031342Z" creationid="LiarOnce" creationdate="20181014T031342Z">
+        <seg>裁剪图像以移除周围的透明空间</seg>
       </tuv>
     </tu>
     <tu>
