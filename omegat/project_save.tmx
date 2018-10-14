@@ -2998,10 +2998,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit the next subimage of the sprite</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T025812Z" creationid="LiarOnce" creationdate="20181014T024120Z">
+        <seg>编辑精灵的下一子图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit the previous subimage of the sprite</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T024045Z" creationid="LiarOnce" creationdate="20181014T024045Z">
-        <seg>编辑精灵的前子图像</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T024127Z" creationid="LiarOnce" creationdate="20181014T024045Z">
+        <seg>编辑精灵的上一子图像</seg>
       </tuv>
     </tu>
     <tu>
@@ -5143,6 +5151,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T075517Z" creationid="deciia" creationdate="20170103T075517Z">
         <seg>我的库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>N&amp;ext Image...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T024104Z" creationid="LiarOnce" creationdate="20181014T024104Z">
+        <seg>&amp;下一张图像...</seg>
       </tuv>
     </tu>
     <tu>
