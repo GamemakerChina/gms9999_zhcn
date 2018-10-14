@@ -814,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Or the code from your app if using an authenticator application.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043033Z" creationid="LiarOnce" creationdate="20181014T043033Z">
+        <seg>(或应用中的代码，如果使用验证程序应用程序)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(you can also click on the original image to change this)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123613Z" creationid="LiarOnce" creationdate="20181013T123613Z">
@@ -1194,6 +1202,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042817Z" creationid="LiarOnce" creationdate="20181014T042817Z">
         <seg>添加 iOS 源目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add new configuration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043056Z" creationid="LiarOnce" creationdate="20181014T043056Z">
+        <seg>添加新配置</seg>
       </tuv>
     </tu>
     <tu>
@@ -3198,6 +3214,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create Config From:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043041Z" creationid="LiarOnce" creationdate="20181014T043041Z">
+        <seg>创建配置:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Configuration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043038Z" creationid="LiarOnce" creationdate="20181014T043038Z">
+        <seg>创建配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create Event</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044755Z" creationid="LiarOnce" creationdate="20181008T044755Z">
@@ -4090,6 +4122,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170114T032921Z" creationid="36011" creationdate="20170114T032921Z">
         <seg>回车（Enter）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter code here</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043035Z" creationid="LiarOnce" creationdate="20181014T043035Z">
+        <seg>在此处输入代码</seg>
       </tuv>
     </tu>
     <tu>
@@ -5835,6 +5875,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>List of Configurations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043045Z" creationid="LiarOnce" creationdate="20181014T043045Z">
+        <seg>配置列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>List of Extensions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130315Z" creationid="LiarOnce" creationdate="20181013T130315Z">
@@ -6227,6 +6275,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move selected configuration down</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043102Z" creationid="LiarOnce" creationdate="20181014T043102Z">
+        <seg>向下移动选定的配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move selected configuration up</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043100Z" creationid="LiarOnce" creationdate="20181014T043100Z">
+        <seg>向上移动所选配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move to Top</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T092543Z" creationid="deciia" creationdate="20180922T092543Z">
@@ -6335,6 +6399,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T033105Z" creationid="LiarOnce" creationdate="20181014T032808Z">
         <seg>新背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Configuration Name:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043043Z" creationid="LiarOnce" creationdate="20181014T043043Z">
+        <seg>新配置名称:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6519,6 +6591,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131008Z" creationid="LiarOnce" creationdate="20181013T131008Z">
         <seg>请注意, 只有当图像缩放足够时, 才会显示网格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of subimages: 1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043345Z" creationid="LiarOnce" creationdate="20181014T043345Z">
+        <seg>子图像数量: 1</seg>
       </tuv>
     </tu>
     <tu>
@@ -7085,6 +7165,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please try again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043018Z" creationid="LiarOnce" creationdate="20181014T043018Z">
+        <seg>请重试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Portrait</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T070017Z" creationid="deciia" creationdate="20170104T065947Z">
@@ -7343,6 +7431,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Re-send email</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043037Z" creationid="LiarOnce" creationdate="20181014T043037Z">
+        <seg>重新发送电子邮件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170224T003724Z" creationid="deciia" creationdate="20170224T003724Z">
@@ -7439,6 +7535,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove selected configuration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043054Z" creationid="LiarOnce" creationdate="20181014T043054Z">
+        <seg>删除所选配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove selected font range</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130807Z" creationid="LiarOnce" creationdate="20181013T130807Z">
@@ -7467,6 +7571,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20161223T064905Z" creationid="deciia" creationdate="20161223T064905Z">
         <seg>重命名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename selected configuration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043047Z" creationid="LiarOnce" creationdate="20181014T043047Z">
+        <seg>重命名所选配置</seg>
       </tuv>
     </tu>
     <tu>
@@ -7915,6 +8027,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170312T024632Z" creationid="deciia" creationdate="20170104T083436Z">
         <seg>保存数据图标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save and Close</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043058Z" creationid="LiarOnce" creationdate="20181014T043058Z">
+        <seg>保存并关闭</seg>
       </tuv>
     </tu>
     <tu>
@@ -8457,6 +8577,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show the next subimage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043248Z" creationid="LiarOnce" creationdate="20181014T043248Z">
+        <seg>显示下一子图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show the previous subimage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043245Z" creationid="LiarOnce" creationdate="20181014T043245Z">
+        <seg>显示上一子图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show the window &amp;border and caption</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131525Z" creationid="LiarOnce" creationdate="20181013T131514Z">
@@ -8685,6 +8821,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180926T222250Z" creationid="36011" creationdate="20170112T032026Z">
         <seg>精灵编辑器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sprite Mask</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043156Z" creationid="LiarOnce" creationdate="20181014T043156Z">
+        <seg>精灵遮罩</seg>
       </tuv>
     </tu>
     <tu>
@@ -9848,6 +9992,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20161223T081152Z" creationid="deciia" creationdate="20161223T081152Z">
         <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We're sorry, it looks like the code that you entered was incorrect.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043016Z" creationid="LiarOnce" creationdate="20181014T043016Z">
+        <seg>很抱歉, 它看起来像您输入的代码不正确。</seg>
       </tuv>
     </tu>
     <tu>
