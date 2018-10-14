@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Allow the player to resize the window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T022646Z" creationid="LiarOnce" creationdate="20181014T022640Z">
+        <seg>&amp;允许播放机调整窗口大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Anti-Aliasing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045657Z" creationid="LiarOnce" creationdate="20181009T045657Z">
@@ -1014,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allow the player to resize the window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T022643Z" creationid="LiarOnce" creationdate="20181014T022643Z">
+        <seg>允许播放机调整窗口大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alpha</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180926T020654Z" creationid="deciia" creationdate="20180926T020654Z">
@@ -1822,6 +1838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change how opaque or transparent the drawing colors must be</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T022811Z" creationid="LiarOnce" creationdate="20181014T022811Z">
+        <seg>更改绘图颜色必须的不透明或透明程度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change the Value and Saturation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123547Z" creationid="LiarOnce" creationdate="20181013T123547Z">
@@ -1978,6 +2002,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135038Z" creationid="LiarOnce" creationdate="20181007T135038Z">
         <seg>单击修改一个颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to change the left drawing color</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T022745Z" creationid="LiarOnce" creationdate="20181014T022745Z">
+        <seg>单击以更改左侧绘图颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to change the right drawing color</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T022757Z" creationid="LiarOnce" creationdate="20181014T022757Z">
+        <seg>单击以更改右侧绘图颜色</seg>
       </tuv>
     </tu>
     <tu>
@@ -6793,6 +6833,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>St&amp;op the game while showing help</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T022712Z" creationid="LiarOnce" creationdate="20181014T022712Z">
+        <seg>在显示帮助时停止游戏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sta&amp;y always on top</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131527Z" creationid="LiarOnce" creationdate="20181013T131527Z">
@@ -6853,6 +6901,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T084435Z" creationid="deciia" creationdate="20170102T084435Z">
         <seg>停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop the game while showing help</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T022707Z" creationid="LiarOnce" creationdate="20181014T022707Z">
+        <seg>在显示帮助时停止游戏</seg>
       </tuv>
     </tu>
     <tu>
@@ -7237,6 +7293,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T024848Z" creationid="deciia" creationdate="20170102T101232Z">
         <seg>容差：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toolbar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T022720Z" creationid="LiarOnce" creationdate="20181014T022720Z">
+        <seg>工具栏</seg>
       </tuv>
     </tu>
     <tu>
