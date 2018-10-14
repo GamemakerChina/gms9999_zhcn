@@ -2150,6 +2150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clean project asset compiler cache</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032746Z" creationid="LiarOnce" creationdate="20181014T032746Z">
+        <seg>清理项目资产编译器缓存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clear</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T031919Z" creationid="deciia" creationdate="20170104T031919Z">
@@ -2178,6 +2186,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125118Z" creationid="LiarOnce" creationdate="20181013T125118Z">
         <seg>清除包含的文件列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click here to go to the YoYoGames website for more information on GameMaker</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032713Z" creationid="LiarOnce" creationdate="20181014T032713Z">
+        <seg>单击此处转到 YoYoGames 网站, 了解有关 GameMaker 的更多信息</seg>
       </tuv>
     </tu>
     <tu>
@@ -2622,10 +2638,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create Executable for Target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032737Z" creationid="LiarOnce" creationdate="20181014T032737Z">
+        <seg>为目标创建可执行文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create New Asset Package</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141517Z" creationid="LiarOnce" creationdate="20181007T141517Z">
         <seg>新建资源包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a background</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032810Z" creationid="LiarOnce" creationdate="20181014T032810Z">
+        <seg>创建背景</seg>
       </tuv>
     </tu>
     <tu>
@@ -2638,10 +2670,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create a new game</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032731Z" creationid="LiarOnce" creationdate="20181014T032731Z">
+        <seg>创建新游戏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create a new, empty image</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050610Z" creationid="LiarOnce" creationdate="20181009T050610Z">
         <seg>创建一个新的空图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a sound</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032804Z" creationid="LiarOnce" creationdate="20181014T032804Z">
+        <seg>创建声音</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a sprite</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032748Z" creationid="LiarOnce" creationdate="20181014T032748Z">
+        <seg>创建精灵</seg>
       </tuv>
     </tu>
     <tu>
@@ -4267,6 +4323,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you think you already have this module, press Licence Now to enter your licence.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032656Z" creationid="LiarOnce" creationdate="20181014T032656Z">
+        <seg>如果您认为您已经拥有此模块, 请立即点击许可进入您的许可证。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you would like to use this target you can purchase the module form our</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032639Z" creationid="LiarOnce" creationdate="20181014T032639Z">
@@ -4939,6 +5003,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Licence Now</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032705Z" creationid="LiarOnce" creationdate="20181014T032705Z">
+        <seg>现在激活</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>License:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051916Z" creationid="LiarOnce" creationdate="20181008T051916Z">
@@ -5467,6 +5539,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New Background</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032808Z" creationid="LiarOnce" creationdate="20181014T032808Z">
+        <seg>新的背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New Hue:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124354Z" creationid="LiarOnce" creationdate="20181013T124354Z">
@@ -5479,6 +5559,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180921T145929Z" creationid="deciia" creationdate="20180921T145929Z">
         <seg>新的IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Path</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T033033Z" creationid="LiarOnce" creationdate="20181014T033033Z">
+        <seg>新的路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Sound</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032803Z" creationid="LiarOnce" creationdate="20181014T032753Z">
+        <seg>新的声音</seg>
       </tuv>
     </tu>
     <tu>
@@ -5503,6 +5599,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142001Z" creationid="LiarOnce" creationdate="20181007T142001Z">
         <seg>下一个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next Resource</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032722Z" creationid="LiarOnce" creationdate="20181014T032722Z">
+        <seg>下一个资源</seg>
       </tuv>
     </tu>
     <tu>
@@ -5671,6 +5775,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T134402Z" creationid="deciia" creationdate="20170103T134402Z">
         <seg>打开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open an existing game</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032733Z" creationid="LiarOnce" creationdate="20181014T032733Z">
+        <seg>打开现有游戏</seg>
       </tuv>
     </tu>
     <tu>
@@ -6129,6 +6241,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141034Z" creationid="LiarOnce" creationdate="20181007T141034Z">
         <seg>上一个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Previous Resource</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032728Z" creationid="LiarOnce" creationdate="20181014T032719Z">
+        <seg>上一个资源</seg>
       </tuv>
     </tu>
     <tu>
@@ -6751,6 +6871,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Run game in debug mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032740Z" creationid="LiarOnce" creationdate="20181014T032740Z">
+        <seg>在调试模式下运行游戏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run the game</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032738Z" creationid="LiarOnce" creationdate="20181014T032738Z">
+        <seg>运行游戏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>RunnerActivity Level</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130607Z" creationid="LiarOnce" creationdate="20181013T130607Z">
@@ -6827,6 +6963,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140606Z" creationid="LiarOnce" creationdate="20181007T140606Z">
         <seg>将代码保存到一个文本文件中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save the game</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032735Z" creationid="LiarOnce" creationdate="20181014T032735Z">
+        <seg>保存游戏</seg>
       </tuv>
     </tu>
     <tu>
@@ -6923,6 +7067,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051440Z" creationid="LiarOnce" creationdate="20181008T051440Z">
         <seg>脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search For Resources matching Whole Word Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032716Z" creationid="LiarOnce" creationdate="20181014T032716Z">
+        <seg>搜索只匹配整个单词的资源</seg>
       </tuv>
     </tu>
     <tu>
@@ -7557,6 +7709,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T022707Z" creationid="LiarOnce" creationdate="20181014T022707Z">
         <seg>在显示帮助时停止游戏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop web server</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032742Z" creationid="LiarOnce" creationdate="20181014T032742Z">
+        <seg>停止 web 服务器</seg>
       </tuv>
     </tu>
     <tu>
