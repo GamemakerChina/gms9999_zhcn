@@ -2662,6 +2662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create a font</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T033114Z" creationid="LiarOnce" creationdate="20181014T033114Z">
+        <seg>创建字体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create a new account...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141601Z" creationid="LiarOnce" creationdate="20181007T141601Z">
@@ -2686,6 +2694,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create a path</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T033044Z" creationid="LiarOnce" creationdate="20181014T033044Z">
+        <seg>创建路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a script</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T033110Z" creationid="LiarOnce" creationdate="20181014T033110Z">
+        <seg>创建脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a shader</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T033112Z" creationid="LiarOnce" creationdate="20181014T033112Z">
+        <seg>创建着色器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create a sound</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032804Z" creationid="LiarOnce" creationdate="20181014T032804Z">
@@ -2698,6 +2730,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032748Z" creationid="LiarOnce" creationdate="20181014T032748Z">
         <seg>创建精灵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a time line</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T033119Z" creationid="LiarOnce" creationdate="20181014T033119Z">
+        <seg>创建时间线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create an object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T033125Z" creationid="LiarOnce" creationdate="20181014T033125Z">
+        <seg>创建物体</seg>
       </tuv>
     </tu>
     <tu>
@@ -5541,8 +5589,16 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       <tuv lang="EN-US">
         <seg>New Background</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032808Z" creationid="LiarOnce" creationdate="20181014T032808Z">
-        <seg>新的背景</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T033105Z" creationid="LiarOnce" creationdate="20181014T032808Z">
+        <seg>新背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Font</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T033113Z" creationid="LiarOnce" creationdate="20181014T033113Z">
+        <seg>新字体</seg>
       </tuv>
     </tu>
     <tu>
@@ -5563,26 +5619,58 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New Object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041741Z" creationid="LiarOnce" creationdate="20181014T033120Z">
+        <seg>新物体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New Path</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T033033Z" creationid="LiarOnce" creationdate="20181014T033033Z">
-        <seg>新的路径</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T033106Z" creationid="LiarOnce" creationdate="20181014T033033Z">
+        <seg>新路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Script</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T033108Z" creationid="LiarOnce" creationdate="20181014T033108Z">
+        <seg>新脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Shader</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T033111Z" creationid="LiarOnce" creationdate="20181014T033111Z">
+        <seg>新着色器</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>New Sound</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032803Z" creationid="LiarOnce" creationdate="20181014T032753Z">
-        <seg>新的声音</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T033103Z" creationid="LiarOnce" creationdate="20181014T032753Z">
+        <seg>新声音</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>New Sprite</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T110330Z" creationid="deciia" creationdate="20170105T110330Z">
-        <seg>新的精灵</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T033101Z" creationid="deciia" creationdate="20170105T110330Z">
+        <seg>新精灵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Time Line</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T033117Z" creationid="LiarOnce" creationdate="20181014T033117Z">
+        <seg>新时间线</seg>
       </tuv>
     </tu>
     <tu>
