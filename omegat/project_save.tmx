@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Depth:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044204Z" creationid="LiarOnce" creationdate="20181014T044204Z">
+        <seg>深度:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Destroy</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142519Z" creationid="LiarOnce" creationdate="20181007T142519Z">
@@ -1206,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add Feed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044150Z" creationid="LiarOnce" creationdate="20181014T044150Z">
+        <seg>添加 feed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add GML File</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042829Z" creationid="LiarOnce" creationdate="20181014T042829Z">
@@ -1290,6 +1306,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042817Z" creationid="LiarOnce" creationdate="20181014T042817Z">
         <seg>添加 iOS 源目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add license keys, one per line.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044030Z" creationid="LiarOnce" creationdate="20181014T044030Z">
+        <seg>添加许可证密钥, 每行一个。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1610,6 +1634,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180925T055731Z" creationid="deciia" creationdate="20170105T032234Z">
         <seg>交替同步法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alternatively, click here to launch a support window to recover your license.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044036Z" creationid="LiarOnce" creationdate="20181014T044036Z">
+        <seg>或者, 单击此处启动支持窗口以恢复您的许可证。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2686,6 +2718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check your Email</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044107Z" creationid="LiarOnce" creationdate="20181014T044107Z">
+        <seg>查看您的电子邮件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CheckBtn</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140924Z" creationid="LiarOnce" creationdate="20181007T140924Z">
@@ -3146,6 +3186,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20161223T080444Z" creationid="deciia" creationdate="20161223T080444Z">
         <seg>确认</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm Email Address</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044104Z" creationid="LiarOnce" creationdate="20181014T044104Z">
+        <seg>确认电子邮件地址</seg>
       </tuv>
     </tu>
     <tu>
@@ -4246,6 +4294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter License Key</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044108Z" creationid="LiarOnce" creationdate="20181014T044108Z">
+        <seg>输入许可证密钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter code here</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043035Z" creationid="LiarOnce" creationdate="20181014T043035Z">
@@ -4734,6 +4790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Free MIPS Special Edition</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044040Z" creationid="LiarOnce" creationdate="20181014T044040Z">
+        <seg>免费 MIPS 特别版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From Code</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T072732Z" creationid="deciia" creationdate="20170102T072732Z">
@@ -4850,6 +4914,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143016Z" creationid="LiarOnce" creationdate="20181007T143016Z">
         <seg>游戏开始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GameMaker News</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044157Z" creationid="LiarOnce" creationdate="20181014T044157Z">
+        <seg>GameMaker 新闻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GameMaker is unable to validate your license.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044045Z" creationid="LiarOnce" creationdate="20181014T044045Z">
+        <seg>GameMaker 无法验证您的许可证。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GameMaker must be able to revalidate your license at least once a month.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044050Z" creationid="LiarOnce" creationdate="20181014T044050Z">
+        <seg>GameMaker 必须能够至少每月一次验证您的许可证。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5207,6 +5295,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T082408Z" creationid="deciia" creationdate="20180922T082408Z">
         <seg>图标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are having issues please contact:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044054Z" creationid="LiarOnce" creationdate="20181014T044054Z">
+        <seg>如果您有问题, 请联系:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6003,10 +6099,34 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Licence Key</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044111Z" creationid="LiarOnce" creationdate="20181014T044111Z">
+        <seg>许可证密钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Licence Now</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032705Z" creationid="LiarOnce" creationdate="20181014T032705Z">
         <seg>现在激活</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>License</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043954Z" creationid="LiarOnce" creationdate="20181014T043954Z">
+        <seg>许可证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>License Key</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044142Z" creationid="LiarOnce" creationdate="20181014T044142Z">
+        <seg>授权密匙</seg>
       </tuv>
     </tu>
     <tu>
@@ -7469,6 +7589,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Primary License</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044027Z" creationid="LiarOnce" creationdate="20181014T044027Z">
+        <seg>主许可证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Print</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140611Z" creationid="LiarOnce" creationdate="20181007T140611Z">
@@ -7727,6 +7855,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refresh Demo RSS feeds</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043941Z" creationid="LiarOnce" creationdate="20181014T043941Z">
+        <seg>刷新演示 RSS feeds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refresh Tutorials RSS feeds</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043952Z" creationid="LiarOnce" creationdate="20181014T043952Z">
+        <seg>刷新教程 RSS feeds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refresh from Mac</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180925T033412Z" creationid="deciia" creationdate="20170104T065203Z">
@@ -7771,6 +7915,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T052936Z" creationid="LiarOnce" creationdate="20181008T052936Z">
         <seg>删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove Feed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044154Z" creationid="LiarOnce" creationdate="20181014T044154Z">
+        <seg>移除 feed</seg>
       </tuv>
     </tu>
     <tu>
@@ -7987,6 +8139,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130307Z" creationid="LiarOnce" creationdate="20181013T130307Z">
         <seg>返回类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revalidate License</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044043Z" creationid="LiarOnce" creationdate="20181014T044043Z">
+        <seg>验证许可证</seg>
       </tuv>
     </tu>
     <tu>
@@ -8977,6 +9137,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So&amp;lid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044225Z" creationid="LiarOnce" creationdate="20181014T044225Z">
+        <seg>固体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Social</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170320T144136Z" creationid="deciia" creationdate="20170313T005835Z">
@@ -9297,6 +9465,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Submit License</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044037Z" creationid="LiarOnce" creationdate="20181014T044037Z">
+        <seg>提交许可证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Subtle</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124641Z" creationid="LiarOnce" creationdate="20181013T124641Z">
@@ -9457,6 +9633,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The name of the object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044209Z" creationid="LiarOnce" creationdate="20181014T044209Z">
+        <seg>对象的名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The name of your extension</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130414Z" creationid="LiarOnce" creationdate="20181013T130414Z">
@@ -9485,6 +9669,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123451Z" creationid="LiarOnce" creationdate="20181013T123451Z">
         <seg>这是 GameMaker 8.1 的限时测试版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This requires an internet connection.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044052Z" creationid="LiarOnce" creationdate="20181014T044052Z">
+        <seg>这需要互联网连接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10368,6 +10560,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170311T113744Z" creationid="deciia" creationdate="20170311T113744Z">
         <seg>欢迎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether the object is solid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044241Z" creationid="LiarOnce" creationdate="20181014T044241Z">
+        <seg>物体是否为固体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether this sprite uses Physics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044207Z" creationid="LiarOnce" creationdate="20181014T044207Z">
+        <seg>这个精灵是否使用物理</seg>
       </tuv>
     </tu>
     <tu>
