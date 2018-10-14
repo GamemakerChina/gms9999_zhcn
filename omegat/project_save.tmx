@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Blur...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T031855Z" creationid="LiarOnce" creationdate="20181014T031855Z">
+        <seg>模糊....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Bold</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045559Z" creationid="LiarOnce" creationdate="20181009T045559Z">
@@ -154,6 +162,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T025919Z" creationid="LiarOnce" creationdate="20181014T025919Z">
         <seg>&amp;擦除左侧的颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Fade...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T031846Z" creationid="LiarOnce" creationdate="20181014T031846Z">
+        <seg>&amp;淡化...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1618,6 +1634,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134839Z" creationid="LiarOnce" creationdate="20181007T134839Z">
         <seg>模糊透明度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blur the image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032529Z" creationid="LiarOnce" creationdate="20181014T032529Z">
+        <seg>模糊图像</seg>
       </tuv>
     </tu>
     <tu>
@@ -3486,6 +3510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fade the image to a color</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T031842Z" creationid="LiarOnce" creationdate="20181014T031842Z">
+        <seg>将图像淡化为一种颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fast</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T064852Z" creationid="deciia" creationdate="20170104T064852Z">
@@ -4235,6 +4267,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you would like to use this target you can purchase the module form our</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032639Z" creationid="LiarOnce" creationdate="20181014T032639Z">
+        <seg>如果您想使用此目标，您可以从我们的模块购买</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Image</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T074624Z" creationid="deciia" creationdate="20170102T074541Z">
@@ -4495,6 +4535,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170316T115338Z" creationid="deciia" creationdate="20170104T072853Z">
         <seg>是游戏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It looks like you dont have the correct license to use this target.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032616Z" creationid="LiarOnce" creationdate="20181014T032616Z">
+        <seg>看起来你没有正确的许可证来使用这个目标。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6195,6 +6243,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T023047Z" creationid="deciia" creationdate="20180922T023047Z">
         <seg>发布者名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Purchase module</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032608Z" creationid="LiarOnce" creationdate="20181014T032608Z">
+        <seg>购买模块</seg>
       </tuv>
     </tu>
     <tu>
