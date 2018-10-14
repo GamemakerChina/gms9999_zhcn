@@ -1470,6 +1470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Backwards</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T022907Z" creationid="LiarOnce" creationdate="20181014T022907Z">
+        <seg>向后</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Begin Step</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044954Z" creationid="LiarOnce" creationdate="20181008T044954Z">
@@ -1846,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change how transparent the onion skin is</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T022923Z" creationid="LiarOnce" creationdate="20181014T022923Z">
+        <seg>改变洋葱皮的透明程度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change the Value and Saturation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123547Z" creationid="LiarOnce" creationdate="20181013T123547Z">
@@ -2018,6 +2034,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T022757Z" creationid="LiarOnce" creationdate="20181014T022757Z">
         <seg>单击以更改右侧绘图颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to change the tolerance for filling</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023211Z" creationid="LiarOnce" creationdate="20181014T023211Z">
+        <seg>单击以更改填充的公差</seg>
       </tuv>
     </tu>
     <tu>
@@ -3234,6 +3258,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125053Z" creationid="LiarOnce" creationdate="20181013T125053Z">
         <seg>要包括在项目中的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filled Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023107Z" creationid="LiarOnce" creationdate="20181014T023107Z">
+        <seg>仅填充</seg>
       </tuv>
     </tu>
     <tu>
@@ -4763,6 +4795,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Max number of forward onion images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T022952Z" creationid="LiarOnce" creationdate="20181014T022952Z">
+        <seg>正向洋葱图像的最大数量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Max number of previous onion images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023039Z" creationid="LiarOnce" creationdate="20181014T023039Z">
+        <seg>以前的洋葱图像的最大数量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Medium</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170219T010227Z" creationid="deciia" creationdate="20170219T010227Z">
@@ -5179,6 +5227,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Onion Skin</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T022904Z" creationid="LiarOnce" creationdate="20181014T022904Z">
+        <seg>洋葱皮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Opacity</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050219Z" creationid="LiarOnce" creationdate="20181009T050219Z">
@@ -5287,6 +5343,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T045203Z" creationid="deciia" creationdate="20170102T045203Z">
         <seg>其它</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Outline Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023100Z" creationid="LiarOnce" creationdate="20181014T023100Z">
+        <seg>仅限大纲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Outline and Filled</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023103Z" creationid="LiarOnce" creationdate="20181014T023103Z">
+        <seg>轮廓和填充</seg>
       </tuv>
     </tu>
     <tu>
@@ -5617,6 +5689,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T100834Z" creationid="deciia" creationdate="20170102T100834Z">
         <seg>预览</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preview of the Image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T022854Z" creationid="LiarOnce" creationdate="20181014T022854Z">
+        <seg>图像预览</seg>
       </tuv>
     </tu>
     <tu>
