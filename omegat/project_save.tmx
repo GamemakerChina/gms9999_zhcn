@@ -1454,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add new Texture Group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052915Z" creationid="LiarOnce" creationdate="20181015T052915Z">
+        <seg>添加新纹理组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add new configuration</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043056Z" creationid="LiarOnce" creationdate="20181014T043056Z">
@@ -4102,6 +4110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete selected Texture Group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052916Z" creationid="LiarOnce" creationdate="20181015T052916Z">
+        <seg>删除选定的纹理组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete the current macro</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124905Z" creationid="LiarOnce" creationdate="20181013T124905Z">
@@ -5987,6 +6003,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Image preview:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052910Z" creationid="LiarOnce" creationdate="20181015T052910Z">
+        <seg>图像预览:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Images</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170314T163852Z" creationid="deciia" creationdate="20170314T163852Z">
@@ -6939,10 +6963,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>List of available texture groups</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052913Z" creationid="LiarOnce" creationdate="20181015T052913Z">
+        <seg>可用纹理组列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>List of points of collision shape</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052538Z" creationid="LiarOnce" creationdate="20181015T052538Z">
         <seg>碰撞形状点列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of sprites in selected texture group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052925Z" creationid="LiarOnce" creationdate="20181015T052925Z">
+        <seg>选定纹理组中的精灵列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -8645,6 +8685,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preview of selected sprite</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052923Z" creationid="LiarOnce" creationdate="20181015T052923Z">
+        <seg>选定精灵的预览</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preview of the Image</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T022854Z" creationid="LiarOnce" creationdate="20181014T022854Z">
@@ -9091,6 +9139,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20161223T064905Z" creationid="deciia" creationdate="20161223T064905Z">
         <seg>重命名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename current Texture Group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052918Z" creationid="LiarOnce" creationdate="20181015T052918Z">
+        <seg>重命名当前纹理组</seg>
       </tuv>
     </tu>
     <tu>
@@ -10897,6 +10953,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Texture Group Settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052927Z" creationid="LiarOnce" creationdate="20181015T052927Z">
+        <seg>纹理组设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Texture Group for Font page</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130826Z" creationid="LiarOnce" creationdate="20181013T130826Z">
@@ -10925,6 +10989,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170322T045824Z" creationid="36011" creationdate="20170322T045824Z">
         <seg>纹理设定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Texture border width (texels):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052932Z" creationid="LiarOnce" creationdate="20181015T052932Z">
+        <seg>纹理边框宽度 (纹素):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Texture group NOT scaled</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052935Z" creationid="LiarOnce" creationdate="20181015T052935Z">
+        <seg>纹理组未缩放</seg>
       </tuv>
     </tu>
     <tu>
@@ -11253,6 +11333,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052632Z" creationid="LiarOnce" creationdate="20181015T052632Z">
         <seg>切换网格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle scaling of Texture Group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T053036Z" creationid="LiarOnce" creationdate="20181015T053036Z">
+        <seg>切换纹理组的缩放比例</seg>
       </tuv>
     </tu>
     <tu>
