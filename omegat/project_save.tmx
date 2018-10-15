@@ -1694,6 +1694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Always Replace</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051513Z" creationid="LiarOnce" creationdate="20181015T051513Z">
+        <seg>始终替换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Always do full install of APK</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180925T200201Z" creationid="deciia" creationdate="20170105T081956Z">
@@ -3150,6 +3158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Colour Change Tool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051426Z" creationid="LiarOnce" creationdate="20181015T051426Z">
+        <seg>颜色变化工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Colour Mode</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050239Z" creationid="LiarOnce" creationdate="20181009T050239Z">
@@ -4304,8 +4320,8 @@
       <tuv lang="EN-US">
         <seg>Ellipse Tool</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="36011" changedate="20170322T053005Z" creationid="36011" creationdate="20170322T053005Z">
-        <seg>椭圆工具（Ellipse Tool）</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051418Z" creationid="36011" creationdate="20170322T053005Z">
+        <seg>椭圆工具</seg>
       </tuv>
     </tu>
     <tu>
@@ -4730,6 +4746,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125053Z" creationid="LiarOnce" creationdate="20181013T125053Z">
         <seg>要包括在项目中的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fill Tool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051422Z" creationid="LiarOnce" creationdate="20181015T051422Z">
+        <seg>填充工具</seg>
       </tuv>
     </tu>
     <tu>
@@ -5314,6 +5338,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Handling Naming Conflicts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051457Z" creationid="LiarOnce" creationdate="20181015T051457Z">
+        <seg>处理命名冲突</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hardness</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023351Z" creationid="LiarOnce" creationdate="20181014T023351Z">
@@ -5615,6 +5647,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130317Z" creationid="LiarOnce" creationdate="20181013T130317Z">
         <seg>将所选扩展导入库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Importing Resources</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051436Z" creationid="LiarOnce" creationdate="20181015T051436Z">
+        <seg>导入资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Importing old GameMaker file...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051553Z" creationid="LiarOnce" creationdate="20181015T051553Z">
+        <seg>正在导入旧 GameMaker 文件...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5943,6 +5991,30 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170311T151924Z" creationid="deciia" creationdate="20170311T151924Z">
         <seg>保持长宽比例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep Both</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051537Z" creationid="LiarOnce" creationdate="20181015T051526Z">
+        <seg>同时保留</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep Last Changed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051530Z" creationid="LiarOnce" creationdate="20181015T051516Z">
+        <seg>保留上次更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep Original</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051508Z" creationid="LiarOnce" creationdate="20181015T051508Z">
+        <seg>保留原始</seg>
       </tuv>
     </tu>
     <tu>
@@ -6375,6 +6447,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T084156Z" creationid="deciia" creationdate="20180922T084156Z">
         <seg>行号文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line Tool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051354Z" creationid="LiarOnce" creationdate="20181015T051354Z">
+        <seg>直线工具</seg>
       </tuv>
     </tu>
     <tu>
@@ -7749,6 +7829,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place new resources in a new group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051547Z" creationid="LiarOnce" creationdate="20181015T051547Z">
+        <seg>将新资源放在新组中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please check and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123536Z" creationid="LiarOnce" creationdate="20181013T123528Z">
@@ -7785,6 +7873,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043018Z" creationid="LiarOnce" creationdate="20181014T043018Z">
         <seg>请重试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Polygon Tool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051406Z" creationid="LiarOnce" creationdate="20181015T051406Z">
+        <seg>多边形工具</seg>
       </tuv>
     </tu>
     <tu>
@@ -8111,6 +8207,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rectangle Tool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051356Z" creationid="LiarOnce" creationdate="20181015T051356Z">
+        <seg>矩形工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Redo</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20161224T080032Z" creationid="deciia" creationdate="20161224T080032Z">
@@ -8423,6 +8527,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resources to Import</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051443Z" creationid="LiarOnce" creationdate="20181015T051443Z">
+        <seg>要导入的资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Restitution of object</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044514Z" creationid="LiarOnce" creationdate="20181014T044514Z">
@@ -8603,6 +8715,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170219T005858Z" creationid="deciia" creationdate="20170219T005858Z">
         <seg>旋转</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Round Rectangle Tool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051401Z" creationid="LiarOnce" creationdate="20181015T051401Z">
+        <seg>圆形矩形工具</seg>
       </tuv>
     </tu>
     <tu>
@@ -9971,8 +10091,8 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       <tuv lang="EN-US">
         <seg>Text Tool</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="36011" changedate="20170322T053026Z" creationid="36011" creationdate="20170322T053026Z">
-        <seg>文本编辑器（Text Tool）</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051415Z" creationid="36011" creationdate="20170322T053026Z">
+        <seg>文本编辑器</seg>
       </tuv>
     </tu>
     <tu>
@@ -10245,6 +10365,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170316T092230Z" creationid="deciia" creationdate="20170311T165853Z">
         <seg>切换网格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle Scratch Page</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051433Z" creationid="LiarOnce" creationdate="20181015T051433Z">
+        <seg>切换 Scratch 页面</seg>
       </tuv>
     </tu>
     <tu>
@@ -10940,6 +11068,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WARNING!!!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051603Z" creationid="LiarOnce" creationdate="20181015T051603Z">
+        <seg>警告！！！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>WARNING: GM8.1 Beta</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123447Z" creationid="LiarOnce" creationdate="20181013T123447Z">
@@ -11112,6 +11248,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042955Z" creationid="LiarOnce" creationdate="20181014T042955Z">
         <seg>YoYo Account 两步验证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are importing from an old version of GameMaker, functionality has changed from previous versions so DO NOT expect this to work without changes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051709Z" creationid="LiarOnce" creationdate="20181015T051709Z">
+        <seg>您从旧版本的 GameMaker 导入，函数已从以前的版本更改，所以不要期望这个没有更改。.</seg>
       </tuv>
     </tu>
     <tu>
