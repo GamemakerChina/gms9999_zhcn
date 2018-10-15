@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Copy Event</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052451Z" creationid="LiarOnce" creationdate="20181015T052451Z">
+        <seg>复制事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Create</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042026Z" creationid="LiarOnce" creationdate="20181014T042026Z">
@@ -218,6 +226,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141729Z" creationid="LiarOnce" creationdate="20181007T141729Z">
         <seg>&amp;修改背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Edit Values</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052432Z" creationid="LiarOnce" creationdate="20181015T052432Z">
+        <seg>编辑值</seg>
       </tuv>
     </tu>
     <tu>
@@ -594,6 +610,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050034Z" creationid="LiarOnce" creationdate="20181009T050034Z">
         <seg>&amp;粘贴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Paste Event</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052454Z" creationid="LiarOnce" creationdate="20181015T052454Z">
+        <seg>粘贴事件</seg>
       </tuv>
     </tu>
     <tu>
@@ -1178,6 +1202,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130404Z" creationid="deciia" creationdate="20181006T130404Z">
         <seg>动作窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Actions:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052422Z" creationid="LiarOnce" creationdate="20181015T052422Z">
+        <seg>动作:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2558,6 +2590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>C&amp;ut Event</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052446Z" creationid="LiarOnce" creationdate="20181015T052446Z">
+        <seg>剪切事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ca&amp;ncel</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142500Z" creationid="LiarOnce" creationdate="20181007T142500Z">
@@ -2750,6 +2790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change which event has this behavior</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052416Z" creationid="LiarOnce" creationdate="20181015T052416Z">
+        <seg>更改哪个事件具有此行为</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characters to be copied</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T101538Z" creationid="LiarOnce" creationdate="20181013T101538Z">
@@ -2846,6 +2894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Children:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052347Z" creationid="LiarOnce" creationdate="20181015T052347Z">
+        <seg>子级:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose the Event to Add</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125121Z" creationid="LiarOnce" creationdate="20181013T125121Z">
@@ -2938,6 +2994,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125118Z" creationid="LiarOnce" creationdate="20181013T125118Z">
         <seg>清除包含的文件列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click here to add another event</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052410Z" creationid="LiarOnce" creationdate="20181015T052410Z">
+        <seg>单击此处添加其他事件</seg>
       </tuv>
     </tu>
     <tu>
@@ -3122,6 +3186,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044522Z" creationid="LiarOnce" creationdate="20181014T044522Z">
         <seg>物体碰撞组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collision shape to use</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052558Z" creationid="LiarOnce" creationdate="20181015T052558Z">
+        <seg>要使用的碰撞形状</seg>
       </tuv>
     </tu>
     <tu>
@@ -3774,6 +3846,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current Actions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052426Z" creationid="LiarOnce" creationdate="20181015T052426Z">
+        <seg>当前操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current Events</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052406Z" creationid="LiarOnce" creationdate="20181015T052406Z">
+        <seg>当前事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Current Version:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T103322Z" creationid="deciia" creationdate="20170105T103322Z">
@@ -3918,6 +4006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete last point</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052554Z" creationid="LiarOnce" creationdate="20181015T052554Z">
+        <seg>删除最后一点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete selected Extension</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130319Z" creationid="LiarOnce" creationdate="20181013T130319Z">
@@ -3930,6 +4026,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124905Z" creationid="LiarOnce" creationdate="20181013T124905Z">
         <seg>删除当前宏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete the currently selected event</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052418Z" creationid="LiarOnce" creationdate="20181015T052418Z">
+        <seg>删除当前选定的事件</seg>
       </tuv>
     </tu>
     <tu>
@@ -4610,6 +4714,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20161223T080942Z" creationid="deciia" creationdate="20161223T080942Z">
         <seg>错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Events:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052404Z" creationid="LiarOnce" creationdate="20181015T052404Z">
+        <seg>事件:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5611,6 +5723,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Horizontal Snap:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052524Z" creationid="LiarOnce" creationdate="20181015T052524Z">
+        <seg>水平对齐:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Horizontal offset for the first tile</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121704Z" creationid="LiarOnce" creationdate="20181013T121704Z">
@@ -5631,6 +5751,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085503Z" creationid="LiarOnce" creationdate="20181013T085503Z">
         <seg>水平大小:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horizontal value to snap to grid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052546Z" creationid="LiarOnce" creationdate="20181015T052546Z">
+        <seg>要捕捉到网格的水平值</seg>
       </tuv>
     </tu>
     <tu>
@@ -6683,6 +6811,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>List of points of collision shape</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052538Z" creationid="LiarOnce" creationdate="20181015T052538Z">
+        <seg>碰撞形状点列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Load Colour Palette</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050504Z" creationid="LiarOnce" creationdate="20181009T050504Z">
@@ -7179,6 +7315,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move display left</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052603Z" creationid="LiarOnce" creationdate="20181015T052603Z">
+        <seg>向左移动显示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move display right</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052604Z" creationid="LiarOnce" creationdate="20181015T052604Z">
+        <seg>向右移动显示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move instance down 10 places</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051940Z" creationid="LiarOnce" creationdate="20181015T051940Z">
@@ -7351,6 +7503,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140331Z" creationid="LiarOnce" creationdate="20181006T140331Z">
         <seg>对象名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of sprite</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052531Z" creationid="LiarOnce" creationdate="20181015T052531Z">
+        <seg>精灵的名字</seg>
       </tuv>
     </tu>
     <tu>
@@ -7639,6 +7799,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140349Z" creationid="LiarOnce" creationdate="20181007T140349Z">
         <seg>确定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Object Information</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052500Z" creationid="LiarOnce" creationdate="20181015T052500Z">
+        <seg>物体信息</seg>
       </tuv>
     </tu>
     <tu>
@@ -8197,6 +8365,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Physics Shape</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052520Z" creationid="LiarOnce" creationdate="20181015T052520Z">
+        <seg>物理形状</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pick a color from the image (C)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023541Z" creationid="LiarOnce" creationdate="20181014T023541Z">
@@ -8257,6 +8433,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043018Z" creationid="LiarOnce" creationdate="20181014T043018Z">
         <seg>请重试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Point List:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052522Z" creationid="LiarOnce" creationdate="20181015T052522Z">
+        <seg>点列表:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8377,6 +8561,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085627Z" creationid="LiarOnce" creationdate="20181013T085627Z">
         <seg>打印文档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print the object information</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052517Z" creationid="LiarOnce" creationdate="20181015T052517Z">
+        <seg>打印物体信息</seg>
       </tuv>
     </tu>
     <tu>
@@ -9335,6 +9527,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save the object information to a file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052511Z" creationid="LiarOnce" creationdate="20181015T052511Z">
+        <seg>将物体信息保存到文件中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SaveBtn</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140548Z" creationid="LiarOnce" creationdate="20181007T140548Z">
@@ -9809,6 +10009,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show &amp;Information</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052351Z" creationid="LiarOnce" creationdate="20181015T052351Z">
+        <seg>显示信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show &amp;Object Information</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042218Z" creationid="LiarOnce" creationdate="20181014T042218Z">
@@ -9909,6 +10117,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T025848Z" creationid="LiarOnce" creationdate="20181014T025848Z">
         <seg>以原始大小显示图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show information about the object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052400Z" creationid="LiarOnce" creationdate="20181015T052400Z">
+        <seg>显示有关物体的信息</seg>
       </tuv>
     </tu>
     <tu>
@@ -10241,6 +10457,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sprite Name:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052527Z" creationid="LiarOnce" creationdate="20181015T052527Z">
+        <seg>精灵名称:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sprites</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051410Z" creationid="LiarOnce" creationdate="20181008T051410Z">
@@ -10569,6 +10793,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The image used as collision mask for the object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052342Z" creationid="LiarOnce" creationdate="20181015T052342Z">
+        <seg>用作物体的冲突遮罩的图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The name of the background</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121141Z" creationid="LiarOnce" creationdate="20181013T121141Z">
@@ -10597,6 +10829,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130414Z" creationid="LiarOnce" creationdate="20181013T130414Z">
         <seg>扩展名的名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The parent from which events and actions are</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052331Z" creationid="LiarOnce" creationdate="20181015T052331Z">
+        <seg>事件和操作的父级</seg>
       </tuv>
     </tu>
     <tu>
@@ -10997,6 +11237,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20161224T080215Z" creationid="deciia" creationdate="20161224T080215Z">
         <seg>撤消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undo Last Operation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052441Z" creationid="LiarOnce" creationdate="20181015T052441Z">
+        <seg>撤消上次操作</seg>
       </tuv>
     </tu>
     <tu>
@@ -11460,6 +11708,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vertical Snap:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052525Z" creationid="LiarOnce" creationdate="20181015T052525Z">
+        <seg>垂直对齐:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vertical offset for the first tile</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121656Z" creationid="LiarOnce" creationdate="20181013T121656Z">
@@ -11480,6 +11736,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085509Z" creationid="LiarOnce" creationdate="20181013T085509Z">
         <seg>垂直大小:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical value to snap to grid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052551Z" creationid="LiarOnce" creationdate="20181015T052551Z">
+        <seg>要捕捉到网格的垂直值</seg>
       </tuv>
     </tu>
     <tu>
