@@ -1302,6 +1302,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add a shadow to the image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051045Z" creationid="LiarOnce" creationdate="20181015T051045Z">
+        <seg>向图像添加阴影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add an outline to the image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051003Z" creationid="LiarOnce" creationdate="20181015T051003Z">
+        <seg>向图像添加轮廓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add iOS Framework From Mac</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042814Z" creationid="LiarOnce" creationdate="20181014T042814Z">
@@ -7059,6 +7075,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>O&amp;utline...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051039Z" creationid="LiarOnce" creationdate="20181015T050950Z">
+        <seg>轮廓..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OK</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181006T130349Z" creationid="deciia" creationdate="20181006T130349Z">
@@ -8503,6 +8527,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>S&amp;harpen...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T050933Z" creationid="LiarOnce" creationdate="20181015T050933Z">
+        <seg>锐化...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>S&amp;kew...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T030726Z" creationid="LiarOnce" creationdate="20181014T030726Z">
@@ -8975,6 +9007,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sha&amp;dow...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051043Z" creationid="LiarOnce" creationdate="20181015T051043Z">
+        <seg>阴影...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shaders</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T114401Z" creationid="deciia" creationdate="20170103T114401Z">
@@ -9003,6 +9043,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135935Z" creationid="LiarOnce" creationdate="20181007T135935Z">
         <seg>锐化透明度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sharpen the image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T050936Z" creationid="LiarOnce" creationdate="20181015T050936Z">
+        <seg>锐化图像</seg>
       </tuv>
     </tu>
     <tu>
