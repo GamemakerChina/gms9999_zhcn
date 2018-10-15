@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Abort on all error messages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052710Z" creationid="LiarOnce" creationdate="20181015T052710Z">
+        <seg>中止所有错误消息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;About GameMaker...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042801Z" creationid="LiarOnce" creationdate="20181014T042757Z">
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T022646Z" creationid="LiarOnce" creationdate="20181014T022640Z">
         <seg>&amp;允许播放机调整窗口大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Always reload changed files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052757Z" creationid="LiarOnce" creationdate="20181015T052757Z">
+        <seg>始终重新加载已更改的文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Display error messages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052655Z" creationid="LiarOnce" creationdate="20181015T052655Z">
+        <seg>&amp;显示错误信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Edit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045958Z" creationid="LiarOnce" creationdate="20181009T045958Z">
@@ -322,6 +346,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042703Z" creationid="LiarOnce" creationdate="20181014T042703Z">
         <seg>GameMaker 社区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;General</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052642Z" creationid="LiarOnce" creationdate="20181015T052642Z">
+        <seg>&amp;一般</seg>
       </tuv>
     </tu>
     <tu>
@@ -846,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Texture Groups</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052903Z" creationid="LiarOnce" creationdate="20181015T052903Z">
+        <seg>纹理组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Top</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043726Z" creationid="LiarOnce" creationdate="20181014T043726Z">
@@ -938,6 +978,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131443Z" creationid="LiarOnce" creationdate="20181013T131443Z">
         <seg>窗口标题:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Write error messages to file game_errors.log</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052705Z" creationid="LiarOnce" creationdate="20181015T052705Z">
+        <seg>将错误消息写入文件 game_errors.log</seg>
       </tuv>
     </tu>
     <tu>
@@ -2662,6 +2710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Centre display on object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052623Z" creationid="LiarOnce" creationdate="20181015T052623Z">
+        <seg>物体上的中心显示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Certificate (JS)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T084208Z" creationid="deciia" creationdate="20170104T084208Z">
@@ -3062,6 +3118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click to choose background colour outside room region</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052737Z" creationid="LiarOnce" creationdate="20181015T052737Z">
+        <seg>单击以选择房间区域外的背景颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click to select sprite to use</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044247Z" creationid="LiarOnce" creationdate="20181014T044247Z">
@@ -3218,6 +3282,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023222Z" creationid="LiarOnce" creationdate="20181014T023222Z">
         <seg>仅限颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color outside the room region:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052734Z" creationid="LiarOnce" creationdate="20181015T052734Z">
+        <seg>房间区域外的颜色:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3498,6 +3570,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180923T220737Z" creationid="deciia" creationdate="20170102T091929Z">
         <seg>复制所选</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy To Clipboard</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052830Z" creationid="LiarOnce" creationdate="20181015T052830Z">
+        <seg>复制到剪贴板</seg>
       </tuv>
     </tu>
     <tu>
@@ -4718,6 +4798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Errors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052650Z" creationid="LiarOnce" creationdate="20181015T052650Z">
+        <seg>错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Events:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052404Z" creationid="LiarOnce" creationdate="20181015T052404Z">
@@ -4874,6 +4962,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T064852Z" creationid="deciia" creationdate="20170104T064852Z">
         <seg>快速</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fast Collision System Compatibility Mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052852Z" creationid="LiarOnce" creationdate="20181015T052852Z">
+        <seg>快速碰撞系统兼容模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -5342,6 +5438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ga&amp;me Identifier:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052742Z" creationid="LiarOnce" creationdate="20181015T052742Z">
+        <seg>游戏标识号:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Game</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T070038Z" creationid="deciia" creationdate="20170104T070038Z">
@@ -5354,6 +5458,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180925T094025Z" creationid="deciia" creationdate="20170105T070311Z">
         <seg>游戏GUID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Game GUID:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052748Z" creationid="LiarOnce" creationdate="20181015T052748Z">
+        <seg>游戏 GUID:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5378,6 +5490,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131430Z" creationid="LiarOnce" creationdate="20181013T131430Z">
         <seg>游戏信息选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Game Settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052718Z" creationid="LiarOnce" creationdate="20181015T052718Z">
+        <seg>游戏设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -5450,6 +5570,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T073213Z" creationid="deciia" creationdate="20170104T073213Z">
         <seg>生成Spotify应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generate new GUID and Id</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052829Z" creationid="LiarOnce" creationdate="20181015T052829Z">
+        <seg>生成新的 GUID 和 Id</seg>
       </tuv>
     </tu>
     <tu>
@@ -7315,6 +7443,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move display down</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052609Z" creationid="LiarOnce" creationdate="20181015T052609Z">
+        <seg>向下移动显示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move display left</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052603Z" creationid="LiarOnce" creationdate="20181015T052603Z">
@@ -7327,6 +7463,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052604Z" creationid="LiarOnce" creationdate="20181015T052604Z">
         <seg>向右移动显示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move display up</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052606Z" creationid="LiarOnce" creationdate="20181015T052606Z">
+        <seg>向上移动显示</seg>
       </tuv>
     </tu>
     <tu>
@@ -9993,6 +10137,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Short-Circuit evaluations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052857Z" creationid="LiarOnce" creationdate="20181015T052857Z">
+        <seg>短路评估</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show &amp;Constants</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042419Z" creationid="LiarOnce" creationdate="20181014T042419Z">
@@ -10777,6 +10929,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Texture group contents:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052908Z" creationid="LiarOnce" creationdate="20181015T052908Z">
+        <seg>纹理组内容:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Texture groups:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052905Z" creationid="LiarOnce" creationdate="20181015T052905Z">
+        <seg>纹理组:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The depth at which the object is drawn</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052251Z" creationid="LiarOnce" creationdate="20181015T052251Z">
@@ -10893,6 +11061,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123454Z" creationid="LiarOnce" creationdate="20181013T123454Z">
         <seg>此版本仅用于测试程序, 而不是用于生成游戏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Throw an error when arguments aren't initialised correctly.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052717Z" creationid="LiarOnce" creationdate="20181015T052717Z">
+        <seg>当参数未正确初始化时引发错误。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11041,6 +11217,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Toggle Reloading of changed files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052824Z" creationid="LiarOnce" creationdate="20181015T052824Z">
+        <seg>切换已更改文件重新加载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Toggle Scratch Page</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051433Z" creationid="LiarOnce" creationdate="20181015T051433Z">
@@ -11061,6 +11245,30 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052044Z" creationid="LiarOnce" creationdate="20181015T052044Z">
         <seg>在 Y 中切换翻转</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle grid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052632Z" creationid="LiarOnce" creationdate="20181015T052632Z">
+        <seg>切换网格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle short-circuit evaluations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052859Z" creationid="LiarOnce" creationdate="20181015T052859Z">
+        <seg>切换短路评估</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle use of New Audio Engine</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052846Z" creationid="LiarOnce" creationdate="20181015T052846Z">
+        <seg>切换新音频引擎的使用</seg>
       </tuv>
     </tu>
     <tu>
@@ -11353,6 +11561,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use Fast Collision System</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052849Z" creationid="LiarOnce" creationdate="20181015T052849Z">
+        <seg>使用快速碰撞系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use JavaScript</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043912Z" creationid="LiarOnce" creationdate="20181014T043912Z">
@@ -11373,6 +11589,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T132830Z" creationid="deciia" creationdate="20170103T132830Z">
         <seg>使用我的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use New Audio Engine</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052832Z" creationid="LiarOnce" creationdate="20181015T052832Z">
+        <seg>使用新的音频引擎</seg>
       </tuv>
     </tu>
     <tu>
