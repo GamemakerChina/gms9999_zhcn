@@ -4963,11 +4963,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ActionList.Action_Sharpen.Caption">
             <source>S&amp;harpen...</source>
-            <target>S&amp;harpen...</target>
+            <target>锐化...</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_Sharpen.Hint">
             <source>Sharpen the image</source>
-            <target>Sharpen the image</target>
+            <target>锐化图像</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_Sharpen.ShortCut">
             <source>Shift+Ctrl+H</source>
@@ -4975,11 +4975,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ActionList.Action_Outline.Caption">
             <source>O&amp;utline...</source>
-            <target>O&amp;utline...</target>
+            <target>轮廓..</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_Outline.Hint">
             <source>Add an outline to the image</source>
-            <target>Add an outline to the image</target>
+            <target>向图像添加轮廓</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_Outline.ShortCut">
             <source>Shift+Ctrl+U</source>
@@ -4987,11 +4987,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ActionList.Action_Shadow.Caption">
             <source>Sha&amp;dow...</source>
-            <target>Sha&amp;dow...</target>
+            <target>阴影...</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_Shadow.Hint">
             <source>Add a shadow to the image</source>
-            <target>Add a shadow to the image</target>
+            <target>向图像添加阴影</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_Shadow.ShortCut">
             <source>Shift+Ctrl+D</source>
@@ -4999,11 +4999,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ActionList.Action_Glow.Caption">
             <source>&amp;Glow...</source>
-            <target>&amp;Glow...</target>
+            <target>光晕...</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_Glow.Hint">
             <source>Add a glow around the image</source>
-            <target>Add a glow around the image</target>
+            <target>在图像周围添加光晕</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_Glow.ShortCut">
             <source>Shift+Ctrl+G</source>
@@ -5011,11 +5011,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ActionList.Action_Open.Caption">
             <source>&amp;Open...</source>
-            <target>&amp;Open...</target>
+            <target>打开...</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_Open.Hint">
             <source>Open an image file for editing</source>
-            <target>Open an image file for editing</target>
+            <target>打开图像文件进行编辑</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_Open.ShortCut">
             <source>Ctrl+O</source>
@@ -5027,7 +5027,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ActionList.Action_Cut.Hint">
             <source>Cut the selection to the clipboard</source>
-            <target>Cut the selection to the clipboard</target>
+            <target>将所选内容剪切到剪贴板</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_Cut.ShortCut">
             <source>Ctrl+X</source>
@@ -5039,7 +5039,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ActionList.Action_Copy.Hint">
             <source>Copy the selection to the clipboard</source>
-            <target>Copy the selection to the clipboard</target>
+            <target>将所选内容复制到剪贴板</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_Copy.ShortCut">
             <source>Ctrl+C</source>
@@ -5051,7 +5051,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ActionList.Action_Paste.Hint">
             <source>Paste the content from the clipboard</source>
-            <target>Paste the content from the clipboard</target>
+            <target>粘贴剪贴板中的内容</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_Paste.ShortCut">
             <source>Ctrl+V</source>
@@ -5059,11 +5059,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ActionList.Action_PasteFile.Caption">
             <source>Paste from &amp;File...</source>
-            <target>Paste from &amp;File...</target>
+            <target>从文件粘贴...</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_PasteFile.Hint">
             <source>Paste the image from a file</source>
-            <target>Paste the image from a file</target>
+            <target>从文件粘贴图像</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_PasteFile.ShortCut">
             <source>Ctrl+Alt+V</source>
@@ -5071,11 +5071,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ActionList.Action_SelectAll.Caption">
             <source>Select &amp;All</source>
-            <target>Select &amp;All</target>
+            <target>全选</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_SelectAll.Hint">
             <source>Select the complete image</source>
-            <target>Select the complete image</target>
+            <target>选择完整图像</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_SelectAll.ShortCut">
             <source>Ctrl+A</source>
@@ -5083,11 +5083,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ActionList.Action_TranspBack.Caption">
             <source>Set &amp;Transparency Background...</source>
-            <target>Set &amp;Transparency Background...</target>
+            <target>设置透明度背景......</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_TranspBack.Hint">
             <source>Set the background used to indicate transparency</source>
-            <target>Set the background used to indicate transparency</target>
+            <target>设置用于指示透明度的背景</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_TranspBack.ShortCut">
             <source>Ctrl+T</source>
@@ -5099,7 +5099,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ActionList.Action_Buttonize.Hint">
             <source>Create a button out of the image</source>
-            <target>Create a button out of the image</target>
+            <target>从图像中创建一个按钮</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_Buttonize.ShortCut">
             <source>Shift+Ctrl+U</source>
@@ -5107,11 +5107,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ActionList.Action_Gradient.Caption">
             <source>G&amp;radient Fill...</source>
-            <target>G&amp;radient Fill...</target>
+            <target>渐变填充...</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_Gradient.Hint">
             <source>Fills the image with a gradient using the two colors</source>
-            <target>Fills the image with a gradient using the two colors</target>
+            <target>使用两种颜色用渐变填充图像</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_Gradient.ShortCut">
             <source>Shift+Ctrl+R</source>
@@ -5123,7 +5123,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ActionList.Action_Delete.Hint">
             <source>Delete the selection</source>
-            <target>Delete the selection</target>
+            <target>删除所选内容</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_Delete.ShortCut">
             <source>Del</source>
@@ -5131,11 +5131,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ActionList.Action_Preview.Caption">
             <source>Show &amp;Preview</source>
-            <target>Show &amp;Preview</target>
+            <target>显示预览</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_Preview.Hint">
             <source>Show a preview of the image</source>
-            <target>Show a preview of the image</target>
+            <target>显示图像预览</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_Preview.ShortCut">
             <source>Ctrl+P</source>
@@ -5143,7 +5143,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ActionList.Action_GridOptions.Caption">
             <source>G&amp;rid Options...</source>
-            <target>G&amp;rid Options...</target>
+            <target>网格选项...</target>
           </trans-unit>
           <trans-unit id="ActionList.Action_GridOptions.ShortCut">
             <source>Ctrl+R</source>
@@ -5151,11 +5151,11 @@ windows you are using.
           </trans-unit>
           <trans-unit id="SaveDialog1.Title">
             <source>Save Image as a PNG file</source>
-            <target>Save Image as a PNG file</target>
+            <target>将图像另存为 PNG 文件</target>
           </trans-unit>
           <trans-unit id="SpecialKeys.PaintTool1.Caption">
             <source>Paint Tool</source>
-            <target>Paint Tool</target>
+            <target>油漆工具</target>
           </trans-unit>
           <trans-unit id="SpecialKeys.PaintTool1.ShortCut">
             <source>D</source>
@@ -5163,7 +5163,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="SpecialKeys.SprayTool1.Caption">
             <source>Spray Tool</source>
-            <target>Spray Tool</target>
+            <target>喷雾工具</target>
           </trans-unit>
           <trans-unit id="SpecialKeys.SprayTool1.ShortCut">
             <source>A</source>
@@ -5171,7 +5171,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="SpecialKeys.EraserTool1.Caption">
             <source>Eraser Tool</source>
-            <target>Eraser Tool</target>
+            <target>橡皮擦工具</target>
           </trans-unit>
           <trans-unit id="SpecialKeys.EraserTool1.ShortCut">
             <source>E</source>
@@ -5187,7 +5187,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="SpecialKeys.RectangleSelect1.Caption">
             <source>Rectangle Select</source>
-            <target>Rectangle Select</target>
+            <target>矩形选择</target>
           </trans-unit>
           <trans-unit id="SpecialKeys.RectangleSelect1.ShortCut">
             <source>S</source>
@@ -5195,7 +5195,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="SpecialKeys.WandSelect1.Caption">
             <source>Wand Select</source>
-            <target>Wand Select</target>
+            <target>魔杖选择</target>
           </trans-unit>
           <trans-unit id="SpecialKeys.WandSelect1.ShortCut">
             <source>W</source>
@@ -5203,7 +5203,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="SpecialKeys.SpraySelect1.Caption">
             <source>Spray Select</source>
-            <target>Spray Select</target>
+            <target>喷雾选择</target>
           </trans-unit>
           <trans-unit id="SpecialKeys.SpraySelect1.ShortCut">
             <source>Y</source>
@@ -5211,7 +5211,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="SpecialKeys.LineTool1.Caption">
             <source>Line Tool</source>
-            <target>Line Tool</target>
+            <target>直线工具</target>
           </trans-unit>
           <trans-unit id="SpecialKeys.LineTool1.ShortCut">
             <source>L</source>
@@ -5219,7 +5219,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="SpecialKeys.RectangleTool1.Caption">
             <source>Rectangle Tool</source>
-            <target>Rectangle Tool</target>
+            <target>矩形工具</target>
           </trans-unit>
           <trans-unit id="SpecialKeys.RectangleTool1.ShortCut">
             <source>R</source>
@@ -5227,7 +5227,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="SpecialKeys.RoundRectangleTool1.Caption">
             <source>Round Rectangle Tool</source>
-            <target>Round Rectangle Tool</target>
+            <target>圆形矩形工具</target>
           </trans-unit>
           <trans-unit id="SpecialKeys.RoundRectangleTool1.ShortCut">
             <source>O</source>
@@ -5235,7 +5235,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="SpecialKeys.EllipseTool1.Caption">
             <source>Ellipse Tool</source>
-            <target>椭圆工具（Ellipse Tool）</target>
+            <target>椭圆工具</target>
           </trans-unit>
           <trans-unit id="SpecialKeys.EllipseTool1.ShortCut">
             <source>I</source>
@@ -5243,7 +5243,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="SpecialKeys.PolygonTool1.Caption">
             <source>Polygon Tool</source>
-            <target>Polygon Tool</target>
+            <target>多边形工具</target>
           </trans-unit>
           <trans-unit id="SpecialKeys.PolygonTool1.ShortCut">
             <source>P</source>
@@ -5251,7 +5251,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="SpecialKeys.extTool1.Caption">
             <source>Text Tool</source>
-            <target>文本编辑器（Text Tool）</target>
+            <target>文本编辑器</target>
           </trans-unit>
           <trans-unit id="SpecialKeys.extTool1.ShortCut">
             <source>T</source>
@@ -5259,7 +5259,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="SpecialKeys.FillTool1.Caption">
             <source>Fill Tool</source>
-            <target>Fill Tool</target>
+            <target>填充工具</target>
           </trans-unit>
           <trans-unit id="SpecialKeys.FillTool1.ShortCut">
             <source>F</source>
@@ -5267,7 +5267,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="SpecialKeys.ColourChangeTool1.Caption">
             <source>Colour Change Tool</source>
-            <target>Colour Change Tool</target>
+            <target>颜色变化工具</target>
           </trans-unit>
           <trans-unit id="SpecialKeys.ColourChangeTool1.ShortCut">
             <source>H</source>
@@ -5275,7 +5275,7 @@ windows you are using.
           </trans-unit>
           <trans-unit id="SpecialKeys.oggleScratchPage2.Caption">
             <source>Toggle Scratch Page</source>
-            <target>Toggle Scratch Page</target>
+            <target>切换 Scratch 页面</target>
           </trans-unit>
           <trans-unit id="SpecialKeys.oggleScratchPage2.ShortCut">
             <source>J</source>
@@ -5287,11 +5287,11 @@ windows you are using.
         <group id="TIMPORTFORM" datatype="form">
           <trans-unit id="Caption">
             <source>Importing Resources</source>
-            <target>Importing Resources</target>
+            <target>导入资源</target>
           </trans-unit>
           <trans-unit id="ExportGroup.Caption">
             <source> Resources to Import</source>
-            <target> Resources to Import</target>
+            <target>要导入的资源</target>
           </trans-unit>
           <trans-unit id="ExportGroup.SpritesCheck.Caption">
             <source>Sprites</source>
@@ -5371,37 +5371,37 @@ windows you are using.
           </trans-unit>
           <trans-unit id="ConflictGroup.Caption">
             <source> Handling Naming Conflicts </source>
-            <target> Handling Naming Conflicts </target>
+            <target>处理命名冲突</target>
           </trans-unit>
           <trans-unit id="ConflictGroup.OriginalBtn.Caption">
             <source>Keep Original</source>
-            <target>Keep Original</target>
+            <target>保留原始</target>
           </trans-unit>
           <trans-unit id="ConflictGroup.ReplaceBtn.Caption">
             <source>Always Replace</source>
-            <target>Always Replace</target>
+            <target>始终替换</target>
           </trans-unit>
           <trans-unit id="ConflictGroup.LastChangedBtn.Caption">
             <source>Keep Last Changed</source>
-            <target>Keep Last Changed</target>
+            <target>保留上次更改</target>
           </trans-unit>
           <trans-unit id="ConflictGroup.BothBtn.Caption">
             <source>Keep Both</source>
-            <target>Keep Both</target>
+            <target>同时保留</target>
           </trans-unit>
           <trans-unit id="GroupCheck.Caption">
             <source>Place new resources in a new group</source>
-            <target>Place new resources in a new group</target>
+            <target>将新资源放在新组中</target>
           </trans-unit>
         </group>
         <group id="TIMPORTOLDVERSIONWARNING" datatype="form">
           <trans-unit id="Caption">
             <source>Importing old GameMaker file...</source>
-            <target>Importing old GameMaker file...</target>
+            <target>正在导入旧 GameMaker 文件...</target>
           </trans-unit>
           <trans-unit id="Label1.Caption">
             <source>WARNING!!!</source>
-            <target>WARNING!!!</target>
+            <target>警告！！！</target>
           </trans-unit>
           <trans-unit id="RichEdit1.Lines.Strings">
             <source>You are importing from an old version of GameMaker, functionality has changed from previous versions so DO NOT expect 
@@ -5409,15 +5409,11 @@ this to work without changes.
 
 Some features have been removed (or may not be supported by the target platform). You may need to rewrite some code 
 or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</source>
-            <target>You are importing from an old version of GameMaker, functionality has changed from previous versions so DO NOT expect 
-this to work without changes.
-
-Some features have been removed (or may not be supported by the target platform). You may need to rewrite some code 
-or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</target>
+            <target>您从旧版本的 GameMaker 导入，函数已从以前的版本更改，所以不要期望这个没有更改。. 某些功能已被删除 (或可能不支持目标平台)。您可能需要重写一些代码, 或者您可能会发现一个 bug (请提交 bug 报告 (帮助-&gt;&gt; 报告 bug))</target>
           </trans-unit>
           <trans-unit id="CheckBox1.Caption">
             <source>Do not show this again</source>
-            <target>Do not show this again</target>
+            <target>不再显示此项</target>
           </trans-unit>
           <trans-unit id="Button1.Caption">
             <source>OK</source>
@@ -5427,7 +5423,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
         <group id="TINSTANCEORDER" datatype="form">
           <trans-unit id="Caption">
             <source>Instance Order</source>
-            <target>Instance Order</target>
+            <target>实例顺序</target>
           </trans-unit>
           <trans-unit id="OK.Caption">
             <source>OK</source>
@@ -5435,7 +5431,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="OK.Hint">
             <source>Save and Close Instance order</source>
-            <target>Save and Close Instance order</target>
+            <target>保存和关闭实例顺序</target>
           </trans-unit>
           <trans-unit id="Cancel.Caption">
             <source>Cancel</source>
@@ -5443,19 +5439,19 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="Cancel.Hint">
             <source>Cancel and Close Instance order</source>
-            <target>Cancel and Close Instance order</target>
+            <target>取消和关闭实例顺序</target>
           </trans-unit>
           <trans-unit id="InstanceList.Hint">
             <source>List of Instances</source>
-            <target>List of Instances</target>
+            <target>实例列表</target>
           </trans-unit>
           <trans-unit id="FindBox.Caption">
             <source>Find:</source>
-            <target>Find:</target>
+            <target>查找:</target>
           </trans-unit>
           <trans-unit id="FindBox.Hint">
             <source>Find Instance</source>
-            <target>Find Instance</target>
+            <target>查找实例</target>
           </trans-unit>
           <trans-unit id="FindBox.FindNext.Caption">
             <source>Next</source>
@@ -5463,7 +5459,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="FindBox.FindNext.Hint">
             <source>Find Next instance with given name</source>
-            <target>Find Next instance with given name</target>
+            <target>查找具有给定名称的下一个实例</target>
           </trans-unit>
           <trans-unit id="FindBox.FindPrevious.Caption">
             <source>Previous</source>
@@ -5471,19 +5467,19 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="FindBox.FindPrevious.Hint">
             <source>Find previous instance with given name</source>
-            <target>Find previous instance with given name</target>
+            <target>查找具有给定名称的上一个实例</target>
           </trans-unit>
           <trans-unit id="FindBox.SearchEdit.Hint">
             <source>Name of Instance to find</source>
-            <target>Name of Instance to find</target>
+            <target>要查找的实例的名称</target>
           </trans-unit>
           <trans-unit id="InstanceActions.Caption">
             <source>Instance Actions</source>
-            <target>Instance Actions</target>
+            <target>实例操作</target>
           </trans-unit>
           <trans-unit id="InstanceActions.Hint">
             <source>Instance Actions</source>
-            <target>Instance Actions</target>
+            <target>实例操作</target>
           </trans-unit>
           <trans-unit id="InstanceActions.CreationCodeButton.Caption">
             <source>Creation Code</source>
@@ -5491,7 +5487,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="InstanceActions.CreationCodeButton.Hint">
             <source>Access Instance's Creation Code</source>
-            <target>Access Instance's Creation Code</target>
+            <target>访问实例的创建代码</target>
           </trans-unit>
           <trans-unit id="InstanceActions.EditObjectButton.Caption">
             <source>Edit Object</source>
@@ -5499,7 +5495,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="InstanceActions.EditObjectButton.Hint">
             <source>Edit Object Properties</source>
-            <target>Edit Object Properties</target>
+            <target>编辑对象属性</target>
           </trans-unit>
           <trans-unit id="InstanceActions.RemoveButton.Caption">
             <source>Remove</source>
@@ -5507,7 +5503,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="InstanceActions.RemoveButton.Hint">
             <source>Remove selected Instance</source>
-            <target>Remove selected Instance</target>
+            <target>删除所选实例</target>
           </trans-unit>
           <trans-unit id="InstanceActions.RenameButton.Caption">
             <source>Rename</source>
@@ -5515,47 +5511,47 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="InstanceActions.RenameButton.Hint">
             <source>Rename selected instance</source>
-            <target>Rename selected instance</target>
+            <target>重命名所选实例</target>
           </trans-unit>
           <trans-unit id="InstanceOrder.Caption">
             <source>Order</source>
-            <target>Order</target>
+            <target>排序</target>
           </trans-unit>
           <trans-unit id="InstanceOrder.Hint">
             <source>Instance Ordering</source>
-            <target>Instance Ordering</target>
+            <target>实例排序</target>
           </trans-unit>
           <trans-unit id="InstanceOrder.instDown.Caption">
             <source>Move Down</source>
-            <target>Move Down</target>
+            <target>下移</target>
           </trans-unit>
           <trans-unit id="InstanceOrder.instDown.Hint">
             <source>Move instance down list</source>
-            <target>Move instance down list</target>
+            <target>将实例向下移动列表</target>
           </trans-unit>
           <trans-unit id="InstanceOrder.instUp.Caption">
             <source>Move Up</source>
-            <target>Move Up</target>
+            <target>上移</target>
           </trans-unit>
           <trans-unit id="InstanceOrder.instUp.Hint">
             <source>Move instance up list</source>
-            <target>Move instance up list</target>
+            <target>将实例向上移动列表</target>
           </trans-unit>
           <trans-unit id="InstanceOrder.instUp5.Caption">
             <source>Move Up 5</source>
-            <target>Move Up 5</target>
+            <target>上移5</target>
           </trans-unit>
           <trans-unit id="InstanceOrder.instUp5.Hint">
             <source>Move instance up 5 places</source>
-            <target>Move instance up 5 places</target>
+            <target>将实例向上移动5个位置</target>
           </trans-unit>
           <trans-unit id="InstanceOrder.instDown5.Caption">
             <source>Move Down 5</source>
-            <target>Move Down 5</target>
+            <target>下移5</target>
           </trans-unit>
           <trans-unit id="InstanceOrder.instDown5.Hint">
             <source>Move instance down 5 places</source>
-            <target>Move instance down 5 places</target>
+            <target>将实例向下移动5个位置</target>
           </trans-unit>
           <trans-unit id="InstanceOrder.instTop.Caption">
             <source>Move to Top</source>
@@ -5563,35 +5559,35 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="InstanceOrder.instTop.Hint">
             <source>Move instance to top</source>
-            <target>Move instance to top</target>
+            <target>将实例移动到顶部</target>
           </trans-unit>
           <trans-unit id="InstanceOrder.instBottom.Caption">
             <source>Move to Bottom</source>
-            <target>Move to Bottom</target>
+            <target>移至底部</target>
           </trans-unit>
           <trans-unit id="InstanceOrder.instBottom.Hint">
             <source>Move instance to bottom</source>
-            <target>Move instance to bottom</target>
+            <target>将实例移动到底部</target>
           </trans-unit>
           <trans-unit id="InstanceOrder.instUp10.Caption">
             <source>Move Up 10</source>
-            <target>Move Up 10</target>
+            <target>上移10</target>
           </trans-unit>
           <trans-unit id="InstanceOrder.instUp10.Hint">
             <source>Move instance up 10 places</source>
-            <target>Move instance up 10 places</target>
+            <target>将实例向上移动10个位置</target>
           </trans-unit>
           <trans-unit id="InstanceOrder.instDown10.Caption">
             <source>Move Down 10</source>
-            <target>Move Down 10</target>
+            <target>下移10</target>
           </trans-unit>
           <trans-unit id="InstanceOrder.instDown10.Hint">
             <source>Move instance down 10 places</source>
-            <target>Move instance down 10 places</target>
+            <target>将实例向下移动10个位置</target>
           </trans-unit>
           <trans-unit id="Shortcuts.FindInstance.Caption">
             <source>Find Instance</source>
-            <target>Find Instance</target>
+            <target>查找实例</target>
           </trans-unit>
           <trans-unit id="Shortcuts.FindInstance.ShortCut">
             <source>Ctrl+F</source>
@@ -5599,39 +5595,39 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="Shortcuts.RemoveInstance1.Caption">
             <source>Remove Instance</source>
-            <target>Remove Instance</target>
+            <target>删除实例</target>
           </trans-unit>
           <trans-unit id="Shortcuts.MoveInstanceUp1.Caption">
             <source>Move Instance Up</source>
-            <target>Move Instance Up</target>
+            <target>向上移动实例</target>
           </trans-unit>
           <trans-unit id="Shortcuts.MoveInstanceUp51.Caption">
             <source>Move Instance Up 5</source>
-            <target>Move Instance Up 5</target>
+            <target>向上移动实例5</target>
           </trans-unit>
           <trans-unit id="Shortcuts.MoveInstanceUp101.Caption">
             <source>Move Instance Up 10</source>
-            <target>Move Instance Up 10</target>
+            <target>向上移动实例10</target>
           </trans-unit>
           <trans-unit id="Shortcuts.MoveInstancetoTop1.Caption">
             <source>Move Instance to Top</source>
-            <target>Move Instance to Top</target>
+            <target>将实例移动到顶部</target>
           </trans-unit>
           <trans-unit id="Shortcuts.MoveInstanceDown1.Caption">
             <source>Move Instance Down</source>
-            <target>Move Instance Down</target>
+            <target>向下移动实例</target>
           </trans-unit>
           <trans-unit id="Shortcuts.MoveInstanceDown51.Caption">
             <source>Move Instance Down 5</source>
-            <target>Move Instance Down 5</target>
+            <target>向下移动实例5</target>
           </trans-unit>
           <trans-unit id="Shortcuts.MoveInstanceDown101.Caption">
             <source>Move Instance Down 10</source>
-            <target>Move Instance Down 10</target>
+            <target>向下移动实例10</target>
           </trans-unit>
           <trans-unit id="Shortcuts.MoveInstancetoBottom1.Caption">
             <source>Move Instance to Bottom</source>
-            <target>Move Instance to Bottom</target>
+            <target>将实例移动到底部</target>
           </trans-unit>
         </group>
         <group id="TINSTANCEPROPERTIESFORM" datatype="form">
@@ -5653,7 +5649,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="SpeedButton1.Hint">
             <source>Click to change colour</source>
-            <target>Click to change colour</target>
+            <target>单击可更改颜色</target>
           </trans-unit>
           <trans-unit id="Label5.Caption">
             <source>Alpha</source>
@@ -5673,27 +5669,27 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="FlipXCheckBox.Caption">
             <source>Flip X</source>
-            <target>Flip X</target>
+            <target>翻转 X</target>
           </trans-unit>
           <trans-unit id="FlipXCheckBox.Hint">
             <source>Toggle flipping in X</source>
-            <target>Toggle flipping in X</target>
+            <target>在 X 中切换翻转</target>
           </trans-unit>
           <trans-unit id="FlipYCheckBox.Caption">
             <source>Flip Y</source>
-            <target>Flip Y</target>
+            <target>翻转 Y</target>
           </trans-unit>
           <trans-unit id="FlipYCheckBox.Hint">
             <source>Toggle flipping in Y</source>
-            <target>Toggle flipping in Y</target>
+            <target>在 Y 中切换翻转</target>
           </trans-unit>
           <trans-unit id="ColourValueEdit.Hint">
             <source>Current colour of instance</source>
-            <target>Current colour of instance</target>
+            <target>实例的当前颜色</target>
           </trans-unit>
           <trans-unit id="AlphaValueEdit.Hint">
             <source>Current alpha value of instance ( 0 - 255 )</source>
-            <target>Current alpha value of instance ( 0 - 255 )</target>
+            <target>实例的当前 alpha 值 (0-255)</target>
           </trans-unit>
           <trans-unit id="AlphaValueEdit.Text">
             <source>0</source>
@@ -5701,7 +5697,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="ScaleXValueEdit.Hint">
             <source>Adjust scaling in X</source>
-            <target>Adjust scaling in X</target>
+            <target>调整 X 中的缩放比例</target>
           </trans-unit>
           <trans-unit id="ScaleXValueEdit.Text">
             <source>1</source>
@@ -5709,7 +5705,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="ScaleYValueEdit.Hint">
             <source>Adjust scaling in Y</source>
-            <target>Adjust scaling in Y</target>
+            <target>调整 Y 中的缩放比例</target>
           </trans-unit>
           <trans-unit id="ScaleYValueEdit.Text">
             <source>1</source>
@@ -5717,7 +5713,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="RotationEdit.Hint">
             <source>Adjust rotation</source>
-            <target>Adjust rotation</target>
+            <target>调整旋转</target>
           </trans-unit>
           <trans-unit id="RotationEdit.Text">
             <source>1</source>
@@ -5727,11 +5723,11 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
         <group id="TKEYBINDS" datatype="form">
           <trans-unit id="Caption">
             <source>GameMaker:Studio Key Bindings</source>
-            <target>GameMaker:Studio Key Bindings</target>
+            <target>GameMaker:Studio 键位绑定</target>
           </trans-unit>
           <trans-unit id="OkButton.Caption">
             <source>Ok</source>
-            <target>Ok</target>
+            <target>确定</target>
           </trans-unit>
           <trans-unit id="ScrollRight.Caption">
             <source>&gt;</source>
@@ -5755,7 +5751,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="Defaults.Caption">
             <source>Defaults</source>
-            <target>Defaults</target>
+            <target>默认</target>
           </trans-unit>
         </group>
         <group id="TLICENSETARGETFORM" datatype="form">
@@ -7976,7 +7972,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="Panel1.DepthValue.Hint">
             <source>The depth at which the object is drawn</source>
-            <target>The depth at which the object is drawn</target>
+            <target>绘制物体的深度</target>
           </trans-unit>
           <trans-unit id="Panel1.DepthValue.Text">
             <source>0</source>
@@ -7984,11 +7980,11 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="Panel1.ParentName.Hint">
             <source>The parent from which events and actions are</source>
-            <target>The parent from which events and actions are</target>
+            <target>事件和操作的父级</target>
           </trans-unit>
           <trans-unit id="Panel1.MaskName.Hint">
             <source>The image used as collision mask for the object</source>
-            <target>The image used as collision mask for the object</target>
+            <target>用作物体的冲突遮罩的图像</target>
           </trans-unit>
           <trans-unit id="Panel1.Button2.Caption">
             <source>Mask</source>
@@ -7996,7 +7992,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="Panel1.Panel3.Label7.Caption">
             <source>Children:</source>
-            <target>Children:</target>
+            <target>子级:</target>
           </trans-unit>
           <trans-unit id="Panel1.Panel3.OKBtn.Caption">
             <source>&amp;OK</source>
@@ -8004,11 +8000,11 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="Panel1.Panel3.ShowInformationBtn.Caption">
             <source>Show &amp;Information</source>
-            <target>Show &amp;Information</target>
+            <target>显示信息</target>
           </trans-unit>
           <trans-unit id="Panel1.Panel3.ShowInformationBtn.Hint">
             <source>Show information about the object</source>
-            <target>Show information about the object</target>
+            <target>显示有关物体的信息</target>
           </trans-unit>
           <trans-unit id="Panel1.OpenParentButton.Caption">
             <source>Parent</source>
@@ -8016,11 +8012,11 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="ActionPanel.EventPanel2.Label3.Caption">
             <source>Events:</source>
-            <target>Events:</target>
+            <target>事件:</target>
           </trans-unit>
           <trans-unit id="ActionPanel.EventPanel2.EventList.Hint">
             <source>Current Events</source>
-            <target>Current Events</target>
+            <target>当前事件</target>
           </trans-unit>
           <trans-unit id="ActionPanel.EventPanel2.AddEventBtn.Caption">
             <source>Add Event</source>
@@ -8028,7 +8024,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="ActionPanel.EventPanel2.AddEventBtn.Hint">
             <source>Click here to add another event</source>
-            <target>Click here to add another event</target>
+            <target>单击此处添加其他事件</target>
           </trans-unit>
           <trans-unit id="ActionPanel.EventPanel2.ChangeEventBtn.Caption">
             <source>Change</source>
@@ -8036,7 +8032,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="ActionPanel.EventPanel2.ChangeEventBtn.Hint">
             <source>Change which event has this behavior</source>
-            <target>Change which event has this behavior</target>
+            <target>更改哪个事件具有此行为</target>
           </trans-unit>
           <trans-unit id="ActionPanel.EventPanel2.DeleteEventBtn.Caption">
             <source>Delete</source>
@@ -8044,19 +8040,19 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="ActionPanel.EventPanel2.DeleteEventBtn.Hint">
             <source>Delete the currently selected event</source>
-            <target>Delete the currently selected event</target>
+            <target>删除当前选定的事件</target>
           </trans-unit>
           <trans-unit id="ActionPanel.ActionPanel3.Label4.Caption">
             <source>Actions:</source>
-            <target>Actions:</target>
+            <target>动作:</target>
           </trans-unit>
           <trans-unit id="ActionPanel.Panel2.ActionList.Hint">
             <source>Current Actions</source>
-            <target>Current Actions</target>
+            <target>当前操作</target>
           </trans-unit>
           <trans-unit id="ListMenu.EditProperties1.Caption">
             <source>&amp;Edit Values</source>
-            <target>&amp;Edit Values</target>
+            <target>编辑值</target>
           </trans-unit>
           <trans-unit id="ListMenu.oggleBreakpoint1.Caption">
             <source>Toggle Breakpoint</source>
@@ -8112,7 +8108,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="ListMenu.SelectAll1.Caption">
             <source>Select &amp;All</source>
-            <target>Select &amp;All</target>
+            <target>全选</target>
           </trans-unit>
           <trans-unit id="ListMenu.SelectAll1.ShortCut">
             <source>Ctrl+A</source>
@@ -8128,7 +8124,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="ListMenu.Undo1.Caption">
             <source>Undo Last Operation</source>
-            <target>Undo Last Operation</target>
+            <target>撤消上次操作</target>
           </trans-unit>
           <trans-unit id="EventsMenu.AddEvent1.Caption">
             <source>Add Event</source>
@@ -8152,15 +8148,15 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="EventsMenu.Cut2.Caption">
             <source>C&amp;ut Event</source>
-            <target>C&amp;ut Event</target>
+            <target>剪切事件</target>
           </trans-unit>
           <trans-unit id="EventsMenu.Copy2.Caption">
             <source>&amp;Copy Event</source>
-            <target>&amp;Copy Event</target>
+            <target>复制事件</target>
           </trans-unit>
           <trans-unit id="EventsMenu.Paste2.Caption">
             <source>&amp;Paste Event</source>
-            <target>&amp;Paste Event</target>
+            <target>粘贴事件</target>
           </trans-unit>
           <trans-unit id="EventsMenu.N5.Caption">
             <source>-</source>
@@ -8168,13 +8164,13 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="EventsMenu.UndoEvent1.Caption">
             <source>Undo Last Operation</source>
-            <target>Undo Last Operation</target>
+            <target>撤消上次操作</target>
           </trans-unit>
         </group>
         <group id="TOBJECTINFORMATIONFORM" datatype="form">
           <trans-unit id="Caption">
             <source>Object Information</source>
-            <target>Object Information</target>
+            <target>物体信息</target>
           </trans-unit>
           <trans-unit id="ToolBar.OKBtn.Caption">
             <source>OKBtn</source>
@@ -8194,7 +8190,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="ToolBar.SaveBtn.Hint">
             <source>Save the object information to a file</source>
-            <target>Save the object information to a file</target>
+            <target>将物体信息保存到文件中</target>
           </trans-unit>
           <trans-unit id="ToolBar.ToolButton3.Caption">
             <source>ToolButton3</source>
@@ -8206,25 +8202,25 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="ToolBar.PrintBtn.Hint">
             <source>Print the object information</source>
-            <target>Print the object information</target>
+            <target>打印物体信息</target>
           </trans-unit>
         </group>
         <group id="TOBJECTPHYSICSSHAPE" datatype="form">
           <trans-unit id="Caption">
             <source>Physics Shape</source>
-            <target>Physics Shape</target>
+            <target>物理形状</target>
           </trans-unit>
           <trans-unit id="Panel1.pointListLabel.Caption">
             <source>Point List:</source>
-            <target>Point List:</target>
+            <target>点列表:</target>
           </trans-unit>
           <trans-unit id="Panel1.Label1.Caption">
             <source>Horizontal Snap:</source>
-            <target>Horizontal Snap:</target>
+            <target>水平对齐:</target>
           </trans-unit>
           <trans-unit id="Panel1.Label2.Caption">
             <source>Vertical Snap:</source>
-            <target>Vertical Snap:</target>
+            <target>垂直对齐:</target>
           </trans-unit>
           <trans-unit id="Panel1.SpriteGroup.Caption">
             <source>Sprite</source>
@@ -8232,7 +8228,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="Panel1.SpriteGroup.SpriteNameLabel.Caption">
             <source>Sprite Name:</source>
-            <target>Sprite Name:</target>
+            <target>精灵名称:</target>
           </trans-unit>
           <trans-unit id="Panel1.SpriteGroup.NumberLabel.Caption">
             <source>Number of subimages: 1</source>
@@ -8248,15 +8244,15 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="Panel1.SpriteGroup.SpriteNameEdit.Hint">
             <source>Name of sprite</source>
-            <target>Name of sprite</target>
+            <target>精灵的名字</target>
           </trans-unit>
           <trans-unit id="Panel1.PointList.Hint">
             <source>List of points of collision shape</source>
-            <target>List of points of collision shape</target>
+            <target>碰撞形状点列表</target>
           </trans-unit>
           <trans-unit id="Panel1.PhysHSnap.Hint">
             <source>Horizontal value to snap to grid</source>
-            <target>Horizontal value to snap to grid</target>
+            <target>要捕捉到网格的水平值</target>
           </trans-unit>
           <trans-unit id="Panel1.PhysHSnap.Text">
             <source>1</source>
@@ -8264,7 +8260,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="Panel1.PhysVSnap.Hint">
             <source>Vertical value to snap to grid</source>
-            <target>Vertical value to snap to grid</target>
+            <target>要捕捉到网格的垂直值</target>
           </trans-unit>
           <trans-unit id="Panel1.PhysVSnap.Text">
             <source>1</source>
@@ -8276,7 +8272,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="Panel1.DeleteButton.Hint">
             <source>Delete last point</source>
-            <target>Delete last point</target>
+            <target>删除最后一点</target>
           </trans-unit>
           <trans-unit id="Panel1.PhysicsCollisionShape.Caption">
             <source>Collision Shape</source>
@@ -8284,7 +8280,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="Panel1.PhysicsCollisionShape.Hint">
             <source>Collision shape to use</source>
-            <target>Collision shape to use</target>
+            <target>要使用的碰撞形状</target>
           </trans-unit>
           <trans-unit id="Panel1.PhysicsCollisionShape.Items.Strings.Box">
             <source>Box</source>
@@ -8312,7 +8308,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="Panel3.ToolBar1.ViewLeftButton.Hint">
             <source>Move display left</source>
-            <target>Move display left</target>
+            <target>向左移动显示</target>
           </trans-unit>
           <trans-unit id="Panel3.ToolBar1.ViewRightButton.Caption">
             <source>ViewRightButton</source>
@@ -8320,7 +8316,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="Panel3.ToolBar1.ViewRightButton.Hint">
             <source>Move display right</source>
-            <target>Move display right</target>
+            <target>向右移动显示</target>
           </trans-unit>
           <trans-unit id="Panel3.ToolBar1.ViewUpButton.Caption">
             <source>ViewUpButton</source>
@@ -8328,7 +8324,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="Panel3.ToolBar1.ViewUpButton.Hint">
             <source>Move display up</source>
-            <target>Move display up</target>
+            <target>向上移动显示</target>
           </trans-unit>
           <trans-unit id="Panel3.ToolBar1.ViewDownButton.Caption">
             <source>ViewDownButton</source>
@@ -8336,7 +8332,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="Panel3.ToolBar1.ViewDownButton.Hint">
             <source>Move display down</source>
-            <target>Move display down</target>
+            <target>向下移动显示</target>
           </trans-unit>
           <trans-unit id="Panel3.ToolBar1.ViewCenterButton.Caption">
             <source>ViewCenterButton</source>
@@ -8344,7 +8340,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="Panel3.ToolBar1.ViewCenterButton.Hint">
             <source>Centre display on object</source>
-            <target>Centre display on object</target>
+            <target>物体上的中心显示</target>
           </trans-unit>
           <trans-unit id="Panel3.ToolBar1.ToolButton1.Caption">
             <source>ToolButton1</source>
@@ -8356,7 +8352,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="Panel3.ToolBar1.ShowGrid.Hint">
             <source>Toggle grid</source>
-            <target>Toggle grid</target>
+            <target>切换网格</target>
           </trans-unit>
         </group>
         <group id="TOPTIONFORM" datatype="form">
@@ -8374,47 +8370,47 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="PageControl1.GeneralSheet.Caption">
             <source>&amp;General</source>
-            <target>&amp;General</target>
+            <target>&amp;一般</target>
           </trans-unit>
           <trans-unit id="PageControl1.GeneralSheet.group1.GroupBox1.Caption">
             <source>Errors</source>
-            <target>Errors</target>
+            <target>错误</target>
           </trans-unit>
           <trans-unit id="PageControl1.GeneralSheet.group1.GroupBox1.DisplayErrorsCheck.Caption">
             <source>&amp;Display error messages</source>
-            <target>&amp;Display error messages</target>
+            <target>&amp;显示错误信息</target>
           </trans-unit>
           <trans-unit id="PageControl1.GeneralSheet.group1.GroupBox1.WriteErrorsCheck.Caption">
             <source>&amp;Write error messages to file game_errors.log</source>
-            <target>&amp;Write error messages to file game_errors.log</target>
+            <target>将错误消息写入文件 game_errors.log</target>
           </trans-unit>
           <trans-unit id="PageControl1.GeneralSheet.group1.GroupBox1.AbortErrorsCheck.Caption">
             <source>&amp;Abort on all error messages</source>
-            <target>&amp;Abort on all error messages</target>
+            <target>中止所有错误消息</target>
           </trans-unit>
           <trans-unit id="PageControl1.GeneralSheet.group1.GroupBox1.ArgumentErrorCheckBox.Caption">
             <source>Throw an error when arguments aren't initialised correctly.</source>
-            <target>Throw an error when arguments aren't initialised correctly.</target>
+            <target>当参数未正确初始化时引发错误。</target>
           </trans-unit>
           <trans-unit id="PageControl1.GeneralSheet.group1.GroupBox2.Caption">
             <source>Game Settings</source>
-            <target>Game Settings</target>
+            <target>游戏设置</target>
           </trans-unit>
           <trans-unit id="PageControl1.GeneralSheet.group1.GroupBox2.Label6.Caption">
             <source>Color outside the room region:</source>
-            <target>Color outside the room region:</target>
+            <target>房间区域外的颜色:</target>
           </trans-unit>
           <trans-unit id="PageControl1.GeneralSheet.group1.GroupBox2.WindowColorShape.Hint">
             <source>Click to choose background colour outside room region</source>
-            <target>Click to choose background colour outside room region</target>
+            <target>单击以选择房间区域外的背景颜色</target>
           </trans-unit>
           <trans-unit id="PageControl1.GeneralSheet.group1.GroupBox2.Label4.Caption">
             <source>Ga&amp;me Identifier:</source>
-            <target>Ga&amp;me Identifier:</target>
+            <target>游戏标识号:</target>
           </trans-unit>
           <trans-unit id="PageControl1.GeneralSheet.group1.GroupBox2.Label5.Caption">
             <source>Game GUID:</source>
-            <target>Game GUID:</target>
+            <target>游戏 GUID:</target>
           </trans-unit>
           <trans-unit id="PageControl1.GeneralSheet.group1.GroupBox2.GameGUIDLabel.Caption">
             <source>{}</source>
@@ -8434,63 +8430,63 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="PageControl1.GeneralSheet.group1.GroupBox2.AlwaysReloadChangedFilesCheckBox.Caption">
             <source>&amp;Always reload changed files</source>
-            <target>&amp;Always reload changed files</target>
+            <target>始终重新加载已更改的文件</target>
           </trans-unit>
           <trans-unit id="PageControl1.GeneralSheet.group1.GroupBox2.AlwaysReloadChangedFilesCheckBox.Hint">
             <source>Toggle Reloading of changed files</source>
-            <target>Toggle Reloading of changed files</target>
+            <target>切换已更改文件重新加载</target>
           </trans-unit>
           <trans-unit id="PageControl1.GeneralSheet.group1.GroupBox2.GenerateGUIDButton.Caption">
             <source>Generate new GUID and Id</source>
-            <target>Generate new GUID and Id</target>
+            <target>生成新的 GUID 和 Id</target>
           </trans-unit>
           <trans-unit id="PageControl1.GeneralSheet.group1.GroupBox2.CopyToClipboard.Caption">
             <source>Copy To Clipboard</source>
-            <target>Copy To Clipboard</target>
+            <target>复制到剪贴板</target>
           </trans-unit>
           <trans-unit id="PageControl1.GeneralSheet.group1.GroupBox2.UseNewAudioCheckbox.Caption">
             <source>Use New Audio Engine</source>
-            <target>Use New Audio Engine</target>
+            <target>使用新的音频引擎</target>
           </trans-unit>
           <trans-unit id="PageControl1.GeneralSheet.group1.GroupBox2.UseNewAudioCheckbox.Hint">
             <source>Toggle use of New Audio Engine</source>
-            <target>Toggle use of New Audio Engine</target>
+            <target>切换新音频引擎的使用</target>
           </trans-unit>
           <trans-unit id="PageControl1.GeneralSheet.group1.GroupBox2.UseFastCollisionCheckBox.Caption">
             <source>Use Fast Collision System</source>
-            <target>Use Fast Collision System</target>
+            <target>使用快速碰撞系统</target>
           </trans-unit>
           <trans-unit id="PageControl1.GeneralSheet.group1.GroupBox2.FastCollisionCompatibilityCheckBox.Caption">
             <source>Fast Collision System Compatibility Mode</source>
-            <target>Fast Collision System Compatibility Mode</target>
+            <target>快速碰撞系统兼容模式</target>
           </trans-unit>
           <trans-unit id="PageControl1.GeneralSheet.group1.shortcircuitcheckbox.Caption">
             <source>Short-Circuit evaluations</source>
-            <target>Short-Circuit evaluations</target>
+            <target>短路评估</target>
           </trans-unit>
           <trans-unit id="PageControl1.GeneralSheet.group1.shortcircuitcheckbox.Hint">
             <source>Toggle short-circuit evaluations</source>
-            <target>Toggle short-circuit evaluations</target>
+            <target>切换短路评估</target>
           </trans-unit>
           <trans-unit id="PageControl1.TextureGroups.Caption">
             <source>&amp;Texture Groups</source>
-            <target>&amp;Texture Groups</target>
+            <target>纹理组</target>
           </trans-unit>
           <trans-unit id="PageControl1.TextureGroups.GroupBox9.TexturePages.Caption">
             <source>Texture groups:</source>
-            <target>Texture groups:</target>
+            <target>纹理组:</target>
           </trans-unit>
           <trans-unit id="PageControl1.TextureGroups.GroupBox9.Label7.Caption">
             <source>Texture group contents:</source>
-            <target>Texture group contents:</target>
+            <target>纹理组内容:</target>
           </trans-unit>
           <trans-unit id="PageControl1.TextureGroups.GroupBox9.Label9.Caption">
             <source>Image preview:</source>
-            <target>Image preview:</target>
+            <target>图像预览:</target>
           </trans-unit>
           <trans-unit id="PageControl1.TextureGroups.GroupBox9.TextureGroupBox.Hint">
             <source>List of available texture groups</source>
-            <target>List of available texture groups</target>
+            <target>可用纹理组列表</target>
           </trans-unit>
           <trans-unit id="PageControl1.TextureGroups.GroupBox9.AddTextureGroup.Caption">
             <source>Add</source>
@@ -8498,7 +8494,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="PageControl1.TextureGroups.GroupBox9.AddTextureGroup.Hint">
             <source>Add new Texture Group</source>
-            <target>Add new Texture Group</target>
+            <target>添加新纹理组</target>
           </trans-unit>
           <trans-unit id="PageControl1.TextureGroups.GroupBox9.DeleteTextureGroup.Caption">
             <source>Delete</source>
@@ -8506,7 +8502,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="PageControl1.TextureGroups.GroupBox9.DeleteTextureGroup.Hint">
             <source>Delete selected Texture Group</source>
-            <target>Delete selected Texture Group</target>
+            <target>删除选定的纹理组</target>
           </trans-unit>
           <trans-unit id="PageControl1.TextureGroups.GroupBox9.RenameTextureGroup.Caption">
             <source>Rename</source>
@@ -8514,23 +8510,23 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="PageControl1.TextureGroups.GroupBox9.RenameTextureGroup.Hint">
             <source>Rename current Texture Group</source>
-            <target>Rename current Texture Group</target>
+            <target>重命名当前纹理组</target>
           </trans-unit>
           <trans-unit id="PageControl1.TextureGroups.GroupBox9.TextureGroupContents.Hint">
             <source>List of sprites in selected texture group</source>
-            <target>List of sprites in selected texture group</target>
+            <target>选定纹理组中的精灵列表</target>
           </trans-unit>
           <trans-unit id="PageControl1.TextureGroups.GroupBox9.Panel1.TextureGroupContentImage.Hint">
             <source>Preview of selected sprite</source>
-            <target>Preview of selected sprite</target>
+            <target>选定精灵的预览</target>
           </trans-unit>
           <trans-unit id="PageControl1.TextureGroups.GroupBox9.GroupBox4.Caption">
             <source>Texture Group Settings</source>
-            <target>Texture Group Settings</target>
+            <target>纹理组设置</target>
           </trans-unit>
           <trans-unit id="PageControl1.TextureGroups.GroupBox9.GroupBox4.Label10.Caption">
             <source>Texture border width (texels): </source>
-            <target>Texture border width (texels): </target>
+            <target>纹理边框宽度 (纹素):</target>
           </trans-unit>
           <trans-unit id="PageControl1.TextureGroups.GroupBox9.GroupBox4.TextureGroupParentLabel.Caption">
             <source>Parent</source>
@@ -8538,11 +8534,11 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="PageControl1.TextureGroups.GroupBox9.GroupBox4.TextureGroupScaled.Caption">
             <source>Texture group NOT scaled</source>
-            <target>Texture group NOT scaled</target>
+            <target>纹理组未缩放</target>
           </trans-unit>
           <trans-unit id="PageControl1.TextureGroups.GroupBox9.GroupBox4.TextureGroupScaled.Hint">
             <source>Toggle scaling of Texture Group</source>
-            <target>Toggle scaling of Texture Group</target>
+            <target>切换纹理组的缩放比例</target>
           </trans-unit>
           <trans-unit id="PageControl1.TextureGroups.GroupBox9.GroupBox4.TextureGroupBorderWidth.Items.Strings.0">
             <source>0</source>
@@ -8666,7 +8662,7 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</targ
           </trans-unit>
           <trans-unit id="PageControl1.AudioGroupsTab.AudioGroups_GroupBox.audioGroupListBox.Hint">
             <source>List of available texture groups</source>
-            <target>List of available texture groups</target>
+            <target>可用纹理组列表</target>
           </trans-unit>
           <trans-unit id="PageControl1.AudioGroupsTab.AudioGroups_GroupBox.AddAudioGroupBtn.Caption">
             <source>Add</source>
@@ -17026,7 +17022,7 @@ Further source control commands can be found in the resource tree menu.</target>
           </trans-unit>
           <trans-unit id="PageControl1.TabSheet1.Caption">
             <source>&amp;General</source>
-            <target>&amp;General</target>
+            <target>&amp;一般</target>
           </trans-unit>
           <trans-unit id="PageControl1.TabSheet1.GroupBox1.Label12.Caption">
             <source>Select Skin: (A restart will be required)</source>
@@ -17486,7 +17482,7 @@ Further source control commands can be found in the resource tree menu.</target>
           </trans-unit>
           <trans-unit id="PageControl1.TabSheet4.GroupBox4.GroupBox6.ColorShape.Hint">
             <source>Click to change colour</source>
-            <target>Click to change colour</target>
+            <target>单击可更改颜色</target>
           </trans-unit>
           <trans-unit id="PageControl1.TabSheet4.GroupBox4.GroupBox6.ColorList.Items.Strings.Background Colour">
             <source>Background Colour</source>
@@ -18258,11 +18254,11 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="Panel1.ScrollBox3.TabPages.TabObjects.FlipXButton.Caption">
             <source>Flip X</source>
-            <target>Flip X</target>
+            <target>翻转 X</target>
           </trans-unit>
           <trans-unit id="Panel1.ScrollBox3.TabPages.TabObjects.FlipYButton.Caption">
             <source>Flip Y</source>
-            <target>Flip Y</target>
+            <target>翻转 Y</target>
           </trans-unit>
           <trans-unit id="Panel1.ScrollBox3.TabPages.TabObjects.ObjectX.Hint">
             <source>X Position</source>
@@ -18346,7 +18342,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="Panel1.ScrollBox3.TabPages.TabSettings.Panel8.InstanceOrderBtn.Caption">
             <source>Instance Order</source>
-            <target>Instance Order</target>
+            <target>实例顺序</target>
           </trans-unit>
           <trans-unit id="Panel1.ScrollBox3.TabPages.TabSettings.Panel8.InstanceOrderBtn.Hint">
             <source>Modify the creation order of the instances in this room</source>
@@ -18994,11 +18990,11 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar1.InstanceOrderingBtn.Caption">
             <source>Instance Order</source>
-            <target>Instance Order</target>
+            <target>实例顺序</target>
           </trans-unit>
           <trans-unit id="ToolBar1.InstanceOrderingBtn.Hint">
             <source>Instance Ordering</source>
-            <target>Instance Ordering</target>
+            <target>实例排序</target>
           </trans-unit>
           <trans-unit id="ToolBar1.ToolButton5.Caption">
             <source>Control Help</source>
@@ -19440,11 +19436,11 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="PageControl1.FunctionsPage.FunctionGrid.GroupBox9.CommonFunctionButtons.CommonFunctionOrderButtons.CommonFunctionMoveUp.Caption">
             <source>Move Up</source>
-            <target>Move Up</target>
+            <target>上移</target>
           </trans-unit>
           <trans-unit id="PageControl1.FunctionsPage.FunctionGrid.GroupBox9.CommonFunctionButtons.CommonFunctionOrderButtons.CommonFunctionMoveDown.Caption">
             <source>Move Down</source>
-            <target>Move Down</target>
+            <target>下移</target>
           </trans-unit>
           <trans-unit id="PageControl1.FunctionsPage.FunctionGrid.GroupBox9.CommonFunctionButtons.SCMCommonFunctionButtons.SCMFunctionsAdd.Caption">
             <source>Add New Function</source>
@@ -19468,11 +19464,11 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="PageControl1.FunctionsPage.FunctionGrid.GroupBox11.AdditionalFunctionButtons.AdditionalFunctionOrderButtons.AdditionalFunctionMoveUp.Caption">
             <source>Move Up</source>
-            <target>Move Up</target>
+            <target>上移</target>
           </trans-unit>
           <trans-unit id="PageControl1.FunctionsPage.FunctionGrid.GroupBox11.AdditionalFunctionButtons.AdditionalFunctionOrderButtons.AdditionalFunctionMoveDown.Caption">
             <source>Move Down</source>
-            <target>Move Down</target>
+            <target>下移</target>
           </trans-unit>
           <trans-unit id="PageControl1.FunctionsPage.FunctionGrid.GroupBox11.AdditionalFunctionsList.TitleCaptions.Strings.Command">
             <source>Command</source>
@@ -19504,7 +19500,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="SaveButton.Caption">
             <source>Ok</source>
-            <target>Ok</target>
+            <target>确定</target>
           </trans-unit>
           <trans-unit id="SetToDefaults.Caption">
             <source>Set To Defaults</source>
@@ -20584,7 +20580,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar1.ToolButton4.Caption">
             <source>Ok</source>
-            <target>Ok</target>
+            <target>确定</target>
           </trans-unit>
           <trans-unit id="ToolBar1.ToolButton4.Hint">
             <source>OK, save changes</source>
@@ -20904,7 +20900,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="MainMenu1.Edit1.SetTransparencyBackground1.Caption">
             <source>Set &amp;Transparency Background...</source>
-            <target>Set &amp;Transparency Background...</target>
+            <target>设置透明度背景......</target>
           </trans-unit>
           <trans-unit id="MainMenu1.Transform1.Caption">
             <source>&amp;Transform</source>
@@ -21104,7 +21100,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="MainMenu1.Images1.Sharpen1.Caption">
             <source>S&amp;harpen...</source>
-            <target>S&amp;harpen...</target>
+            <target>锐化...</target>
           </trans-unit>
           <trans-unit id="MainMenu1.Images1.Sharpen1.ShortCut">
             <source>Shift+Ctrl+H</source>
@@ -21116,7 +21112,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="MainMenu1.Images1.Outline1.Caption">
             <source>O&amp;utline...</source>
-            <target>O&amp;utline...</target>
+            <target>轮廓..</target>
           </trans-unit>
           <trans-unit id="MainMenu1.Images1.Outline1.ShortCut">
             <source>Ctrl+U</source>
@@ -21124,7 +21120,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="MainMenu1.Images1.Shadow1.Caption">
             <source>Sha&amp;dow...</source>
-            <target>Sha&amp;dow...</target>
+            <target>阴影...</target>
           </trans-unit>
           <trans-unit id="MainMenu1.Images1.Shadow1.ShortCut">
             <source>Shift+Ctrl+D</source>
@@ -21132,7 +21128,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="MainMenu1.Images1.Glow1.Caption">
             <source>&amp;Glow...</source>
-            <target>&amp;Glow...</target>
+            <target>光晕...</target>
           </trans-unit>
           <trans-unit id="MainMenu1.Images1.Glow1.ShortCut">
             <source>Shift+Ctrl+G</source>
@@ -21148,7 +21144,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="MainMenu1.Images1.Gradient1.Caption">
             <source>G&amp;radient Fill...</source>
-            <target>G&amp;radient Fill...</target>
+            <target>渐变填充...</target>
           </trans-unit>
           <trans-unit id="MainMenu1.Images1.Gradient1.ShortCut">
             <source>Shift+Ctrl+R</source>
@@ -21517,7 +21513,7 @@ Middle mouse button = scroll
             </trans-unit>
             <trans-unit id="All.F:\Program Files\Steam\steamapps\common\gamemaker_studio\GameMaker-Studio.exe.Forms.TSPRITEEDITORFORM.MainMenu1.Edit1.SetTransparencyBackground1.Caption">
               <source>Set &amp;Transparency Background...</source>
-              <target>Set &amp;Transparency Background...</target>
+              <target>设置透明度背景......</target>
             </trans-unit>
             <trans-unit id="All.F:\Program Files\Steam\steamapps\common\gamemaker_studio\GameMaker-Studio.exe.Forms.TSPRITEEDITORFORM.MainMenu1.Transform1.Caption">
               <source>&amp;Transform</source>
@@ -21717,7 +21713,7 @@ Middle mouse button = scroll
             </trans-unit>
             <trans-unit id="All.F:\Program Files\Steam\steamapps\common\gamemaker_studio\GameMaker-Studio.exe.Forms.TSPRITEEDITORFORM.MainMenu1.Images1.Sharpen1.Caption">
               <source>S&amp;harpen...</source>
-              <target>S&amp;harpen...</target>
+              <target>锐化...</target>
             </trans-unit>
             <trans-unit id="All.F:\Program Files\Steam\steamapps\common\gamemaker_studio\GameMaker-Studio.exe.Forms.TSPRITEEDITORFORM.MainMenu1.Images1.Sharpen1.ShortCut">
               <source>Shift+Ctrl+H</source>
@@ -21729,7 +21725,7 @@ Middle mouse button = scroll
             </trans-unit>
             <trans-unit id="All.F:\Program Files\Steam\steamapps\common\gamemaker_studio\GameMaker-Studio.exe.Forms.TSPRITEEDITORFORM.MainMenu1.Images1.Outline1.Caption">
               <source>O&amp;utline...</source>
-              <target>O&amp;utline...</target>
+              <target>轮廓..</target>
             </trans-unit>
             <trans-unit id="All.F:\Program Files\Steam\steamapps\common\gamemaker_studio\GameMaker-Studio.exe.Forms.TSPRITEEDITORFORM.MainMenu1.Images1.Outline1.ShortCut">
               <source>Ctrl+U</source>
@@ -21737,7 +21733,7 @@ Middle mouse button = scroll
             </trans-unit>
             <trans-unit id="All.F:\Program Files\Steam\steamapps\common\gamemaker_studio\GameMaker-Studio.exe.Forms.TSPRITEEDITORFORM.MainMenu1.Images1.Shadow1.Caption">
               <source>Sha&amp;dow...</source>
-              <target>Sha&amp;dow...</target>
+              <target>阴影...</target>
             </trans-unit>
             <trans-unit id="All.F:\Program Files\Steam\steamapps\common\gamemaker_studio\GameMaker-Studio.exe.Forms.TSPRITEEDITORFORM.MainMenu1.Images1.Shadow1.ShortCut">
               <source>Shift+Ctrl+D</source>
@@ -21745,7 +21741,7 @@ Middle mouse button = scroll
             </trans-unit>
             <trans-unit id="All.F:\Program Files\Steam\steamapps\common\gamemaker_studio\GameMaker-Studio.exe.Forms.TSPRITEEDITORFORM.MainMenu1.Images1.Glow1.Caption">
               <source>&amp;Glow...</source>
-              <target>&amp;Glow...</target>
+              <target>光晕...</target>
             </trans-unit>
             <trans-unit id="All.F:\Program Files\Steam\steamapps\common\gamemaker_studio\GameMaker-Studio.exe.Forms.TSPRITEEDITORFORM.MainMenu1.Images1.Glow1.ShortCut">
               <source>Shift+Ctrl+G</source>
@@ -21761,7 +21757,7 @@ Middle mouse button = scroll
             </trans-unit>
             <trans-unit id="All.F:\Program Files\Steam\steamapps\common\gamemaker_studio\GameMaker-Studio.exe.Forms.TSPRITEEDITORFORM.MainMenu1.Images1.Gradient1.Caption">
               <source>G&amp;radient Fill...</source>
-              <target>G&amp;radient Fill...</target>
+              <target>渐变填充...</target>
             </trans-unit>
             <trans-unit id="All.F:\Program Files\Steam\steamapps\common\gamemaker_studio\GameMaker-Studio.exe.Forms.TSPRITEEDITORFORM.MainMenu1.Images1.Gradient1.ShortCut">
               <source>Shift+Ctrl+R</source>
@@ -24416,7 +24412,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ButtonPanel.ShowInformationBtn.Caption">
             <source>Show &amp;Information</source>
-            <target>Show &amp;Information</target>
+            <target>显示信息</target>
           </trans-unit>
           <trans-unit id="ButtonPanel.ShowInformationBtn.Hint">
             <source>Show information about the time line</source>
@@ -24428,7 +24424,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ActionPanel.Label4.Caption">
             <source>Actions:</source>
-            <target>Actions:</target>
+            <target>动作:</target>
           </trans-unit>
           <trans-unit id="ActionPanel.ActionList.Hint">
             <source> List of Actions for this Moment</source>
@@ -24440,7 +24436,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ListMenu.EditProperties1.Caption">
             <source>&amp;Edit Values</source>
-            <target>&amp;Edit Values</target>
+            <target>编辑值</target>
           </trans-unit>
           <trans-unit id="ListMenu.oggleBreakpoint1.Caption">
             <source>Toggle Breakpoint</source>
@@ -24496,7 +24492,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ListMenu.SelectAll1.Caption">
             <source>Select &amp;All</source>
-            <target>Select &amp;All</target>
+            <target>全选</target>
           </trans-unit>
           <trans-unit id="ListMenu.SelectAll1.ShortCut">
             <source>Ctrl+A</source>
@@ -24558,7 +24554,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar.SaveBtn.Hint">
             <source>Save the object information to a file</source>
-            <target>Save the object information to a file</target>
+            <target>将物体信息保存到文件中</target>
           </trans-unit>
           <trans-unit id="ToolBar.ToolButton3.Caption">
             <source>ToolButton3</source>
@@ -24570,7 +24566,7 @@ Middle mouse button = scroll
           </trans-unit>
           <trans-unit id="ToolBar.PrintBtn.Hint">
             <source>Print the object information</source>
-            <target>Print the object information</target>
+            <target>打印物体信息</target>
           </trans-unit>
         </group>
         <group id="TTRANSPFORM" datatype="form">
