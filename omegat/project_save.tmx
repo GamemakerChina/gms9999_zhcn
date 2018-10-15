@@ -1158,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Access Instance's Creation Code</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051817Z" creationid="LiarOnce" creationdate="20181015T051817Z">
+        <seg>访问实例的创建代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Account</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T083644Z" creationid="deciia" creationdate="20170102T083644Z">
@@ -2554,6 +2562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142241Z" creationid="LiarOnce" creationdate="20181007T142241Z">
         <seg>取消所有更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel and Close Instance order</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051744Z" creationid="LiarOnce" creationdate="20181015T051744Z">
+        <seg>取消和关闭实例顺序</seg>
       </tuv>
     </tu>
     <tu>
@@ -4038,6 +4054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not show this again</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051735Z" creationid="LiarOnce" creationdate="20181015T051735Z">
+        <seg>不再显示此项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do&amp;wn</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142204Z" creationid="LiarOnce" creationdate="20181007T142204Z">
@@ -4274,6 +4298,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T073413Z" creationid="deciia" creationdate="20170103T073413Z">
         <seg>编辑物体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Object Properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051826Z" creationid="LiarOnce" creationdate="20181015T051826Z">
+        <seg>编辑对象属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -4814,6 +4846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find Instance</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051758Z" creationid="LiarOnce" creationdate="20181015T051758Z">
+        <seg>查找实例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find More</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045031Z" creationid="LiarOnce" creationdate="20181009T045031Z">
@@ -4822,10 +4862,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find Next instance with given name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051802Z" creationid="LiarOnce" creationdate="20181015T051802Z">
+        <seg>查找具有给定名称的下一个实例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find other extension packages on the website.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130737Z" creationid="LiarOnce" creationdate="20181013T130737Z">
         <seg>在网站上查找其他扩展包。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find previous instance with given name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051804Z" creationid="LiarOnce" creationdate="20181015T051804Z">
+        <seg>查找具有给定名称的上一个实例</seg>
       </tuv>
     </tu>
     <tu>
@@ -4858,6 +4914,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124721Z" creationid="LiarOnce" creationdate="20181013T124721Z">
         <seg>查找字符串的上一个匹配项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051753Z" creationid="LiarOnce" creationdate="20181015T051753Z">
+        <seg>查找:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5891,6 +5955,30 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instance Actions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051808Z" creationid="LiarOnce" creationdate="20181015T051808Z">
+        <seg>实例操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instance Order</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051740Z" creationid="LiarOnce" creationdate="20181015T051740Z">
+        <seg>实例顺序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instance Ordering</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051833Z" creationid="LiarOnce" creationdate="20181015T051833Z">
+        <seg>实例排序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instances</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170107T053947Z" creationid="deciia" creationdate="20170107T053947Z">
@@ -6507,6 +6595,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>List of Instances</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051755Z" creationid="LiarOnce" creationdate="20181015T051755Z">
+        <seg>实例列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Load Colour Palette</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050504Z" creationid="LiarOnce" creationdate="20181009T050504Z">
@@ -6891,6 +6987,134 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move Down</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051858Z" creationid="LiarOnce" creationdate="20181015T051843Z">
+        <seg>下移</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Down 10</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051930Z" creationid="LiarOnce" creationdate="20181015T051930Z">
+        <seg>下移10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Down 5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051907Z" creationid="LiarOnce" creationdate="20181015T051907Z">
+        <seg>下移5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Instance Up</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051944Z" creationid="LiarOnce" creationdate="20181015T051944Z">
+        <seg>向上移动实例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Instance Up 5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051958Z" creationid="LiarOnce" creationdate="20181015T051958Z">
+        <seg>向上移动实例5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Up</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051853Z" creationid="LiarOnce" creationdate="20181015T051853Z">
+        <seg>上移</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Up 10</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051927Z" creationid="LiarOnce" creationdate="20181015T051927Z">
+        <seg>上移10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Up 5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051902Z" creationid="LiarOnce" creationdate="20181015T051902Z">
+        <seg>上移5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move instance down 10 places</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051940Z" creationid="LiarOnce" creationdate="20181015T051940Z">
+        <seg>将实例向下移动10个位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move instance down 5 places</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051919Z" creationid="LiarOnce" creationdate="20181015T051919Z">
+        <seg>将实例向下移动5个位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move instance down list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051849Z" creationid="LiarOnce" creationdate="20181015T051849Z">
+        <seg>将实例向下移动列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move instance to bottom</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051925Z" creationid="LiarOnce" creationdate="20181015T051925Z">
+        <seg>将实例移动到底部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move instance to top</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051921Z" creationid="LiarOnce" creationdate="20181015T051921Z">
+        <seg>将实例移动到顶部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move instance up 10 places</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051928Z" creationid="LiarOnce" creationdate="20181015T051928Z">
+        <seg>将实例向上移动10个位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move instance up 5 places</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051904Z" creationid="LiarOnce" creationdate="20181015T051904Z">
+        <seg>将实例向上移动5个位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move instance up list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051901Z" creationid="LiarOnce" creationdate="20181015T051901Z">
+        <seg>将实例向上移动列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move selected configuration down</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043102Z" creationid="LiarOnce" creationdate="20181014T043102Z">
@@ -6903,6 +7127,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043100Z" creationid="LiarOnce" creationdate="20181014T043100Z">
         <seg>向上移动所选配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move to Bottom</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051923Z" creationid="LiarOnce" creationdate="20181015T051923Z">
+        <seg>移至底部</seg>
       </tuv>
     </tu>
     <tu>
@@ -6975,6 +7207,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143342Z" creationid="LiarOnce" creationdate="20181007T143342Z">
         <seg>名称:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of Instance to find</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051806Z" creationid="LiarOnce" creationdate="20181015T051806Z">
+        <seg>要查找的实例的名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -7423,6 +7663,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T114131Z" creationid="deciia" creationdate="20170103T114131Z">
         <seg>选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Order</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051841Z" creationid="LiarOnce" creationdate="20181015T051841Z">
+        <seg>排序</seg>
       </tuv>
     </tu>
     <tu>
@@ -8319,6 +8567,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove Instance</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051942Z" creationid="LiarOnce" creationdate="20181015T051942Z">
+        <seg>删除实例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove selected Instance</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051828Z" creationid="LiarOnce" creationdate="20181015T051828Z">
+        <seg>删除所选实例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove selected configuration</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043054Z" creationid="LiarOnce" creationdate="20181014T043054Z">
@@ -8363,6 +8627,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043047Z" creationid="LiarOnce" creationdate="20181014T043047Z">
         <seg>重命名所选配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename selected instance</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051830Z" creationid="LiarOnce" creationdate="20181015T051830Z">
+        <seg>重命名所选实例</seg>
       </tuv>
     </tu>
     <tu>
@@ -8883,6 +9155,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043058Z" creationid="LiarOnce" creationdate="20181014T043058Z">
         <seg>保存并关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save and Close Instance order</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051742Z" creationid="LiarOnce" creationdate="20181015T051742Z">
+        <seg>保存和关闭实例顺序</seg>
       </tuv>
     </tu>
     <tu>
@@ -9661,6 +9941,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135618Z" creationid="LiarOnce" creationdate="20181007T135618Z">
         <seg>柔体阴影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some features have been removed (or may not be supported by the target platform).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051723Z" creationid="LiarOnce" creationdate="20181015T051723Z">
+        <seg>某些功能已被删除 (或可能不支持目标平台)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11272,6 +11560,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141429Z" creationid="LiarOnce" creationdate="20181007T141429Z">
         <seg>当前你的库的筛选器中没有任何资产。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may need to rewrite some code or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051731Z" creationid="LiarOnce" creationdate="20181015T051731Z">
+        <seg>您可能需要重写一些代码, 或者您可能会发现一个 bug (请提交 bug 报告 (帮助-&gt;&gt; 报告 bug))</seg>
       </tuv>
     </tu>
     <tu>
