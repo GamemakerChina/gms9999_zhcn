@@ -1422,6 +1422,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjust rotation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052106Z" creationid="LiarOnce" creationdate="20181015T052106Z">
+        <seg>调整旋转</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjust scaling in X</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052101Z" creationid="LiarOnce" creationdate="20181015T052101Z">
+        <seg>调整 X 中的缩放比例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjust scaling in Y</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052103Z" creationid="LiarOnce" creationdate="20181015T052103Z">
+        <seg>调整 Y 中的缩放比例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjust tolerance</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023215Z" creationid="LiarOnce" creationdate="20181014T023215Z">
@@ -2926,6 +2950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click to change colour</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052027Z" creationid="LiarOnce" creationdate="20181015T052027Z">
+        <seg>单击可更改颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click to change the color</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135038Z" creationid="LiarOnce" creationdate="20181007T135038Z">
@@ -3750,6 +3782,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current alpha value of instance ( 0 - 255 )</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052055Z" creationid="LiarOnce" creationdate="20181015T052055Z">
+        <seg>实例的当前 alpha 值 (0-255)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current colour of instance</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052048Z" creationid="LiarOnce" creationdate="20181015T052048Z">
+        <seg>实例的当前颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cut</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T091819Z" creationid="deciia" creationdate="20170102T091819Z">
@@ -3817,6 +3865,14 @@
         <seg>Default</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T051638Z" creationid="deciia" creationdate="20170104T051638Z">
+        <seg>默认</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defaults</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052133Z" creationid="LiarOnce" creationdate="20181015T052133Z">
         <seg>默认</seg>
       </tuv>
     </tu>
@@ -4958,6 +5014,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flip X</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052031Z" creationid="LiarOnce" creationdate="20181015T052031Z">
+        <seg>翻转 X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flip Y</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052042Z" creationid="LiarOnce" creationdate="20181015T052042Z">
+        <seg>翻转 Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Font</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170215T151850Z" creationid="deciia" creationdate="20170215T151850Z">
@@ -5234,6 +5306,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044050Z" creationid="LiarOnce" creationdate="20181014T044050Z">
         <seg>GameMaker 必须能够至少每月一次验证您的许可证。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GameMaker:Studio Key Bindings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052120Z" creationid="LiarOnce" creationdate="20181015T052120Z">
+        <seg>GameMaker:Studio 键位绑定</seg>
       </tuv>
     </tu>
     <tu>
@@ -7011,6 +7091,30 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move Instance Down</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052007Z" creationid="LiarOnce" creationdate="20181015T052007Z">
+        <seg>向下移动实例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Instance Down 10</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052021Z" creationid="LiarOnce" creationdate="20181015T052021Z">
+        <seg>向下移动实例10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Instance Down 5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052017Z" creationid="LiarOnce" creationdate="20181015T052017Z">
+        <seg>向下移动实例5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move Instance Up</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051944Z" creationid="LiarOnce" creationdate="20181015T051944Z">
@@ -7019,10 +7123,34 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move Instance Up 10</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052000Z" creationid="LiarOnce" creationdate="20181015T052000Z">
+        <seg>向上移动实例10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move Instance Up 5</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051958Z" creationid="LiarOnce" creationdate="20181015T051958Z">
         <seg>向上移动实例5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Instance to Bottom</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052023Z" creationid="LiarOnce" creationdate="20181015T052023Z">
+        <seg>将实例移动到底部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Instance to Top</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052002Z" creationid="LiarOnce" creationdate="20181015T052002Z">
+        <seg>将实例移动到顶部</seg>
       </tuv>
     </tu>
     <tu>
@@ -7535,6 +7663,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051739Z" creationid="LiarOnce" creationdate="20181008T051739Z">
         <seg>对象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ok</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052126Z" creationid="LiarOnce" creationdate="20181015T052126Z">
+        <seg>确定</seg>
       </tuv>
     </tu>
     <tu>
@@ -10417,6 +10553,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The depth at which the object is drawn</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052251Z" creationid="LiarOnce" creationdate="20181015T052251Z">
+        <seg>绘制物体的深度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The filename under which to save the resource</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125042Z" creationid="LiarOnce" creationdate="20181013T125042Z">
@@ -10661,6 +10805,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051433Z" creationid="LiarOnce" creationdate="20181015T051433Z">
         <seg>切换 Scratch 页面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle flipping in X</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052041Z" creationid="LiarOnce" creationdate="20181015T052041Z">
+        <seg>在 X 中切换翻转</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle flipping in Y</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052044Z" creationid="LiarOnce" creationdate="20181015T052044Z">
+        <seg>在 Y 中切换翻转</seg>
       </tuv>
     </tu>
     <tu>
