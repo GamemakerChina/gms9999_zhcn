@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<desktop scan="1" scanned="20181006132448" built="20181014130503" lang="zh" pane="TLogPane" col="4" row="StringTable.%d is an invalid PageIndex value.  PageIndex must be between 0 and %d">
+<desktop scan="1" scanned="20181006132448" built="20181018131028" lang="zh" pane="TLogPane" col="4" row="Panel2.ToolBar1.Label7.Caption">
   <language id="zh" autoime="0" autokeyboard="0"/>
   <language id="en" autoime="0" autokeyboard="0"/>
   <triggers>
@@ -23,7 +23,8 @@
   <path>
     <item>All</item>
     <item>F:\Program Files\Steam\steamapps\common\gamemaker_studio\GameMaker-Studio.exe</item>
-    <item>Strings</item>
+    <item>Forms</item>
+    <item>TMAINFORM</item>
   </path>
   <export format="efXliff">
     <filter>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<document created="20181006132448" version="4.0.373" date="20181014130937" scan="1" scanned="20181006132448">
+<document created="20181006132448" version="4.0.373" date="20181018132804" scan="1" scanned="20181006132448">
   <lang id="zh"/>
   <lang id="en"/>
   <source class="TDelphiSource" name="F:\Program Files\Steam\steamapps\common\gamemaker_studio\GameMaker-Studio.exe" original="en-US" encoding="utf-8" date="20181009052200" usebom="1" widestringusage="wsYes" stringresourcecontext="rcStringValue">
@@ -13469,7 +13469,7 @@
               <component class="TVisLabel" name="Label7" type="TLabel" layout="tlCenter">
                 <row id="Caption">
                   <native>  Knowledge Base: </native>
-                  <lang id="zh" date="20181014130101" status="3"> 知识库: </lang>
+                  <lang id="zh" date="20181018131028" status="3">         知识库: </lang>
                 </row>
                 <row id="Height">19</row>
                 <row id="Left">0</row>
@@ -13567,6 +13567,10 @@
                 <row id="Width">8</row>
               </component>
             </component>
+          </component>
+          <component class="TVisDefaultControl" name="OmniEventMonitor1" type="TOmniEventMonitor">
+            <row id="Left">456</row>
+            <row id="Top">272</row>
           </component>
           <component class="TVisMainMenu" name="MainMenu" type="TMainMenu" imagesname="ImagesForm.ToolbarImages">
             <component class="TVisMenuItem" name="File1" type="TMenuItem">
@@ -14713,10 +14717,6 @@
               <native>Export Resources</native>
               <lang id="zh" date="20181009131012" status="2">导出资源</lang>
             </row>
-          </component>
-          <component class="TVisDefaultControl" name="OmniEventMonitor1" type="TOmniEventMonitor">
-            <row id="Left">456</row>
-            <row id="Top">272</row>
           </component>
           <component class="TVisHiddenComponent" name="Timer1" type="TTimer" enabled="0">
           </component>
