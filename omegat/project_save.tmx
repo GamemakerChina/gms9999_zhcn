@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Center the game in the browser</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135001Z" creationid="LiarOnce" creationdate="20181020T135001Z">
+        <seg>在浏览器中居中游戏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Change</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142455Z" creationid="LiarOnce" creationdate="20181007T142455Z">
@@ -974,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Use splash screen</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134931Z" creationid="LiarOnce" creationdate="20181020T134931Z">
+        <seg>使用初始屏幕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Use synchronization to avoid tearing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090550Z" creationid="LiarOnce" creationdate="20181020T090550Z">
@@ -1050,6 +1066,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T065320Z" creationid="deciia" creationdate="20170104T065320Z">
         <seg>0 秒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 seconds</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135437Z" creationid="LiarOnce" creationdate="20181020T135437Z">
+        <seg>1 秒</seg>
       </tuv>
     </tu>
     <tu>
@@ -1234,6 +1258,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134854Z" creationid="LiarOnce" creationdate="20181007T134854Z">
         <seg>90 度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt; Press refresh to fetch certificate list from Mac&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135500Z" creationid="LiarOnce" creationdate="20181020T135500Z">
+        <seg>&lt; 点击刷新以从 Mac 获取证书列表 &gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2054,6 +2086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>App Capabilities</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135526Z" creationid="LiarOnce" creationdate="20181020T135526Z">
+        <seg>应用功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>App ID</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T022037Z" creationid="deciia" creationdate="20180922T022037Z">
@@ -2098,6 +2138,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T070026Z" creationid="deciia" creationdate="20170104T070026Z">
         <seg>应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Application Id for Facebook</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135013Z" creationid="LiarOnce" creationdate="20181020T135013Z">
+        <seg>Facebook 的应用程序 Id</seg>
       </tuv>
     </tu>
     <tu>
@@ -2310,6 +2358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto-Detect</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134955Z" creationid="LiarOnce" creationdate="20181020T134955Z">
+        <seg>自动检测</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Available Extensions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130253Z" creationid="LiarOnce" creationdate="20181013T130253Z">
@@ -2382,10 +2438,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Background Image to use</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135625Z" creationid="LiarOnce" creationdate="20181020T135625Z">
+        <seg>要使用的背景图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Background Properties</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141706Z" creationid="LiarOnce" creationdate="20181007T141706Z">
         <seg>背景属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Background image for use in Vita dash</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135831Z" creationid="LiarOnce" creationdate="20181020T135831Z">
+        <seg>背景图像，用于 Vita dash</seg>
       </tuv>
     </tu>
     <tu>
@@ -2898,6 +2970,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052623Z" creationid="LiarOnce" creationdate="20181015T052623Z">
         <seg>物体上的中心显示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Centre the game in the browser</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135004Z" creationid="LiarOnce" creationdate="20181020T135004Z">
+        <seg>在浏览器中中心游戏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Certificate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135442Z" creationid="LiarOnce" creationdate="20181020T135442Z">
+        <seg>证书</seg>
       </tuv>
     </tu>
     <tu>
@@ -3474,6 +3562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170317T145947Z" creationid="36011" creationdate="20170317T145947Z">
         <seg>代码编辑器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code to prepend to the generated JavaScript</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134937Z" creationid="LiarOnce" creationdate="20181020T134937Z">
+        <seg>要在生成的 JavaScript 前面加上的代码</seg>
       </tuv>
     </tu>
     <tu>
@@ -4302,6 +4398,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cycle</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135547Z" creationid="LiarOnce" creationdate="20181020T135547Z">
+        <seg>循环</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cycle Tile</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135615Z" creationid="LiarOnce" creationdate="20181020T135615Z">
+        <seg>循环图块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>D&amp;uplicate</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042052Z" creationid="LiarOnce" creationdate="20181014T042052Z">
@@ -4314,6 +4426,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T064915Z" creationid="deciia" creationdate="20170104T064915Z">
         <seg>暗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dash background image to use</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135914Z" creationid="LiarOnce" creationdate="20181020T135914Z">
+        <seg>要使用的 Dash 背景图像</seg>
       </tuv>
     </tu>
     <tu>
@@ -4550,6 +4670,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Devices</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135023Z" creationid="LiarOnce" creationdate="20181020T135023Z">
+        <seg>设备</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Devices to export to</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135024Z" creationid="LiarOnce" creationdate="20181020T135024Z">
+        <seg>要导出到的设备</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dialog</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143109Z" creationid="LiarOnce" creationdate="20181007T143109Z">
@@ -4590,6 +4726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Display "running outside server" alert</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134948Z" creationid="LiarOnce" creationdate="20181020T134948Z">
+        <seg>显示 "运行外部服务器" 警报</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Display Name</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T070044Z" creationid="deciia" creationdate="20170104T070044Z">
@@ -4610,6 +4754,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090409Z" creationid="LiarOnce" creationdate="20181020T090357Z">
         <seg>显示初始屏幕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display c&amp;ursor when touchpad active</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135638Z" creationid="LiarOnce" creationdate="20181020T135638Z">
+        <seg>当触摸板处于活动状态时显示光标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display cursor when touchpad active</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135840Z" creationid="LiarOnce" creationdate="20181020T135840Z">
+        <seg>触摸板处于活动状态时显示光标</seg>
       </tuv>
     </tu>
     <tu>
@@ -5078,6 +5238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enable touch events from the rear touchpad</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135845Z" creationid="LiarOnce" creationdate="20181020T135845Z">
+        <seg>从后触摸板启用触摸事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>End</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170215T152345Z" creationid="deciia" creationdate="20170215T152345Z">
@@ -5318,10 +5486,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Facebook App Display Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135007Z" creationid="LiarOnce" creationdate="20181020T135007Z">
+        <seg>Facebook 应用程序显示名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Facebook App Id</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T071848Z" creationid="deciia" creationdate="20170104T071848Z">
         <seg>Facebook 应用 Id</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Facebook Application Display Name (iOS)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135019Z" creationid="LiarOnce" creationdate="20181020T135019Z">
+        <seg>Facebook 应用程序显示名称 (iOS)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5370,6 +5554,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141510Z" creationid="LiarOnce" creationdate="20181007T141510Z">
         <seg>文件大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File containing loading bar extension</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134928Z" creationid="LiarOnce" creationdate="20181020T134928Z">
+        <seg>包含加载条扩展名的文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -5614,6 +5806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flip Images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135552Z" creationid="LiarOnce" creationdate="20181020T135552Z">
+        <seg>翻转图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flip Vertically</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124418Z" creationid="LiarOnce" creationdate="20181013T124418Z">
@@ -5802,6 +6002,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130910Z" creationid="LiarOnce" creationdate="20181013T130910Z">
         <seg>从范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Front</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135558Z" creationid="LiarOnce" creationdate="20181020T135558Z">
+        <seg>前部</seg>
       </tuv>
     </tu>
     <tu>
@@ -6006,6 +6214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Generate an app to use with Spotify</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134943Z" creationid="LiarOnce" creationdate="20181020T134935Z">
+        <seg>生成与 Spotify 共同使用的应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generate new GUID and Id</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052829Z" creationid="LiarOnce" creationdate="20181015T052829Z">
@@ -6146,6 +6362,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HD Background Image (PIC1.PNG)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135903Z" creationid="LiarOnce" creationdate="20181020T135903Z">
+        <seg>高清背景图像 (PIC1.PNG)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HTML5 File Options</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134852Z" creationid="LiarOnce" creationdate="20181020T134852Z">
@@ -6174,6 +6398,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134905Z" creationid="LiarOnce" creationdate="20181020T134905Z">
         <seg>HTML5 输出名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Half iPad 1 Textures</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135438Z" creationid="LiarOnce" creationdate="20181020T135438Z">
+        <seg>半 iPad 1 纹理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Half the size of iPad 1 Textures at runtime</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135439Z" creationid="LiarOnce" creationdate="20181020T135439Z">
+        <seg>iPad 1 纹理在运行时的一半大小</seg>
       </tuv>
     </tu>
     <tu>
@@ -6427,6 +6667,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Iconic</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135550Z" creationid="LiarOnce" creationdate="20181020T135550Z">
+        <seg>图标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Iconic Tile</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135602Z" creationid="LiarOnce" creationdate="20181020T135602Z">
+        <seg>图标块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Icons</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T082408Z" creationid="deciia" creationdate="20180922T082408Z">
@@ -6495,6 +6751,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052910Z" creationid="LiarOnce" creationdate="20181015T052910Z">
         <seg>图像预览:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image shown behind Start icon in Vita dash</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135707Z" creationid="LiarOnce" creationdate="20181020T135707Z">
+        <seg>在 "开始" 图标后面显示的图像</seg>
       </tuv>
     </tu>
     <tu>
@@ -7251,6 +7515,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Landscape Left</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135150Z" creationid="LiarOnce" creationdate="20181020T135150Z">
+        <seg>横向左</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Landscape Right</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135151Z" creationid="LiarOnce" creationdate="20181020T135151Z">
+        <seg>横向右</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Landscape-flipped</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090835Z" creationid="LiarOnce" creationdate="20181020T090835Z">
@@ -7667,6 +7947,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mac Profile</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135441Z" creationid="LiarOnce" creationdate="20181020T135441Z">
+        <seg>Mac 配置文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Macros</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180926T224844Z" creationid="deciia" creationdate="20170510T020458Z">
@@ -7787,6 +8075,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Medium/Wide</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135608Z" creationid="LiarOnce" creationdate="20181020T135608Z">
+        <seg>中 / 宽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Merge Moments</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180924T031947Z" creationid="deciia" creationdate="20170104T050119Z">
@@ -7839,6 +8135,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142832Z" creationid="LiarOnce" creationdate="20181007T142832Z">
         <seg>中键放开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum splashscreen time:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135336Z" creationid="LiarOnce" creationdate="20181020T135336Z">
+        <seg>最短启动画面时间:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8251,6 +8555,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE: Using a splash screen disables the loading bar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134933Z" creationid="LiarOnce" creationdate="20181020T134933Z">
+        <seg>注意: 使用初始屏幕将禁用加载栏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Name</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044711Z" creationid="LiarOnce" creationdate="20181008T044711Z">
@@ -8283,6 +8595,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Name of file to export to</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134929Z" creationid="LiarOnce" creationdate="20181020T134929Z">
+        <seg>要导出到的文件的名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Name of folder to output to</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134908Z" creationid="LiarOnce" creationdate="20181020T134908Z">
@@ -8303,6 +8623,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090333Z" creationid="LiarOnce" creationdate="20181020T090333Z">
         <seg>游戏名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name shown in browser title bar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134930Z" creationid="LiarOnce" creationdate="20181020T134930Z">
+        <seg>浏览器标题栏中显示的名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -8843,6 +9171,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Orientations to allow</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135117Z" creationid="LiarOnce" creationdate="20181020T135117Z">
+        <seg>允许的方向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Original</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123554Z" creationid="LiarOnce" creationdate="20181013T123554Z">
@@ -8999,6 +9335,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042635Z" creationid="LiarOnce" creationdate="20181014T042635Z">
         <seg>属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Package</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135648Z" creationid="LiarOnce" creationdate="20181020T135648Z">
+        <seg>包</seg>
       </tuv>
     </tu>
     <tu>
@@ -9305,6 +9649,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T070017Z" creationid="deciia" creationdate="20170104T065947Z">
         <seg>纵向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Portrait Upside Down</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135149Z" creationid="LiarOnce" creationdate="20181020T135149Z">
+        <seg>纵向颠倒</seg>
       </tuv>
     </tu>
     <tu>
@@ -9959,6 +10311,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Report touch events for the front screen</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135844Z" creationid="LiarOnce" creationdate="20181020T135844Z">
+        <seg>报告前屏幕的触摸事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Request sandbox permission for com.apple.security.network.client</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134728Z" creationid="LiarOnce" creationdate="20181020T134728Z">
@@ -10543,6 +10903,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scale and keep original aspect ratio</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135628Z" creationid="LiarOnce" creationdate="20181020T135628Z">
+        <seg>缩放并保持原始纵横比</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scale but keep original aspect ratio</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090611Z" creationid="LiarOnce" creationdate="20181020T090611Z">
@@ -10595,6 +10963,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090918Z" creationid="LiarOnce" creationdate="20181020T090918Z">
         <seg>缩放模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scaling options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135537Z" creationid="LiarOnce" creationdate="20181020T135537Z">
+        <seg>缩放选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SceNpTitleId used during development</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135659Z" creationid="LiarOnce" creationdate="20181020T135659Z">
+        <seg>开发过程中使用的 SceNpTitleId</seg>
       </tuv>
     </tu>
     <tu>
@@ -10723,6 +11107,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T043916Z" creationid="LiarOnce" creationdate="20181007T143233Z">
         <seg>全不选</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Platform:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135324Z" creationid="LiarOnce" creationdate="20181020T135324Z">
+        <seg>选择平台:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11465,6 +11857,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Splash Screens</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135158Z" creationid="LiarOnce" creationdate="20181020T135158Z">
+        <seg>启动画面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Splash screen</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090809Z" creationid="LiarOnce" creationdate="20181020T090809Z">
@@ -11753,6 +12153,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supported Resolutions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135518Z" creationid="LiarOnce" creationdate="20181020T135518Z">
+        <seg>支持的分辨率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Switch to Steam Play mode</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041839Z" creationid="LiarOnce" creationdate="20181014T041839Z">
@@ -11953,6 +12361,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Sony packed ID</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135657Z" creationid="LiarOnce" creationdate="20181020T135657Z">
+        <seg>索尼 packed ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The author of the game</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090239Z" creationid="LiarOnce" creationdate="20181020T090239Z">
@@ -12097,6 +12513,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This app uses ID_CAP_MICROPHONE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135529Z" creationid="LiarOnce" creationdate="20181020T135529Z">
+        <seg>此应用程序使用 ID_CAP_MICROPHONE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is the list of files to be included when creating a stand-alone game.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125105Z" creationid="LiarOnce" creationdate="20181013T125105Z">
@@ -12157,6 +12581,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T110632Z" creationid="deciia" creationdate="20170105T110632Z">
         <seg>图块属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tile Template</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135545Z" creationid="LiarOnce" creationdate="20181020T135545Z">
+        <seg>图块模版</seg>
       </tuv>
     </tu>
     <tu>
@@ -12281,6 +12713,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Toggle 720p support</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135521Z" creationid="LiarOnce" creationdate="20181020T135521Z">
+        <seg>切换720p 支持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Toggle Breakpoint</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170114T035118Z" creationid="deciia" creationdate="20161223T063546Z">
@@ -12293,6 +12733,30 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170316T092230Z" creationid="deciia" creationdate="20170311T165853Z">
         <seg>切换网格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle Landscape orientation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135508Z" creationid="LiarOnce" creationdate="20181020T135508Z">
+        <seg>切换横向方向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle Landscape-flipped orientation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135513Z" creationid="LiarOnce" creationdate="20181020T135513Z">
+        <seg>切换横向翻转方向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle Portrait orientation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135511Z" creationid="LiarOnce" creationdate="20181020T135511Z">
+        <seg>切换纵向方向</seg>
       </tuv>
     </tu>
     <tu>
@@ -12313,6 +12777,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Toggle WVGA support</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135520Z" creationid="LiarOnce" creationdate="20181020T135520Z">
+        <seg>切换 WVGA 支持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle WXGA support</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135522Z" creationid="LiarOnce" creationdate="20181020T135522Z">
+        <seg>切换 WXGA 支持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Toggle cropping of Texture Group</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T085928Z" creationid="LiarOnce" creationdate="20181020T085928Z">
@@ -12325,6 +12805,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134413Z" creationid="LiarOnce" creationdate="20181020T134413Z">
         <seg>切换显示光标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle displaying the cursor while touchpad is active</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135843Z" creationid="LiarOnce" creationdate="20181020T135843Z">
+        <seg>触摸板处于活动状态时切换显示光标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle facebook</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135017Z" creationid="LiarOnce" creationdate="20181020T135009Z">
+        <seg>切换 Facebook</seg>
       </tuv>
     </tu>
     <tu>
@@ -12349,6 +12845,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052632Z" creationid="LiarOnce" creationdate="20181015T052632Z">
         <seg>切换网格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle interpolation of colour between pixels</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135838Z" creationid="LiarOnce" creationdate="20181020T135838Z">
+        <seg>切换像素之间的颜色插值</seg>
       </tuv>
     </tu>
     <tu>
@@ -12577,6 +13081,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Type of Application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135517Z" creationid="LiarOnce" creationdate="20181020T135517Z">
+        <seg>应用类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Uncompress as zip file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180926T023201Z" creationid="deciia" creationdate="20170106T161354Z">
@@ -12713,6 +13225,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Usage of WebGL</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134952Z" creationid="LiarOnce" creationdate="20181020T134952Z">
+        <seg>WebGL 的用法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use Facebook</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T071842Z" creationid="deciia" creationdate="20170104T071842Z">
@@ -12829,6 +13349,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043518Z" creationid="LiarOnce" creationdate="20181014T043518Z">
         <seg>使用矩形作为碰撞遮罩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use built-in particle sprites</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135006Z" creationid="LiarOnce" creationdate="20181020T135006Z">
+        <seg>使用内置粒子精灵</seg>
       </tuv>
     </tu>
     <tu>
@@ -13332,6 +13860,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whether to enable fullscreen switching</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134958Z" creationid="LiarOnce" creationdate="20181020T134958Z">
+        <seg>是否启用全屏切换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whole Word Only</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170316T090934Z" creationid="deciia" creationdate="20170103T134028Z">
@@ -13344,6 +13880,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141118Z" creationid="LiarOnce" creationdate="20181007T141118Z">
         <seg>全词匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wide</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135554Z" creationid="LiarOnce" creationdate="20181020T135554Z">
+        <seg>宽</seg>
       </tuv>
     </tu>
     <tu>
@@ -13532,6 +14076,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>iPad Portrait 768x1024</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135239Z" creationid="LiarOnce" creationdate="20181020T135239Z">
+        <seg>iPad 纵向 768x1024</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>iPad Retina Landscape</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T074314Z" creationid="deciia" creationdate="20170104T074314Z">
@@ -13544,6 +14096,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T074319Z" creationid="deciia" creationdate="20170104T074319Z">
         <seg>iPad Retina 纵向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPad Retina Portrait 1536x2048</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135309Z" creationid="LiarOnce" creationdate="20181020T135309Z">
+        <seg>iPad Retina 纵向 1536x2048</seg>
       </tuv>
     </tu>
     <tu>
@@ -13572,10 +14132,90 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>iPhone 6 Plus Landscape</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135346Z" creationid="LiarOnce" creationdate="20181020T135346Z">
+        <seg>iPhone 6 Plus 横向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPhone 6 Plus Portrait</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135415Z" creationid="LiarOnce" creationdate="20181020T135415Z">
+        <seg>iPhone 6 Plus 纵向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>iPhone 6 Portrait</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T074248Z" creationid="deciia" creationdate="20170104T074248Z">
         <seg>iPhone 6 纵向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPhone 7 Landscape</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135349Z" creationid="LiarOnce" creationdate="20181020T135349Z">
+        <seg>iPhone 7 横向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPhone 7 Plus Landscape</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135352Z" creationid="LiarOnce" creationdate="20181020T135352Z">
+        <seg>iPhone 7 Plus 横向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPhone 7 Plus Portrait</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135417Z" creationid="LiarOnce" creationdate="20181020T135417Z">
+        <seg>iPhone 7 Plus 纵向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPhone 7 Portrait</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135420Z" creationid="LiarOnce" creationdate="20181020T135420Z">
+        <seg>iPhone 7 纵向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPhone 8 Landscape</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135355Z" creationid="LiarOnce" creationdate="20181020T135355Z">
+        <seg>iPhone 8 横向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPhone 8 Plus Landscape</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135401Z" creationid="LiarOnce" creationdate="20181020T135401Z">
+        <seg>iPhone 8 Plus 横向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPhone 8 Plus Portrait</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135422Z" creationid="LiarOnce" creationdate="20181020T135422Z">
+        <seg>iPhone 8 Plus 纵向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPhone 8 Portrait</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135426Z" creationid="LiarOnce" creationdate="20181020T135426Z">
+        <seg>iPhone 8 纵向</seg>
       </tuv>
     </tu>
     <tu>
@@ -13596,6 +14236,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>iPhone Portrait 320x480</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135303Z" creationid="LiarOnce" creationdate="20181020T135303Z">
+        <seg>iPhone 纵向 320x480</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>iPhone Retina Landscape</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T074220Z" creationid="deciia" creationdate="20170104T074220Z">
@@ -13608,6 +14256,30 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T074226Z" creationid="deciia" creationdate="20170104T074226Z">
         <seg>iPhone Retina 纵向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPhone Retina Portrait 640x960</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135229Z" creationid="LiarOnce" creationdate="20181020T135229Z">
+        <seg>iPhone Retina 纵向 640x960</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPhone SE Landscape</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135404Z" creationid="LiarOnce" creationdate="20181020T135404Z">
+        <seg>iPhone SE 横向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPhone SE Portrait</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135430Z" creationid="LiarOnce" creationdate="20181020T135430Z">
+        <seg>iPhone SE 纵向</seg>
       </tuv>
     </tu>
     <tu>
@@ -13636,10 +14308,90 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>iPhone5 Portrait 640x1136</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135235Z" creationid="LiarOnce" creationdate="20181020T135235Z">
+        <seg>iPhone5 纵向 640x1136</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPhone6 Portrait 750x1334</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135312Z" creationid="LiarOnce" creationdate="20181020T135312Z">
+        <seg>iPhone6 纵向 750x1334</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPhone6Plus Portrait 1242x2208</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135241Z" creationid="LiarOnce" creationdate="20181020T135241Z">
+        <seg>iPhone6Plus 纵向 1242x2208</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPhone7 Portrait 750x1334</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135315Z" creationid="LiarOnce" creationdate="20181020T135315Z">
+        <seg>iPhone7 纵向 750x1334</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPhone7Plus Portrait 1242x2208</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135243Z" creationid="LiarOnce" creationdate="20181020T135243Z">
+        <seg>iPhone7Plus 纵向 1242x2208</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPhone8 Portrait 750x1334</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135321Z" creationid="LiarOnce" creationdate="20181020T135321Z">
+        <seg>iPhone8 纵向 750x1334</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPhone8Plus Portrait 1242x2208</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135246Z" creationid="LiarOnce" creationdate="20181020T135246Z">
+        <seg>iPhone8Plus 纵向 1242x2208</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPhoneSE Portrait 640x1136</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135250Z" creationid="LiarOnce" creationdate="20181020T135250Z">
+        <seg>iPhoneSE 纵向 640x1136</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPhoneX Portrait 1125x2436</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135256Z" creationid="LiarOnce" creationdate="20181020T135256Z">
+        <seg>iPhoneX 纵向 1125x2436</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>pixels</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T022320Z" creationid="deciia" creationdate="20170104T022320Z">
         <seg>像素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>show_debug_message will be output to the console</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134945Z" creationid="LiarOnce" creationdate="20181020T134945Z">
+        <seg>show_debug_message 将输出到控制台</seg>
       </tuv>
     </tu>
     <tu>
