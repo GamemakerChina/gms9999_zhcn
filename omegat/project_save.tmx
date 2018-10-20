@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Allow the player to resize the game window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090606Z" creationid="LiarOnce" creationdate="20181020T090606Z">
+        <seg>允许玩家调整游戏窗口的大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Allow the player to resize the window</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T022646Z" creationid="LiarOnce" creationdate="20181014T022640Z">
@@ -434,6 +442,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T031420Z" creationid="LiarOnce" creationdate="20181014T031414Z">
         <seg>强度:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Interpolate colors between pixels</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090531Z" creationid="LiarOnce" creationdate="20181020T090531Z">
+        <seg>在像素之间插入颜色</seg>
       </tuv>
     </tu>
     <tu>
@@ -946,6 +962,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121841Z" creationid="LiarOnce" creationdate="20181013T121841Z">
         <seg>&amp;用作图块集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Use synchronization to avoid tearing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090550Z" creationid="LiarOnce" creationdate="20181020T090550Z">
+        <seg>使用同步避免撕裂</seg>
       </tuv>
     </tu>
     <tu>
@@ -1766,10 +1790,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allow players to resize game window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090608Z" creationid="LiarOnce" creationdate="20181020T090608Z">
+        <seg>允许玩家调整游戏窗口大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow switching to fullscreen</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090615Z" creationid="LiarOnce" creationdate="20181020T090615Z">
+        <seg>允许切换到全屏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allow the player to resize the window</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T022643Z" creationid="LiarOnce" creationdate="20181014T022643Z">
         <seg>允许播放机调整窗口大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow user switching of fullscreen mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090637Z" creationid="LiarOnce" creationdate="20181020T090637Z">
+        <seg>允许用户切换全屏模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -2257,6 +2305,14 @@
         <seg>Background Color</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T090600Z" creationid="LiarOnce" creationdate="20181013T090600Z">
+        <seg>背景颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Background Colour</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090353Z" creationid="LiarOnce" creationdate="20181020T090353Z">
         <seg>背景颜色</seg>
       </tuv>
     </tu>
@@ -3118,10 +3174,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click to change Splash Screen</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090355Z" creationid="LiarOnce" creationdate="20181020T090355Z">
+        <seg>单击以更改初始屏幕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click to change colour</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052027Z" creationid="LiarOnce" creationdate="20181015T052027Z">
         <seg>单击可更改颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to change icon</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090518Z" creationid="LiarOnce" creationdate="20181020T090518Z">
+        <seg>单击以更改图标</seg>
       </tuv>
     </tu>
     <tu>
@@ -4286,6 +4358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deselect this option to prevent splash screen rendering</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090419Z" creationid="LiarOnce" creationdate="20181020T090419Z">
+        <seg>取消选择此选项以防止初始屏幕呈现</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Destroy Event</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044805Z" creationid="LiarOnce" creationdate="20181008T044805Z">
@@ -4366,6 +4446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Display Splash Screen</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090409Z" creationid="LiarOnce" creationdate="20181020T090357Z">
+        <seg>显示初始屏幕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Display cursor when touchpad is active</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180925T044237Z" creationid="deciia" creationdate="20180922T022627Z">
@@ -4378,6 +4466,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T090413Z" creationid="deciia" creationdate="20170103T090413Z">
         <seg>显示名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display the c&amp;ursor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090512Z" creationid="LiarOnce" creationdate="20181020T090512Z">
+        <seg>显示光标</seg>
       </tuv>
     </tu>
     <tu>
@@ -5422,6 +5518,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Force software &amp;vertex processing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090542Z" creationid="LiarOnce" creationdate="20181020T090542Z">
+        <seg>强制软件顶点处理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Forces software processing of vertices</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090544Z" creationid="LiarOnce" creationdate="20181020T090544Z">
+        <seg>强制顶点的软件处理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Forgot?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141615Z" creationid="LiarOnce" creationdate="20181007T141615Z">
@@ -5610,6 +5722,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143018Z" creationid="LiarOnce" creationdate="20181007T143018Z">
         <seg>游戏结束</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Game icon:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090444Z" creationid="LiarOnce" creationdate="20181020T090444Z">
+        <seg>游戏图标:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6031,6 +6151,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T073600Z" creationid="deciia" creationdate="20170104T073600Z">
         <seg>图标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Icon to display</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090424Z" creationid="LiarOnce" creationdate="20181020T090424Z">
+        <seg>要显示的图标</seg>
       </tuv>
     </tu>
     <tu>
@@ -7815,6 +7943,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052531Z" creationid="LiarOnce" creationdate="20181015T052531Z">
         <seg>精灵的名字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of the game</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090333Z" creationid="LiarOnce" creationdate="20181020T090333Z">
+        <seg>游戏名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -9831,6 +9967,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save Data location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090520Z" creationid="LiarOnce" creationdate="20181020T090520Z">
+        <seg>保存数据位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save Image as a PNG file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051322Z" creationid="LiarOnce" creationdate="20181015T051322Z">
@@ -9943,10 +10087,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scale but keep original aspect ratio</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090611Z" creationid="LiarOnce" creationdate="20181020T090611Z">
+        <seg>缩放, 但保持原始纵横比</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scale the size of the image without changing the canvas size</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T030718Z" creationid="LiarOnce" creationdate="20181014T030718Z">
         <seg>缩放图像的大小而不更改画布大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scale to the full size of the window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090623Z" creationid="LiarOnce" creationdate="20181020T090612Z">
+        <seg>缩放到窗口的完整大小</seg>
       </tuv>
     </tu>
     <tu>
@@ -10609,6 +10769,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sleep Margin (advanced):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090450Z" creationid="LiarOnce" creationdate="20181020T090450Z">
+        <seg>休眠余量 (高级):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Small</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170219T010225Z" creationid="deciia" creationdate="20170219T010225Z">
@@ -10793,6 +10961,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Splash screen to display</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090350Z" creationid="LiarOnce" creationdate="20181020T090350Z">
+        <seg>要显示的初始屏幕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spray Select</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051349Z" creationid="LiarOnce" creationdate="20181015T051349Z">
@@ -10877,6 +11053,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T062345Z" creationid="deciia" creationdate="20170103T102300Z">
         <seg>初始唤醒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start in &amp;fullscreen mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090525Z" creationid="LiarOnce" creationdate="20181020T090525Z">
+        <seg>以全屏模式启动</seg>
       </tuv>
     </tu>
     <tu>
@@ -11249,10 +11433,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The copyright information for the game</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090329Z" creationid="LiarOnce" creationdate="20181020T090329Z">
+        <seg>游戏的版权信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The depth at which the object is drawn</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052251Z" creationid="LiarOnce" creationdate="20181015T052251Z">
         <seg>绘制物体的深度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The description for the game</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090331Z" creationid="LiarOnce" creationdate="20181020T090331Z">
+        <seg>游戏描述</seg>
       </tuv>
     </tu>
     <tu>
@@ -11309,6 +11509,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052331Z" creationid="LiarOnce" creationdate="20181015T052331Z">
         <seg>事件和操作的父级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The product name for the game</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090328Z" creationid="LiarOnce" creationdate="20181020T090328Z">
+        <seg>游戏的产品名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -11577,6 +11785,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Toggle interpolation of colours between pixels</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090535Z" creationid="LiarOnce" creationdate="20181020T090535Z">
+        <seg>切换像素之间的颜色插值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Toggle scaling of Texture Group</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T053036Z" creationid="LiarOnce" creationdate="20181015T053036Z">
@@ -11589,6 +11805,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052859Z" creationid="LiarOnce" creationdate="20181015T052859Z">
         <seg>切换短路评估</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle starting in Fullscreen mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090527Z" creationid="LiarOnce" creationdate="20181020T090527Z">
+        <seg>在全屏模式下开始切换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle synchronization ( VSync ) to avoid tearing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090554Z" creationid="LiarOnce" creationdate="20181020T090554Z">
+        <seg>切换同步 (垂直同步) 以避免撕裂</seg>
       </tuv>
     </tu>
     <tu>
