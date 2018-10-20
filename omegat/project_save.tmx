@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Interpolate colours between pixels</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T094743Z" creationid="LiarOnce" creationdate="20181020T094743Z">
+        <seg>在像素之间插入颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Italic</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045620Z" creationid="LiarOnce" creationdate="20181009T045620Z">
