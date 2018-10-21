@@ -1366,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ad Unit Id</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T024234Z" creationid="LiarOnce" creationdate="20181021T024234Z">
+        <seg>广告单元 Id</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T052945Z" creationid="LiarOnce" creationdate="20181008T052945Z">
@@ -2566,6 +2574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bluetooth gamepad/iCade Support</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025030Z" creationid="LiarOnce" creationdate="20181021T025030Z">
+        <seg>蓝牙手柄/iCade 支持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blur Colors</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134746Z" creationid="LiarOnce" creationdate="20181007T134746Z">
@@ -3070,6 +3086,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Certificate (UWP)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T024316Z" creationid="LiarOnce" creationdate="20181021T024316Z">
+        <seg>证书 (UWP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Certification</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T024315Z" creationid="LiarOnce" creationdate="20181021T024315Z">
+        <seg>认证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T035032Z" creationid="deciia" creationdate="20170104T035032Z">
@@ -3306,6 +3338,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T140433Z" creationid="LiarOnce" creationdate="20181020T140433Z">
         <seg>选择广告商</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose colour depth</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025108Z" creationid="LiarOnce" creationdate="20181021T025108Z">
+        <seg>选择颜色深度</seg>
       </tuv>
     </tu>
     <tu>
@@ -6182,6 +6222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GPU support requires OpenGL ES 2.0 on target device</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025123Z" creationid="LiarOnce" creationdate="20181021T025123Z">
+        <seg>GPU 支持需要在目标设备上使用 OpenGL ES 2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ga&amp;me Identifier:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052742Z" creationid="LiarOnce" creationdate="20181015T052742Z">
@@ -7163,6 +7211,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Install Location:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025022Z" creationid="LiarOnce" creationdate="20181021T025022Z">
+        <seg>安装位置:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Install PS3 Module</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042750Z" creationid="LiarOnce" creationdate="20181014T042750Z">
@@ -7667,6 +7723,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Landscape Flipped</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025102Z" creationid="LiarOnce" creationdate="20181021T025102Z">
+        <seg>横向翻转</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Landscape Left</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135150Z" creationid="LiarOnce" creationdate="20181020T135150Z">
@@ -8131,6 +8195,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MS Advertising</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T024241Z" creationid="LiarOnce" creationdate="20181021T024241Z">
+        <seg>MS 广告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mac Profile</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135441Z" creationid="LiarOnce" creationdate="20181020T135441Z">
@@ -8331,6 +8403,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum display time:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025012Z" creationid="LiarOnce" creationdate="20181021T025012Z">
+        <seg>最小显示时间:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum splashscreen time:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135336Z" creationid="LiarOnce" creationdate="20181020T135336Z">
@@ -8399,6 +8479,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141314Z" creationid="deciia" creationdate="20181006T130341Z">
         <seg>模块:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moga Gamepad Support</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025041Z" creationid="LiarOnce" creationdate="20181021T025041Z">
+        <seg>Moga 手柄支持</seg>
       </tuv>
     </tu>
     <tu>
@@ -9613,6 +9701,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Package name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025020Z" creationid="LiarOnce" creationdate="20181021T025020Z">
+        <seg>程序包名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Packaging</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T082221Z" creationid="deciia" creationdate="20180922T082221Z">
@@ -9865,6 +9961,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T070017Z" creationid="deciia" creationdate="20170104T065947Z">
         <seg>纵向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Portrait Flipped</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025103Z" creationid="LiarOnce" creationdate="20181021T025103Z">
+        <seg>纵向翻转</seg>
       </tuv>
     </tu>
     <tu>
@@ -10897,8 +11001,8 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       <tuv lang="EN-US">
         <seg>Run Lint Code Analysis</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="deciia" changedate="20170311T170620Z" creationid="deciia" creationdate="20170311T170620Z">
-        <seg>运行Lint Code 分析</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025100Z" creationid="deciia" creationdate="20170311T170620Z">
+        <seg>运行 Lint Code 分析</seg>
       </tuv>
     </tu>
     <tu>
@@ -11243,6 +11347,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135659Z" creationid="LiarOnce" creationdate="20181020T135659Z">
         <seg>开发过程中使用的 SceNpTitleId</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screen Color Depth</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025107Z" creationid="LiarOnce" creationdate="20181021T025107Z">
+        <seg>屏幕颜色深度</seg>
       </tuv>
     </tu>
     <tu>
@@ -12185,6 +12297,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Splash screens</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025008Z" creationid="LiarOnce" creationdate="20181021T025008Z">
+        <seg>启动画面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spray Select</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051349Z" creationid="LiarOnce" creationdate="20181015T051349Z">
@@ -12276,6 +12396,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
         <seg>Start in &amp;fullscreen mode</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090525Z" creationid="LiarOnce" creationdate="20181020T090525Z">
+        <seg>以全屏模式启动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start in fullscreen mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T024314Z" creationid="LiarOnce" creationdate="20181021T024314Z">
         <seg>以全屏模式启动</seg>
       </tuv>
     </tu>
@@ -13049,6 +13177,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Toggle Lint Code Analysis</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025057Z" creationid="LiarOnce" creationdate="20181021T025057Z">
+        <seg>切换 Lint Code 分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle Moga Gamepad Support</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025046Z" creationid="LiarOnce" creationdate="20181021T025046Z">
+        <seg>切换 Moga 手柄支持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Toggle Portrait orientation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135511Z" creationid="LiarOnce" creationdate="20181020T135511Z">
@@ -13109,6 +13253,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T140055Z" creationid="LiarOnce" creationdate="20181020T140055Z">
         <seg>切换允许玩家调整游戏窗口的大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle bluetooth/iCade support</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025034Z" creationid="LiarOnce" creationdate="20181021T025034Z">
+        <seg>切换蓝牙/iCade 支持</seg>
       </tuv>
     </tu>
     <tu>
