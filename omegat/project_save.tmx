@@ -2534,6 +2534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Banner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T021254Z" creationid="LiarOnce" creationdate="20181021T021254Z">
+        <seg>横幅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Begin Step</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044954Z" creationid="LiarOnce" creationdate="20181008T044954Z">
@@ -4734,6 +4742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Developer link</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T021221Z" creationid="LiarOnce" creationdate="20181021T021221Z">
+        <seg>开发人员链接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Device</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T070420Z" creationid="deciia" creationdate="20170105T070420Z">
@@ -6094,6 +6110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Full Banner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T021256Z" creationid="LiarOnce" creationdate="20181021T021256Z">
+        <seg>全横幅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Full scale</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180925T015939Z" creationid="deciia" creationdate="20170104T062027Z">
@@ -7275,6 +7299,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interstitial</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T021258Z" creationid="LiarOnce" creationdate="20181021T021258Z">
+        <seg>间 质</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invert the colors of the image</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T031440Z" creationid="LiarOnce" creationdate="20181014T031440Z">
@@ -7695,6 +7727,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090231Z" creationid="LiarOnce" creationdate="20181020T090231Z">
         <seg>上次更改:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LeaderBoard</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T021300Z" creationid="LiarOnce" creationdate="20181021T021300Z">
+        <seg>排行榜</seg>
       </tuv>
     </tu>
     <tu>
@@ -13637,6 +13677,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T140206Z" creationid="LiarOnce" creationdate="20181020T140206Z">
         <seg>使用源代码管理 (如果更改, 则需要保存并重新启动)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use Test Ads (where available)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T024221Z" creationid="LiarOnce" creationdate="20181021T024221Z">
+        <seg>使用测试广告 (如果有)</seg>
       </tuv>
     </tu>
     <tu>
