@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Automatic indentation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031438Z" creationid="LiarOnce" creationdate="20181021T031438Z">
+        <seg>自动缩进</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Blur...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T031855Z" creationid="LiarOnce" creationdate="20181014T031855Z">
@@ -278,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Editors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032047Z" creationid="LiarOnce" creationdate="20181021T032047Z">
+        <seg>编辑器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Ellipse</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043520Z" creationid="LiarOnce" creationdate="20181014T043520Z">
@@ -398,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Group undo operations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031434Z" creationid="LiarOnce" creationdate="20181021T031434Z">
+        <seg>组撤消操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Height:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050207Z" creationid="LiarOnce" creationdate="20181009T050207Z">
@@ -442,6 +466,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041920Z" creationid="LiarOnce" creationdate="20181014T041920Z">
         <seg>导入项目...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;In object properties, show hints for the actions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031241Z" creationid="LiarOnce" creationdate="20181021T031241Z">
+        <seg>在物体属性中, 显示操作的提示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Indent amount:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031356Z" creationid="LiarOnce" creationdate="20181021T031356Z">
+        <seg>缩进量:</seg>
       </tuv>
     </tu>
     <tu>
@@ -638,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Number of undo:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031354Z" creationid="LiarOnce" creationdate="20181021T031354Z">
+        <seg>撤消次数:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141652Z" creationid="LiarOnce" creationdate="20181007T141652Z">
@@ -782,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Reset</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031545Z" creationid="LiarOnce" creationdate="20181021T031545Z">
+        <seg>重置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Resources</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042242Z" creationid="LiarOnce" creationdate="20181014T042242Z">
@@ -842,6 +898,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042323Z" creationid="LiarOnce" creationdate="20181014T042323Z">
         <seg>脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Scripts and Code</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031351Z" creationid="LiarOnce" creationdate="20181021T031351Z">
+        <seg>脚本和代码</seg>
       </tuv>
     </tu>
     <tu>
@@ -1014,6 +1078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Use color coding</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031557Z" creationid="LiarOnce" creationdate="20181021T031557Z">
+        <seg>使用颜色编码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Use splash screen</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134931Z" creationid="LiarOnce" creationdate="20181020T134931Z">
@@ -1098,6 +1170,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043033Z" creationid="LiarOnce" creationdate="20181014T043033Z">
         <seg>(或应用中的代码，如果使用验证程序应用程序)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Restart Required)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031254Z" creationid="LiarOnce" creationdate="20181021T031254Z">
+        <seg>(需要重新启动)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1998,6 +2078,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allow c&amp;ursor beyond end of line</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032018Z" creationid="LiarOnce" creationdate="20181021T032018Z">
+        <seg>允许光标超出行尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow cursor to move beyond the end of the line</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032020Z" creationid="LiarOnce" creationdate="20181021T032020Z">
+        <seg>允许光标移动到行尾之外</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allow internet access</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025207Z" creationid="LiarOnce" creationdate="20181021T025207Z">
@@ -2074,6 +2170,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134507Z" creationid="LiarOnce" creationdate="20181020T134507Z">
         <seg>允许用户切换全屏模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allows you to manually set the target IP for the debugger</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032039Z" creationid="LiarOnce" creationdate="20181021T032039Z">
+        <seg>允许您手动设置调试器的目标 IP</seg>
       </tuv>
     </tu>
     <tu>
@@ -2594,6 +2698,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134955Z" creationid="LiarOnce" creationdate="20181020T134955Z">
         <seg>自动检测</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automatic indentation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031439Z" creationid="LiarOnce" creationdate="20181021T031439Z">
+        <seg>自动缩进</seg>
       </tuv>
     </tu>
     <tu>
@@ -3134,6 +3246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>C&amp;hange</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031542Z" creationid="LiarOnce" creationdate="20181021T031542Z">
+        <seg>更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>C&amp;lear</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142444Z" creationid="LiarOnce" creationdate="20181007T142444Z">
@@ -3374,6 +3494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change font used in Code Editors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031606Z" creationid="LiarOnce" creationdate="20181021T031606Z">
+        <seg>更改代码编辑器中使用的字体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change how opaque or transparent the drawing colors must be</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T022811Z" creationid="LiarOnce" creationdate="20181014T022811Z">
@@ -3386,6 +3514,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T022923Z" creationid="LiarOnce" creationdate="20181014T022923Z">
         <seg>改变洋葱皮的透明程度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change selected colour</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031532Z" creationid="LiarOnce" creationdate="20181021T031532Z">
+        <seg>更改所选颜色</seg>
       </tuv>
     </tu>
     <tu>
@@ -3446,6 +3582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chec&amp;k code while typing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031627Z" creationid="LiarOnce" creationdate="20181021T031627Z">
+        <seg>键入时检查代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20161223T070554Z" creationid="deciia" creationdate="20161223T070554Z">
@@ -3498,6 +3642,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T085747Z" creationid="deciia" creationdate="20170103T085747Z">
         <seg>检查更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check code while typing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031623Z" creationid="LiarOnce" creationdate="20181021T031623Z">
+        <seg>键入时检查代码</seg>
       </tuv>
     </tu>
     <tu>
@@ -4126,6 +4278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031505Z" creationid="LiarOnce" creationdate="20181021T031505Z">
+        <seg>评论</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Comments</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T055323Z" creationid="deciia" creationdate="20170105T055323Z">
@@ -4202,6 +4362,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130438Z" creationid="LiarOnce" creationdate="20181013T130438Z">
         <seg>编译器标志（Flags）:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compiler Max Parallel jobs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031430Z" creationid="LiarOnce" creationdate="20181021T031430Z">
+        <seg>编译器最大并行作业数</seg>
       </tuv>
     </tu>
     <tu>
@@ -4298,6 +4466,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T133219Z" creationid="deciia" creationdate="20170103T133219Z">
         <seg>内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Control hover delay in opening groups on Resource Tree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031345Z" creationid="LiarOnce" creationdate="20181021T031345Z">
+        <seg>在资源树上打开组中控制悬停延迟</seg>
       </tuv>
     </tu>
     <tu>
@@ -4742,6 +4918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current Line</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031506Z" creationid="LiarOnce" creationdate="20181021T031506Z">
+        <seg>当前行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Current Version:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T103322Z" creationid="deciia" creationdate="20170105T103322Z">
@@ -4854,10 +5038,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Debugger Port</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031425Z" creationid="LiarOnce" creationdate="20181021T031425Z">
+        <seg>调试器端口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debugger manual IP entry</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032037Z" creationid="LiarOnce" creationdate="20181021T032037Z">
+        <seg>调试器手动 IP 条目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T051638Z" creationid="deciia" creationdate="20170104T051638Z">
         <seg>默认</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default TAB to select:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031233Z" creationid="LiarOnce" creationdate="20181021T031233Z">
+        <seg>默认选项卡选择:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5238,10 +5446,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Display minimap in room editor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031142Z" creationid="LiarOnce" creationdate="20181021T031142Z">
+        <seg>在房间编辑器中显示小地图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Display name</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T090413Z" creationid="deciia" creationdate="20170103T090413Z">
         <seg>显示名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display origin in sprite image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031225Z" creationid="LiarOnce" creationdate="20181021T031225Z">
+        <seg>在精灵图像中显示原点</seg>
       </tuv>
     </tu>
     <tu>
@@ -5646,6 +5870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enable BOLD on script keywords.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032029Z" creationid="LiarOnce" creationdate="20181021T032029Z">
+        <seg>在脚本关键字上启用粗体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable Flurry Analytics</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T100552Z" creationid="deciia" creationdate="20170105T100552Z">
@@ -5894,6 +6126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error Line Colour</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031511Z" creationid="LiarOnce" creationdate="20181021T031511Z">
+        <seg>报错行颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Errors</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052650Z" creationid="LiarOnce" creationdate="20181015T052650Z">
@@ -5946,6 +6186,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T052958Z" creationid="LiarOnce" creationdate="20181008T052958Z">
         <seg>导出资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export current colour scheme</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031548Z" creationid="LiarOnce" creationdate="20181021T031548Z">
+        <seg>导出当前配色方案</seg>
       </tuv>
     </tu>
     <tu>
@@ -6014,10 +6262,90 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>External Code Editor to use</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032106Z" creationid="LiarOnce" creationdate="20181021T032106Z">
+        <seg>要使用的外部代码编辑器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External Image Editor to use</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032050Z" creationid="LiarOnce" creationdate="20181021T032050Z">
+        <seg>要使用的外部图像编辑器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>External Name</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130305Z" creationid="LiarOnce" creationdate="20181013T130305Z">
         <seg>外部名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External SWF viewer to use</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032109Z" creationid="LiarOnce" creationdate="20181021T032109Z">
+        <seg>要使用的外部 SWF 查看器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External Sound Editor (MP3) to use</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032103Z" creationid="LiarOnce" creationdate="20181021T032103Z">
+        <seg>要使用的外部声音编辑器 (MP3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External Sound Editor (WAV) to use</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032101Z" creationid="LiarOnce" creationdate="20181021T032101Z">
+        <seg>要使用的外部声音编辑器 (WAV)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External Sound Player to use</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032105Z" creationid="LiarOnce" creationdate="20181021T032105Z">
+        <seg>使用外部声音播放器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External Spine Editor to use</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032132Z" creationid="LiarOnce" creationdate="20181021T032132Z">
+        <seg>要使用的外部 Spine 编辑器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External sound editor for MP3 and OGG files:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032056Z" creationid="LiarOnce" creationdate="20181021T032056Z">
+        <seg>MP3 和 OGG 文件的外部声音编辑器:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External sound editor for WAV files:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032055Z" creationid="LiarOnce" creationdate="20181021T032055Z">
+        <seg>WAV 文件的外部声音编辑器:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External sound player:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032059Z" creationid="LiarOnce" creationdate="20181021T032059Z">
+        <seg>外部声音播放器:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7042,6 +7370,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Group Undo operations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031436Z" creationid="LiarOnce" creationdate="20181021T031436Z">
+        <seg>组撤消操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HD Background Image (PIC1.PNG)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135903Z" creationid="LiarOnce" creationdate="20181020T135903Z">
@@ -7539,6 +7875,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Import colour scheme</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031555Z" creationid="LiarOnce" creationdate="20181021T031555Z">
+        <seg>导入配色方案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Import selected extension to Library</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130317Z" creationid="LiarOnce" creationdate="20181013T130317Z">
@@ -7679,6 +8023,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T143401Z" creationid="deciia" creationdate="20170106T161128Z">
         <seg>初始函数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initial Dela&amp;y (msec):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031423Z" creationid="LiarOnce" creationdate="20181021T031411Z">
+        <seg>初始延迟 (毫秒):</seg>
       </tuv>
     </tu>
     <tu>
@@ -8511,6 +8863,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T133637Z" creationid="deciia" creationdate="20170103T133637Z">
         <seg>行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line Changed Colour</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031513Z" creationid="LiarOnce" creationdate="20181021T031513Z">
+        <seg>换行颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line Number Background</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031515Z" creationid="LiarOnce" creationdate="20181021T031515Z">
+        <seg>行号背景</seg>
       </tuv>
     </tu>
     <tu>
@@ -9835,10 +10203,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Number of processors to use in compilation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032042Z" creationid="LiarOnce" creationdate="20181021T032042Z">
+        <seg>要在编译中使用的处理器数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Number of subimages: 1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043345Z" creationid="LiarOnce" creationdate="20181014T043345Z">
         <seg>子图像数量: 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of undo operations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032022Z" creationid="LiarOnce" creationdate="20181021T032022Z">
+        <seg>撤消操作数</seg>
       </tuv>
     </tu>
     <tu>
@@ -9879,6 +10263,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140349Z" creationid="LiarOnce" creationdate="20181007T140349Z">
         <seg>确定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Object Form</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031230Z" creationid="LiarOnce" creationdate="20181021T031230Z">
+        <seg>物体窗体</seg>
       </tuv>
     </tu>
     <tu>
@@ -9991,6 +10383,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043852Z" creationid="LiarOnce" creationdate="20181014T043852Z">
         <seg>打开文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Forms as Maximised by default.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031341Z" creationid="LiarOnce" creationdate="20181021T031341Z">
+        <seg>默认情况下, 打开窗体最大化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11455,6 +11855,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reset all colours to default</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031546Z" creationid="LiarOnce" creationdate="20181021T031546Z">
+        <seg>将所有颜色重置为默认值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resize</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170317T134604Z" creationid="deciia" creationdate="20161223T064916Z">
@@ -11495,6 +11903,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resource Tree Group Open/Close Hover Delay (ms)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031253Z" creationid="LiarOnce" creationdate="20181021T031253Z">
+        <seg>资源树组打开/关闭悬停延迟 (ms)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resources</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170402T100858Z" creationid="deciia" creationdate="20170102T075645Z">
@@ -11531,6 +11947,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044322Z" creationid="LiarOnce" creationdate="20181014T044322Z">
         <seg>恢复系数:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restore Resource Tree on empty search.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031348Z" creationid="LiarOnce" creationdate="20181021T031348Z">
+        <seg>在空搜索上还原资源树。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11807,6 +12231,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>S&amp;how the origin in the sprite image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031215Z" creationid="LiarOnce" creationdate="20181021T031215Z">
+        <seg>在精灵图像中显示原点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>S&amp;kew...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T030726Z" creationid="LiarOnce" creationdate="20181014T030726Z">
@@ -11819,6 +12251,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025722Z" creationid="LiarOnce" creationdate="20181021T025722Z">
         <seg>平滑曲线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SWF Viewer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032108Z" creationid="LiarOnce" creationdate="20181021T032108Z">
+        <seg>SWF 查看器</seg>
       </tuv>
     </tu>
     <tu>
@@ -12343,6 +12783,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selected Line Number</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031520Z" creationid="LiarOnce" creationdate="20181021T031520Z">
+        <seg>选定的行号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selected characters to copy from font</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130802Z" creationid="LiarOnce" creationdate="20181013T130802Z">
@@ -12673,6 +13121,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show &amp;function argument help</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031632Z" creationid="LiarOnce" creationdate="20181021T031632Z">
+        <seg>显示函数参数帮助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show &amp;line numbers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031503Z" creationid="LiarOnce" creationdate="20181021T031503Z">
+        <seg>显示行号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Big Resource Tree Icons</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030454Z" creationid="LiarOnce" creationdate="20181021T030454Z">
@@ -12723,8 +13187,8 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       <tuv lang="EN-US">
         <seg>Show Minimap in Room Editor</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031131Z" creationid="LiarOnce" creationdate="20181021T031131Z">
-        <seg>在房间编辑器中显示 Minimap</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031153Z" creationid="LiarOnce" creationdate="20181021T031131Z">
+        <seg>在房间编辑器中显示小地图</seg>
       </tuv>
     </tu>
     <tu>
@@ -12761,6 +13225,38 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show a&amp;uto-completion options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031458Z" creationid="LiarOnce" creationdate="20181021T031458Z">
+        <seg>显示自动完成选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show auto-complete</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031459Z" creationid="LiarOnce" creationdate="20181021T031459Z">
+        <seg>显示自动完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show code sni&amp;ppets with F2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031646Z" creationid="LiarOnce" creationdate="20181021T031646Z">
+        <seg>使用 F2 显示代码片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show code snippets with F2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031951Z" creationid="LiarOnce" creationdate="20181021T031951Z">
+        <seg>使用 F2 显示代码片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show collision mask</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043358Z" creationid="LiarOnce" creationdate="20181014T043358Z">
@@ -12793,10 +13289,42 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show fin&amp;d strings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031616Z" creationid="LiarOnce" creationdate="20181021T031616Z">
+        <seg>显示查找字符串</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show find strings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031614Z" creationid="LiarOnce" creationdate="20181021T031614Z">
+        <seg>显示查找字符串</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show function argument help</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031633Z" creationid="LiarOnce" creationdate="20181021T031633Z">
+        <seg>显示函数参数帮助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show help on GameMaker</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041810Z" creationid="LiarOnce" creationdate="20181014T041810Z">
         <seg>在 GameMaker 上显示帮助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show hints for actions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031242Z" creationid="LiarOnce" creationdate="20181021T031242Z">
+        <seg>显示操作提示</seg>
       </tuv>
     </tu>
     <tu>
@@ -12821,6 +13349,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T084229Z" creationid="deciia" creationdate="20180922T032648Z">
         <seg>显示行号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show matching &amp;brackets</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031954Z" creationid="LiarOnce" creationdate="20181021T031954Z">
+        <seg>显示匹配括号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show matching brackets</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032000Z" creationid="LiarOnce" creationdate="20181021T032000Z">
+        <seg>显示匹配的括号</seg>
       </tuv>
     </tu>
     <tu>
@@ -12993,6 +13537,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Smart &amp;tabs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031443Z" creationid="LiarOnce" creationdate="20181021T031443Z">
+        <seg>智能选项卡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Smooth</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T070901Z" creationid="deciia" creationdate="20170103T070901Z">
@@ -13081,6 +13633,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sound Editors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032054Z" creationid="LiarOnce" creationdate="20181021T032054Z">
+        <seg>声音编辑器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sounds</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051425Z" creationid="LiarOnce" creationdate="20181008T051425Z">
@@ -13157,6 +13717,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T051034Z" creationid="deciia" creationdate="20180922T051034Z">
         <seg>Spine 协议</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spine Editor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032117Z" creationid="LiarOnce" creationdate="20181021T032117Z">
+        <seg>Spine 编辑器</seg>
       </tuv>
     </tu>
     <tu>
@@ -13261,6 +13829,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180926T222250Z" creationid="36011" creationdate="20170112T032026Z">
         <seg>精灵编辑器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sprite Form</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031157Z" creationid="LiarOnce" creationdate="20181021T031157Z">
+        <seg>精灵形式</seg>
       </tuv>
     </tu>
     <tu>
@@ -13493,6 +14069,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041839Z" creationid="LiarOnce" creationdate="20181014T041839Z">
         <seg>切换到 Steam Play 模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Syntax Check (msec):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031427Z" creationid="LiarOnce" creationdate="20181021T031427Z">
+        <seg>语法检查 (毫秒):</seg>
       </tuv>
     </tu>
     <tu>
@@ -14233,6 +14817,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Toggle Smart Tabs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031444Z" creationid="LiarOnce" creationdate="20181021T031444Z">
+        <seg>切换智能选项卡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Toggle WVGA support</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135520Z" creationid="LiarOnce" creationdate="20181020T135520Z">
@@ -14489,6 +15081,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tooltip display time (msec):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031428Z" creationid="LiarOnce" creationdate="20181021T031428Z">
+        <seg>工具提示显示时间 (毫秒):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Top</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170215T151809Z" creationid="deciia" creationdate="20170215T151809Z">
@@ -14701,6 +15301,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T080444Z" creationid="deciia" creationdate="20170103T080444Z">
         <seg>更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update Delay (msec):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031414Z" creationid="LiarOnce" creationdate="20181021T031414Z">
+        <seg>更新延迟 (毫秒):</seg>
       </tuv>
     </tu>
     <tu>
@@ -14953,10 +15561,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use colour coded variables, function names, etc..</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031603Z" creationid="LiarOnce" creationdate="20181021T031603Z">
+        <seg>使用颜色编码变量、函数名称等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use exclusive or</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131031Z" creationid="LiarOnce" creationdate="20181013T131031Z">
         <seg>使用独占或</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use external image editor as default</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032052Z" creationid="LiarOnce" creationdate="20181021T032052Z">
+        <seg>使用外部图像编辑器作为默认值</seg>
       </tuv>
     </tu>
     <tu>
@@ -15644,6 +16268,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You must use a FONT where the BOLD characters are the same width as NON-BOLD characters, or you will get display errors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032034Z" creationid="LiarOnce" creationdate="20181021T032034Z">
+        <seg>您必须使用字体, 其中粗体字符的宽度与非粗体字符相同, 否则将会显示错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You will need to sign in before you can report bugs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123507Z" creationid="LiarOnce" creationdate="20181013T123507Z">
@@ -15696,6 +16328,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T102346Z" creationid="deciia" creationdate="20170103T102346Z">
         <seg>缩小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>delay before auto-complete appears</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032026Z" creationid="LiarOnce" creationdate="20181021T032026Z">
+        <seg>出现自动完成之前的延迟</seg>
       </tuv>
     </tu>
     <tu>
@@ -16028,6 +16668,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>number of character to indent</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032023Z" creationid="LiarOnce" creationdate="20181021T032023Z">
+        <seg>要缩进的字符数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>pixels</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T022320Z" creationid="deciia" creationdate="20170104T022320Z">
@@ -16056,6 +16704,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141642Z" creationid="LiarOnce" creationdate="20181007T141642Z">
         <seg>到音频组:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>which action tab to open on object properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031249Z" creationid="LiarOnce" creationdate="20181021T031249Z">
+        <seg>在物体属性上打开的操作选项卡</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
