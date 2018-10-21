@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Forms</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030918Z" creationid="LiarOnce" creationdate="20181021T030918Z">
+        <seg>表单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Full image</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043807Z" creationid="LiarOnce" creationdate="20181014T043807Z">
@@ -1038,6 +1046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;When closing, remove instances outside the room</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030923Z" creationid="LiarOnce" creationdate="20181021T030923Z">
+        <seg>关闭时, 删除房间外的实例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Window</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042223Z" creationid="LiarOnce" creationdate="20181014T042223Z">
@@ -1058,6 +1074,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052705Z" creationid="LiarOnce" creationdate="20181015T052705Z">
         <seg>将错误消息写入文件 game_errors.log</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Editor only)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031111Z" creationid="LiarOnce" creationdate="20181021T031111Z">
+        <seg>(仅限编辑器)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1310,6 +1334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A restart will be required for this to work properly.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030821Z" creationid="LiarOnce" creationdate="20181021T030821Z">
+        <seg>必须重新启动才能正常工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A unique ID for your extension</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130416Z" creationid="LiarOnce" creationdate="20181013T130416Z">
@@ -1554,6 +1586,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051003Z" creationid="LiarOnce" creationdate="20181015T051003Z">
         <seg>向图像添加轮廓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add config and cersion to created executable</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030809Z" creationid="LiarOnce" creationdate="20181021T030809Z">
+        <seg>将配置和 cersion 添加到创建的可执行文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add config and version to filename on create executable</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030804Z" creationid="LiarOnce" creationdate="20181021T030804Z">
+        <seg>在创建可执行文件时向文件名添加配置和版本</seg>
       </tuv>
     </tu>
     <tu>
@@ -2094,10 +2142,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Always reload changed files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030736Z" creationid="LiarOnce" creationdate="20181021T030736Z">
+        <seg>始终重新加载已更改的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Always stay on top</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131531Z" creationid="LiarOnce" creationdate="20181013T131531Z">
         <seg>始终保持在顶部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Amount of Backups to store</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030545Z" creationid="LiarOnce" creationdate="20181021T030545Z">
+        <seg>要存储的备份量</seg>
       </tuv>
     </tu>
     <tu>
@@ -2534,6 +2598,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatically clean Temp Data on Shutdown</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030825Z" creationid="LiarOnce" creationdate="20181021T030825Z">
+        <seg>在关机时自动清除温度数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automatically increase build number</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030752Z" creationid="LiarOnce" creationdate="20181021T030752Z">
+        <seg>自动增加内部版本号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Available Extensions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130253Z" creationid="LiarOnce" creationdate="20181013T130253Z">
@@ -2666,6 +2746,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044954Z" creationid="LiarOnce" creationdate="20181008T044954Z">
         <seg>步开始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Big Resource Tree Icons (A restart will be required)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030452Z" creationid="LiarOnce" creationdate="20181021T030452Z">
+        <seg>大资源树图标 (需要重新启动)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3558,6 +3646,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clear Asset Cache</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030824Z" creationid="LiarOnce" creationdate="20181021T030824Z">
+        <seg>清除资产缓存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear Backup Data</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030827Z" creationid="LiarOnce" creationdate="20181021T030827Z">
+        <seg>清除备份数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear Temp Data</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030822Z" creationid="LiarOnce" creationdate="20181021T030822Z">
+        <seg>清除 Temp 数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clear all the macros</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124950Z" creationid="LiarOnce" creationdate="20181013T124937Z">
@@ -3618,6 +3730,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052027Z" creationid="LiarOnce" creationdate="20181015T052027Z">
         <seg>单击可更改颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to change colour.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030922Z" creationid="LiarOnce" creationdate="20181021T030922Z">
+        <seg>单击可更改颜色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3754,6 +3874,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T045720Z" creationid="deciia" creationdate="20170104T045720Z">
         <seg>关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close compile form after execution</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030455Z" creationid="LiarOnce" creationdate="20181021T030455Z">
+        <seg>执行后关闭编译表单</seg>
       </tuv>
     </tu>
     <tu>
@@ -4782,6 +4910,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete from disk when deleting from resources tree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030208Z" creationid="LiarOnce" creationdate="20181021T030208Z">
+        <seg>从资源树中删除时从磁盘中删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete from resource tree deletes from disk</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030448Z" creationid="LiarOnce" creationdate="20181021T030158Z">
+        <seg>从磁盘删除资源树删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete last point</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052554Z" creationid="LiarOnce" creationdate="20181015T052554Z">
@@ -5014,6 +5158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disable Thumbnail Icon Generation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030900Z" creationid="LiarOnce" creationdate="20181021T030900Z">
+        <seg>禁用缩略图图标生成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disabled</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T065842Z" creationid="deciia" creationdate="20170104T065830Z">
@@ -5078,6 +5230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Display grid by default</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031039Z" creationid="LiarOnce" creationdate="20181021T031039Z">
+        <seg>默认显示网格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Display name</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T090413Z" creationid="deciia" creationdate="20170103T090413Z">
@@ -5098,6 +5258,38 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130300Z" creationid="LiarOnce" creationdate="20181013T130300Z">
         <seg>显示所选包的帮助文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not launch game in fullscreen (overrides game setting)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030738Z" creationid="LiarOnce" creationdate="20181021T030738Z">
+        <seg>不要在全屏启动游戏 (覆盖游戏设置)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not prompt on closing code editor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030549Z" creationid="LiarOnce" creationdate="20181021T030549Z">
+        <seg>关闭代码编辑器时不提示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not show YoYo Games logo on main form</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030516Z" creationid="LiarOnce" creationdate="20181021T030516Z">
+        <seg>不要在主窗体上显示 YoYo Games 徽标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not show prompt on closing code editor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030621Z" creationid="LiarOnce" creationdate="20181021T030548Z">
+        <seg>关闭代码编辑器时不显示提示</seg>
       </tuv>
     </tu>
     <tu>
@@ -5518,6 +5710,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enable Pop Out Windows (A restart will be required)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030818Z" creationid="LiarOnce" creationdate="20181021T030818Z">
+        <seg>启用弹出窗口 (需要重新启动)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Pop Out Windows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030819Z" creationid="LiarOnce" creationdate="20181021T030819Z">
+        <seg>启用弹出窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable Purchase Server</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025516Z" creationid="LiarOnce" creationdate="20181021T025516Z">
@@ -5554,6 +5762,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T065847Z" creationid="deciia" creationdate="20170105T065800Z">
         <seg>启用 Steam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable backup on run/debug/create</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030829Z" creationid="LiarOnce" creationdate="20181021T030829Z">
+        <seg>在运行/调试/创建时启用备份</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable backup on save</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030543Z" creationid="LiarOnce" creationdate="20181021T030543Z">
+        <seg>在保存时启用备份</seg>
       </tuv>
     </tu>
     <tu>
@@ -5982,6 +6206,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fill room with color when no background color selected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031050Z" creationid="LiarOnce" creationdate="20181021T031050Z">
+        <seg>如果未选择背景颜色，请填充颜色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fill room with selected colour when no background colour selected</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031119Z" creationid="LiarOnce" creationdate="20181021T031119Z">
+        <seg>如果未选择背景颜色，请选择所选颜色的房间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Filled Only</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023107Z" creationid="LiarOnce" creationdate="20181014T023107Z">
@@ -6258,6 +6498,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051523Z" creationid="LiarOnce" creationdate="20181008T051523Z">
         <seg>字体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Force launching in windowed mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030750Z" creationid="LiarOnce" creationdate="20181021T030742Z">
+        <seg>强制在窗口模式下启动</seg>
       </tuv>
     </tu>
     <tu>
@@ -8363,6 +8611,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>List of skins</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030123Z" creationid="LiarOnce" creationdate="20181021T030123Z">
+        <seg>外观列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>List of sounds in selected Audio Group</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090214Z" creationid="LiarOnce" creationdate="20181020T090214Z">
@@ -8455,6 +8711,38 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T080941Z" creationid="deciia" creationdate="20170105T080941Z">
         <seg>位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Location of Asset Cache</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030816Z" creationid="LiarOnce" creationdate="20181021T030816Z">
+        <seg>资产缓存的位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Location of Backup directory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030539Z" creationid="LiarOnce" creationdate="20181021T030539Z">
+        <seg>备份目录的位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Location of Home Directory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030832Z" creationid="LiarOnce" creationdate="20181021T030832Z">
+        <seg>主目录的位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Location of Temp directory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030901Z" creationid="LiarOnce" creationdate="20181021T030901Z">
+        <seg>临时目录的位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -9715,6 +10003,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open Properties on Duplicate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030858Z" creationid="LiarOnce" creationdate="20181021T030830Z">
+        <seg>在复制时打开属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open Tutorial Panel</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042652Z" creationid="LiarOnce" creationdate="20181014T042652Z">
@@ -10679,6 +10975,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>R&amp;emember room settings when closing the form</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031023Z" creationid="LiarOnce" creationdate="20181021T031023Z">
+        <seg>关闭表单时重新设置房间设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>R&amp;un</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042449Z" creationid="LiarOnce" creationdate="20181014T042449Z">
@@ -10879,6 +11183,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remember room settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031025Z" creationid="LiarOnce" creationdate="20181021T031025Z">
+        <seg>记住房间设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T052936Z" creationid="LiarOnce" creationdate="20181008T052936Z">
@@ -10899,6 +11211,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051942Z" creationid="LiarOnce" creationdate="20181015T051942Z">
         <seg>删除实例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove outside instances from room</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030924Z" creationid="LiarOnce" creationdate="20181021T030924Z">
+        <seg>从房间中删除外部实例</seg>
       </tuv>
     </tu>
     <tu>
@@ -11331,6 +11651,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043744Z" creationid="LiarOnce" creationdate="20181014T043744Z">
         <seg>边界框最右侧的坐标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Room Form</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030920Z" creationid="LiarOnce" creationdate="20181021T030920Z">
+        <seg>房间形式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Room Grid ON by default</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031037Z" creationid="LiarOnce" creationdate="20181021T031037Z">
+        <seg>Room Grid 默认为 ON</seg>
       </tuv>
     </tu>
     <tu>
@@ -12337,6 +12673,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show Big Resource Tree Icons</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030454Z" creationid="LiarOnce" creationdate="20181021T030454Z">
+        <seg>显示大资源树图标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Built-in &amp;Functions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042334Z" creationid="LiarOnce" creationdate="20181014T042334Z">
@@ -12353,6 +12697,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show Filter Tree options on main form</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030915Z" creationid="LiarOnce" creationdate="20181021T030915Z">
+        <seg>在主窗体上显示“过滤树”选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Key Hash</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T081110Z" creationid="deciia" creationdate="20170105T081110Z">
@@ -12365,6 +12717,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042920Z" creationid="LiarOnce" creationdate="20181014T042920Z">
         <seg>显示日志</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Minimap in Room Editor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031131Z" creationid="LiarOnce" creationdate="20181021T031131Z">
+        <seg>在房间编辑器中显示 Minimap</seg>
       </tuv>
     </tu>
     <tu>
@@ -12409,6 +12769,30 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show commands in compile window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030551Z" creationid="LiarOnce" creationdate="20181021T030551Z">
+        <seg>在编译窗口中显示命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show commands with verbose flag</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030556Z" creationid="LiarOnce" creationdate="20181021T030556Z">
+        <seg>显示带有详细标志的命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show compile form on startup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030811Z" creationid="LiarOnce" creationdate="20181021T030811Z">
+        <seg>启动时显示编译表单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show help on GameMaker</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041810Z" creationid="LiarOnce" creationdate="20181014T041810Z">
@@ -12445,6 +12829,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030119Z" creationid="LiarOnce" creationdate="20181021T030119Z">
         <seg>在默认浏览器中显示新闻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show news in default browser</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030121Z" creationid="LiarOnce" creationdate="20181021T030121Z">
+        <seg>在默认浏览器中显示新闻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show news on startup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030502Z" creationid="LiarOnce" creationdate="20181021T030502Z">
+        <seg>启动时显示新闻</seg>
       </tuv>
     </tu>
     <tu>
@@ -12501,6 +12901,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131517Z" creationid="LiarOnce" creationdate="20181013T131517Z">
         <seg>显示窗口边框和标题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show&amp; &amp;news on startup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030500Z" creationid="LiarOnce" creationdate="20181021T030500Z">
+        <seg>启动时的显示新闻</seg>
       </tuv>
     </tu>
     <tu>
@@ -13933,6 +14341,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134447Z" creationid="LiarOnce" creationdate="20181020T134447Z">
         <seg>在全屏模式下切换菜单和停靠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle resource scoping on resource tree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030836Z" creationid="LiarOnce" creationdate="20181021T030836Z">
+        <seg>在资源树上切换资源范围</seg>
       </tuv>
     </tu>
     <tu>
