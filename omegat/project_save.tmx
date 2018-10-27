@@ -1206,6 +1206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082333Z" creationid="LiarOnce" creationdate="20181027T082333Z">
+        <seg>设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Editor only)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031111Z" creationid="LiarOnce" creationdate="20181021T031111Z">
@@ -1458,6 +1466,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025859Z" creationid="LiarOnce" creationdate="20181021T025859Z">
         <seg>&lt; 选择房间背景 &gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;select and move&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082231Z" creationid="LiarOnce" creationdate="20181027T082231Z">
+        <seg>&lt;选择并移动&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2262,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alpha Value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082314Z" creationid="LiarOnce" creationdate="20181027T082314Z">
+        <seg>Alpha 值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also indicate information about your machine and the version of windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123543Z" creationid="LiarOnce" creationdate="20181013T123543Z">
@@ -2330,6 +2354,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030545Z" creationid="LiarOnce" creationdate="20181021T030545Z">
         <seg>要存储的备份量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Amount to Rotate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082317Z" creationid="LiarOnce" creationdate="20181027T082317Z">
+        <seg>要旋转的量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Amount to Scale in Y</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082318Z" creationid="LiarOnce" creationdate="20181027T082318Z">
+        <seg>在 Y 中缩放的量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Amount to scale in X</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082324Z" creationid="LiarOnce" creationdate="20181027T082324Z">
+        <seg>在 X 中缩放的量</seg>
       </tuv>
     </tu>
     <tu>
@@ -5038,6 +5086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current object to be added to the room</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082236Z" creationid="LiarOnce" creationdate="20181027T082236Z">
+        <seg>要添加到房间中的当前对象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cut</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T091819Z" creationid="deciia" creationdate="20170102T091819Z">
@@ -5290,6 +5346,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051301Z" creationid="LiarOnce" creationdate="20181015T051301Z">
         <seg>删除所选内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete underlying</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082304Z" creationid="LiarOnce" creationdate="20181027T082304Z">
+        <seg>删除基础</seg>
       </tuv>
     </tu>
     <tu>
@@ -7582,6 +7646,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121233Z" creationid="LiarOnce" creationdate="20181013T121233Z">
         <seg>平铺高度 (以像素为单位)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Height of the room in pixels</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082347Z" creationid="LiarOnce" creationdate="20181027T082347Z">
+        <seg>房间的高度 (以像素为单位)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12535,6 +12607,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>S&amp;peed:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082343Z" creationid="LiarOnce" creationdate="20181027T082338Z">
+        <seg>速度:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SWF Viewer</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032108Z" creationid="LiarOnce" creationdate="20181021T032108Z">
@@ -13067,6 +13147,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031520Z" creationid="LiarOnce" creationdate="20181021T031520Z">
         <seg>选定的行号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected Object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082312Z" creationid="LiarOnce" creationdate="20181027T082312Z">
+        <seg>选定的物体</seg>
       </tuv>
     </tu>
     <tu>
@@ -14701,6 +14789,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130414Z" creationid="LiarOnce" creationdate="20181013T130414Z">
         <seg>扩展名的名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number of steps per second</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082426Z" creationid="LiarOnce" creationdate="20181027T082426Z">
+        <seg>每秒步骤数</seg>
       </tuv>
     </tu>
     <tu>
@@ -16372,6 +16468,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When adding an instance, delete the current instance at the same position</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082307Z" creationid="LiarOnce" creationdate="20181027T082307Z">
+        <seg>添加实例时, 在同一位置删除当前实例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the game was last changed</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090248Z" creationid="LiarOnce" creationdate="20181020T090248Z">
@@ -16488,6 +16592,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121244Z" creationid="LiarOnce" creationdate="20181013T121244Z">
         <seg>平铺宽度 (以像素为单位)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Width of the room in pixels</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082345Z" creationid="LiarOnce" creationdate="20181027T082345Z">
+        <seg>房间宽度 (以像素为单位)</seg>
       </tuv>
     </tu>
     <tu>
