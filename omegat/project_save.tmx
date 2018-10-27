@@ -1214,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;tiles</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082555Z" creationid="LiarOnce" creationdate="20181027T082555Z">
+        <seg>图块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Editor only)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031111Z" creationid="LiarOnce" creationdate="20181021T031111Z">
@@ -1250,6 +1258,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123613Z" creationid="LiarOnce" creationdate="20181013T123613Z">
         <seg>(您还可以单击原始图像以更改此)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>+ &lt;Alt&gt; = no snap resize</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082615Z" creationid="LiarOnce" creationdate="20181027T082615Z">
+        <seg>+ &lt;Alt&gt; = 无捕捉调整大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>+ &lt;Ctrl&gt; = resize selection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082614Z" creationid="LiarOnce" creationdate="20181027T082614Z">
+        <seg>+ &lt;Ctrl&gt; = 调整选区大小</seg>
       </tuv>
     </tu>
     <tu>
@@ -3406,6 +3430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>C&amp;reation code</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082443Z" creationid="LiarOnce" creationdate="20181027T082443Z">
+        <seg>创建时代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>C&amp;ut Event</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052446Z" creationid="LiarOnce" creationdate="20181015T052446Z">
@@ -3926,6 +3958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clear Display Buffer with Window Colour</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082551Z" creationid="LiarOnce" creationdate="20181027T082551Z">
+        <seg>透明显示缓冲器, 带窗口颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clear Temp Data</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030822Z" creationid="LiarOnce" creationdate="20181021T030822Z">
@@ -3938,6 +3978,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124950Z" creationid="LiarOnce" creationdate="20181013T124937Z">
         <seg>清除所有宏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear display buffer with window colour</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082553Z" creationid="LiarOnce" creationdate="20181027T082553Z">
+        <seg>透明显示缓冲器, 带窗口颜色</seg>
       </tuv>
     </tu>
     <tu>
@@ -4074,6 +4122,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023211Z" creationid="LiarOnce" creationdate="20181014T023211Z">
         <seg>单击以更改填充的公差</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to choose a tile set</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082604Z" creationid="LiarOnce" creationdate="20181027T082604Z">
+        <seg>单击以选择图块集</seg>
       </tuv>
     </tu>
     <tu>
@@ -5062,6 +5118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current Tile Layer:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082606Z" creationid="LiarOnce" creationdate="20181027T082606Z">
+        <seg>当前切片图层:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Current Version:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T103322Z" creationid="deciia" creationdate="20170105T103322Z">
@@ -5090,6 +5154,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082236Z" creationid="LiarOnce" creationdate="20181027T082236Z">
         <seg>要添加到房间中的当前对象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Currently choosen tile set</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082735Z" creationid="LiarOnce" creationdate="20181027T082735Z">
+        <seg>当前所选用的图块集</seg>
       </tuv>
     </tu>
     <tu>
@@ -8083,6 +8155,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In tile selection:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082608Z" creationid="LiarOnce" creationdate="20181027T082608Z">
+        <seg>在平铺选择中:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In&amp;vert...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T031450Z" creationid="LiarOnce" creationdate="20181014T031450Z">
@@ -8955,6 +9035,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Left Mouse Button = select tile</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082610Z" creationid="LiarOnce" creationdate="20181027T082610Z">
+        <seg>鼠标左键 = 选择磁贴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Left Position of Help Window</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131455Z" creationid="LiarOnce" creationdate="20181013T131455Z">
@@ -9703,6 +9791,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044530Z" creationid="LiarOnce" creationdate="20181014T044530Z">
         <seg>修改碰撞形状</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modify the creation order of the instances in this room</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082546Z" creationid="LiarOnce" creationdate="20181027T082546Z">
+        <seg>修改此房间中实例的创建顺序</seg>
       </tuv>
     </tu>
     <tu>
@@ -10967,6 +11063,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125622Z" creationid="LiarOnce" creationdate="20181013T125622Z">
         <seg>离开视野 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>P&amp;ersistent</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082438Z" creationid="LiarOnce" creationdate="20181027T082438Z">
+        <seg>精度</seg>
       </tuv>
     </tu>
     <tu>
@@ -14081,6 +14185,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specify code to be executed when the room is created</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082452Z" creationid="LiarOnce" creationdate="20181027T082452Z">
+        <seg>指定创建房间时要执行的代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specify the bounding box yourself</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043803Z" creationid="LiarOnce" creationdate="20181014T043803Z">
@@ -14781,6 +14893,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025713Z" creationid="LiarOnce" creationdate="20181021T025713Z">
         <seg>路径的名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The name of the room</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082429Z" creationid="LiarOnce" creationdate="20181027T082429Z">
+        <seg>房间的名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -16488,6 +16608,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134456Z" creationid="LiarOnce" creationdate="20181020T134456Z">
         <seg>应用保存文件的位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether the instances will be persistent when returning to the room</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082440Z" creationid="LiarOnce" creationdate="20181027T082440Z">
+        <seg>返回房间时, 实例是否会持久化</seg>
       </tuv>
     </tu>
     <tu>
