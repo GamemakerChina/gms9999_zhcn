@@ -1550,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>159x159</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091727Z" creationid="LiarOnce" creationdate="20181028T091727Z">
+        <seg>159x159</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>16</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T085439Z" creationid="LiarOnce" creationdate="20181028T085439Z">
@@ -1662,6 +1670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>336x336</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091730Z" creationid="LiarOnce" creationdate="20181028T091730Z">
+        <seg>336x336</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3rd Party Frameworks + Bundles (Check for weak ref)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130507Z" creationid="LiarOnce" creationdate="20181013T130507Z">
@@ -1690,6 +1706,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170316T114734Z" creationid="36011" creationdate="20170316T114734Z">
         <seg>4096×4096</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>480x800</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091722Z" creationid="LiarOnce" creationdate="20181028T091722Z">
+        <seg>480x800</seg>
       </tuv>
     </tu>
     <tu>
@@ -1758,6 +1782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>691x336</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091728Z" creationid="LiarOnce" creationdate="20181028T091728Z">
+        <seg>691x336</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>7</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090248Z" creationid="LiarOnce" creationdate="20181028T090248Z">
@@ -1770,6 +1802,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T065336Z" creationid="deciia" creationdate="20170104T065336Z">
         <seg>7 秒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>720p</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091715Z" creationid="LiarOnce" creationdate="20181028T091715Z">
+        <seg>720p</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>720x1280</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091721Z" creationid="LiarOnce" creationdate="20181028T091721Z">
+        <seg>720x1280</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>768x1280</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091720Z" creationid="LiarOnce" creationdate="20181028T091720Z">
+        <seg>768x1280</seg>
       </tuv>
     </tu>
     <tu>
@@ -1842,6 +1898,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134854Z" creationid="LiarOnce" creationdate="20181007T134854Z">
         <seg>90 度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>99x99</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091720Z" creationid="LiarOnce" creationdate="20181028T091720Z">
+        <seg>99x99</seg>
       </tuv>
     </tu>
     <tu>
@@ -6614,6 +6678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Developer Tools : public.app-category.developer-tools</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091543Z" creationid="LiarOnce" creationdate="20181028T091543Z">
+        <seg>Developer Tools : public.app-category.developer-tools</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Developer link</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T021221Z" creationid="LiarOnce" creationdate="20181021T021221Z">
@@ -6666,6 +6738,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143109Z" creationid="LiarOnce" creationdate="20181007T143109Z">
         <seg>对话框</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dice Games : public.app-category.dice-games</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091544Z" creationid="LiarOnce" creationdate="20181028T091544Z">
+        <seg>Dice Games : public.app-category.dice-games</seg>
       </tuv>
     </tu>
     <tu>
@@ -7158,6 +7238,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Education :public.app-category.education</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091545Z" creationid="LiarOnce" creationdate="20181028T091545Z">
+        <seg>Education :public.app-category.education</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Educational Games : public.app-category.educational-games</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091547Z" creationid="LiarOnce" creationdate="20181028T091547Z">
+        <seg>Educational Games : public.app-category.educational-games</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>El Capitan requires apps to be signed in order to run them.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134746Z" creationid="LiarOnce" creationdate="20181020T134746Z">
@@ -7418,6 +7514,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043035Z" creationid="LiarOnce" creationdate="20181014T043035Z">
         <seg>在此处输入代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Entertainment : public.app-category.entertainment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091548Z" creationid="LiarOnce" creationdate="20181028T091548Z">
+        <seg>Entertainment : public.app-category.entertainment</seg>
       </tuv>
     </tu>
     <tu>
@@ -7846,6 +7950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Family Games : public.app-category.family-games</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091549Z" creationid="LiarOnce" creationdate="20181028T091549Z">
+        <seg>Family Games : public.app-category.family-games</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fast</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T064852Z" creationid="deciia" creationdate="20170104T064852Z">
@@ -8026,6 +8138,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T143356Z" creationid="deciia" creationdate="20170106T161216Z">
         <seg>终结函数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finance : public.app-category.finance</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091550Z" creationid="LiarOnce" creationdate="20181028T091550Z">
+        <seg>Finance : public.app-category.finance</seg>
       </tuv>
     </tu>
     <tu>
@@ -8638,6 +8758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Games : public.app-category.games</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091551Z" creationid="LiarOnce" creationdate="20181028T091551Z">
+        <seg>Games : public.app-category.games</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091456Z" creationid="LiarOnce" creationdate="20181008T052840Z">
@@ -8826,6 +8954,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Graphics &amp; Design : public.app-category.graphics-design</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091553Z" creationid="LiarOnce" creationdate="20181028T091553Z">
+        <seg>Graphics &amp; Design : public.app-category.graphics-design</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Grid</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T074429Z" creationid="deciia" creationdate="20170102T074429Z">
@@ -8862,6 +8998,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135903Z" creationid="LiarOnce" creationdate="20181020T135903Z">
         <seg>高清背景图像 (PIC1.PNG)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091625Z" creationid="LiarOnce" creationdate="20181028T091625Z">
+        <seg>HTML5</seg>
       </tuv>
     </tu>
     <tu>
@@ -8966,6 +9110,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090751Z" creationid="LiarOnce" creationdate="20181020T090751Z">
         <seg>页眉:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Healthcare &amp; Fitness : public.app-category.healthcare-fitness</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091554Z" creationid="LiarOnce" creationdate="20181028T091554Z">
+        <seg>Healthcare &amp; Fitness : public.app-category.healthcare-fitness</seg>
       </tuv>
     </tu>
     <tu>
@@ -9175,6 +9327,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090429Z" creationid="LiarOnce" creationdate="20181028T090429Z">
         <seg>IAP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ID_CAP_MICROPHONE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091717Z" creationid="LiarOnce" creationdate="20181028T091717Z">
+        <seg>ID_CAP_MICROPHONE</seg>
       </tuv>
     </tu>
     <tu>
@@ -10187,6 +10347,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kids Games : public.app-category.kids-games</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091555Z" creationid="LiarOnce" creationdate="20181028T091555Z">
+        <seg>Kids Games : public.app-category.kids-games</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kind:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140317Z" creationid="LiarOnce" creationdate="20181007T140317Z">
@@ -10551,6 +10719,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091233Z" creationid="LiarOnce" creationdate="20181028T091233Z">
         <seg>LicensesEdit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lifestyle : public.app-category.lifestyle</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091557Z" creationid="LiarOnce" creationdate="20181028T091557Z">
+        <seg>Lifestyle : public.app-category.lifestyle</seg>
       </tuv>
     </tu>
     <tu>
@@ -11051,6 +11227,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Medical : public.app-category.medical</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091558Z" creationid="LiarOnce" creationdate="20181028T091558Z">
+        <seg>Medical : public.app-category.medical</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Medium</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170219T010227Z" creationid="deciia" creationdate="20170219T010227Z">
@@ -11547,6 +11731,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Music : public.app-category.music</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091559Z" creationid="LiarOnce" creationdate="20181028T091559Z">
+        <seg>Music : public.app-category.music</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Music Games : public.app-category.music-games</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091600Z" creationid="LiarOnce" creationdate="20181028T091600Z">
+        <seg>Music Games : public.app-category.music-games</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>My &amp;Library</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042517Z" creationid="LiarOnce" creationdate="20181014T042517Z">
@@ -11855,6 +12055,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T075702Z" creationid="deciia" creationdate="20170102T075702Z">
         <seg>新闻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>News : public.app-category.news</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091602Z" creationid="LiarOnce" creationdate="20181028T091602Z">
+        <seg>News : public.app-category.news</seg>
       </tuv>
     </tu>
     <tu>
@@ -12789,6 +12997,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Photography : public.app-category.photography</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091603Z" creationid="LiarOnce" creationdate="20181028T091603Z">
+        <seg>Photography : public.app-category.photography</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Physics</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T103021Z" creationid="deciia" creationdate="20170103T103021Z">
@@ -13165,6 +13381,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Productivity: public.app-category.productivity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091604Z" creationid="LiarOnce" creationdate="20181028T091604Z">
+        <seg>Productivity: public.app-category.productivity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Project Directory</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043904Z" creationid="LiarOnce" creationdate="20181014T043904Z">
@@ -13295,6 +13519,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Puzzle Games : public.app-category.puzzle-games</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091605Z" creationid="LiarOnce" creationdate="20181028T091605Z">
+        <seg>Puzzle Games : public.app-category.puzzle-games</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Q</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090329Z" creationid="LiarOnce" creationdate="20181028T090329Z">
@@ -13363,6 +13595,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091222Z" creationid="LiarOnce" creationdate="20181028T091222Z">
         <seg>RSSDemoDescription</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Racing Games : public.app-category.racing-games</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091606Z" creationid="LiarOnce" creationdate="20181028T091606Z">
+        <seg>Racing Games : public.app-category.racing-games</seg>
       </tuv>
     </tu>
     <tu>
@@ -13475,6 +13715,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140646Z" creationid="LiarOnce" creationdate="20181007T140646Z">
         <seg>重做</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reference : public.app-category.reference</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091607Z" creationid="LiarOnce" creationdate="20181028T091607Z">
+        <seg>Reference : public.app-category.reference</seg>
       </tuv>
     </tu>
     <tu>
@@ -14067,6 +14315,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043744Z" creationid="LiarOnce" creationdate="20181014T043744Z">
         <seg>边界框最右侧的坐标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Role Playing Games : public.app-category.role-playing-games</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091608Z" creationid="LiarOnce" creationdate="20181028T091608Z">
+        <seg>Role Playing Games : public.app-category.role-playing-games</seg>
       </tuv>
     </tu>
     <tu>
@@ -15761,6 +16017,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Simulation Games : public.app-category.simulation-games</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091609Z" creationid="LiarOnce" creationdate="20181028T091609Z">
+        <seg>Simulation Games : public.app-category.simulation-games</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Size</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T071551Z" creationid="deciia" creationdate="20170102T071551Z">
@@ -15869,6 +16133,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170320T144136Z" creationid="deciia" creationdate="20170313T005835Z">
         <seg>社交（Social）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Social Networking : public.app-category.social-networking</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091611Z" creationid="LiarOnce" creationdate="20181028T091611Z">
+        <seg>Social Networking : public.app-category.social-networking</seg>
       </tuv>
     </tu>
     <tu>
@@ -16069,6 +16341,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025008Z" creationid="LiarOnce" creationdate="20181021T025008Z">
         <seg>启动画面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sports : public.app-category.sports</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091612Z" creationid="LiarOnce" creationdate="20181028T091612Z">
+        <seg>Sports : public.app-category.sports</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sports Games : public.app-category.sports-games</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091613Z" creationid="LiarOnce" creationdate="20181028T091613Z">
+        <seg>Sports Games : public.app-category.sports-games</seg>
       </tuv>
     </tu>
     <tu>
@@ -16277,6 +16565,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023233Z" creationid="LiarOnce" creationdate="20181014T023233Z">
         <seg>直线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strategy Games : public.app-category.strategy-games</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091614Z" creationid="LiarOnce" creationdate="20181028T091614Z">
+        <seg>Strategy Games : public.app-category.strategy-games</seg>
       </tuv>
     </tu>
     <tu>
@@ -17505,6 +17801,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Travel : public.app-category.travel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091615Z" creationid="LiarOnce" creationdate="20181028T091615Z">
+        <seg>Travel : public.app-category.travel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Trigger Events</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143307Z" creationid="LiarOnce" creationdate="20181007T143307Z">
@@ -17517,6 +17821,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T024027Z" creationid="LiarOnce" creationdate="20181014T024027Z">
         <seg>修剪图像以移除周围的透明空间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trivia Games : public.app-category.trivia-games</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091616Z" creationid="LiarOnce" creationdate="20181028T091616Z">
+        <seg>Trivia Games : public.app-category.trivia-games</seg>
       </tuv>
     </tu>
     <tu>
@@ -18161,6 +18473,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Utilities : public.app-category.utilities</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091617Z" creationid="LiarOnce" creationdate="20181028T091617Z">
+        <seg>Utilities : public.app-category.utilities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>V</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090337Z" creationid="LiarOnce" creationdate="20181028T090337Z">
@@ -18348,6 +18668,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Video : public.app-category.video</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091618Z" creationid="LiarOnce" creationdate="20181028T091618Z">
+        <seg>Video : public.app-category.video</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ViewCenterButton</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091349Z" creationid="LiarOnce" creationdate="20181028T091349Z">
@@ -18468,6 +18796,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Weather : public.app-category.weather</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091619Z" creationid="LiarOnce" creationdate="20181028T091619Z">
+        <seg>Weather : public.app-category.weather</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Web Browser Location</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032141Z" creationid="LiarOnce" creationdate="20181021T032141Z">
@@ -18496,6 +18832,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032139Z" creationid="LiarOnce" creationdate="20181021T032139Z">
         <seg>Web 服务器端口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WebGL</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091636Z" creationid="LiarOnce" creationdate="20181028T091636Z">
+        <seg>WebGL</seg>
       </tuv>
     </tu>
     <tu>
@@ -18696,6 +19040,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091458Z" creationid="LiarOnce" creationdate="20181028T091458Z">
         <seg>Windows 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows Phone</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091711Z" creationid="LiarOnce" creationdate="20181028T091711Z">
+        <seg>Windows Phone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Word Games : public.app-category.word-games</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091620Z" creationid="LiarOnce" creationdate="20181028T091620Z">
+        <seg>Word Games : public.app-category.word-games</seg>
       </tuv>
     </tu>
     <tu>
@@ -19012,6 +19372,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>iPad</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091645Z" creationid="LiarOnce" creationdate="20181028T091645Z">
+        <seg>iPad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPad 1024x768</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091652Z" creationid="LiarOnce" creationdate="20181028T091652Z">
+        <seg>iPad 1024x768</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>iPad Landscape</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T074304Z" creationid="deciia" creationdate="20170104T074304Z">
@@ -19036,6 +19412,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>iPad Retina 2048x1536</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091653Z" creationid="LiarOnce" creationdate="20181028T091653Z">
+        <seg>iPad Retina 2048x1536</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>iPad Retina Landscape</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T074314Z" creationid="deciia" creationdate="20170104T074314Z">
@@ -19056,6 +19440,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135309Z" creationid="LiarOnce" creationdate="20181020T135309Z">
         <seg>iPad Retina 纵向 1536x2048</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPhone 480x320</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091649Z" creationid="LiarOnce" creationdate="20181028T091649Z">
+        <seg>iPhone 480x320</seg>
       </tuv>
     </tu>
     <tu>
@@ -19196,6 +19588,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>iPhone Retina 960x640</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091650Z" creationid="LiarOnce" creationdate="20181028T091650Z">
+        <seg>iPhone Retina 960x640</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>iPhone Retina Landscape</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T074220Z" creationid="deciia" creationdate="20170104T074220Z">
@@ -19260,10 +19660,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>iPhone5 1136x640</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091651Z" creationid="LiarOnce" creationdate="20181028T091651Z">
+        <seg>iPhone5 1136x640</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>iPhone5 Portrait 640x1136</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135235Z" creationid="LiarOnce" creationdate="20181020T135235Z">
         <seg>iPhone5 纵向 640x1136</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPhone6 1334x750</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091654Z" creationid="LiarOnce" creationdate="20181028T091654Z">
+        <seg>iPhone6 1334x750</seg>
       </tuv>
     </tu>
     <tu>
@@ -19276,10 +19692,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>iPhone6Plus 2208x1242</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091655Z" creationid="LiarOnce" creationdate="20181028T091655Z">
+        <seg>iPhone6Plus 2208x1242</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>iPhone6Plus Portrait 1242x2208</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135241Z" creationid="LiarOnce" creationdate="20181020T135241Z">
         <seg>iPhone6Plus 纵向 1242x2208</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPhone7 1334x750</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091657Z" creationid="LiarOnce" creationdate="20181028T091657Z">
+        <seg>iPhone7 1334x750</seg>
       </tuv>
     </tu>
     <tu>
@@ -19292,10 +19724,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>iPhone7Plus 2208x1242</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091658Z" creationid="LiarOnce" creationdate="20181028T091658Z">
+        <seg>iPhone7Plus 2208x1242</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>iPhone7Plus Portrait 1242x2208</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135243Z" creationid="LiarOnce" creationdate="20181020T135243Z">
         <seg>iPhone7Plus 纵向 1242x2208</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPhone8 1334x750</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091659Z" creationid="LiarOnce" creationdate="20181028T091659Z">
+        <seg>iPhone8 1334x750</seg>
       </tuv>
     </tu>
     <tu>
@@ -19308,6 +19756,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>iPhone8Plus 2208x1242</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091700Z" creationid="LiarOnce" creationdate="20181028T091700Z">
+        <seg>iPhone8Plus 2208x1242</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>iPhone8Plus Portrait 1242x2208</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135246Z" creationid="LiarOnce" creationdate="20181020T135246Z">
@@ -19316,10 +19772,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>iPhoneSE 1136x640</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091701Z" creationid="LiarOnce" creationdate="20181028T091701Z">
+        <seg>iPhoneSE 1136x640</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>iPhoneSE Portrait 640x1136</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135250Z" creationid="LiarOnce" creationdate="20181020T135250Z">
         <seg>iPhoneSE 纵向 640x1136</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPhoneX 2436x1125</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091702Z" creationid="LiarOnce" creationdate="20181028T091702Z">
+        <seg>iPhoneX 2436x1125</seg>
       </tuv>
     </tu>
     <tu>
@@ -19452,6 +19924,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>splashSize</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091706Z" creationid="LiarOnce" creationdate="20181028T091706Z">
+        <seg>splashSize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>string</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090553Z" creationid="LiarOnce" creationdate="20181028T090553Z">
@@ -19504,6 +19984,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031249Z" creationid="LiarOnce" creationdate="20181021T031249Z">
         <seg>在物体属性上打开的操作选项卡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>wvga</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091714Z" creationid="LiarOnce" creationdate="20181028T091714Z">
+        <seg>wvga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>wxga</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091716Z" creationid="LiarOnce" creationdate="20181028T091716Z">
+        <seg>wxga</seg>
       </tuv>
     </tu>
     <tu>
