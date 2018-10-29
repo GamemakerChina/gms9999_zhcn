@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>$00212121</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050114Z" creationid="LiarOnce" creationdate="20181029T050114Z">
+        <seg>$00212121</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050303Z" creationid="LiarOnce" creationdate="20181029T050303Z">
+        <seg>%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%appdata%\&lt;GameName&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091431Z" creationid="LiarOnce" creationdate="20181028T091431Z">
@@ -302,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Draw background color</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050531Z" creationid="LiarOnce" creationdate="20181029T050531Z">
+        <seg>绘制背景颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Edit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045958Z" creationid="LiarOnce" creationdate="20181009T045958Z">
@@ -410,6 +434,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050050Z" creationid="LiarOnce" creationdate="20181009T050050Z">
         <seg>&amp;字体...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Foreground image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050620Z" creationid="LiarOnce" creationdate="20181029T050620Z">
+        <seg>前景图像</seg>
       </tuv>
     </tu>
     <tu>
@@ -1238,10 +1270,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;X:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045926Z" creationid="LiarOnce" creationdate="20181029T045926Z">
+        <seg>&amp;X:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Y:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045926Z" creationid="LiarOnce" creationdate="20181029T045926Z">
+        <seg>&amp;Y:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;YoYoGames.com</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091149Z" creationid="LiarOnce" creationdate="20181028T091139Z">
         <seg>YoYoGames.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;backgrounds</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050457Z" creationid="LiarOnce" creationdate="20181029T050457Z">
+        <seg>背景</seg>
       </tuv>
     </tu>
     <tu>
@@ -1266,6 +1322,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082555Z" creationid="LiarOnce" creationdate="20181027T082555Z">
         <seg>图块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;views</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050645Z" creationid="LiarOnce" creationdate="20181029T050645Z">
+        <seg>视野</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(-123,-123) sp: 100</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045932Z" creationid="LiarOnce" creationdate="20181029T045932Z">
+        <seg>(-123,-123) sp: 100</seg>
       </tuv>
     </tu>
     <tu>
@@ -1382,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050056Z" creationid="LiarOnce" creationdate="20181029T050056Z">
+        <seg>...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T085444Z" creationid="LiarOnce" creationdate="20181028T085444Z">
@@ -1470,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1000</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050112Z" creationid="LiarOnce" creationdate="20181029T050112Z">
+        <seg>1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1000x560</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T044700Z" creationid="LiarOnce" creationdate="20181029T044700Z">
@@ -1546,6 +1634,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T085510Z" creationid="LiarOnce" creationdate="20181028T085510Z">
         <seg>128</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1280x768</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045921Z" creationid="LiarOnce" creationdate="20181029T045921Z">
+        <seg>1280x768</seg>
       </tuv>
     </tu>
     <tu>
@@ -1714,6 +1810,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T065325Z" creationid="deciia" creationdate="20170104T065325Z">
         <seg>2 秒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>20</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050143Z" creationid="LiarOnce" creationdate="20181029T050143Z">
+        <seg>20</seg>
       </tuv>
     </tu>
     <tu>
@@ -1958,6 +2062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>400x240</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045920Z" creationid="LiarOnce" creationdate="20181029T045920Z">
+        <seg>400x240</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4096x4096</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170316T114734Z" creationid="36011" creationdate="20170316T114734Z">
@@ -1970,6 +2082,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045422Z" creationid="LiarOnce" creationdate="20181029T045422Z">
         <seg>44x44</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>480</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050320Z" creationid="LiarOnce" creationdate="20181029T050320Z">
+        <seg>480</seg>
       </tuv>
     </tu>
     <tu>
@@ -2078,6 +2198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>640</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050318Z" creationid="LiarOnce" creationdate="20181029T050318Z">
+        <seg>640</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>64x64</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T044737Z" creationid="LiarOnce" creationdate="20181029T044737Z">
@@ -2170,6 +2298,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045541Z" creationid="LiarOnce" creationdate="20181029T045541Z">
         <seg>732x412</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>750</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050113Z" creationid="LiarOnce" creationdate="20181029T050113Z">
+        <seg>750</seg>
       </tuv>
     </tu>
     <tu>
@@ -2482,6 +2618,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T044729Z" creationid="LiarOnce" creationdate="20181029T044729Z">
         <seg>&lt;mx:Ratings Category="game"&gt; &lt;!-- Insert your title ratings here --&gt; &lt;!-- See "Title Ratings for Xbox One" white paper --&gt; &lt;!-- from developer.xboxlive.com for details --&gt; &lt;/mx:Ratings&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;no image&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050542Z" creationid="LiarOnce" creationdate="20181029T050542Z">
+        <seg>&lt;无图像&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2810,6 +2954,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051045Z" creationid="LiarOnce" creationdate="20181015T051045Z">
         <seg>向图像添加阴影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add a tile layer at a particular depth</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050441Z" creationid="LiarOnce" creationdate="20181029T050441Z">
+        <seg>在特定深度添加图块</seg>
       </tuv>
     </tu>
     <tu>
@@ -3470,6 +3622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Amazon Fire</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045903Z" creationid="LiarOnce" creationdate="20181029T045903Z">
+        <seg>Amazon Fire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Amount of Backups to store</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030545Z" creationid="LiarOnce" creationdate="20181021T030545Z">
@@ -3722,6 +3882,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T140143Z" creationid="LiarOnce" creationdate="20181020T140143Z">
         <seg>在列表末尾追加 url</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apple TV</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045918Z" creationid="LiarOnce" creationdate="20181029T045918Z">
+        <seg>Apple TV</seg>
       </tuv>
     </tu>
     <tu>
@@ -4158,6 +4326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Background image used</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050543Z" creationid="LiarOnce" creationdate="20181029T050543Z">
+        <seg>使用的背景图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Backgrounds</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051417Z" creationid="LiarOnce" creationdate="20181008T051417Z">
@@ -4170,6 +4346,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030103Z" creationid="LiarOnce" creationdate="20181021T030103Z">
         <seg>备份目录:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BackupDirectoryEdit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050055Z" creationid="LiarOnce" creationdate="20181029T050055Z">
+        <seg>BackupDirectoryEdit</seg>
       </tuv>
     </tu>
     <tu>
@@ -4782,6 +4966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CacheDirectoryEdit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050100Z" creationid="LiarOnce" creationdate="20181029T050100Z">
+        <seg>CacheDirectoryEdit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044644Z" creationid="LiarOnce" creationdate="20181008T044644Z">
@@ -5010,6 +5202,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123547Z" creationid="LiarOnce" creationdate="20181013T123547Z">
         <seg>更改值和饱和度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change the depth of the currently selected layer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050451Z" creationid="LiarOnce" creationdate="20181029T050451Z">
+        <seg>更改当前选定图层的深度</seg>
       </tuv>
     </tu>
     <tu>
@@ -5430,6 +5630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click to change the background color used</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050504Z" creationid="LiarOnce" creationdate="20181029T050504Z">
+        <seg>单击此处, 更改使用的背景色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click to change the color</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135038Z" creationid="LiarOnce" creationdate="20181007T135038Z">
@@ -5490,6 +5698,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052737Z" creationid="LiarOnce" creationdate="20181015T052737Z">
         <seg>单击以选择房间区域外的背景颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to choose foreground image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050500Z" creationid="LiarOnce" creationdate="20181029T050500Z">
+        <seg>单击以选择前景图像</seg>
       </tuv>
     </tu>
     <tu>
@@ -6726,10 +6942,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current Tile Layer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050410Z" creationid="LiarOnce" creationdate="20181029T050406Z">
+        <seg>当前图块层</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Current Tile Layer:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082606Z" creationid="LiarOnce" creationdate="20181027T082606Z">
-        <seg>当前切片图层:</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050402Z" creationid="LiarOnce" creationdate="20181027T082606Z">
+        <seg>当前图块层:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6880,8 +7104,8 @@
       <tuv lang="EN-US">
         <seg>Debugger manual IP entry</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032037Z" creationid="LiarOnce" creationdate="20181021T032037Z">
-        <seg>调试器手动 IP 条目</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050245Z" creationid="LiarOnce" creationdate="20181021T032037Z">
+        <seg>手动添加调试器目标 IP</seg>
       </tuv>
     </tu>
     <tu>
@@ -6930,6 +7154,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T044257Z" creationid="LiarOnce" creationdate="20181009T044257Z">
         <seg>删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete &amp;underlying</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050333Z" creationid="LiarOnce" creationdate="20181029T050333Z">
+        <seg>删除基础</seg>
       </tuv>
     </tu>
     <tu>
@@ -7018,6 +7250,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052418Z" creationid="LiarOnce" creationdate="20181015T052418Z">
         <seg>删除当前选定的事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete the currently selected layer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050445Z" creationid="LiarOnce" creationdate="20181029T050445Z">
+        <seg>删除当前选定的图层</seg>
       </tuv>
     </tu>
     <tu>
@@ -7922,6 +8162,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141004Z" creationid="LiarOnce" creationdate="20181007T141004Z">
         <seg>启用代码自动补全帮助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable the use of Views</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050722Z" creationid="LiarOnce" creationdate="20181029T050707Z">
+        <seg>启用使用的视图</seg>
       </tuv>
     </tu>
     <tu>
@@ -9691,6 +9939,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide other layers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050452Z" creationid="LiarOnce" creationdate="20181029T050452Z">
+        <seg>隐藏其他图层</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>High Quality font</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085406Z" creationid="LiarOnce" creationdate="20181013T085406Z">
@@ -9723,10 +9979,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HomeDirectoryEdit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050102Z" creationid="LiarOnce" creationdate="20181029T050102Z">
+        <seg>HomeDirectoryEdit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Homepage</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T075231Z" creationid="deciia" creationdate="20170104T075231Z">
         <seg>主页</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050525Z" creationid="LiarOnce" creationdate="20181029T050509Z">
+        <seg>水平</seg>
       </tuv>
     </tu>
     <tu>
@@ -10255,6 +10527,38 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121725Z" creationid="LiarOnce" creationdate="20181013T121725Z">
         <seg>指示是否将此背景用作图块集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indicates whether in each step the window should be cleared with the background color</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050533Z" creationid="LiarOnce" creationdate="20181029T050533Z">
+        <seg>指示是否应在每个步骤中使用背景色清除窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indicates whether the background is actually a foreground</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050622Z" creationid="LiarOnce" creationdate="20181029T050622Z">
+        <seg>指示背景是否实际为前景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indicates whether the background is visible when the room starts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050639Z" creationid="LiarOnce" creationdate="20181029T050639Z">
+        <seg>指示在房间开始时背景是否可见</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indicates whether the view is visible when the room starts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050739Z" creationid="LiarOnce" creationdate="20181029T050739Z">
+        <seg>指示在房间启动时视图是否可见</seg>
       </tuv>
     </tu>
     <tu>
@@ -11459,10 +11763,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>List of available backgrounds</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050535Z" creationid="LiarOnce" creationdate="20181029T050535Z">
+        <seg>可用背景列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>List of available texture groups</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052913Z" creationid="LiarOnce" creationdate="20181015T052913Z">
         <seg>可用纹理组列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of available views</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050724Z" creationid="LiarOnce" creationdate="20181029T050724Z">
+        <seg>可用视图列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -13565,6 +13885,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PackageID</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050052Z" creationid="LiarOnce" creationdate="20181029T050052Z">
+        <seg>PackageID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PackageID:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050051Z" creationid="LiarOnce" creationdate="20181029T050051Z">
+        <seg>PackageID:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Packaging</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T082221Z" creationid="deciia" creationdate="20180922T082221Z">
@@ -14129,6 +14465,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091604Z" creationid="LiarOnce" creationdate="20181028T091604Z">
         <seg>Productivity: public.app-category.productivity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ProgressForm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050300Z" creationid="LiarOnce" creationdate="20181029T050300Z">
+        <seg>ProgressForm</seg>
       </tuv>
     </tu>
     <tu>
@@ -14899,6 +15243,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031253Z" creationid="LiarOnce" creationdate="20181021T031253Z">
         <seg>资源树组打开/关闭悬停延迟 (ms)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ResourceIconForm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050310Z" creationid="LiarOnce" creationdate="20181029T050310Z">
+        <seg>ResourceIconForm</seg>
       </tuv>
     </tu>
     <tu>
@@ -16921,6 +17273,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Snap &amp;X:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050034Z" creationid="LiarOnce" creationdate="20181029T050034Z">
+        <seg>吸附 X:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Snap &amp;Y:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050036Z" creationid="LiarOnce" creationdate="20181029T050036Z">
+        <seg>吸附 Y:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Snap to Grid</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T044905Z" creationid="deciia" creationdate="20170105T044905Z">
@@ -17029,6 +17397,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170329T020247Z" creationid="deciia" creationdate="20170103T132615Z">
         <seg>源码控制冲突</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sp&amp;eed:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050529Z" creationid="LiarOnce" creationdate="20181029T050529Z">
+        <seg>速度:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17425,6 +17801,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stretch the background to fill the whole room</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050641Z" creationid="LiarOnce" creationdate="20181029T050641Z">
+        <seg>拉伸背景以填满整个房间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stretch the image to a new size</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T031110Z" creationid="LiarOnce" creationdate="20181014T031110Z">
@@ -17657,6 +18041,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TempDirectoryEdit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050103Z" creationid="LiarOnce" creationdate="20181029T050103Z">
+        <seg>TempDirectoryEdit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Text C&amp;olor...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131309Z" creationid="LiarOnce" creationdate="20181013T131309Z">
@@ -17825,6 +18217,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The horizontal position of the image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050547Z" creationid="LiarOnce" creationdate="20181029T050547Z">
+        <seg>图像的水平位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The horizontal scrolling speed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050545Z" creationid="LiarOnce" creationdate="20181029T050545Z">
+        <seg>水平滚动速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The horizontal snap distance</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025839Z" creationid="LiarOnce" creationdate="20181021T025839Z">
@@ -17953,6 +18361,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The vertical position of the image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050549Z" creationid="LiarOnce" creationdate="20181029T050549Z">
+        <seg>图像的垂直位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The vertical scrolling speed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050546Z" creationid="LiarOnce" creationdate="20181029T050546Z">
+        <seg>垂直滚动速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The vertical snap distance</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025845Z" creationid="LiarOnce" creationdate="20181021T025845Z">
@@ -18049,6 +18473,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tile &amp;Hor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050604Z" creationid="LiarOnce" creationdate="20181029T050604Z">
+        <seg>图块水平</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tile &amp;Vert.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050615Z" creationid="LiarOnce" creationdate="20181029T050615Z">
+        <seg>图块垂直</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tile Height:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121216Z" creationid="LiarOnce" creationdate="20181013T121216Z">
@@ -18113,6 +18553,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tile the image horizontally</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050606Z" creationid="LiarOnce" creationdate="20181029T050606Z">
+        <seg>水平平铺图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tile the image vertically</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050616Z" creationid="LiarOnce" creationdate="20181029T050616Z">
+        <seg>垂直平铺图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tile: Horizontal</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121901Z" creationid="LiarOnce" creationdate="20181013T121901Z">
@@ -18173,6 +18629,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T140348Z" creationid="LiarOnce" creationdate="20181020T140348Z">
         <seg>Tizen 项目组 Id</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050257Z" creationid="LiarOnce" creationdate="20181029T050248Z">
+        <seg>到</seg>
       </tuv>
     </tu>
     <tu>
@@ -18581,6 +19045,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T024848Z" creationid="deciia" creationdate="20170102T101232Z">
         <seg>容差：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ToolBar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045934Z" creationid="LiarOnce" creationdate="20181029T045934Z">
+        <seg>ToolBar</seg>
       </tuv>
     </tu>
     <tu>
@@ -19409,6 +19881,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>V&amp;isible when room starts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050638Z" creationid="LiarOnce" creationdate="20181029T050638Z">
+        <seg>房间开始时可见</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VCLskin</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091243Z" creationid="LiarOnce" creationdate="20181028T091243Z">
@@ -19508,10 +19988,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Version.Number.Label</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050049Z" creationid="LiarOnce" creationdate="20181029T050049Z">
+        <seg>Version.Number.Label</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Version:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051931Z" creationid="LiarOnce" creationdate="20181008T051931Z">
         <seg>版本:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vert.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050516Z" creationid="LiarOnce" creationdate="20181029T050511Z">
+        <seg>垂直</seg>
       </tuv>
     </tu>
     <tu>
@@ -19596,6 +20092,46 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>View Bottom</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050027Z" creationid="LiarOnce" creationdate="20181029T050027Z">
+        <seg>底部视野</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View Left</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045958Z" creationid="LiarOnce" creationdate="20181029T045958Z">
+        <seg>左视野</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View Right</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050009Z" creationid="LiarOnce" creationdate="20181029T050009Z">
+        <seg>右视野</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View Top</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050022Z" creationid="LiarOnce" creationdate="20181029T050022Z">
+        <seg>顶部视野</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View in room</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050748Z" creationid="LiarOnce" creationdate="20181029T050748Z">
+        <seg>在房间里查看</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ViewCenterButton</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091349Z" creationid="LiarOnce" creationdate="20181028T091349Z">
@@ -19640,6 +20176,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125243Z" creationid="deciia" creationdate="20170102T062625Z">
         <seg>视野</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Visible when room starts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050726Z" creationid="LiarOnce" creationdate="20181029T050726Z">
+        <seg>在房间开始时可见</seg>
       </tuv>
     </tu>
     <tu>
@@ -19880,6 +20424,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044207Z" creationid="LiarOnce" creationdate="20181014T044207Z">
         <seg>这个精灵是否使用物理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether to enable different views in the game</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050716Z" creationid="LiarOnce" creationdate="20181029T050716Z">
+        <seg>是否在游戏中启用不同的视图</seg>
       </tuv>
     </tu>
     <tu>
@@ -20280,6 +20832,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045504Z" creationid="LiarOnce" creationdate="20181029T045504Z">
         <seg>auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>com.companyname.packageid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050043Z" creationid="LiarOnce" creationdate="20181029T050043Z">
+        <seg>com.companyname.packageid</seg>
       </tuv>
     </tu>
     <tu>
@@ -21024,6 +21584,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091206Z" creationid="LiarOnce" creationdate="20181028T091206Z">
         <seg>rfPersonal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>s&amp;p:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045927Z" creationid="LiarOnce" creationdate="20181029T045927Z">
+        <seg>s&amp;p:</seg>
       </tuv>
     </tu>
     <tu>
