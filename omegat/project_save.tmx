@@ -1366,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(%d/%d)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052251Z" creationid="LiarOnce" creationdate="20181030T052251Z">
+        <seg>(%d/%d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(%dx%d)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T045519Z" creationid="LiarOnce" creationdate="20181030T045519Z">
@@ -2456,8 +2464,8 @@
       <tuv lang="EN-US">
         <seg>2nd-level cache: 1 MByte, 8-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T050143Z" creationid="LiarOnce" creationdate="20181030T050014Z">
-        <seg>二级缓存: 1 MByte, 8 路集关联, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051531Z" creationid="LiarOnce" creationdate="20181030T050014Z">
+        <seg>二级缓存: 1 mb, 8 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
@@ -2488,184 +2496,184 @@
       <tuv lang="EN-US">
         <seg>2nd-level cache: 1 MBytes, 8-way set associative, 64 bytes line size, 2 lines per sector</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051433Z" creationid="LiarOnce" creationdate="20181030T051010Z">
-        <seg>第二级缓存: 1 mb, 8 路集关联, 64 字节行大小, 每扇区2行</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051929Z" creationid="LiarOnce" creationdate="20181030T051010Z">
+        <seg>二级缓存: 1 mb, 8 路集关联, 64 字节行大小, 每扇区2行</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>2nd-level cache: 128 KBytes, 2-way set associative, sectored cache, 64-byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051011Z" creationid="LiarOnce" creationdate="20181030T051011Z">
-        <seg>第二级缓存: 128 kb, 2 路集关联, 扇区高速缓存, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051930Z" creationid="LiarOnce" creationdate="20181030T051011Z">
+        <seg>二级缓存: 128 kb, 2 路集关联, 扇区高速缓存, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>2nd-level cache: 128 KBytes, 4-way set associative, 32 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051013Z" creationid="LiarOnce" creationdate="20181030T051013Z">
-        <seg>第二级缓存: 128 kb, 4 路集关联, 32 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051930Z" creationid="LiarOnce" creationdate="20181030T051013Z">
+        <seg>二级缓存: 128 kb, 4 路集关联, 32 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>2nd-level cache: 128 KBytes, 4-way set associative, sectored cache, 64-byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051013Z" creationid="LiarOnce" creationdate="20181030T051013Z">
-        <seg>第二级缓存: 128 kb, 4 路集关联, 扇区高速缓存, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051931Z" creationid="LiarOnce" creationdate="20181030T051013Z">
+        <seg>二级缓存: 128 kb, 4 路集关联, 扇区高速缓存, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>2nd-level cache: 128 KBytes, 8-way set associative, 64 bytes line size, 2 lines per sector</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051019Z" creationid="LiarOnce" creationdate="20181030T051019Z">
-        <seg>第二级缓存: 128 kb, 8 路集关联, 64 字节行大小, 每扇区2行</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051931Z" creationid="LiarOnce" creationdate="20181030T051019Z">
+        <seg>二级缓存: 128 kb, 8 路集关联, 64 字节行大小, 每扇区2行</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>2nd-level cache: 192 KBytes, 6-way set associative, sectored cache, 64-byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051017Z" creationid="LiarOnce" creationdate="20181030T051017Z">
-        <seg>第二级缓存: 192 kb, 6 路集关联, 扇区高速缓存, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051932Z" creationid="LiarOnce" creationdate="20181030T051017Z">
+        <seg>二级缓存: 192 kb, 6 路集关联, 扇区高速缓存, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>2nd-level cache: 2 MBytes, 4-way set associative, 32 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051434Z" creationid="LiarOnce" creationdate="20181030T051021Z">
-        <seg>第二级缓存: 2 mb, 4 路集关联, 32 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051932Z" creationid="LiarOnce" creationdate="20181030T051021Z">
+        <seg>二级缓存: 2 mb, 4 路集关联, 32 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>2nd-level cache: 2 MBytes, 8-way associative, 32 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051436Z" creationid="LiarOnce" creationdate="20181030T051022Z">
-        <seg>第二级缓存: 2 mb, 8 路关联, 32 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051933Z" creationid="LiarOnce" creationdate="20181030T051022Z">
+        <seg>二级缓存: 2 mb, 8 路关联, 32 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>2nd-level cache: 2 MBytes, 8-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051439Z" creationid="LiarOnce" creationdate="20181030T051023Z">
-        <seg>第二级缓存: 2 mb, 8 路集关联, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051933Z" creationid="LiarOnce" creationdate="20181030T051023Z">
+        <seg>二级缓存: 2 mb, 8 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>2nd-level cache: 256 KBytes, 4-way set associative, 32 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051024Z" creationid="LiarOnce" creationdate="20181030T051024Z">
-        <seg>第二级缓存: 256 kb, 4 路集关联, 32 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051933Z" creationid="LiarOnce" creationdate="20181030T051024Z">
+        <seg>二级缓存: 256 kb, 4 路集关联, 32 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>2nd-level cache: 256 KBytes, 4-way set associative, sectored cache, 64-byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051024Z" creationid="LiarOnce" creationdate="20181030T051024Z">
-        <seg>第二级缓存: 256 kb, 4 路集关联, 扇区高速缓存, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051934Z" creationid="LiarOnce" creationdate="20181030T051024Z">
+        <seg>二级缓存: 256 kb, 4 路集关联, 扇区高速缓存, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>2nd-level cache: 256 KBytes, 8-way associative, 32 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051025Z" creationid="LiarOnce" creationdate="20181030T051025Z">
-        <seg>第二级缓存: 256 kb, 8 路关联, 32 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051934Z" creationid="LiarOnce" creationdate="20181030T051025Z">
+        <seg>二级缓存: 256 kb, 8 路关联, 32 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>2nd-level cache: 256 KBytes, 8-way set associative, 64 bytes line size, 2 lines per sector</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051026Z" creationid="LiarOnce" creationdate="20181030T051026Z">
-        <seg>第二级缓存: 256 kb, 8 路集关联, 64 字节行大小, 每扇区2行</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051935Z" creationid="LiarOnce" creationdate="20181030T051026Z">
+        <seg>二级缓存: 256 kb, 8 路集关联, 64 字节行大小, 每扇区2行</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>2nd-level cache: 384 KBytes, 6-way set associative, sectored cache, 64-byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051029Z" creationid="LiarOnce" creationdate="20181030T051029Z">
-        <seg>第二级缓存: 384 kb, 6 路集关联, 扇区高速缓存, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051935Z" creationid="LiarOnce" creationdate="20181030T051029Z">
+        <seg>二级缓存: 384 kb, 6 路集关联, 扇区高速缓存, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>2nd-level cache: 4 MBytes, 16-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051454Z" creationid="LiarOnce" creationdate="20181030T051031Z">
-        <seg>第二级缓存: 4 mb, 16 路集关联, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051936Z" creationid="LiarOnce" creationdate="20181030T051031Z">
+        <seg>二级缓存: 4 mb, 16 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>2nd-level cache: 512 KByte, 4-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051524Z" creationid="LiarOnce" creationdate="20181030T051032Z">
-        <seg>第二级缓存: 512 kb, 4 路集关联, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051936Z" creationid="LiarOnce" creationdate="20181030T051032Z">
+        <seg>二级缓存: 512 kb, 4 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>2nd-level cache: 512 KBytes, 2-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051033Z" creationid="LiarOnce" creationdate="20181030T051033Z">
-        <seg>第二级缓存: 512 kb, 2 路集关联, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051936Z" creationid="LiarOnce" creationdate="20181030T051033Z">
+        <seg>二级缓存: 512 kb, 2 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>2nd-level cache: 512 KBytes, 4-way set associative, 32 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051034Z" creationid="LiarOnce" creationdate="20181030T051034Z">
-        <seg>第二级缓存: 512 kb, 4 路集关联, 32 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051937Z" creationid="LiarOnce" creationdate="20181030T051034Z">
+        <seg>二级缓存: 512 kb, 4 路集关联, 32 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>2nd-level cache: 512 KBytes, 4-way set associative, sectored cache, 64-byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051034Z" creationid="LiarOnce" creationdate="20181030T051034Z">
-        <seg>第二级缓存: 512 kb, 4 路集关联, 扇区高速缓存, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051937Z" creationid="LiarOnce" creationdate="20181030T051034Z">
+        <seg>二级缓存: 512 kb, 4 路集关联, 扇区高速缓存, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>2nd-level cache: 512 KBytes, 8-way associative, 32 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051035Z" creationid="LiarOnce" creationdate="20181030T051035Z">
-        <seg>第二级缓存: 512 kb, 8 路关联, 32 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051938Z" creationid="LiarOnce" creationdate="20181030T051035Z">
+        <seg>二级缓存: 512 kb, 8 路关联, 32 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>2nd-level cache: 512 KBytes, 8-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051036Z" creationid="LiarOnce" creationdate="20181030T051036Z">
-        <seg>第二级缓存: 512 kb, 8 路集关联, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051938Z" creationid="LiarOnce" creationdate="20181030T051036Z">
+        <seg>二级缓存: 512 kb, 8 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>2nd-level cache: 512 KBytes, 8-way set associative, 64 bytes line size, 2 lines per sector</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051038Z" creationid="LiarOnce" creationdate="20181030T051038Z">
-        <seg>第二级缓存: 512 kb, 8 路集关联, 64 字节行大小, 每扇区2行</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051938Z" creationid="LiarOnce" creationdate="20181030T051038Z">
+        <seg>二级缓存: 512 kb, 8 路集关联, 64 字节行大小, 每扇区2行</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>2nd-level cache: 6MByte, 24-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051451Z" creationid="LiarOnce" creationdate="20181030T051039Z">
-        <seg>第二级高速缓存: 6 mb, 24 路集关联, 64 字节线大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051939Z" creationid="LiarOnce" creationdate="20181030T051039Z">
+        <seg>二级高速缓存: 6 mb, 24 路集关联, 64 字节线大小</seg>
       </tuv>
     </tu>
     <tu>
@@ -2808,208 +2816,208 @@
       <tuv lang="EN-US">
         <seg>3rd level cache: 1 MBytes, 8-way set associative, 64 byte line size, 2 lines per sector</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051040Z" creationid="LiarOnce" creationdate="20181030T051040Z">
-        <seg>第三级缓存: 1 兆字节, 8 路集关联, 64 字节行大小, 2 行每扇区</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051939Z" creationid="LiarOnce" creationdate="20181030T051040Z">
+        <seg>三级缓存: 1 mb, 8 路集关联, 64 字节行大小, 2 行每扇区</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>3rd level cache: 2 MBytes, 8-way set associative, 64 byte line size, 2 lines per sector</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051041Z" creationid="LiarOnce" creationdate="20181030T051041Z">
-        <seg>第三级缓存: 2 兆字节, 8 路集关联, 64 字节行大小, 2 行每扇区</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051939Z" creationid="LiarOnce" creationdate="20181030T051041Z">
+        <seg>三级缓存: 2 mb, 8 路集关联, 64 字节行大小, 2 行每扇区</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>3rd level cache: 4 MBytes, 8-way set associative, 64 byte line size, 2 lines per sector</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051042Z" creationid="LiarOnce" creationdate="20181030T051042Z">
-        <seg>第三级缓存: 4 兆字节, 8 路集关联, 64 字节行大小, 2 行每扇区</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051940Z" creationid="LiarOnce" creationdate="20181030T051042Z">
+        <seg>三级缓存: 4 mb, 8 路集关联, 64 字节行大小, 2 行每扇区</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>3rd level cache: 512 KBytes, 4-way set associative, 64 byte line size, 2 lines per sector</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051043Z" creationid="LiarOnce" creationdate="20181030T051043Z">
-        <seg>第三级缓存: 512 kb, 4 路集关联, 64 字节行大小, 每扇区2行</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051940Z" creationid="LiarOnce" creationdate="20181030T051043Z">
+        <seg>三级缓存: 512 kb, 4 路集关联, 64 字节行大小, 每扇区2行</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>3rd-level cache: 1 MByte, 4-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051043Z" creationid="LiarOnce" creationdate="20181030T051043Z">
-        <seg>第三级缓存: 1 MByte, 4 路集关联, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051941Z" creationid="LiarOnce" creationdate="20181030T051043Z">
+        <seg>三级缓存: 1 mb, 4 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>3rd-level cache: 1 MByte, 8-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051044Z" creationid="LiarOnce" creationdate="20181030T051044Z">
-        <seg>第三级缓存: 1 MByte, 8 路集关联, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051941Z" creationid="LiarOnce" creationdate="20181030T051044Z">
+        <seg>三级缓存: 1 mb, 8 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>3rd-level cache: 1.5 MByte, 12-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051045Z" creationid="LiarOnce" creationdate="20181030T051045Z">
-        <seg>第三级缓存: 1.5 MByte, 12 路集关联, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051941Z" creationid="LiarOnce" creationdate="20181030T051045Z">
+        <seg>三级缓存: 1.5 mb, 12 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>3rd-level cache: 12 MByte, 24-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051046Z" creationid="LiarOnce" creationdate="20181030T051046Z">
-        <seg>第三级缓存:12 MByte, 24 路集关联, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051942Z" creationid="LiarOnce" creationdate="20181030T051046Z">
+        <seg>三级缓存:12 mb, 24 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>3rd-level cache: 12MByte, 12-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051047Z" creationid="LiarOnce" creationdate="20181030T051047Z">
-        <seg>第三级高速缓存: 12MByte, 12 路集关联, 64 字节线大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051942Z" creationid="LiarOnce" creationdate="20181030T051047Z">
+        <seg>三级高速缓存: 12mb, 12 路集关联, 64 字节线大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>3rd-level cache: 16MByte, 16-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051047Z" creationid="LiarOnce" creationdate="20181030T051047Z">
-        <seg>第三级高速缓存: 16MByte, 16 路集关联, 64 字节线大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051943Z" creationid="LiarOnce" creationdate="20181030T051047Z">
+        <seg>三级高速缓存: 16mb, 16 路集关联, 64 字节线大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>3rd-level cache: 18 MByte, 24-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051048Z" creationid="LiarOnce" creationdate="20181030T051048Z">
-        <seg>第三级缓存:18 MByte, 24 路集关联, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051943Z" creationid="LiarOnce" creationdate="20181030T051048Z">
+        <seg>三级缓存:18 mb, 24 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>3rd-level cache: 2 MByte, 16-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051050Z" creationid="LiarOnce" creationdate="20181030T051050Z">
-        <seg>第三级缓存: 2 MByte, 16 路集关联, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051944Z" creationid="LiarOnce" creationdate="20181030T051050Z">
+        <seg>三级缓存: 2 mb, 16 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>3rd-level cache: 2 MByte, 4-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051051Z" creationid="LiarOnce" creationdate="20181030T051051Z">
-        <seg>第三级缓存: 2 MByte, 4 路集关联, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051944Z" creationid="LiarOnce" creationdate="20181030T051051Z">
+        <seg>三级缓存: 2 mb, 4 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>3rd-level cache: 2 MByte, 8-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051052Z" creationid="LiarOnce" creationdate="20181030T051052Z">
-        <seg>第三级缓存: 2 MByte, 8 路集关联, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051944Z" creationid="LiarOnce" creationdate="20181030T051052Z">
+        <seg>三级缓存: 2 mb, 8 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>3rd-level cache: 24 MByte, 24-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051053Z" creationid="LiarOnce" creationdate="20181030T051053Z">
-        <seg>第三级缓存:24 MByte, 24 路集关联, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051945Z" creationid="LiarOnce" creationdate="20181030T051053Z">
+        <seg>三级缓存:24 mb, 24 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>3rd-level cache: 3 MByte, 12-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051056Z" creationid="LiarOnce" creationdate="20181030T051056Z">
-        <seg>第三级缓存: 3 MByte, 12 路集关联, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051946Z" creationid="LiarOnce" creationdate="20181030T051056Z">
+        <seg>三级缓存: 3 mb, 12 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>3rd-level cache: 4 MByte, 16-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051057Z" creationid="LiarOnce" creationdate="20181030T051057Z">
-        <seg>第三级缓存: 4 MByte, 16 路集关联, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051946Z" creationid="LiarOnce" creationdate="20181030T051057Z">
+        <seg>三级缓存: 4 mb, 16 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>3rd-level cache: 4 MByte, 8-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051059Z" creationid="LiarOnce" creationdate="20181030T051059Z">
-        <seg>第三级缓存: 4 MByte, 8 路集关联, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051946Z" creationid="LiarOnce" creationdate="20181030T051059Z">
+        <seg>三级缓存: 4 mb, 8 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>3rd-level cache: 4 MBytes, 4-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051100Z" creationid="LiarOnce" creationdate="20181030T051100Z">
-        <seg>第三级缓存: 4 兆字节, 4 路集关联, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051947Z" creationid="LiarOnce" creationdate="20181030T051100Z">
+        <seg>三级缓存: 4 mb, 4 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>3rd-level cache: 512 KByte, 4-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051100Z" creationid="LiarOnce" creationdate="20181030T051100Z">
-        <seg>第三级缓存: 512 KByte, 4 路集关联, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051947Z" creationid="LiarOnce" creationdate="20181030T051100Z">
+        <seg>三级缓存: 512 KByte, 4 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>3rd-level cache: 6 MByte, 12-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051101Z" creationid="LiarOnce" creationdate="20181030T051101Z">
-        <seg>第三级缓存: 6 MByte, 12 路集关联, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051948Z" creationid="LiarOnce" creationdate="20181030T051101Z">
+        <seg>三级缓存: 6 mb, 12 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>3rd-level cache: 6MByte, 12-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051102Z" creationid="LiarOnce" creationdate="20181030T051102Z">
-        <seg>第三级高速缓存: 6MByte, 12 路集关联, 64 字节线大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051948Z" creationid="LiarOnce" creationdate="20181030T051102Z">
+        <seg>三级高速缓存: 6mb, 12 路集关联, 64 字节线大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>3rd-level cache: 8 MByte, 16-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051103Z" creationid="LiarOnce" creationdate="20181030T051103Z">
-        <seg>第三级缓存: 8 MByte, 16 路集关联, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051948Z" creationid="LiarOnce" creationdate="20181030T051103Z">
+        <seg>三级缓存: 8 mb, 16 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>3rd-level cache: 8 MByte, 8-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051104Z" creationid="LiarOnce" creationdate="20181030T051104Z">
-        <seg>第三级缓存: 8 MByte, 8 路集关联, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051949Z" creationid="LiarOnce" creationdate="20181030T051104Z">
+        <seg>三级缓存: 8 mb, 8 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>3rd-level cache: 8 MBytes, 4-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051105Z" creationid="LiarOnce" creationdate="20181030T051105Z">
-        <seg>第三级缓存: 8 兆字节, 4 路集关联, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051950Z" creationid="LiarOnce" creationdate="20181030T051105Z">
+        <seg>三级缓存: 8 mb, 4 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>3rd-level cache: 8MByte, 16-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051109Z" creationid="LiarOnce" creationdate="20181030T051109Z">
-        <seg>第三级高速缓存: 8MByte, 16 路集关联, 64 字节线大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051957Z" creationid="LiarOnce" creationdate="20181030T051109Z">
+        <seg>三级高速缓存: 8mb, 16 路集关联, 64 字节线大小</seg>
       </tuv>
     </tu>
     <tu>
@@ -3230,6 +3238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>64-Byte Prefetching</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051619Z" creationid="LiarOnce" creationdate="20181030T051619Z">
+        <seg>64 字节预取</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>640</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050318Z" creationid="LiarOnce" creationdate="20181029T050318Z">
@@ -3354,6 +3370,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091235Z" creationid="LiarOnce" creationdate="20181028T091235Z">
         <seg>7Zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7z archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051709Z" creationid="LiarOnce" creationdate="20181030T051642Z">
+        <seg>7z archive</seg>
       </tuv>
     </tu>
     <tu>
@@ -3770,6 +3794,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091249Z" creationid="LiarOnce" creationdate="20181028T091249Z">
         <seg>ANGLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ANSI</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051644Z" creationid="LiarOnce" creationdate="20181030T051644Z">
+        <seg>ANSI</seg>
       </tuv>
     </tu>
     <tu>
@@ -4374,6 +4406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All files (*.*)|*.*</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051654Z" creationid="LiarOnce" creationdate="20181030T051654Z">
+        <seg>All files (*.*)|*.*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allow &amp;menu and dock in fullscreen</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134442Z" creationid="LiarOnce" creationdate="20181020T134442Z">
@@ -4594,6 +4634,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123543Z" creationid="LiarOnce" creationdate="20181013T123543Z">
         <seg>还指示有关您的计算机和您正在使用的 windows 版本的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alt+</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051656Z" creationid="LiarOnce" creationdate="20181030T051656Z">
+        <seg>Alt+</seg>
       </tuv>
     </tu>
     <tu>
@@ -5334,6 +5382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BZip2 archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051716Z" creationid="LiarOnce" creationdate="20181030T051716Z">
+        <seg>BZip2 archive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Back</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T053148Z" creationid="LiarOnce" creationdate="20181008T053148Z">
@@ -5466,6 +5522,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030452Z" creationid="LiarOnce" creationdate="20181021T030452Z">
         <seg>大资源树图标 (需要重新启动)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BkSp</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051727Z" creationid="LiarOnce" creationdate="20181030T051727Z">
+        <seg>BkSp</seg>
       </tuv>
     </tu>
     <tu>
@@ -6022,6 +6086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>COFF</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051735Z" creationid="LiarOnce" creationdate="20181030T051735Z">
+        <seg>COFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CPU type to target to</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134345Z" creationid="LiarOnce" creationdate="20181020T134345Z">
@@ -6030,10 +6102,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CRC error</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051748Z" creationid="LiarOnce" creationdate="20181030T051748Z">
+        <seg>CRC 错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ca&amp;ncel</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142500Z" creationid="LiarOnce" creationdate="20181007T142500Z">
         <seg>取消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cab archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051750Z" creationid="LiarOnce" creationdate="20181030T051750Z">
+        <seg>Cab archive</seg>
       </tuv>
     </tu>
     <tu>
@@ -6074,6 +6162,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051744Z" creationid="LiarOnce" creationdate="20181015T051744Z">
         <seg>取消和关闭实例顺序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot load image.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051806Z" creationid="LiarOnce" creationdate="20181030T051806Z">
+        <seg>无法加载图像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot open file "%s"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051811Z" creationid="LiarOnce" creationdate="20181030T051811Z">
+        <seg>无法打开文件 "%s"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot open file "%s".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051818Z" creationid="LiarOnce" creationdate="20181030T051818Z">
+        <seg>无法打开文件 "%s".</seg>
       </tuv>
     </tu>
     <tu>
@@ -6458,6 +6570,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052347Z" creationid="LiarOnce" creationdate="20181015T052347Z">
         <seg>子级:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chm archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051827Z" creationid="LiarOnce" creationdate="20181030T051827Z">
+        <seg>Chm archive</seg>
       </tuv>
     </tu>
     <tu>
@@ -7454,6 +7574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cpio archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051841Z" creationid="LiarOnce" creationdate="20181030T051841Z">
+        <seg>Cpio archive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T052932Z" creationid="LiarOnce" creationdate="20181008T052932Z">
@@ -7762,6 +7890,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T031342Z" creationid="LiarOnce" creationdate="20181014T031342Z">
         <seg>裁剪图像以移除周围的透明空间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl+</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051843Z" creationid="LiarOnce" creationdate="20181030T051843Z">
+        <seg>Ctrl+</seg>
       </tuv>
     </tu>
     <tu>
@@ -8186,6 +8322,126 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135914Z" creationid="LiarOnce" creationdate="20181020T135914Z">
         <seg>要使用的 Dash 背景图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data TLB0: 2 MByte or 4 MByte pages, 4-way set associative, 32 entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051905Z" creationid="LiarOnce" creationdate="20181030T051905Z">
+        <seg>数据 TLB0: 2 MByte 或 4 MByte 页, 4 路集关联, 32 项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data TLB0: 4 KByte pages, 4-way associative, 16 entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051907Z" creationid="LiarOnce" creationdate="20181030T051907Z">
+        <seg>数据 TLB0: 4 KByte 页, 4 路关联, 16 条目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data TLB0: 4 KByte pages, fully associative, 16 entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051908Z" creationid="LiarOnce" creationdate="20181030T051908Z">
+        <seg>数据 TLB0: 4 KByte 页, 完全关联, 16 项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data TLB0: 4 MByte pages, 4-way set associative, 16 entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051911Z" creationid="LiarOnce" creationdate="20181030T051911Z">
+        <seg>数据 TLB0: 4 MByte 页, 4 路集关联, 16 项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data TLB1: 4 KByte pages, 4-way set associative, 256 entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051912Z" creationid="LiarOnce" creationdate="20181030T051912Z">
+        <seg>数据 TLB1: 4 KByte 页, 4 路集关联, 256 项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data TLB1: 4 KByte pages, 4-way set associative, 64 entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051913Z" creationid="LiarOnce" creationdate="20181030T051913Z">
+        <seg>数据 TLB1: 4 KByte 页, 4 路集关联, 64 项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data TLB1: 4 MByte pages, 4-way set associative, 32 entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051914Z" creationid="LiarOnce" creationdate="20181030T051914Z">
+        <seg>数据 TLB1: 4 MByte 页, 4 路集关联, 32 项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data TLB: 4 KByte and 4 MByte pages, 128 Entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051916Z" creationid="LiarOnce" creationdate="20181030T051916Z">
+        <seg>数据 TLB: 4 KByte 和 4 MByte 页, 128 条目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data TLB: 4 KByte and 4 MByte pages, 256 Entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051917Z" creationid="LiarOnce" creationdate="20181030T051917Z">
+        <seg>数据 TLB: 4 KByte 和 4 MByte 页, 256 条目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data TLB: 4 KByte and 4 MByte pages, 4-way set associative, 8 entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051918Z" creationid="LiarOnce" creationdate="20181030T051918Z">
+        <seg>数据 TLB: 4 KByte 和 4 MByte 页, 4 路集关联, 8 项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data TLB: 4 KByte and 4 MByte pages, 64 Entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051919Z" creationid="LiarOnce" creationdate="20181030T051919Z">
+        <seg>数据 TLB: 4 KByte 和 4 MByte 页, 64 条目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data TLB: 4 KByte pages, 4-way set associative, 128 entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051920Z" creationid="LiarOnce" creationdate="20181030T051920Z">
+        <seg>数据 TLB: 4 KByte 页, 4 路集关联, 128 项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data TLB: 4 KByte pages, 4-way set associative, 64 entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051921Z" creationid="LiarOnce" creationdate="20181030T051921Z">
+        <seg>数据 TLB: 4 KByte 页, 4 路集关联, 64 项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data TLB: 4 MByte pages, 4-way set associative, 8 entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051922Z" creationid="LiarOnce" creationdate="20181030T051922Z">
+        <seg>数据 TLB: 4 MByte 页, 4 路集关联, 8 项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data error</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051927Z" creationid="LiarOnce" creationdate="20181030T051927Z">
+        <seg>数据错误</seg>
       </tuv>
     </tu>
     <tu>
@@ -9070,6 +9326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Elf archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052008Z" creationid="LiarOnce" creationdate="20181030T052008Z">
+        <seg>Elf archive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ellipse Tool</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051418Z" creationid="36011" creationdate="20170322T053005Z">
@@ -9414,6 +9678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Esc</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052026Z" creationid="LiarOnce" creationdate="20181030T052026Z">
+        <seg>Esc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Events:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052404Z" creationid="LiarOnce" creationdate="20181015T052404Z">
@@ -9742,6 +10014,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FIXUP</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052035Z" creationid="LiarOnce" creationdate="20181030T052035Z">
+        <seg>FIXUP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FPO</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052032Z" creationid="LiarOnce" creationdate="20181030T052032Z">
+        <seg>FPO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Facebook App Display Name</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135007Z" creationid="LiarOnce" creationdate="20181020T135007Z">
@@ -9802,6 +10090,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052852Z" creationid="LiarOnce" creationdate="20181015T052852Z">
         <seg>快速碰撞系统兼容模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fat archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052038Z" creationid="LiarOnce" creationdate="20181030T052038Z">
+        <seg>Fat archive</seg>
       </tuv>
     </tu>
     <tu>
@@ -10158,6 +10454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flv archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052043Z" creationid="LiarOnce" creationdate="20181030T052043Z">
+        <seg>Flv archive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Font</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170215T151850Z" creationid="deciia" creationdate="20170215T151850Z">
@@ -10438,10 +10742,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GFI fax images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052058Z" creationid="LiarOnce" creationdate="20181030T052058Z">
+        <seg>GFI fax images</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GIF Image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052101Z" creationid="LiarOnce" creationdate="20181030T052101Z">
+        <seg>GIF Image</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GPU support requires OpenGL ES 2.0 on target device</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025123Z" creationid="LiarOnce" creationdate="20181021T025123Z">
         <seg>GPU 支持需要在目标设备上使用 OpenGL ES 2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GZip archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052102Z" creationid="LiarOnce" creationdate="20181030T052102Z">
+        <seg>GZip archive</seg>
       </tuv>
     </tu>
     <tu>
@@ -11067,6 +11395,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hfs archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052105Z" creationid="LiarOnce" creationdate="20181030T052105Z">
+        <seg>Hfs archive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hidden</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051820Z" creationid="LiarOnce" creationdate="20181008T051820Z">
@@ -11255,6 +11591,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090429Z" creationid="LiarOnce" creationdate="20181028T090429Z">
         <seg>IAP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IAT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052108Z" creationid="LiarOnce" creationdate="20181030T052108Z">
+        <seg>IAT</seg>
       </tuv>
     </tu>
     <tu>
@@ -11971,6 +12315,94 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instruction TLB: 2 MByte pages, 4-way, 8 entries or 4 MByte pages, 4-way, 4 entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052122Z" creationid="LiarOnce" creationdate="20181030T052122Z">
+        <seg>指令 TLB: 2 MByte 页, 4 路, 8 条目或 4 MByte 页, 4 路, 4 条目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instruction TLB: 2-MByte or 4-MByte pages, fully associative, 7 entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052124Z" creationid="LiarOnce" creationdate="20181030T052124Z">
+        <seg>指令 TLB: 2-MByte 或 4 MByte 页, 完全关联, 7 条目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instruction TLB: 4 KByte and 2 MByte or 4 MByte pages, 128 Entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052126Z" creationid="LiarOnce" creationdate="20181030T052126Z">
+        <seg>指令 TLB: 4 KByte 和 2 MByte 或 4 MByte 页, 128 项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instruction TLB: 4 KByte and 2 MByte or 4 MByte pages, 256 Entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052126Z" creationid="LiarOnce" creationdate="20181030T052126Z">
+        <seg>指令 TLB: 4 KByte 和 2 MByte 或 4 MByte 页, 256 项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instruction TLB: 4 KByte and 2 MByte or 4 MByte pages, 64 Entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052127Z" creationid="LiarOnce" creationdate="20181030T052127Z">
+        <seg>指令 TLB: 4 KByte 和 2 MByte 或 4 MByte 页, 64 项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instruction TLB: 4 KByte pages, 32 Entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052128Z" creationid="LiarOnce" creationdate="20181030T052128Z">
+        <seg>指令 TLB: 4 KByte 页, 32 项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instruction TLB: 4 KByte pages, 4-way set associative, 128 entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052129Z" creationid="LiarOnce" creationdate="20181030T052129Z">
+        <seg>指令 TLB: 4 KByte 页, 4 路集关联, 128 项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instruction TLB: 4 KByte pages, 4-way set associative, 32 entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052130Z" creationid="LiarOnce" creationdate="20181030T052130Z">
+        <seg>指令 TLB: 4 KByte 页, 4 路集关联, 32 项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instruction TLB: 4 KByte pages, 4-way set associative, 64 entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052131Z" creationid="LiarOnce" creationdate="20181030T052131Z">
+        <seg>指令 TLB: 4 KByte 页, 4 路集关联, 64 项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instruction TLB: 4 MByte pages, 4-way set associative, 2 entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052132Z" creationid="LiarOnce" creationdate="20181030T052132Z">
+        <seg>指令 TLB: 4 MByte 页, 4 路集关联, 2 项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instruction TLB: 4 MByte pages, 4-way set associative, 4 entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052141Z" creationid="LiarOnce" creationdate="20181030T052141Z">
+        <seg>指令 TLB: 4 MByte 页, 4 路集关联, 4 项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Intersect boundary</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143015Z" creationid="LiarOnce" creationdate="20181007T143015Z">
@@ -11999,6 +12431,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170316T115338Z" creationid="deciia" creationdate="20170104T072853Z">
         <seg>是游戏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Iso archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052144Z" creationid="LiarOnce" creationdate="20181030T052144Z">
+        <seg>Iso archive</seg>
       </tuv>
     </tu>
     <tu>
@@ -12047,6 +12487,46 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090318Z" creationid="LiarOnce" creationdate="20181028T090318Z">
         <seg>J</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JFIF images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052146Z" creationid="LiarOnce" creationdate="20181030T052146Z">
+        <seg>JFIF images</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JPE images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052147Z" creationid="LiarOnce" creationdate="20181030T052147Z">
+        <seg>JPE images</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JPEG Image File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052151Z" creationid="LiarOnce" creationdate="20181030T052151Z">
+        <seg>JPEG Image File</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JPEG images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052152Z" creationid="LiarOnce" creationdate="20181030T052152Z">
+        <seg>JPEG images</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JPG images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052153Z" creationid="LiarOnce" creationdate="20181030T052153Z">
+        <seg>JPG images</seg>
       </tuv>
     </tu>
     <tu>
@@ -12431,6 +12911,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041902Z" creationid="LiarOnce" creationdate="20181014T041902Z">
         <seg>知识库:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kodak Photo-CD images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052204Z" creationid="LiarOnce" creationdate="20181030T052204Z">
+        <seg>Kodak Photo-CD images</seg>
       </tuv>
     </tu>
     <tu>
@@ -13139,10 +13627,42 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lzh archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052212Z" creationid="LiarOnce" creationdate="20181030T052212Z">
+        <seg>Lzh archive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lzma archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052213Z" creationid="LiarOnce" creationdate="20181030T052213Z">
+        <seg>Lzma archive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lzma86 archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052213Z" creationid="LiarOnce" creationdate="20181030T052213Z">
+        <seg>Lzma86 archive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>M</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090322Z" creationid="LiarOnce" creationdate="20181028T090322Z">
         <seg>M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MISC</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052222Z" creationid="LiarOnce" creationdate="20181030T052222Z">
+        <seg>杂项</seg>
       </tuv>
     </tu>
     <tu>
@@ -13199,6 +13719,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135441Z" creationid="LiarOnce" creationdate="20181020T135441Z">
         <seg>Mac 配置文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mach-O archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052227Z" creationid="LiarOnce" creationdate="20181030T052227Z">
+        <seg>Mach-O archive</seg>
       </tuv>
     </tu>
     <tu>
@@ -13891,6 +14419,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MsLZ archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052242Z" creationid="LiarOnce" creationdate="20181030T052242Z">
+        <seg>MsLZ archive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mub archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052243Z" creationid="LiarOnce" creationdate="20181030T052243Z">
+        <seg>Mub archive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Music : public.app-category.music</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091559Z" creationid="LiarOnce" creationdate="20181028T091559Z">
@@ -14395,6 +14939,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nsis archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052301Z" creationid="LiarOnce" creationdate="20181030T052301Z">
+        <seg>Nsis archive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ntfs archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052302Z" creationid="LiarOnce" creationdate="20181030T052302Z">
+        <seg>Ntfs archive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Number of backups:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030107Z" creationid="LiarOnce" creationdate="20181021T030107Z">
@@ -14743,6 +15303,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051841Z" creationid="LiarOnce" creationdate="20181015T051841Z">
         <seg>排序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OrgWeak</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052311Z" creationid="LiarOnce" creationdate="20181030T052311Z">
+        <seg>OrgWeak</seg>
       </tuv>
     </tu>
     <tu>
@@ -15213,6 +15781,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pe archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052315Z" creationid="LiarOnce" creationdate="20181030T052315Z">
+        <seg>Pe archive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Percent</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T074952Z" creationid="deciia" creationdate="20170103T074952Z">
@@ -15241,6 +15817,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T082515Z" creationid="deciia" creationdate="20180922T082515Z">
         <seg>权限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PgDn</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052318Z" creationid="LiarOnce" creationdate="20181030T052318Z">
+        <seg>PgDn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PgUp</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052319Z" creationid="LiarOnce" creationdate="20181030T052319Z">
+        <seg>PgUp</seg>
       </tuv>
     </tu>
     <tu>
@@ -15629,6 +16221,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ProcessAffinityMask</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052333Z" creationid="LiarOnce" creationdate="20181030T052333Z">
+        <seg>ProcessAffinityMask</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ProcessHeapFlags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052335Z" creationid="LiarOnce" creationdate="20181030T052335Z">
+        <seg>ProcessHeapFlags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Product ID</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T022632Z" creationid="deciia" creationdate="20180922T022632Z">
@@ -15911,6 +16519,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RadioButton%d</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052352Z" creationid="LiarOnce" creationdate="20181030T052352Z">
+        <seg>RadioButton%d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Range From</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130914Z" creationid="LiarOnce" creationdate="20181013T130914Z">
@@ -15923,6 +16539,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130925Z" creationid="LiarOnce" creationdate="20181013T130925Z">
         <seg>范围到</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rar archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052345Z" creationid="LiarOnce" creationdate="20181030T052345Z">
+        <seg>Rar archive</seg>
       </tuv>
     </tu>
     <tu>
@@ -17761,6 +18385,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shift+</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052417Z" creationid="LiarOnce" creationdate="20181030T052417Z">
+        <seg>Shift+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shift+,</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090935Z" creationid="LiarOnce" creationdate="20181028T090935Z">
@@ -19177,6 +19809,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TIFF Images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052430Z" creationid="LiarOnce" creationdate="20181030T052430Z">
+        <seg>TIFF Images</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052432Z" creationid="LiarOnce" creationdate="20181030T052432Z">
+        <seg>TLS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TROPHY.TRP</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T044648Z" creationid="LiarOnce" creationdate="20181029T044648Z">
@@ -19205,6 +19853,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20161224T115515Z" creationid="deciia" creationdate="20161224T075618Z">
         <seg>选项卡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tar archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052442Z" creationid="LiarOnce" creationdate="20181030T052442Z">
+        <seg>Tar archive</seg>
       </tuv>
     </tu>
     <tu>
@@ -20533,6 +21189,30 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T044753Z" creationid="LiarOnce" creationdate="20181029T044753Z">
         <seg>URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UTF-7</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052455Z" creationid="LiarOnce" creationdate="20181030T052455Z">
+        <seg>UTF-7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UTF-8</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052455Z" creationid="LiarOnce" creationdate="20181030T052455Z">
+        <seg>UTF-8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Udf archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052456Z" creationid="LiarOnce" creationdate="20181030T052456Z">
+        <seg>Udf archive</seg>
       </tuv>
     </tu>
     <tu>
