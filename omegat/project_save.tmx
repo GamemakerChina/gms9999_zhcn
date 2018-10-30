@@ -2160,7 +2160,7 @@
       <tuv lang="EN-US">
         <seg>1st level data cache: 16 KBytes, 4-way set associative, 32 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T050134Z" creationid="LiarOnce" creationdate="20181030T045747Z">
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051242Z" creationid="LiarOnce" creationdate="20181030T045747Z">
         <seg>一级数据缓存:16 kb, 4 路集关联, 32 字节行大小</seg>
       </tuv>
     </tu>
@@ -2168,7 +2168,7 @@
       <tuv lang="EN-US">
         <seg>1st level data cache: 16 KBytes, 4-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T050136Z" creationid="LiarOnce" creationdate="20181030T045748Z">
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051242Z" creationid="LiarOnce" creationdate="20181030T045748Z">
         <seg>一级数据缓存:16 kb, 4 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
@@ -2176,7 +2176,7 @@
       <tuv lang="EN-US">
         <seg>1st level data cache: 24 KBytes, 6-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T050136Z" creationid="LiarOnce" creationdate="20181030T045749Z">
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051245Z" creationid="LiarOnce" creationdate="20181030T045749Z">
         <seg>一级数据缓存:24 kb, 6 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
@@ -2232,8 +2232,8 @@
       <tuv lang="EN-US">
         <seg>1st-level data cache: 16 KByte, 8-way set associative, 64 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T050140Z" creationid="LiarOnce" creationdate="20181030T045806Z">
-        <seg>一级数据缓存:16 KByte, 8 路集关联, 64 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051254Z" creationid="LiarOnce" creationdate="20181030T045806Z">
+        <seg>一级数据缓存:16 kb, 8 路集关联, 64 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
@@ -2464,24 +2464,208 @@
       <tuv lang="EN-US">
         <seg>2nd-level cache: 1 MBytes, 4-way set associative, 32 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T050150Z" creationid="LiarOnce" creationdate="20181030T050016Z">
-        <seg>二级缓存: 1 MBytes, 4 路集关联, 32 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051358Z" creationid="LiarOnce" creationdate="20181030T050016Z">
+        <seg>二级缓存: 1 mb , 4 路集关联, 32 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>2nd-level cache: 1 MBytes, 4-way set associative, 64 bytes line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T050152Z" creationid="LiarOnce" creationdate="20181030T050152Z">
-        <seg>二级缓存：1 MBytes，4路组关联，64字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051416Z" creationid="LiarOnce" creationdate="20181030T050152Z">
+        <seg>二级缓存：1 mb，4路组关联，64字节行大小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>2nd-level cache: 1 MBytes, 8-way associative, 32 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T050153Z" creationid="LiarOnce" creationdate="20181030T050153Z">
-        <seg>二级缓存：1 MBytes，8路关联，32字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051431Z" creationid="LiarOnce" creationdate="20181030T050153Z">
+        <seg>二级缓存：1 mb，8路关联，32字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2nd-level cache: 1 MBytes, 8-way set associative, 64 bytes line size, 2 lines per sector</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051433Z" creationid="LiarOnce" creationdate="20181030T051010Z">
+        <seg>第二级缓存: 1 mb, 8 路集关联, 64 字节行大小, 每扇区2行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2nd-level cache: 128 KBytes, 2-way set associative, sectored cache, 64-byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051011Z" creationid="LiarOnce" creationdate="20181030T051011Z">
+        <seg>第二级缓存: 128 kb, 2 路集关联, 扇区高速缓存, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2nd-level cache: 128 KBytes, 4-way set associative, 32 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051013Z" creationid="LiarOnce" creationdate="20181030T051013Z">
+        <seg>第二级缓存: 128 kb, 4 路集关联, 32 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2nd-level cache: 128 KBytes, 4-way set associative, sectored cache, 64-byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051013Z" creationid="LiarOnce" creationdate="20181030T051013Z">
+        <seg>第二级缓存: 128 kb, 4 路集关联, 扇区高速缓存, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2nd-level cache: 128 KBytes, 8-way set associative, 64 bytes line size, 2 lines per sector</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051019Z" creationid="LiarOnce" creationdate="20181030T051019Z">
+        <seg>第二级缓存: 128 kb, 8 路集关联, 64 字节行大小, 每扇区2行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2nd-level cache: 192 KBytes, 6-way set associative, sectored cache, 64-byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051017Z" creationid="LiarOnce" creationdate="20181030T051017Z">
+        <seg>第二级缓存: 192 kb, 6 路集关联, 扇区高速缓存, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2nd-level cache: 2 MBytes, 4-way set associative, 32 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051434Z" creationid="LiarOnce" creationdate="20181030T051021Z">
+        <seg>第二级缓存: 2 mb, 4 路集关联, 32 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2nd-level cache: 2 MBytes, 8-way associative, 32 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051436Z" creationid="LiarOnce" creationdate="20181030T051022Z">
+        <seg>第二级缓存: 2 mb, 8 路关联, 32 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2nd-level cache: 2 MBytes, 8-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051439Z" creationid="LiarOnce" creationdate="20181030T051023Z">
+        <seg>第二级缓存: 2 mb, 8 路集关联, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2nd-level cache: 256 KBytes, 4-way set associative, 32 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051024Z" creationid="LiarOnce" creationdate="20181030T051024Z">
+        <seg>第二级缓存: 256 kb, 4 路集关联, 32 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2nd-level cache: 256 KBytes, 4-way set associative, sectored cache, 64-byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051024Z" creationid="LiarOnce" creationdate="20181030T051024Z">
+        <seg>第二级缓存: 256 kb, 4 路集关联, 扇区高速缓存, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2nd-level cache: 256 KBytes, 8-way associative, 32 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051025Z" creationid="LiarOnce" creationdate="20181030T051025Z">
+        <seg>第二级缓存: 256 kb, 8 路关联, 32 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2nd-level cache: 256 KBytes, 8-way set associative, 64 bytes line size, 2 lines per sector</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051026Z" creationid="LiarOnce" creationdate="20181030T051026Z">
+        <seg>第二级缓存: 256 kb, 8 路集关联, 64 字节行大小, 每扇区2行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2nd-level cache: 384 KBytes, 6-way set associative, sectored cache, 64-byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051029Z" creationid="LiarOnce" creationdate="20181030T051029Z">
+        <seg>第二级缓存: 384 kb, 6 路集关联, 扇区高速缓存, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2nd-level cache: 4 MBytes, 16-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051454Z" creationid="LiarOnce" creationdate="20181030T051031Z">
+        <seg>第二级缓存: 4 mb, 16 路集关联, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2nd-level cache: 512 KByte, 4-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051524Z" creationid="LiarOnce" creationdate="20181030T051032Z">
+        <seg>第二级缓存: 512 kb, 4 路集关联, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2nd-level cache: 512 KBytes, 2-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051033Z" creationid="LiarOnce" creationdate="20181030T051033Z">
+        <seg>第二级缓存: 512 kb, 2 路集关联, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2nd-level cache: 512 KBytes, 4-way set associative, 32 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051034Z" creationid="LiarOnce" creationdate="20181030T051034Z">
+        <seg>第二级缓存: 512 kb, 4 路集关联, 32 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2nd-level cache: 512 KBytes, 4-way set associative, sectored cache, 64-byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051034Z" creationid="LiarOnce" creationdate="20181030T051034Z">
+        <seg>第二级缓存: 512 kb, 4 路集关联, 扇区高速缓存, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2nd-level cache: 512 KBytes, 8-way associative, 32 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051035Z" creationid="LiarOnce" creationdate="20181030T051035Z">
+        <seg>第二级缓存: 512 kb, 8 路关联, 32 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2nd-level cache: 512 KBytes, 8-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051036Z" creationid="LiarOnce" creationdate="20181030T051036Z">
+        <seg>第二级缓存: 512 kb, 8 路集关联, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2nd-level cache: 512 KBytes, 8-way set associative, 64 bytes line size, 2 lines per sector</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051038Z" creationid="LiarOnce" creationdate="20181030T051038Z">
+        <seg>第二级缓存: 512 kb, 8 路集关联, 64 字节行大小, 每扇区2行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2nd-level cache: 6MByte, 24-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051451Z" creationid="LiarOnce" creationdate="20181030T051039Z">
+        <seg>第二级高速缓存: 6 mb, 24 路集关联, 64 字节线大小</seg>
       </tuv>
     </tu>
     <tu>
@@ -2618,6 +2802,214 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130507Z" creationid="LiarOnce" creationdate="20181013T130507Z">
         <seg>第三方框架 + 捆绑包 (检查弱 ref)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd level cache: 1 MBytes, 8-way set associative, 64 byte line size, 2 lines per sector</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051040Z" creationid="LiarOnce" creationdate="20181030T051040Z">
+        <seg>第三级缓存: 1 兆字节, 8 路集关联, 64 字节行大小, 2 行每扇区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd level cache: 2 MBytes, 8-way set associative, 64 byte line size, 2 lines per sector</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051041Z" creationid="LiarOnce" creationdate="20181030T051041Z">
+        <seg>第三级缓存: 2 兆字节, 8 路集关联, 64 字节行大小, 2 行每扇区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd level cache: 4 MBytes, 8-way set associative, 64 byte line size, 2 lines per sector</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051042Z" creationid="LiarOnce" creationdate="20181030T051042Z">
+        <seg>第三级缓存: 4 兆字节, 8 路集关联, 64 字节行大小, 2 行每扇区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd level cache: 512 KBytes, 4-way set associative, 64 byte line size, 2 lines per sector</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051043Z" creationid="LiarOnce" creationdate="20181030T051043Z">
+        <seg>第三级缓存: 512 kb, 4 路集关联, 64 字节行大小, 每扇区2行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd-level cache: 1 MByte, 4-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051043Z" creationid="LiarOnce" creationdate="20181030T051043Z">
+        <seg>第三级缓存: 1 MByte, 4 路集关联, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd-level cache: 1 MByte, 8-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051044Z" creationid="LiarOnce" creationdate="20181030T051044Z">
+        <seg>第三级缓存: 1 MByte, 8 路集关联, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd-level cache: 1.5 MByte, 12-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051045Z" creationid="LiarOnce" creationdate="20181030T051045Z">
+        <seg>第三级缓存: 1.5 MByte, 12 路集关联, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd-level cache: 12 MByte, 24-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051046Z" creationid="LiarOnce" creationdate="20181030T051046Z">
+        <seg>第三级缓存:12 MByte, 24 路集关联, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd-level cache: 12MByte, 12-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051047Z" creationid="LiarOnce" creationdate="20181030T051047Z">
+        <seg>第三级高速缓存: 12MByte, 12 路集关联, 64 字节线大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd-level cache: 16MByte, 16-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051047Z" creationid="LiarOnce" creationdate="20181030T051047Z">
+        <seg>第三级高速缓存: 16MByte, 16 路集关联, 64 字节线大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd-level cache: 18 MByte, 24-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051048Z" creationid="LiarOnce" creationdate="20181030T051048Z">
+        <seg>第三级缓存:18 MByte, 24 路集关联, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd-level cache: 2 MByte, 16-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051050Z" creationid="LiarOnce" creationdate="20181030T051050Z">
+        <seg>第三级缓存: 2 MByte, 16 路集关联, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd-level cache: 2 MByte, 4-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051051Z" creationid="LiarOnce" creationdate="20181030T051051Z">
+        <seg>第三级缓存: 2 MByte, 4 路集关联, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd-level cache: 2 MByte, 8-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051052Z" creationid="LiarOnce" creationdate="20181030T051052Z">
+        <seg>第三级缓存: 2 MByte, 8 路集关联, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd-level cache: 24 MByte, 24-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051053Z" creationid="LiarOnce" creationdate="20181030T051053Z">
+        <seg>第三级缓存:24 MByte, 24 路集关联, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd-level cache: 3 MByte, 12-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051056Z" creationid="LiarOnce" creationdate="20181030T051056Z">
+        <seg>第三级缓存: 3 MByte, 12 路集关联, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd-level cache: 4 MByte, 16-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051057Z" creationid="LiarOnce" creationdate="20181030T051057Z">
+        <seg>第三级缓存: 4 MByte, 16 路集关联, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd-level cache: 4 MByte, 8-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051059Z" creationid="LiarOnce" creationdate="20181030T051059Z">
+        <seg>第三级缓存: 4 MByte, 8 路集关联, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd-level cache: 4 MBytes, 4-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051100Z" creationid="LiarOnce" creationdate="20181030T051100Z">
+        <seg>第三级缓存: 4 兆字节, 4 路集关联, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd-level cache: 512 KByte, 4-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051100Z" creationid="LiarOnce" creationdate="20181030T051100Z">
+        <seg>第三级缓存: 512 KByte, 4 路集关联, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd-level cache: 6 MByte, 12-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051101Z" creationid="LiarOnce" creationdate="20181030T051101Z">
+        <seg>第三级缓存: 6 MByte, 12 路集关联, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd-level cache: 6MByte, 12-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051102Z" creationid="LiarOnce" creationdate="20181030T051102Z">
+        <seg>第三级高速缓存: 6MByte, 12 路集关联, 64 字节线大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd-level cache: 8 MByte, 16-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051103Z" creationid="LiarOnce" creationdate="20181030T051103Z">
+        <seg>第三级缓存: 8 MByte, 16 路集关联, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd-level cache: 8 MByte, 8-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051104Z" creationid="LiarOnce" creationdate="20181030T051104Z">
+        <seg>第三级缓存: 8 MByte, 8 路集关联, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd-level cache: 8 MBytes, 4-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051105Z" creationid="LiarOnce" creationdate="20181030T051105Z">
+        <seg>第三级缓存: 8 兆字节, 4 路集关联, 64 字节行大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd-level cache: 8MByte, 16-way set associative, 64 byte line size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051109Z" creationid="LiarOnce" creationdate="20181030T051109Z">
+        <seg>第三级高速缓存: 8MByte, 16 路集关联, 64 字节线大小</seg>
       </tuv>
     </tu>
     <tu>
