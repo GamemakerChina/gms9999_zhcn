@@ -1270,10 +1270,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;X</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044934Z" creationid="LiarOnce" creationdate="20181030T044934Z">
+        <seg>&amp;X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;X:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045926Z" creationid="LiarOnce" creationdate="20181029T045926Z">
         <seg>&amp;X:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Y</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044935Z" creationid="LiarOnce" creationdate="20181030T044935Z">
+        <seg>&amp;Y</seg>
       </tuv>
     </tu>
     <tu>
@@ -1606,10 +1622,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>11025</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044753Z" creationid="LiarOnce" creationdate="20181030T044753Z">
+        <seg>11025</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>110x110</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T044535Z" creationid="LiarOnce" creationdate="20181029T044535Z">
         <seg>110x110</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>112</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044803Z" creationid="LiarOnce" creationdate="20181030T044803Z">
+        <seg>112</seg>
       </tuv>
     </tu>
     <tu>
@@ -1686,6 +1718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>144</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044804Z" creationid="LiarOnce" creationdate="20181030T044804Z">
+        <seg>144</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>144x144</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045522Z" creationid="LiarOnce" creationdate="20181029T045522Z">
@@ -1742,6 +1782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>160</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044805Z" creationid="LiarOnce" creationdate="20181030T044805Z">
+        <seg>160</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>160x600 Image Ad</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045102Z" creationid="LiarOnce" creationdate="20181029T045102Z">
@@ -1786,6 +1834,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134859Z" creationid="LiarOnce" creationdate="20181007T134859Z">
         <seg>180 度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>192</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044808Z" creationid="LiarOnce" creationdate="20181030T044808Z">
+        <seg>192</seg>
       </tuv>
     </tu>
     <tu>
@@ -1854,10 +1910,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>22050</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044758Z" creationid="LiarOnce" creationdate="20181030T044758Z">
+        <seg>22050</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>224</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044809Z" creationid="LiarOnce" creationdate="20181030T044809Z">
+        <seg>224</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>228x128</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T044548Z" creationid="LiarOnce" creationdate="20181029T044548Z">
         <seg>228x128</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>24</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044810Z" creationid="LiarOnce" creationdate="20181030T044810Z">
+        <seg>24</seg>
       </tuv>
     </tu>
     <tu>
@@ -1918,6 +1998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>256</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044811Z" creationid="LiarOnce" creationdate="20181030T044811Z">
+        <seg>256</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>256x256</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170316T114719Z" creationid="36011" creationdate="20170316T114719Z">
@@ -1946,6 +2034,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045132Z" creationid="LiarOnce" creationdate="20181029T045132Z">
         <seg>292x60 图片 + 文字广告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2D</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T045004Z" creationid="LiarOnce" creationdate="20181030T045004Z">
+        <seg>2D</seg>
       </tuv>
     </tu>
     <tu>
@@ -2030,6 +2126,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>320</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044812Z" creationid="LiarOnce" creationdate="20181030T044812Z">
+        <seg>320</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>32000</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044759Z" creationid="LiarOnce" creationdate="20181030T044759Z">
+        <seg>32000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>320x176</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T044655Z" creationid="LiarOnce" creationdate="20181029T044655Z">
@@ -2050,6 +2162,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045522Z" creationid="LiarOnce" creationdate="20181029T045522Z">
         <seg>36x36</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3D</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044750Z" creationid="LiarOnce" creationdate="20181030T044750Z">
+        <seg>3D</seg>
       </tuv>
     </tu>
     <tu>
@@ -2078,6 +2198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>40</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044813Z" creationid="LiarOnce" creationdate="20181030T044813Z">
+        <seg>40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>400x240</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045920Z" creationid="LiarOnce" creationdate="20181029T045920Z">
@@ -2094,6 +2222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>44100</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044800Z" creationid="LiarOnce" creationdate="20181030T044800Z">
+        <seg>44100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>44x44</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045422Z" creationid="LiarOnce" creationdate="20181029T045422Z">
@@ -2102,10 +2238,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>48</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044813Z" creationid="LiarOnce" creationdate="20181030T044813Z">
+        <seg>48</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>480</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050320Z" creationid="LiarOnce" creationdate="20181029T050320Z">
         <seg>480</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>48000</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044801Z" creationid="LiarOnce" creationdate="20181030T044801Z">
+        <seg>48000</seg>
       </tuv>
     </tu>
     <tu>
@@ -2150,6 +2302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>50</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044943Z" creationid="LiarOnce" creationdate="20181030T044943Z">
+        <seg>50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>500x130 Image + Text Ad</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045158Z" creationid="LiarOnce" creationdate="20181029T045158Z">
@@ -2166,10 +2326,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>512</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044814Z" creationid="LiarOnce" creationdate="20181030T044814Z">
+        <seg>512</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>512x512</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170316T114723Z" creationid="36011" creationdate="20170316T114723Z">
         <seg>512×512</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5512</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044802Z" creationid="LiarOnce" creationdate="20181030T044802Z">
+        <seg>5512</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>56</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044815Z" creationid="LiarOnce" creationdate="20181030T044815Z">
+        <seg>56</seg>
       </tuv>
     </tu>
     <tu>
@@ -2366,6 +2550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>80</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044816Z" creationid="LiarOnce" creationdate="20181030T044816Z">
+        <seg>80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>8192x8192</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170316T114737Z" creationid="36011" creationdate="20170316T114737Z">
@@ -2410,6 +2602,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T134854Z" creationid="LiarOnce" creationdate="20181007T134854Z">
         <seg>90 度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>96</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044817Z" creationid="LiarOnce" creationdate="20181030T044817Z">
+        <seg>96</seg>
       </tuv>
     </tu>
     <tu>
@@ -2650,6 +2850,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050848Z" creationid="LiarOnce" creationdate="20181029T050848Z">
         <seg>&lt;无物体&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;none&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T045103Z" creationid="LiarOnce" creationdate="20181030T045103Z">
+        <seg>&lt;none&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3754,6 +3962,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045542Z" creationid="LiarOnce" creationdate="20181029T045542Z">
         <seg>Android TV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AndroidADBMacDirEdit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T045137Z" creationid="LiarOnce" creationdate="20181030T045137Z">
+        <seg>AndroidADBMacDirEdit</seg>
       </tuv>
     </tu>
     <tu>
@@ -6846,6 +7062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ctrl+E</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044857Z" creationid="LiarOnce" creationdate="20181030T044857Z">
+        <seg>Ctrl+E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ctrl+F</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090902Z" creationid="LiarOnce" creationdate="20181028T090902Z">
@@ -6866,6 +7090,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090906Z" creationid="LiarOnce" creationdate="20181028T090906Z">
         <seg>Ctrl+I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl+L</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044851Z" creationid="LiarOnce" creationdate="20181030T044851Z">
+        <seg>Ctrl+L</seg>
       </tuv>
     </tu>
     <tu>
@@ -12171,6 +12403,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maker_StudioPreferences</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T045118Z" creationid="LiarOnce" creationdate="20181030T045118Z">
+        <seg>Maker_StudioPreferences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manage</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20161223T064842Z" creationid="deciia" creationdate="20161223T064842Z">
@@ -14021,6 +14261,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Panel1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044830Z" creationid="LiarOnce" creationdate="20181030T044830Z">
+        <seg>Panel1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Parent</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180923T082417Z" creationid="deciia" creationdate="20170103T100607Z">
@@ -15783,6 +16031,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SDK</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T045129Z" creationid="LiarOnce" creationdate="20181030T045129Z">
+        <seg>SDK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>STDCALL</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090549Z" creationid="LiarOnce" creationdate="20181028T090549Z">
@@ -16681,6 +16937,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shift+A</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044854Z" creationid="LiarOnce" creationdate="20181030T044854Z">
+        <seg>Shift+A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shift+Ctrl+A</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091015Z" creationid="LiarOnce" creationdate="20181028T091015Z">
@@ -16809,6 +17073,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shift+Ctrl+T</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044906Z" creationid="LiarOnce" creationdate="20181030T044906Z">
+        <seg>Shift+Ctrl+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shift+Ctrl+U</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091019Z" creationid="LiarOnce" creationdate="20181028T091019Z">
@@ -16845,6 +17117,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090945Z" creationid="LiarOnce" creationdate="20181028T090945Z">
         <seg>Shift+Del</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shift+I</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044855Z" creationid="LiarOnce" creationdate="20181030T044855Z">
+        <seg>Shift+I</seg>
       </tuv>
     </tu>
     <tu>
@@ -17829,6 +18109,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045401Z" creationid="LiarOnce" creationdate="20181029T045401Z">
         <seg>Steam 应用 ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SteamUGC_Visibility</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044954Z" creationid="LiarOnce" creationdate="20181030T044954Z">
+        <seg>SteamUGC_Visibility</seg>
       </tuv>
     </tu>
     <tu>
@@ -20732,6 +21020,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Windows8</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T045147Z" creationid="LiarOnce" creationdate="20181030T045147Z">
+        <seg>Windows8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Word Games : public.app-category.word-games</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091620Z" creationid="LiarOnce" creationdate="20181028T091620Z">
@@ -20920,6 +21216,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091231Z" creationid="LiarOnce" creationdate="20181028T091231Z">
         <seg>YoYo License:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>YoYoCompDec2012</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T045100Z" creationid="LiarOnce" creationdate="20181030T045100Z">
+        <seg>YoYoCompDec2012</seg>
       </tuv>
     </tu>
     <tu>
@@ -21136,6 +21440,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045034Z" creationid="LiarOnce" creationdate="20181029T045034Z">
         <seg>http://advertising.microsoft.com/mobile-apps</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://esotericsoftware.com</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044833Z" creationid="LiarOnce" creationdate="20181030T044833Z">
+        <seg>http://esotericsoftware.com</seg>
       </tuv>
     </tu>
     <tu>
@@ -21680,6 +21992,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091417Z" creationid="LiarOnce" creationdate="20181028T091417Z">
         <seg>ico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>id:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044703Z" creationid="LiarOnce" creationdate="20181030T044703Z">
+        <seg>id:</seg>
       </tuv>
     </tu>
     <tu>
