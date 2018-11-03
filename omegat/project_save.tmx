@@ -3990,6 +3990,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add New Function</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045907Z" creationid="LiarOnce" creationdate="20181103T045859Z">
+        <seg>添加新函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add New Row</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045527Z" creationid="LiarOnce" creationdate="20181103T045527Z">
+        <seg>添加新行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add Placeholder</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170107T050840Z" creationid="deciia" creationdate="20170107T050840Z">
@@ -7375,6 +7391,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Common Functions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045643Z" creationid="LiarOnce" creationdate="20181103T045643Z">
+        <seg>常用函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Common Name</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T134217Z" creationid="deciia" creationdate="20170105T080855Z">
@@ -8679,6 +8703,22 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete Current Function</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T051302Z" creationid="LiarOnce" creationdate="20181103T051302Z">
+        <seg>删除当前函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Current Row</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045528Z" creationid="LiarOnce" creationdate="20181103T045528Z">
+        <seg>删除当前行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete Event</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T102605Z" creationid="deciia" creationdate="20170103T102605Z">
@@ -9975,6 +10015,22 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>External SCM Tool Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045522Z" creationid="LiarOnce" creationdate="20181103T045522Z">
+        <seg>外部 SCM 工具选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External SCM Tools</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045508Z" creationid="LiarOnce" creationdate="20181103T045508Z">
+        <seg>外部 SCM 工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>External SWF viewer to use</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032109Z" creationid="LiarOnce" creationdate="20181021T032109Z">
@@ -10243,6 +10299,22 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052038Z" creationid="LiarOnce" creationdate="20181030T052038Z">
         <seg>Fat archive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Feed Name:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045422Z" creationid="LiarOnce" creationdate="20181103T045422Z">
+        <seg>Feed 名称:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Feed Properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045417Z" creationid="LiarOnce" creationdate="20181103T045417Z">
+        <seg>Feed 属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -10547,6 +10619,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135552Z" creationid="LiarOnce" creationdate="20181020T135552Z">
         <seg>翻转图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flip Tile or Instance on X Axis</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045235Z" creationid="LiarOnce" creationdate="20181103T045235Z">
+        <seg>将当前图块或实例沿 X 轴翻转</seg>
       </tuv>
     </tu>
     <tu>
@@ -17608,6 +17688,54 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rotate Instance Clockwise</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045356Z" creationid="LiarOnce" creationdate="20181103T045356Z">
+        <seg>顺时针旋转实例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate Instance Clockwise (by 10)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045406Z" creationid="LiarOnce" creationdate="20181103T045406Z">
+        <seg>顺时针旋转实例 (由 10)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate Instance Clockwise (by 5)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045401Z" creationid="LiarOnce" creationdate="20181103T045401Z">
+        <seg>顺时针旋转实例 (由 5)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate Instance Counter-Clockwise</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045358Z" creationid="LiarOnce" creationdate="20181103T045358Z">
+        <seg>逆时针旋转实例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate Instance Counter-Clockwise (by 10)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045408Z" creationid="LiarOnce" creationdate="20181103T045408Z">
+        <seg>逆时针旋转实例 (由 10)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate Instance Counter-Clockwise (by 5)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045403Z" creationid="LiarOnce" creationdate="20181103T045403Z">
+        <seg>逆时针旋转实例 (由 5)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rotate the image over an angle</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T030541Z" creationid="LiarOnce" creationdate="20181014T030541Z">
@@ -17768,6 +17896,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SCM Command Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045459Z" creationid="LiarOnce" creationdate="20181103T045459Z">
+        <seg>SCM 命令设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SCM Commands</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045448Z" creationid="LiarOnce" creationdate="20181103T045448Z">
+        <seg>SCM 命令行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SDK</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T045129Z" creationid="LiarOnce" creationdate="20181030T045129Z">
@@ -17860,6 +18004,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143129Z" creationid="LiarOnce" creationdate="20181007T143129Z">
         <seg>保存/载入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save As</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045425Z" creationid="LiarOnce" creationdate="20181103T045425Z">
+        <seg>另存为</seg>
       </tuv>
     </tu>
     <tu>
@@ -17980,6 +18132,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170114T035223Z" creationid="deciia" creationdate="20161223T064926Z">
         <seg>缩放</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scale Tile or Instance Down</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045314Z" creationid="LiarOnce" creationdate="20181103T045314Z">
+        <seg>缩放图块或实例向下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scale Tile or Instance Up</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045303Z" creationid="LiarOnce" creationdate="20181103T045303Z">
+        <seg>缩放图块或实例向上</seg>
       </tuv>
     </tu>
     <tu>
@@ -19634,6 +19802,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Source Control Config</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045436Z" creationid="LiarOnce" creationdate="20181103T045436Z">
+        <seg>源代码管理配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Source Control Conflicts</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170329T020247Z" creationid="deciia" creationdate="20170103T132615Z">
@@ -19918,6 +20094,38 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T075601Z" creationid="deciia" creationdate="20170103T075601Z">
         <seg>状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Status Log</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045524Z" creationid="LiarOnce" creationdate="20181103T045524Z">
+        <seg>状态日志</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Status Log Format</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045530Z" creationid="LiarOnce" creationdate="20181103T045530Z">
+        <seg>状态日志格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Status Log Headers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045525Z" creationid="LiarOnce" creationdate="20181103T045525Z">
+        <seg>状态日志标头</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Status Log Values</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045531Z" creationid="LiarOnce" creationdate="20181103T045531Z">
+        <seg>状态日志值</seg>
       </tuv>
     </tu>
     <tu>
