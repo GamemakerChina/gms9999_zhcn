@@ -1,21 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<desktop scan="1" scanned="20181006132448" built="20181103133019" lang="zh" pane="TLogPane" col="4" row="Panel2.ToolBar.LaunchStudioButton.Caption">
+<desktop scan="1" scanned="20181006132448" built="20181104103210" lang="zh" pane="TLogPane" col="4" row="Font.Name">
   <language id="zh" autoime="0" autokeyboard="0"/>
   <language id="en" autoime="0" autokeyboard="0"/>
   <triggers>
     <item class="TValidateTrigger" position="6" enabled="0"/>
   </triggers>
   <sheet>
-    <font name="宋体" size="12"/>
+    <font name="微软雅黑" size="11"/>
     <columns>
-      <item class="TFlagsColumn" width="40"/>
-      <item class="TPathColumn" width="188"/>
-      <item class="TTranslationStatusColumn" width="70"/>
-      <item class="TOriginalColumn" width="375"/>
-      <item class="TTranslationColumn" lang="zh" width="374"/>
+      <item class="TFlagsColumn" width="36"/>
+      <item class="TPathColumn" width="189"/>
+      <item class="TTranslationStatusColumn" width="66"/>
+      <item class="TOriginalColumn" width="378"/>
+      <item class="TTranslationColumn" lang="zh" width="378"/>
     </columns>
+    <filters>
+      <current>
+        <statuses>[tsTranslated]</statuses>
+      </current>
+    </filters>
     <params>
+      <findtext>Tahoma</findtext>
+      <findtext>MS Sans Serif</findtext>
+      <findtext>Microsoft YaHei UI</findtext>
       <findtext>recent</findtext>
+      <replacetext>Microsoft YaHei UI</replacetext>
     </params>
   </sheet>
   <view node="TVclFormNode" view="TFormEditor"/>
@@ -24,12 +33,17 @@
     <item>All</item>
     <item>F:\Program Files\Steam\steamapps\common\gamemaker_studio\GameMaker-Studio.exe</item>
     <item>Forms</item>
-    <item>TMAINFORM</item>
+    <item>TSPRITEEDITORFORM</item>
   </path>
   <export format="efXliff">
     <filter>
+      <datatypes>
+        <class>TFontNameData</class>
+        <class>TFontColorData</class>
+        <class>TFontStyleData</class>
+      </datatypes>
       <statuses>[tsNotTranslated]</statuses>
     </filter>
-    <xliff escape="seNone" items="[eiRowLocked,eiRowMarked,eiTranslationComment,eiMaxChars,eiMaxPixels]" translation="teWriteOriginalIfNoValue" usefullids="0"/>
+    <xliff escape="seNone" items="[eiRowLocked,eiRowMarked,eiMaxChars,eiMaxPixels]" translation="teWriteOriginalIfNoValue" usefullids="0"/>
   </export>
 </desktop>
