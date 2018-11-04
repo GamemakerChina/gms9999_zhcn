@@ -5166,6 +5166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Arial</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181104T014836Z" creationid="LiarOnce" creationdate="20181104T014836Z">
+        <seg>Arial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Armv5</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045457Z" creationid="LiarOnce" creationdate="20181029T045457Z">
@@ -9515,6 +9523,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023530Z" creationid="LiarOnce" creationdate="20181014T023530Z">
         <seg>绘制文本 (T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DundeeRR Light</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181104T014911Z" creationid="LiarOnce" creationdate="20181104T014911Z">
+        <seg>DundeeRR Light</seg>
       </tuv>
     </tu>
     <tu>
@@ -14192,6 +14208,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T024241Z" creationid="LiarOnce" creationdate="20181021T024241Z">
         <seg>MS 广告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MS Sans Serif</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181104T014712Z" creationid="LiarOnce" creationdate="20181104T014712Z">
+        <seg>Microsoft YaHei UI</seg>
       </tuv>
     </tu>
     <tu>
@@ -20970,6 +20994,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tahoma</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181104T014757Z" creationid="LiarOnce" creationdate="20181104T014757Z">
+        <seg>Microsoft YaHei UI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tar archive</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052442Z" creationid="LiarOnce" creationdate="20181030T052442Z">
@@ -23161,6 +23193,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050820Z" creationid="LiarOnce" creationdate="20181029T050820Z">
         <seg>Vbor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verdana</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181104T014900Z" creationid="LiarOnce" creationdate="20181104T014900Z">
+        <seg>Verdana</seg>
       </tuv>
     </tu>
     <tu>
