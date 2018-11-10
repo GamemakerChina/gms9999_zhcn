@@ -1774,6 +1774,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>+ &lt;Alt&gt;  =  no snap resize</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094140Z" creationid="LiarOnce" creationdate="20181110T094140Z">
+        <seg>+ &lt;Alt&gt; = 无捕捉大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>+ &lt;Alt&gt; = no snap</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094019Z" creationid="LiarOnce" creationdate="20181110T094006Z">
+        <seg>+ &lt;Alt&gt; = 无捕捉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>+ &lt;Alt&gt; = no snap resize</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082615Z" creationid="LiarOnce" creationdate="20181027T082615Z">
@@ -1782,10 +1798,61 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>+ &lt;Ctrl&gt; = add</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094045Z" creationid="LiarOnce" creationdate="20181110T094045Z">
+        <seg>+ &lt;Ctrl&gt; = 添加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>+ &lt;Ctrl&gt; = delete
+Middle mouse button = scroll</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094131Z" creationid="LiarOnce" creationdate="20181110T094131Z">
+        <seg>+ &lt;Ctrl&gt; = delete
+删除鼠标中键 = 滚动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>+ &lt;Ctrl&gt; = resize selection</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082614Z" creationid="LiarOnce" creationdate="20181027T082614Z">
         <seg>+ &lt;Ctrl&gt; = 调整选区大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>+ &lt;Shift&gt; = Select multiple</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094044Z" creationid="LiarOnce" creationdate="20181110T094011Z">
+        <seg>+ &lt;Shift&gt; = 选择多个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>+ &lt;Shift&gt; = delete all</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094115Z" creationid="LiarOnce" creationdate="20181110T094115Z">
+        <seg>+ &lt;Shift&gt; = 删除全部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>+ &lt;Shift&gt;+&lt;Ctrl&gt; = add multiple</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094030Z" creationid="LiarOnce" creationdate="20181110T094007Z">
+        <seg>+ &lt;Shift&gt; + &lt;Ctrl&gt; = 添加多个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>+ &lt;Space&gt; = scroll room
+Right mouse button = menu</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094100Z" creationid="LiarOnce" creationdate="20181110T094100Z">
+        <seg>+ &lt;Space&gt; = 滚动房间鼠标右键 = 菜单</seg>
       </tuv>
     </tu>
     <tu>
@@ -1818,6 +1885,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050056Z" creationid="LiarOnce" creationdate="20181029T050056Z">
         <seg>...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.gml</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093529Z" creationid="LiarOnce" creationdate="20181110T093529Z">
+        <seg>.gml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.project.gmx</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093511Z" creationid="LiarOnce" creationdate="20181110T093511Z">
+        <seg>.project.gmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.rtf</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094200Z" creationid="LiarOnce" creationdate="20181110T094200Z">
+        <seg>.rtf</seg>
       </tuv>
     </tu>
     <tu>
@@ -2498,6 +2589,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T044617Z" creationid="LiarOnce" creationdate="20181029T044617Z">
         <seg>290x164 256 Colour Indexed .png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>292x60  Image + Text Ad</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093835Z" creationid="LiarOnce" creationdate="20181110T093835Z">
+        <seg>292x60 图片 + 文字广告</seg>
       </tuv>
     </tu>
     <tu>
@@ -3390,6 +3489,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>728x90  Image Ad click to Full Screen Image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093843Z" creationid="LiarOnce" creationdate="20181110T093843Z">
+        <seg>728x90 图片广告点击全屏图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>728x90 Image Ad</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045201Z" creationid="LiarOnce" creationdate="20181029T045201Z">
@@ -3598,6 +3705,20 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;!-- Insert the languages your title supports here --&gt;
+&lt;!-- os_get_language will only return languages that are listed --&gt;
+&lt;!-- "en" is supported by default --&gt;
+&lt;!-- Resource Language="en-us"/ --&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093821Z" creationid="LiarOnce" creationdate="20181110T093821Z">
+        <seg>&lt;!-- 在此处插入您的标题支持的语言 --&gt;
+&lt;!-- os_get_language 将仅返回默认情况下支持的语言 --&gt;
+&lt;!-- 默认情况下支持 “en” --&gt;
+&lt;!-- Resource Language="en-us"/ --&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;!-- Insert the languages your title supports here --&gt; &lt;!-- os_get_language will only return languages that are listed --&gt; &lt;!-- "en" is supported by default --&gt; &lt;!-- Resource Language="en-us"/ --&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T044733Z" creationid="LiarOnce" creationdate="20181029T044733Z">
@@ -3762,6 +3883,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090215Z" creationid="LiarOnce" creationdate="20181028T090215Z">
         <seg>&lt;Up&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;mx:Ratings Category="game"&gt;
+&lt;!-- Insert your title ratings here --&gt;
+&lt;!-- See "Title Ratings for Xbox One" white paper --&gt;
+&lt;!-- from developer.xboxlive.com for details --&gt;
+&lt;/mx:Ratings&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093718Z" creationid="LiarOnce" creationdate="20181110T093718Z">
+        <seg>&lt;mx:Ratings Category="game"&gt;
+&lt;!-- 在此处插入您的标题分级 --&gt;
+&lt;!-- 请参阅 "Xbox One 的标题评级" 白皮书 --&gt;
+&lt;!-- developer.xboxlive.com 的信息 --&gt;
+&lt;/mx:Ratings&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8352,6 +8489,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create  Executable for Target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093510Z" creationid="LiarOnce" creationdate="20181110T093510Z">
+        <seg>为目标创建可执行文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create &amp;Background</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042251Z" creationid="LiarOnce" creationdate="20181014T042251Z">
@@ -9865,6 +10010,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Documents|*.rtf|Text Files|*.txt</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094215Z" creationid="LiarOnce" creationdate="20181110T094215Z">
+        <seg>文档|*.rtf|文本文件|*.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don't create all textures at the start of the game</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090644Z" creationid="LiarOnce" creationdate="20181020T090644Z">
@@ -10737,6 +10890,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extension Packages (*.gex)|*.gex</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093339Z" creationid="LiarOnce" creationdate="20181110T093339Z">
+        <seg>扩展包 (*.gex)|*.gex</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extension already exits</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091715Z" creationid="LiarOnce" creationdate="20181110T091715Z">
@@ -11253,6 +11414,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023517Z" creationid="LiarOnce" creationdate="20181014T023517Z">
         <seg>填充区域 (F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fill room with color when no background  color selected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093908Z" creationid="LiarOnce" creationdate="20181110T093908Z">
+        <seg>如果未选择背景颜色，请填充颜色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11937,6 +12106,22 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Game Maker Resource Files (*.gmres)|*.gmres</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093542Z" creationid="LiarOnce" creationdate="20181110T093542Z">
+        <seg>Game Maker 资源文件 (*.gmres)|*.gmres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Game Maker X project|*.project.gmx</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093528Z" creationid="LiarOnce" creationdate="20181110T093528Z">
+        <seg>Game Maker X 项目|*.project.gmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Game Name</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030055Z" creationid="LiarOnce" creationdate="20181021T030055Z">
@@ -12005,6 +12190,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044157Z" creationid="LiarOnce" creationdate="20181014T044157Z">
         <seg>GameMaker 新闻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GameMaker files|*.project.gmx</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093521Z" creationid="LiarOnce" creationdate="20181110T093521Z">
+        <seg>GameMaker 文件|*.project.gmx</seg>
       </tuv>
     </tu>
     <tu>
@@ -13350,6 +13543,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Initial Dela&amp;y  (msec):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093910Z" creationid="LiarOnce" creationdate="20181110T093910Z">
+        <seg>初始延迟 (毫秒):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Initial Dela&amp;y (msec):</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031423Z" creationid="LiarOnce" creationdate="20181021T031411Z">
@@ -14382,10 +14583,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LMB + &lt;Alt&gt; =  No snap</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093948Z" creationid="LiarOnce" creationdate="20181110T093948Z">
+        <seg>LMB + &lt;Alt&gt; = 无捕捉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LMB + &lt;Alt&gt; = No snap</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032407Z" creationid="LiarOnce" creationdate="20181021T032407Z">
         <seg>LMB + &lt;Alt&gt; = 无捕捉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LMB + &lt;Ctrl&gt; =  Add on top</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093949Z" creationid="LiarOnce" creationdate="20181110T093949Z">
+        <seg>LMB + &lt;Ctrl&gt; = 添加到顶部</seg>
       </tuv>
     </tu>
     <tu>
@@ -14398,10 +14615,34 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LMB + &lt;Shift&gt; + &lt;Ctrl&gt; =  Add multiple</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093950Z" creationid="LiarOnce" creationdate="20181110T093950Z">
+        <seg>LMB + &lt;Shift&gt; + &lt;Ctrl&gt; = 添加多个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LMB + &lt;Shift&gt; + &lt;Ctrl&gt; = Add multiple</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032425Z" creationid="LiarOnce" creationdate="20181021T032425Z">
         <seg>LMB + &lt;Shift&gt; + &lt;Ctrl&gt; = 添加多个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LMB + &lt;Shift&gt; =  Add mutliple</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093952Z" creationid="LiarOnce" creationdate="20181110T093952Z">
+        <seg>LMB + &lt;Shift&gt; = 添加多个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LMB + &lt;Shift&gt; =  Multi-Select</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093948Z" creationid="LiarOnce" creationdate="20181110T093948Z">
+        <seg>LMB + &lt;Shift&gt; = 多选</seg>
       </tuv>
     </tu>
     <tu>
@@ -14418,6 +14659,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032417Z" creationid="LiarOnce" creationdate="20181021T032417Z">
         <seg>LMB + &lt;Shift&gt; = 多选</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LMB + &lt;Space&gt; =  Scroll</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093950Z" creationid="LiarOnce" creationdate="20181110T093950Z">
+        <seg>LMB + &lt;Space&gt; = 滚动</seg>
       </tuv>
     </tu>
     <tu>
@@ -14534,6 +14783,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Learn  more</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093325Z" creationid="LiarOnce" creationdate="20181110T093325Z">
+        <seg>了解更多</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Learn more</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T053033Z" creationid="LiarOnce" creationdate="20181008T053033Z">
@@ -14554,6 +14811,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050328Z" creationid="LiarOnce" creationdate="20181009T050303Z">
         <seg>左对齐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left Mouse Button  = select tile</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094137Z" creationid="LiarOnce" creationdate="20181110T094137Z">
+        <seg>鼠标左键 = 选择图块</seg>
       </tuv>
     </tu>
     <tu>
@@ -14582,9 +14847,25 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Left mouse button =  Move / Add</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093947Z" creationid="LiarOnce" creationdate="20181110T093947Z">
+        <seg>鼠标左键 = 移动/添加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Left mouse button = Move / Add</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032354Z" creationid="LiarOnce" creationdate="20181021T032354Z">
+        <seg>鼠标左键 = 移动/添加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left mouse button = move/add</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094005Z" creationid="LiarOnce" creationdate="20181110T094005Z">
         <seg>鼠标左键 = 移动/添加</seg>
       </tuv>
     </tu>
@@ -17334,6 +17615,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PNG files (*.png)|*.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093434Z" creationid="LiarOnce" creationdate="20181110T093434Z">
+        <seg>PNG 文件 (*.png)|*.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Package</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135648Z" creationid="LiarOnce" creationdate="20181020T135648Z">
@@ -17930,6 +18219,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Position  X</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094001Z" creationid="LiarOnce" creationdate="20181110T094001Z">
+        <seg>位置 X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Position X</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032508Z" creationid="LiarOnce" creationdate="20181021T032508Z">
@@ -18202,6 +18499,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Programs|*.exe|All Files|*.*</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093935Z" creationid="LiarOnce" creationdate="20181110T093935Z">
+        <seg>程序|*.exe|所有文件|*.*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ProgressForm</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050300Z" creationid="LiarOnce" creationdate="20181029T050300Z">
@@ -18428,10 +18733,26 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RMB + &lt;Ctrl&gt; =  Delete</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093947Z" creationid="LiarOnce" creationdate="20181110T093947Z">
+        <seg>RMB + &lt;Ctrl&gt; = 删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>RMB + &lt;Ctrl&gt; = Delete</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032351Z" creationid="LiarOnce" creationdate="20181021T032351Z">
         <seg>RMB + &lt;Ctrl&gt; = 删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RMB + &lt;Shift&gt; =  Delete multiple</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093946Z" creationid="LiarOnce" creationdate="20181110T093946Z">
+        <seg>RMB + &lt;Shift&gt; = 删除多个</seg>
       </tuv>
     </tu>
     <tu>
@@ -19324,6 +19645,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rich Text Files|*.rtf|All Files|*.*</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093411Z" creationid="LiarOnce" creationdate="20181110T093411Z">
+        <seg>富文本文件|*.rtf|所有文件|*.*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T045026Z" creationid="LiarOnce" creationdate="20181008T045026Z">
@@ -19344,6 +19673,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142842Z" creationid="LiarOnce" creationdate="20181007T142802Z">
         <seg>鼠标右键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right mouse button =  Menu</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093951Z" creationid="LiarOnce" creationdate="20181110T093951Z">
+        <seg>鼠标右键 = 菜单</seg>
       </tuv>
     </tu>
     <tu>
@@ -20020,6 +20357,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scale  X</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093956Z" creationid="LiarOnce" creationdate="20181110T093956Z">
+        <seg>X 缩放</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scale Tile or Instance Down</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045314Z" creationid="LiarOnce" creationdate="20181103T045314Z">
@@ -20176,6 +20521,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025107Z" creationid="LiarOnce" creationdate="20181021T025107Z">
         <seg>屏幕颜色深度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Script Files|*.gml</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093536Z" creationid="LiarOnce" creationdate="20181110T093536Z">
+        <seg>脚本文件|*.gml</seg>
       </tuv>
     </tu>
     <tu>
@@ -21786,6 +22139,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T051737Z" creationid="LiarOnce" creationdate="20181103T051737Z">
         <seg>声音属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sound files|*.wav;*.mp3;*.ogg|Wave files|*.wav|MP3 files|*.mp3|OGG files|*.ogg|All files|*.*</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094306Z" creationid="LiarOnce" creationdate="20181110T094254Z">
+        <seg>声音文件|*.wav;*.mp3;*.ogg|波形文件|*.wav|MP3 文件|*.mp3|OGG 文件|*.ogg|所有文件|*.*</seg>
       </tuv>
     </tu>
     <tu>
@@ -24439,6 +24800,14 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Update Delay  (msec):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093911Z" creationid="LiarOnce" creationdate="20181110T093911Z">
+        <seg>更新延迟 (毫秒):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Update Delay (msec):</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031414Z" creationid="LiarOnce" creationdate="20181021T031414Z">
@@ -26018,6 +26387,15 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are importing from an old version of GameMaker, functionality has changed from previous versions so DO NOT expect 
+this to work without changes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093448Z" creationid="LiarOnce" creationdate="20181110T093448Z">
+        <seg>您从旧版本的 GameMaker 导入，函数已从以前的版本更改，所以不要期望这个没有更改。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You are importing from an old version of GameMaker, functionality has changed from previous versions so DO NOT expect this to work without changes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051709Z" creationid="LiarOnce" creationdate="20181015T051709Z">
@@ -26063,6 +26441,15 @@ release candidate in any way.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141429Z" creationid="LiarOnce" creationdate="20181007T141429Z">
         <seg>当前你的库的筛选器中没有任何资产。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may need to rewrite some code 
+or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093502Z" creationid="LiarOnce" creationdate="20181110T093502Z">
+        <seg>您可能需要重写一些代码, 或者您可能会发现一个 bug (请提交 bug 报告 (帮助-&gt;&gt; 报告 bug))</seg>
       </tuv>
     </tu>
     <tu>
@@ -26267,6 +26654,14 @@ release candidate in any way.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>exe</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093924Z" creationid="LiarOnce" creationdate="20181110T093924Z">
+        <seg>exe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ffMpeg</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091241Z" creationid="LiarOnce" creationdate="20181028T091241Z">
@@ -26291,10 +26686,26 @@ release candidate in any way.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>gex</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093341Z" creationid="LiarOnce" creationdate="20181110T093341Z">
+        <seg>gex</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>gmbck</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093218Z" creationid="LiarOnce" creationdate="20181110T093218Z">
         <seg>gmbck</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>gmres</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093537Z" creationid="LiarOnce" creationdate="20181110T093537Z">
+        <seg>gmres</seg>
       </tuv>
     </tu>
     <tu>
@@ -27099,6 +27510,14 @@ release candidate in any way.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093422Z" creationid="LiarOnce" creationdate="20181110T093422Z">
+        <seg>png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>preferExternal</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045503Z" creationid="LiarOnce" creationdate="20181029T045503Z">
@@ -27115,10 +27534,26 @@ release candidate in any way.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>project.gmx</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093514Z" creationid="LiarOnce" creationdate="20181110T093514Z">
+        <seg>project.gmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>rfPersonal</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091206Z" creationid="LiarOnce" creationdate="20181028T091206Z">
         <seg>rfPersonal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rtf</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093350Z" creationid="LiarOnce" creationdate="20181110T093350Z">
+        <seg>rtf</seg>
       </tuv>
     </tu>
     <tu>
@@ -27239,6 +27674,14 @@ release candidate in any way.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090552Z" creationid="LiarOnce" creationdate="20181028T090552Z">
         <seg>void</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>wave files|*.wav</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094300Z" creationid="LiarOnce" creationdate="20181110T094300Z">
+        <seg>波形文件|*.wav</seg>
       </tuv>
     </tu>
     <tu>
