@@ -6318,6 +6318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot save empty GIF</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T032356Z" creationid="LiarOnce" creationdate="20181110T032356Z">
+        <seg>无法保存空 GIF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CaptionLabel1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T045505Z" creationid="LiarOnce" creationdate="20181030T045505Z">
@@ -7803,6 +7811,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025126Z" creationid="LiarOnce" creationdate="20181110T025106Z">
         <seg>转换中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converting...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T032520Z" creationid="LiarOnce" creationdate="20181110T032520Z">
+        <seg>转换中...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13052,6 +13068,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid GIF signature</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T032400Z" creationid="LiarOnce" creationdate="20181110T032400Z">
+        <seg>无效的 GIF 签名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid Image trailer</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025539Z" creationid="LiarOnce" creationdate="20181110T025539Z">
@@ -13064,6 +13088,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T032339Z" creationid="LiarOnce" creationdate="20181110T032339Z">
         <seg>无效的颜色索引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid color index - color map expanded</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T032351Z" creationid="LiarOnce" creationdate="20181110T032351Z">
+        <seg>无效的颜色索引 - 扩展了颜色映射</seg>
       </tuv>
     </tu>
     <tu>
@@ -13100,10 +13132,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid number of colors specified in Screen Descriptor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T032505Z" creationid="LiarOnce" creationdate="20181110T032505Z">
+        <seg>屏幕描述符中指定的颜色数量无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid pixel coordinates</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025654Z" creationid="LiarOnce" creationdate="20181110T025654Z">
         <seg>无效的像素坐标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid reduction method</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T032516Z" creationid="LiarOnce" creationdate="20181110T032516Z">
+        <seg>无效的还原方法</seg>
       </tuv>
     </tu>
     <tu>
@@ -17860,6 +17908,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025129Z" creationid="LiarOnce" creationdate="20181110T025109Z">
         <seg>渲染中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rendering...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T033813Z" creationid="LiarOnce" creationdate="20181110T033813Z">
+        <seg>渲染中...</seg>
       </tuv>
     </tu>
     <tu>
