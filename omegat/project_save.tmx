@@ -4526,6 +4526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091115Z" creationid="LiarOnce" creationdate="20181110T091115Z">
+        <seg>所有图片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allow &amp;menu and dock in fullscreen</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134442Z" creationid="LiarOnce" creationdate="20181020T134442Z">
@@ -5322,6 +5330,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142643Z" creationid="LiarOnce" creationdate="20181007T142643Z">
         <seg>异步事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attempt to register %s twice.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091127Z" creationid="LiarOnce" creationdate="20181110T091127Z">
+        <seg>尝试注册 %s 两次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9391,6 +9407,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Device independant Windows bitmaps</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091150Z" creationid="LiarOnce" creationdate="20181110T091150Z">
+        <seg>独立于设备的 Windows 位图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Devices</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135023Z" creationid="LiarOnce" creationdate="20181020T135023Z">
@@ -10195,6 +10219,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135845Z" creationid="LiarOnce" creationdate="20181020T135845Z">
         <seg>从后触摸板启用触摸事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Encapsulated Postscript images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091216Z" creationid="LiarOnce" creationdate="20181110T091216Z">
+        <seg>封装的 Postscript 图像</seg>
       </tuv>
     </tu>
     <tu>
@@ -13528,6 +13560,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T034251Z" creationid="LiarOnce" creationdate="20181110T034251Z">
         <seg>JPEG 解压缩错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JPEG error #%d</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091228Z" creationid="LiarOnce" creationdate="20181110T091228Z">
+        <seg>JPEG 错误 #%d</seg>
       </tuv>
     </tu>
     <tu>
@@ -18944,6 +18984,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Run length encoded Windows bitmaps</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091145Z" creationid="LiarOnce" creationdate="20181110T091145Z">
+        <seg>运行长度编码的 Windows 位图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Run the game</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032738Z" creationid="LiarOnce" creationdate="20181014T032738Z">
@@ -23506,6 +23554,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unsupported operation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091222Z" creationid="LiarOnce" creationdate="20181110T091222Z">
+        <seg>不支持的操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Up</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T045031Z" creationid="LiarOnce" creationdate="20181008T045031Z">
@@ -24805,6 +24861,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Windows bitmaps</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091137Z" creationid="LiarOnce" creationdate="20181110T091137Z">
+        <seg>Windows 位图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Windows enhanced meta files</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T090203Z" creationid="LiarOnce" creationdate="20181110T090203Z">
@@ -24833,6 +24897,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T045147Z" creationid="LiarOnce" creationdate="20181030T045147Z">
         <seg>Windows8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Word 5.x screen capture images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T090302Z" creationid="LiarOnce" creationdate="20181110T090302Z">
+        <seg>Word 5.x 屏幕捕获图像</seg>
       </tuv>
     </tu>
     <tu>
@@ -25141,6 +25213,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ZSoft Paintbrush images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T090251Z" creationid="LiarOnce" creationdate="20181110T090251Z">
+        <seg>ZSoft Paintbrush 图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Zip</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091245Z" creationid="LiarOnce" creationdate="20181028T091245Z">
@@ -25221,6 +25301,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>buffer error</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091249Z" creationid="LiarOnce" creationdate="20181110T091249Z">
+        <seg>缓冲区错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>com.companyname.packageid</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050043Z" creationid="LiarOnce" creationdate="20181029T050043Z">
@@ -25253,6 +25341,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>data error</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091247Z" creationid="LiarOnce" creationdate="20181110T091247Z">
+        <seg>数据错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>delay before auto-complete appears</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032026Z" creationid="LiarOnce" creationdate="20181021T032026Z">
@@ -25269,10 +25365,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>empty distance tree with lengths</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T090306Z" creationid="LiarOnce" creationdate="20181110T090306Z">
+        <seg>长度为空的距离树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ffMpeg</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091241Z" creationid="LiarOnce" creationdate="20181028T091241Z">
         <seg>ffMpeg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>file error</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091243Z" creationid="LiarOnce" creationdate="20181110T091243Z">
+        <seg>文件错误</seg>
       </tuv>
     </tu>
     <tu>
@@ -25877,6 +25989,78 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>incompatible version</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091251Z" creationid="LiarOnce" creationdate="20181110T091251Z">
+        <seg>不兼容的版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>incorrect data check</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091105Z" creationid="LiarOnce" creationdate="20181110T091105Z">
+        <seg>不正确的数据检查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>incorrect header check</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091111Z" creationid="LiarOnce" creationdate="20181110T091111Z">
+        <seg>不正确的标头检查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>insufficient memory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091248Z" creationid="LiarOnce" creationdate="20181110T091248Z">
+        <seg>内存不足</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>invalid bit length repeat</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091103Z" creationid="LiarOnce" creationdate="20181110T091103Z">
+        <seg>无效的位长度重复</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>invalid block type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T090308Z" creationid="LiarOnce" creationdate="20181110T090308Z">
+        <seg>无效的块类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>invalid distance code</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091252Z" creationid="LiarOnce" creationdate="20181110T091252Z">
+        <seg>无效的距离代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>invalid stored block lengths</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T090309Z" creationid="LiarOnce" creationdate="20181110T090309Z">
+        <seg>无效存储的块长度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>invalid window size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091107Z" creationid="LiarOnce" creationdate="20181110T091107Z">
+        <seg>无效的窗口大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>message0:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T085342Z" creationid="LiarOnce" creationdate="20181028T085342Z">
@@ -25929,6 +26113,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091428Z" creationid="LiarOnce" creationdate="20181028T091428Z">
         <seg>ms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>need dictionary</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091112Z" creationid="LiarOnce" creationdate="20181110T091112Z">
+        <seg>需要字典</seg>
       </tuv>
     </tu>
     <tu>
@@ -26053,6 +26245,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>stream end</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091241Z" creationid="LiarOnce" creationdate="20181110T091241Z">
+        <seg>流结束</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>stream error</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091246Z" creationid="LiarOnce" creationdate="20181110T091246Z">
+        <seg>流错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>string</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090553Z" creationid="LiarOnce" creationdate="20181028T090553Z">
@@ -26077,10 +26285,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>too many length or distance symbols</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091101Z" creationid="LiarOnce" creationdate="20181110T090310Z">
+        <seg>太多的长度或距离符号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>trophy00.trp</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T044603Z" creationid="LiarOnce" creationdate="20181029T044603Z">
         <seg>trophy00.trp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>unknown compression method</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091106Z" creationid="LiarOnce" creationdate="20181110T091106Z">
+        <seg>未知的压缩方法</seg>
       </tuv>
     </tu>
     <tu>
