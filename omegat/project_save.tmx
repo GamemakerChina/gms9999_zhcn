@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%d: Circular links are not allowed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092224Z" creationid="LiarOnce" creationdate="20181110T092224Z">
+        <seg>%d: 不允许循环链接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%localappdata%\&lt;GameName&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091432Z" creationid="LiarOnce" creationdate="20181028T091432Z">
@@ -4278,6 +4286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Address type not supported.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092216Z" creationid="LiarOnce" creationdate="20181110T092216Z">
+        <seg>不支持地址类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjust Font Size</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T090033Z" creationid="LiarOnce" creationdate="20181013T090033Z">
@@ -4754,6 +4770,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082314Z" creationid="LiarOnce" creationdate="20181027T082314Z">
         <seg>Alpha 值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Already connected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091932Z" creationid="LiarOnce" creationdate="20181110T091932Z">
+        <seg>已连接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5422,6 +5446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Authentication error to socks server.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092150Z" creationid="LiarOnce" creationdate="20181110T092150Z">
+        <seg>Socks 服务器的身份验证错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Author</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T083256Z" creationid="deciia" creationdate="20170104T083256Z">
@@ -6046,6 +6078,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Buffer start position is invalid.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091608Z" creationid="LiarOnce" creationdate="20181110T091608Z">
+        <seg>缓冲区起始位置无效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Buffer terminator must be specified.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092012Z" creationid="LiarOnce" creationdate="20181110T092012Z">
+        <seg>必须指定缓冲区终止符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Build Tools</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170319T005326Z" creationid="deciia" creationdate="20170104T065243Z">
@@ -6394,6 +6442,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024617Z" creationid="LiarOnce" creationdate="20181110T024617Z">
         <seg>无法将非ScreenTipItem指定给ScreenTipItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot call TerminateAndWaitFor on FreeAndTerminate threads</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091931Z" creationid="LiarOnce" creationdate="20181110T091931Z">
+        <seg>无法在 FreeAndTerminate 线程上调用 TerminateAndWaitFor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot change a connected IOHandler.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091620Z" creationid="LiarOnce" creationdate="20181110T091620Z">
+        <seg>无法更改连接的 IOHandler.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6898,6 +6962,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T044417Z" creationid="LiarOnce" creationdate="20181009T044417Z">
         <seg>选择...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chunk Started</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091717Z" creationid="LiarOnce" creationdate="20181110T091717Z">
+        <seg>已启动的块</seg>
       </tuv>
     </tu>
     <tu>
@@ -7687,6 +7759,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Command not supported.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092214Z" creationid="LiarOnce" creationdate="20181110T092214Z">
+        <seg>命令不受支持。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Comment</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031505Z" creationid="LiarOnce" creationdate="20181021T031505Z">
@@ -7895,6 +7975,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connect timed out.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091908Z" creationid="LiarOnce" creationdate="20181110T091908Z">
+        <seg>连接超时。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connect to Steam Workshop</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041854Z" creationid="LiarOnce" creationdate="20181014T041854Z">
@@ -7907,6 +7995,22 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T062831Z" creationid="deciia" creationdate="20170103T103810Z">
         <seg>连接类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connection not allowed by ruleset.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092202Z" creationid="LiarOnce" creationdate="20181110T092202Z">
+        <seg>规则集不允许连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connection refused.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092206Z" creationid="LiarOnce" creationdate="20181110T092206Z">
+        <seg>连接被拒绝。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8131,6 +8235,38 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T083449Z" creationid="LiarOnce" creationdate="20181110T083449Z">
         <seg>找不到正确的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not load SSL library.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091526Z" creationid="LiarOnce" creationdate="20181110T091526Z">
+        <seg>无法加载 SSL 库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not load certificate.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091457Z" creationid="LiarOnce" creationdate="20181110T091457Z">
+        <seg>无法加载证书。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not load key, check password.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091459Z" creationid="LiarOnce" creationdate="20181110T091459Z">
+        <seg>无法加载密钥, 请检查密码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not load root certificate.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091456Z" creationid="LiarOnce" creationdate="20181110T091456Z">
+        <seg>无法加载根证书。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9023,6 +9159,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Data is too large for stream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091907Z" creationid="LiarOnce" creationdate="20181110T091907Z">
+        <seg>数据太大, 无法流式传输</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Date:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051911Z" creationid="LiarOnce" creationdate="20181008T051911Z">
@@ -9847,6 +9991,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EOF was observed that violates the protocol</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091521Z" creationid="LiarOnce" creationdate="20181110T091521Z">
+        <seg>被观察到的 EOF 违反了协议</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T083709Z" creationid="deciia" creationdate="20170102T083709Z">
@@ -10343,10 +10495,58 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error accepting connection with SSL.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091802Z" creationid="LiarOnce" creationdate="20181110T091802Z">
+        <seg>接受与 SSL 的连接时出错。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error binding data to SSL socket.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091514Z" creationid="LiarOnce" creationdate="20181110T091514Z">
+        <seg>将数据绑定到 SSL 套接字时出错。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error code $%x</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025828Z" creationid="LiarOnce" creationdate="20181110T025828Z">
         <seg>错误代码 $%x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error connecting with SSL.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091422Z" creationid="LiarOnce" creationdate="20181110T091422Z">
+        <seg>连接 SSL 时出错。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error creating SSL context.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091454Z" creationid="LiarOnce" creationdate="20181110T091454Z">
+        <seg>创建 SSL 上下文时出错。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error geting SSL method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091503Z" creationid="LiarOnce" creationdate="20181110T091503Z">
+        <seg>获取 SSL 方法时出错。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error setting File Descriptor for SSL</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091509Z" creationid="LiarOnce" creationdate="20181110T091509Z">
+        <seg>设置 SSL 的文件描述符时出错</seg>
       </tuv>
     </tu>
     <tu>
@@ -10451,6 +10651,22 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143258Z" creationid="LiarOnce" creationdate="20181007T143258Z">
         <seg>扩展包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extension already exits</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091715Z" creationid="LiarOnce" creationdate="20181110T091715Z">
+        <seg>扩展已退出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extension is empty</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091705Z" creationid="LiarOnce" creationdate="20181110T091705Z">
+        <seg>扩展为空</seg>
       </tuv>
     </tu>
     <tu>
@@ -10835,6 +11051,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140352Z" creationid="LiarOnce" creationdate="20181006T140352Z">
         <seg>订阅 URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File "%s" not found</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092501Z" creationid="LiarOnce" creationdate="20181110T092501Z">
+        <seg>找不到文件 "%s"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11751,6 +11975,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General SOCKS server failure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092200Z" creationid="LiarOnce" creationdate="20181110T092200Z">
+        <seg>常规 SOCKS 服务器故障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generate</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170311T151724Z" creationid="deciia" creationdate="20170311T151724Z">
@@ -12356,6 +12588,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Host field is empty</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091605Z" creationid="LiarOnce" creationdate="20181110T091605Z">
+        <seg>主机字段为空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Host unreachable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092204Z" creationid="LiarOnce" creationdate="20181110T092204Z">
+        <seg>主机无法访问。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hsp:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050821Z" creationid="LiarOnce" creationdate="20181029T050821Z">
@@ -12424,6 +12672,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045534Z" creationid="LiarOnce" creationdate="20181029T045534Z">
         <seg>INTERNET</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IOHandler value is not valid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091659Z" creationid="LiarOnce" creationdate="20181110T091659Z">
+        <seg>IOHandler 值无效</seg>
       </tuv>
     </tu>
     <tu>
@@ -13448,6 +13704,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T032516Z" creationid="LiarOnce" creationdate="20181110T032516Z">
         <seg>无效的还原方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid socks authentication method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092134Z" creationid="LiarOnce" creationdate="20181110T092134Z">
+        <seg>无效的 Socks 身份验证方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15004,6 +15268,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Max line length exceeded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091844Z" creationid="LiarOnce" creationdate="20181110T091844Z">
+        <seg>超出了最大行长度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Max line read attempts exceeded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091814Z" creationid="LiarOnce" creationdate="20181110T091814Z">
+        <seg>超出了最大行读取尝试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Max number of forward onion images</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T022952Z" creationid="LiarOnce" creationdate="20181014T022952Z">
@@ -15032,6 +15312,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050837Z" creationid="LiarOnce" creationdate="20181029T050837Z">
         <seg>每步最大垂直移动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum number of line allowed exceeded</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091934Z" creationid="LiarOnce" creationdate="20181110T091934Z">
+        <seg>允许超过的最大行数</seg>
       </tuv>
     </tu>
     <tu>
@@ -15124,6 +15412,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mimetype is empty</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091712Z" creationid="LiarOnce" creationdate="20181110T091712Z">
+        <seg>Mimetype 为空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Min SDK</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045442Z" creationid="LiarOnce" creationdate="20181029T045442Z">
@@ -15208,6 +15504,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025051Z" creationid="LiarOnce" creationdate="20181110T025051Z">
         <seg>缺少，无效或空的调色板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mode has not been set.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091522Z" creationid="LiarOnce" creationdate="20181110T091522Z">
+        <seg>尚未设置模式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15804,6 +16108,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Network unreachable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092203Z" creationid="LiarOnce" creationdate="20181110T092203Z">
+        <seg>网络无法访问。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Networking</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143118Z" creationid="LiarOnce" creationdate="20181007T143118Z">
@@ -15988,6 +16300,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No IOHandler of type %s is installed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091637Z" creationid="LiarOnce" creationdate="20181110T091637Z">
+        <seg>未安装类型为 %s 的 IOHandler。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No Zoom</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T044708Z" creationid="LiarOnce" creationdate="20181103T044708Z">
@@ -16008,6 +16328,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T085925Z" creationid="LiarOnce" creationdate="20181020T085925Z">
         <seg>无裁剪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No data to read.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091811Z" creationid="LiarOnce" creationdate="20181110T091811Z">
+        <seg>没有要读取的数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16076,10 +16404,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not Acceptable</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091720Z" creationid="LiarOnce" creationdate="20181110T091720Z">
+        <seg>不可接受</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not Connected</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T141755Z" creationid="deciia" creationdate="20170105T102228Z">
         <seg>未连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not enough data in buffer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092226Z" creationid="LiarOnce" creationdate="20181110T092226Z">
+        <seg>缓冲区中的数据不足。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16304,6 +16648,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025644Z" creationid="LiarOnce" creationdate="20181110T025644Z">
         <seg>不支持的操作物体类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Object type not supported.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091847Z" creationid="LiarOnce" creationdate="20181110T091809Z">
+        <seg>不支持对象类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17709,6 +18061,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Protocol field is empty</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091611Z" creationid="LiarOnce" creationdate="20181110T091604Z">
+        <seg>协议"字段为空</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>供应的意思？没找到。
 情境：检测目标平台的配置问题。</note>
       <tuv lang="EN-US">
@@ -17980,6 +18340,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170224T003724Z" creationid="deciia" creationdate="20170224T003724Z">
         <seg>读</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read timed out.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091812Z" creationid="LiarOnce" creationdate="20181110T091812Z">
+        <seg>读取超时。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18408,6 +18776,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reply Code already exists: %s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091652Z" creationid="LiarOnce" creationdate="20181110T091652Z">
+        <seg>答复代码已存在: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reply Code is not valid: %s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091646Z" creationid="LiarOnce" creationdate="20181110T091646Z">
+        <seg>回复代码无效: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Report a Bug</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T083930Z" creationid="deciia" creationdate="20170102T083930Z">
@@ -18420,6 +18804,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135844Z" creationid="LiarOnce" creationdate="20181020T135844Z">
         <seg>报告前屏幕的触摸事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Request method requires HTTP version 1.1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091729Z" creationid="LiarOnce" creationdate="20181110T091729Z">
+        <seg>请求方法需要 HTTP 1.1 版</seg>
       </tuv>
     </tu>
     <tu>
@@ -19148,6 +19540,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T083934Z" creationid="LiarOnce" creationdate="20181110T083934Z">
         <seg>带有 Alpha 的 SGI 真彩色图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SSL status: "%s"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091533Z" creationid="LiarOnce" creationdate="20181110T091533Z">
+        <seg>SSL 状态: "%s"</seg>
       </tuv>
     </tu>
     <tu>
@@ -19968,6 +20368,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set LargeStream to True to send streams greater than 2GB</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091905Z" creationid="LiarOnce" creationdate="20181110T091905Z">
+        <seg>将 LargeStream 设置为 True 以发送大于 2GB 的流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set To Defaults</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T051330Z" creationid="LiarOnce" creationdate="20181103T051330Z">
@@ -20020,6 +20428,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130950Z" creationid="LiarOnce" creationdate="20181013T130950Z">
         <seg>将字符范围设置为正常范围 (32-127)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SetCipher failed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091449Z" creationid="LiarOnce" creationdate="20181110T091449Z">
+        <seg>设置密码失败。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21090,6 +21506,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Socks server did not respond.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092122Z" creationid="LiarOnce" creationdate="20181110T092122Z">
+        <seg>Socks 服务器无响应。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Soft shadow</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135618Z" creationid="LiarOnce" creationdate="20181007T135618Z">
@@ -21826,6 +22250,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TTL expired.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092213Z" creationid="LiarOnce" creationdate="20181110T092213Z">
+        <seg>TTL 已过期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TV</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045551Z" creationid="LiarOnce" creationdate="20181029T045551Z">
@@ -22062,6 +22494,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045221Z" creationid="LiarOnce" creationdate="20181029T045221Z">
         <seg>Texturepage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The IOHandler already has a different Intercept assigned</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092002Z" creationid="LiarOnce" creationdate="20181110T092002Z">
+        <seg>IOHandler 已经分配了不同的拦截</seg>
       </tuv>
     </tu>
     <tu>
@@ -22354,10 +22794,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This authentication method is already registered with class name %s.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091748Z" creationid="LiarOnce" creationdate="20181110T091748Z">
+        <seg>此身份验证方法已使用类名 %s 注册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This command is disabled.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024606Z" creationid="LiarOnce" creationdate="20181110T024548Z">
         <seg>此命令已禁用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This implementation supports only MD5 encoding.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091756Z" creationid="LiarOnce" creationdate="20181110T091756Z">
+        <seg>此实现仅支持 MD5 编码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23098,6 +23554,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Too much data in buffer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092229Z" creationid="LiarOnce" creationdate="20181110T092229Z">
+        <seg>缓冲区中的数据太多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ToolBar</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045934Z" creationid="LiarOnce" creationdate="20181029T045934Z">
@@ -23242,6 +23706,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transparent proxy cannot bind.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092004Z" creationid="LiarOnce" creationdate="20181110T092004Z">
+        <seg>透明代理不能绑定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Travel : public.app-category.travel</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091615Z" creationid="LiarOnce" creationdate="20181028T091615Z">
@@ -23334,6 +23806,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090336Z" creationid="LiarOnce" creationdate="20181028T090336Z">
         <seg>U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UDP Not supported by this proxy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092010Z" creationid="LiarOnce" creationdate="20181110T092010Z">
+        <seg>此代理不支持 UDP。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23506,10 +23986,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unknown Protocol</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091721Z" creationid="LiarOnce" creationdate="20181110T091721Z">
+        <seg>未知协议</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unknown extension type</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025147Z" creationid="LiarOnce" creationdate="20181110T025147Z">
         <seg>未知的扩展类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown socks error.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092139Z" creationid="LiarOnce" creationdate="20181110T092053Z">
+        <seg>未知的 Socks 错误。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23550,6 +24046,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024821Z" creationid="LiarOnce" creationdate="20181110T024821Z">
         <seg>不支持的 PixelFormat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsupported hash algorithm.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091750Z" creationid="LiarOnce" creationdate="20181110T091750Z">
+        <seg>不支持的哈希算法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsupported object type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091535Z" creationid="LiarOnce" creationdate="20181110T091535Z">
+        <seg>不支持的对象类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25165,6 +25677,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can assign only one of the following types or their descendants: TStrings, TStream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091602Z" creationid="LiarOnce" creationdate="20181110T091602Z">
+        <seg>您只能分配以下类型之一或其后代：TStrings，TStream。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You do not currently have any assets in your Library with this filter.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141429Z" creationid="LiarOnce" creationdate="20181007T141429Z">
@@ -25997,6 +26517,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>incomplete dynamic bit lengths tree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091405Z" creationid="LiarOnce" creationdate="20181110T091405Z">
+        <seg>不完整的动态位长度树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>incomplete literal/length tree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091417Z" creationid="LiarOnce" creationdate="20181110T091417Z">
+        <seg>不完整的文本长度树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>incorrect data check</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091105Z" creationid="LiarOnce" creationdate="20181110T091105Z">
@@ -26041,6 +26577,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091252Z" creationid="LiarOnce" creationdate="20181110T091252Z">
         <seg>无效的距离代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>invalid literal/length code</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091259Z" creationid="LiarOnce" creationdate="20181110T091259Z">
+        <seg>无效的文本长度代码</seg>
       </tuv>
     </tu>
     <tu>
