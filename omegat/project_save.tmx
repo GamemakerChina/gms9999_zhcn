@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%s: Missing call to LoadColumnDetails</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T030002Z" creationid="LiarOnce" creationdate="20181110T030002Z">
+        <seg>%s: 缺少对 LoadColumnDetails 的调用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;+</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090642Z" creationid="LiarOnce" creationdate="20181028T090642Z">
@@ -6782,6 +6790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Circular decoder table entry</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025221Z" creationid="LiarOnce" creationdate="20181110T025221Z">
+        <seg>圆形解码器表条目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ClassName</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130514Z" creationid="LiarOnce" creationdate="20181013T130514Z">
@@ -7407,6 +7423,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color table overflow</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T030023Z" creationid="LiarOnce" creationdate="20181110T030023Z">
+        <seg>颜色表溢出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color1:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135941Z" creationid="LiarOnce" creationdate="20181007T135941Z">
@@ -7775,6 +7799,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Converting</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025126Z" creationid="LiarOnce" creationdate="20181110T025106Z">
+        <seg>转换中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copies To :</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142340Z" creationid="LiarOnce" creationdate="20181007T142340Z">
@@ -7843,6 +7875,22 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051114Z" creationid="LiarOnce" creationdate="20181015T051114Z">
         <seg>将所选内容复制到剪贴板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copying</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025141Z" creationid="LiarOnce" creationdate="20181110T025117Z">
+        <seg>复制中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copying...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025657Z" creationid="LiarOnce" creationdate="20181110T025657Z">
+        <seg>复制中...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8811,6 +8859,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050245Z" creationid="LiarOnce" creationdate="20181021T032037Z">
         <seg>手动添加调试器目标 IP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Decoder bit buffer under-run</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025214Z" creationid="LiarOnce" creationdate="20181110T025214Z">
+        <seg>解码器位缓冲区运行不足</seg>
       </tuv>
     </tu>
     <tu>
@@ -10071,6 +10127,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error code $%x</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025828Z" creationid="LiarOnce" creationdate="20181110T025828Z">
+        <seg>错误代码 $%x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Errors</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052650Z" creationid="LiarOnce" creationdate="20181015T052650Z">
@@ -10483,6 +10547,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T031842Z" creationid="LiarOnce" creationdate="20181014T031842Z">
         <seg>将图像淡化为一种颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to allocate memory for GIF DIB</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025211Z" creationid="LiarOnce" creationdate="20181110T025211Z">
+        <seg>未能为 GIF DIB 分配内存</seg>
       </tuv>
     </tu>
     <tu>
@@ -11059,6 +11131,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T051636Z" creationid="LiarOnce" creationdate="20181103T051636Z">
         <seg>片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Frame contains multiple Graphic Control Extension blocks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025026Z" creationid="LiarOnce" creationdate="20181110T025026Z">
+        <seg>框架包含多个图形控制扩展块</seg>
       </tuv>
     </tu>
     <tu>
@@ -12276,10 +12356,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Image exceeds Logical Screen size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025650Z" creationid="LiarOnce" creationdate="20181110T025650Z">
+        <seg>图像超过逻辑屏幕大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Image has no DIB</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024827Z" creationid="LiarOnce" creationdate="20181110T024827Z">
         <seg>图像没有 DIB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image is empty</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025015Z" creationid="LiarOnce" creationdate="20181110T025015Z">
+        <seg>图像为空</seg>
       </tuv>
     </tu>
     <tu>
@@ -12916,6 +13012,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Internal error: Extension Instance does not match Extension Label</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025544Z" creationid="LiarOnce" creationdate="20181110T025544Z">
+        <seg>内部错误: 扩展实例与扩展标签不匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Intersect boundary</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143015Z" creationid="LiarOnce" creationdate="20181007T143015Z">
@@ -12940,10 +13044,58 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid GIF data</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025607Z" creationid="LiarOnce" creationdate="20181110T025607Z">
+        <seg>无效的 GIF 数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid Image trailer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025539Z" creationid="LiarOnce" creationdate="20181110T025539Z">
+        <seg>无效的图像预告片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid extension introducer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025200Z" creationid="LiarOnce" creationdate="20181110T025200Z">
+        <seg>无效的扩展程序导入器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid image dimensions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024823Z" creationid="LiarOnce" creationdate="20181110T024823Z">
         <seg>无效的图像尺寸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid image size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025647Z" creationid="LiarOnce" creationdate="20181110T025647Z">
+        <seg>无效的图像大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid number of colors specified in Image Descriptor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025153Z" creationid="LiarOnce" creationdate="20181110T025153Z">
+        <seg>图像描述符中指定的颜色数量无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid pixel coordinates</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025654Z" creationid="LiarOnce" creationdate="20181110T025654Z">
+        <seg>无效的像素坐标</seg>
       </tuv>
     </tu>
     <tu>
@@ -14076,6 +14228,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loading</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025100Z" creationid="LiarOnce" creationdate="20181110T025100Z">
+        <seg>载入中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loading bar extension</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T021616Z" creationid="deciia" creationdate="20180922T021616Z">
@@ -14648,6 +14808,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T082603Z" creationid="deciia" creationdate="20180922T082603Z">
         <seg>杂项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Missing, invalid or empty palette</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025051Z" creationid="LiarOnce" creationdate="20181110T025051Z">
+        <seg>缺少，无效或空的调色板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modified</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025737Z" creationid="LiarOnce" creationdate="20181110T025737Z">
+        <seg>修改</seg>
       </tuv>
     </tu>
     <tu>
@@ -15444,6 +15620,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No global or local color table defined</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025652Z" creationid="LiarOnce" creationdate="20181110T025652Z">
+        <seg>未定义全局或本地颜色表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No more health</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090208Z" creationid="LiarOnce" creationdate="20181013T125917Z">
@@ -15724,6 +15908,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Object type not supported for operation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025644Z" creationid="LiarOnce" creationdate="20181110T025644Z">
+        <seg>不支持的操作物体类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Object:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T051514Z" creationid="LiarOnce" creationdate="20181006T140135Z">
@@ -15920,6 +16112,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024545Z" creationid="LiarOnce" creationdate="20181110T024545Z">
         <seg>优化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optimizing...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025703Z" creationid="LiarOnce" creationdate="20181110T025703Z">
+        <seg>优化中...</seg>
       </tuv>
     </tu>
     <tu>
@@ -16762,6 +16962,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170316T113242Z" creationid="deciia" creationdate="20170102T070444Z">
         <seg>偏好设定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Premature end of data</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T030013Z" creationid="LiarOnce" creationdate="20181110T030013Z">
+        <seg>数据过早结束</seg>
       </tuv>
     </tu>
     <tu>
@@ -17624,10 +17832,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rename to %s failed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T030009Z" creationid="LiarOnce" creationdate="20181110T030009Z">
+        <seg>重命名为 %s  失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Render to full screen resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134509Z" creationid="LiarOnce" creationdate="20181020T134509Z">
         <seg>渲染到全屏分辨率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rendering</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025129Z" creationid="LiarOnce" creationdate="20181110T025109Z">
+        <seg>渲染中</seg>
       </tuv>
     </tu>
     <tu>
@@ -18612,6 +18836,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140548Z" creationid="LiarOnce" creationdate="20181007T140548Z">
         <seg>保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saving</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025118Z" creationid="LiarOnce" creationdate="20181110T025103Z">
+        <seg>保存中</seg>
       </tuv>
     </tu>
     <tu>
@@ -22570,6 +22802,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unable to retrieve folder details for "%s".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025817Z" creationid="LiarOnce" creationdate="20181110T025817Z">
+        <seg>无法检索 "%s" 的文件夹详细信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Uncompress as zip file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180926T023201Z" creationid="deciia" creationdate="20170106T161354Z">
@@ -22666,6 +22906,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unknown GIF block type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025551Z" creationid="LiarOnce" creationdate="20181110T025551Z">
+        <seg>未知的 GIF 块类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown extension type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025147Z" creationid="LiarOnce" creationdate="20181110T025147Z">
+        <seg>未知的扩展类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unlock All</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052923Z" creationid="LiarOnce" creationdate="20181030T052923Z">
@@ -22678,6 +22934,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052924Z" creationid="LiarOnce" creationdate="20181030T052924Z">
         <seg>解锁所有实例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsupported Application Extension block size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025546Z" creationid="LiarOnce" creationdate="20181110T025546Z">
+        <seg>不支持的应用程序扩展块大小</seg>
       </tuv>
     </tu>
     <tu>
