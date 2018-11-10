@@ -5968,6 +5968,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ball</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094737Z" creationid="LiarOnce" creationdate="20181110T094737Z">
+        <seg>Ball</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Banner</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T021254Z" creationid="LiarOnce" creationdate="20181021T021254Z">
@@ -6640,6 +6648,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CONTEXTMENU</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094800Z" creationid="LiarOnce" creationdate="20181110T094800Z">
+        <seg>CONTEXTMENU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CPU type to target to</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134345Z" creationid="LiarOnce" creationdate="20181020T134345Z">
@@ -6804,6 +6820,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T045505Z" creationid="LiarOnce" creationdate="20181030T045505Z">
         <seg>CaptionLabel1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Car</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094735Z" creationid="LiarOnce" creationdate="20181110T094735Z">
+        <seg>Car</seg>
       </tuv>
     </tu>
     <tu>
@@ -9385,6 +9409,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cycling</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094736Z" creationid="LiarOnce" creationdate="20181110T094736Z">
+        <seg>Cycling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>D</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090306Z" creationid="LiarOnce" creationdate="20181028T090306Z">
@@ -10134,6 +10166,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130300Z" creationid="LiarOnce" creationdate="20181013T130300Z">
         <seg>显示所选包的帮助文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diving</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094728Z" creationid="LiarOnce" creationdate="20181110T094728Z">
+        <seg>Diving</seg>
       </tuv>
     </tu>
     <tu>
@@ -16359,6 +16399,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Motorsports</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094734Z" creationid="LiarOnce" creationdate="20181110T094734Z">
+        <seg>Motorsports</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mouse Event</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142614Z" creationid="LiarOnce" creationdate="20181007T142614Z">
@@ -19209,6 +19257,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091606Z" creationid="LiarOnce" creationdate="20181028T091606Z">
         <seg>Racing Games : public.app-category.racing-games</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Racquet</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094737Z" creationid="LiarOnce" creationdate="20181110T094737Z">
+        <seg>Racquet</seg>
       </tuv>
     </tu>
     <tu>
@@ -23135,6 +23191,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stick</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094738Z" creationid="LiarOnce" creationdate="20181110T094738Z">
+        <seg>Stick</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stop</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T084435Z" creationid="deciia" creationdate="20170102T084435Z">
@@ -26371,6 +26435,22 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WWI</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094739Z" creationid="LiarOnce" creationdate="20181110T094739Z">
+        <seg>WWI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WWII</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094739Z" creationid="LiarOnce" creationdate="20181110T094739Z">
+        <seg>WWII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wand Select</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051341Z" creationid="LiarOnce" creationdate="20181015T051341Z">
@@ -27138,6 +27218,14 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052521Z" creationid="LiarOnce" creationdate="20181030T052521Z">
         <seg>Zip archive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zombie</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094741Z" creationid="LiarOnce" creationdate="20181110T094741Z">
+        <seg>Zombie</seg>
       </tuv>
     </tu>
     <tu>
