@@ -15873,8 +15873,8 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       <tuv lang="EN-US">
         <seg>MS Sans Serif</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181104T014712Z" creationid="LiarOnce" creationdate="20181104T014712Z">
-        <seg>Microsoft YaHei UI</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T145458Z" creationid="LiarOnce" creationdate="20181104T014712Z">
+        <seg> Microsoft YaHei UI</seg>
       </tuv>
     </tu>
     <tu>
