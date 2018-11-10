@@ -1398,6 +1398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>'%s' is not a valid property value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092547Z" creationid="LiarOnce" creationdate="20181110T092547Z">
+        <seg>"%s" 不是有效的属性值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(%d/%d)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052251Z" creationid="LiarOnce" creationdate="20181030T052251Z">
@@ -2608,8 +2616,8 @@
       <tuv lang="EN-US">
         <seg>2nd-level cache: 2 MBytes, 8-way associative, 32 byte line size</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051933Z" creationid="LiarOnce" creationdate="20181030T051022Z">
-        <seg>二级缓存: 2 mb, 8 路关联, 32 字节行大小</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092856Z" creationid="LiarOnce" creationdate="20181030T051022Z">
+        <seg>二级缓存: 2 mb, 8 路集关联, 32 字节行大小</seg>
       </tuv>
     </tu>
     <tu>
@@ -4782,6 +4790,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also indicate information about your machine and the version of
+windows you are using.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093247Z" creationid="LiarOnce" creationdate="20181110T093247Z">
+        <seg>还要指明有关您的计算机和您正在使用的窗口版本的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also indicate information about your machine and the version of windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123543Z" creationid="LiarOnce" creationdate="20181013T123543Z">
@@ -5266,6 +5283,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181104T014836Z" creationid="LiarOnce" creationdate="20181104T014836Z">
         <seg>Arial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arj archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093112Z" creationid="LiarOnce" creationdate="20181110T093112Z">
+        <seg>Arj archive</seg>
       </tuv>
     </tu>
     <tu>
@@ -6366,6 +6391,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CPUID leaf 2 does not report cache descriptor information, use CPUID leaf 4 to query cache parameters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092730Z" creationid="LiarOnce" creationdate="20181110T092730Z">
+        <seg>CPUID leaf 2 不报告缓存描述符信息，使用 CPUID leaf 4 查询缓存参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CRC error</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051748Z" creationid="LiarOnce" creationdate="20181030T051748Z">
@@ -6402,6 +6435,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050100Z" creationid="LiarOnce" creationdate="20181029T050100Z">
         <seg>CacheDirectoryEdit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can not write to a read-only memory stream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092732Z" creationid="LiarOnce" creationdate="20181110T092732Z">
+        <seg>无法写入只读内存流</seg>
       </tuv>
     </tu>
     <tu>
@@ -7871,6 +7912,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compound archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093104Z" creationid="LiarOnce" creationdate="20181110T093104Z">
+        <seg>Compound archive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compressed (Uncompress on load) - Not Streamed (Higher Memory, low CPU)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T051751Z" creationid="LiarOnce" creationdate="20181103T051751Z">
@@ -8267,6 +8316,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091456Z" creationid="LiarOnce" creationdate="20181110T091456Z">
         <seg>无法加载根证书。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not obtain OLE control window handle</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092559Z" creationid="LiarOnce" creationdate="20181110T092559Z">
+        <seg>无法获得 OLE 控制窗口句柄</seg>
       </tuv>
     </tu>
     <tu>
@@ -9175,6 +9232,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deb archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093055Z" creationid="LiarOnce" creationdate="20181110T093055Z">
+        <seg>Deb archive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Debug</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T132100Z" creationid="deciia" creationdate="20170103T132100Z">
@@ -9455,6 +9520,15 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Describe the problem as carefully as possible, and if possible include an 
+example .gm81 file that exhibits the problematic behavior.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093244Z" creationid="LiarOnce" creationdate="20181110T093244Z">
+        <seg>尽可能仔细地描述问题, 如果可能的话, 还包括一个显示有问题行为的 gm81 文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Describe the problem as carefully as possible, and if possible include an example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123513Z" creationid="LiarOnce" creationdate="20181013T123513Z">
@@ -9731,6 +9805,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130300Z" creationid="LiarOnce" creationdate="20181013T130300Z">
         <seg>显示所选包的帮助文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dmg archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093103Z" creationid="LiarOnce" creationdate="20181110T093103Z">
+        <seg>Dmg archive</seg>
       </tuv>
     </tu>
     <tu>
@@ -10409,8 +10491,8 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
       <tuv lang="EN-US">
         <seg>Enter</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="36011" changedate="20170114T032921Z" creationid="36011" creationdate="20170114T032921Z">
-        <seg>回车（Enter）</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093154Z" creationid="36011" creationdate="20170114T032921Z">
+        <seg>回车</seg>
       </tuv>
     </tu>
     <tu>
@@ -11079,6 +11161,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File [%s] has not TD32 debug information!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092521Z" creationid="LiarOnce" creationdate="20181110T092521Z">
+        <seg>文件 [%s] 没有 TD32 调试信息!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File containing loading bar extension</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134928Z" creationid="LiarOnce" creationdate="20181020T134928Z">
@@ -11687,6 +11777,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Function not found: %s.%s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092541Z" creationid="LiarOnce" creationdate="20181110T092541Z">
+        <seg>找不到函数: %s.%s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Functions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20171124T104621Z" creationid="36011" creationdate="20171124T104621Z">
@@ -11827,6 +11925,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131430Z" creationid="LiarOnce" creationdate="20181013T131430Z">
         <seg>游戏信息选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Game Maker Background Files|*.gmbck</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093229Z" creationid="LiarOnce" creationdate="20181110T093229Z">
+        <seg>Game Maker 背景文件|*.gmbck</seg>
       </tuv>
     </tu>
     <tu>
@@ -12478,8 +12584,8 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       <tuv lang="EN-US">
         <seg>Home</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="36011" changedate="20170320T144004Z" creationid="deciia" creationdate="20170312T104323Z">
-        <seg>主页（Home）</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093205Z" creationid="deciia" creationdate="20170312T104323Z">
+        <seg>主页</seg>
       </tuv>
     </tu>
     <tu>
@@ -13276,6 +13382,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ins</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093141Z" creationid="LiarOnce" creationdate="20181110T093141Z">
+        <seg>Ins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insert Grid of Project Types up here</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043910Z" creationid="LiarOnce" creationdate="20181014T043910Z">
@@ -13616,6 +13730,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025539Z" creationid="LiarOnce" creationdate="20181110T025539Z">
         <seg>无效的图像预告片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid MMF name "%s"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092747Z" creationid="LiarOnce" creationdate="20181110T092747Z">
+        <seg>无效的 MMF 名称 "%s"</seg>
       </tuv>
     </tu>
     <tu>
@@ -14532,6 +14654,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Library not found: %s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092534Z" creationid="LiarOnce" creationdate="20181110T092534Z">
+        <seg>找不到库: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Licence Key</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044111Z" creationid="LiarOnce" creationdate="20181014T044111Z">
@@ -14568,6 +14698,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090806Z" creationid="LiarOnce" creationdate="20181020T090806Z">
         <seg>许可协议</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>License information for %s is invalid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092605Z" creationid="LiarOnce" creationdate="20181110T092605Z">
+        <seg>%s 的许可证信息无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>License information for %s not found.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092614Z" creationid="LiarOnce" creationdate="20181110T092614Z">
+        <seg>找不到 %s 的许可证信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15320,6 +15466,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091934Z" creationid="LiarOnce" creationdate="20181110T091934Z">
         <seg>允许超过的最大行数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mbr archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093049Z" creationid="LiarOnce" creationdate="20181110T093049Z">
+        <seg>Mbr archive</seg>
       </tuv>
     </tu>
     <tu>
@@ -16292,6 +16446,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No 2nd-level cache or, if processor contains a valid 2nd-level cache, no 3rd-level cache</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093046Z" creationid="LiarOnce" creationdate="20181110T093046Z">
+        <seg>没有二级缓存，或者，如果处理器包含有效的二级缓存，则没有三级缓存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No Filter</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141449Z" creationid="LiarOnce" creationdate="20181007T141449Z">
@@ -16576,6 +16738,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090845Z" creationid="LiarOnce" creationdate="20181028T090845Z">
         <seg>OKButton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OLE control activation failed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092554Z" creationid="LiarOnce" creationdate="20181110T092554Z">
+        <seg>OLE 控件激活失败</seg>
       </tuv>
     </tu>
     <tu>
@@ -17598,6 +17768,15 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please check 
+and report whether the problem also occured in version 8.0 of Game Maker.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093302Z" creationid="LiarOnce" creationdate="20181110T093302Z">
+        <seg>请检查并报告问题是否也出现在 Game Maker 8.0 版中。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please check and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123536Z" creationid="LiarOnce" creationdate="20181013T123528Z">
@@ -17610,6 +17789,15 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T080800Z" creationid="deciia" creationdate="20170104T080800Z">
         <seg>请提供在这里使用的签名身份，这应该是一个开发者ID应用身份，并且应该在你的Mac登录钥匙扣证书里?。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please report any errors through our bug tracking system by using the 
+"Report a Bug" option on the HELP menu.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093239Z" creationid="LiarOnce" creationdate="20181110T093239Z">
+        <seg>请使用 "帮助" 菜单上的 "报告错误" 选项, 通过我们的错误跟踪系统报告任何错误。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18816,6 +19004,30 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Request rejected because SOCKS server cannot connect.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092646Z" creationid="LiarOnce" creationdate="20181110T092646Z">
+        <seg>请求被拒绝, 因为 SOCKS 服务器无法连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Request rejected because the client program and identd report different user-ids.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092655Z" creationid="LiarOnce" creationdate="20181110T092655Z">
+        <seg>请求被拒绝, 因为客户端程序和 identd 报告不同的用户 id。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Request rejected or failed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092637Z" creationid="LiarOnce" creationdate="20181110T092637Z">
+        <seg>请求被拒绝或失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Request sandbox permission for com.apple.security.network.client</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134728Z" creationid="LiarOnce" creationdate="20181020T134728Z">
@@ -19340,6 +19552,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051401Z" creationid="LiarOnce" creationdate="20181015T051401Z">
         <seg>圆形矩形工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rpm archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093055Z" creationid="LiarOnce" creationdate="20181110T093055Z">
+        <seg>Rpm archive</seg>
       </tuv>
     </tu>
     <tu>
@@ -20496,6 +20716,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shared 2nd-Level TLB: 4 KByte pages, 4-way associative, 512 entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092904Z" creationid="LiarOnce" creationdate="20181110T092801Z">
+        <seg>共享的二级TLB：4 KByte 页，4 路集关联，512个条目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sharpen Colors</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135924Z" creationid="LiarOnce" creationdate="20181007T135924Z">
@@ -21628,8 +21856,8 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       <tuv lang="EN-US">
         <seg>Space</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="36011" changedate="20170114T033039Z" creationid="36011" creationdate="20170114T033039Z">
-        <seg>空格键（Space）</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093200Z" creationid="36011" creationdate="20170114T033039Z">
+        <seg>空格键</seg>
       </tuv>
     </tu>
     <tu>
@@ -21750,6 +21978,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025008Z" creationid="LiarOnce" creationdate="20181021T025008Z">
         <seg>启动画面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Split archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093054Z" creationid="LiarOnce" creationdate="20181110T093054Z">
+        <seg>Split archive</seg>
       </tuv>
     </tu>
     <tu>
@@ -22178,6 +22414,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Swf archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093052Z" creationid="LiarOnce" creationdate="20181110T093052Z">
+        <seg>Swf archive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Switch to Steam Play mode</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041839Z" creationid="LiarOnce" creationdate="20181014T041839Z">
@@ -22502,6 +22746,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092002Z" creationid="LiarOnce" creationdate="20181110T092002Z">
         <seg>IOHandler 已经分配了不同的拦截</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The MMF named "%s" cannot be created empty</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092512Z" creationid="LiarOnce" creationdate="20181110T092512Z">
+        <seg>名为 "%s" 的 MMF  不能创建为空</seg>
       </tuv>
     </tu>
     <tu>
@@ -22862,6 +23114,15 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123442Z" creationid="LiarOnce" creationdate="20181013T123106Z">
         <seg>使用此纹理或3d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This version is only meant for testing the program, not for producing
+games.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093231Z" creationid="LiarOnce" creationdate="20181110T093231Z">
+        <seg>这个版本只用于测试程序, 而不是制作游戏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23682,6 +23943,38 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Trace cache: 12 K-Ops, 8-way set associative</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092928Z" creationid="LiarOnce" creationdate="20181110T092920Z">
+        <seg>跟踪缓存: 12 个 K-Ops, 8 路设置关联</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trace cache: 16 K-Ops, 8-way set associative</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092926Z" creationid="LiarOnce" creationdate="20181110T092926Z">
+        <seg>跟踪缓存: 16 个 K-Ops, 8 路设置关联</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trace cache: 32 K-Ops, 8-way set associative</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092932Z" creationid="LiarOnce" creationdate="20181110T092932Z">
+        <seg>跟踪缓存:32 K-Ops, 8 路集关联</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trace cache: 64 K-Ops, 8-way set associative</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092939Z" creationid="LiarOnce" creationdate="20181110T092939Z">
+        <seg>跟踪缓存:64 K-Ops, 8 路集关联</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TrackingID</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T044834Z" creationid="LiarOnce" creationdate="20181029T044834Z">
@@ -23818,6 +24111,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UDP is not support in this SOCKS version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092635Z" creationid="LiarOnce" creationdate="20181110T092635Z">
+        <seg>UDP 不支持此 SOCKS 版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>URL:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T044753Z" creationid="LiarOnce" creationdate="20181029T044753Z">
@@ -23854,6 +24155,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024642Z" creationid="LiarOnce" creationdate="20181110T024642Z">
         <seg>无法生成屏幕提示, 因为没有链接的动作列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to retrieve a pointer to a running object registered with OLE for %s/%s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092625Z" creationid="LiarOnce" creationdate="20181110T092625Z">
+        <seg>无法检索指向使用 OLE 注册的正在运行的对象的指向% s/% s 的指针</seg>
       </tuv>
     </tu>
     <tu>
@@ -23962,6 +24271,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unexpected end of sequence</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092525Z" creationid="LiarOnce" creationdate="20181110T092525Z">
+        <seg>意外结束的序列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unicode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093134Z" creationid="LiarOnce" creationdate="20181110T093134Z">
+        <seg>Unicode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Uninstall</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045038Z" creationid="LiarOnce" creationdate="20181009T045038Z">
@@ -23978,6 +24303,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unknown AMD (Model %d)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092709Z" creationid="LiarOnce" creationdate="20181110T092709Z">
+        <seg>未知 AMD (Model %d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unknown GIF block type</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025551Z" creationid="LiarOnce" creationdate="20181110T025551Z">
@@ -23990,6 +24323,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091721Z" creationid="LiarOnce" creationdate="20181110T091721Z">
         <seg>未知协议</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown error</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093121Z" creationid="LiarOnce" creationdate="20181110T093121Z">
+        <seg>未知错误</seg>
       </tuv>
     </tu>
     <tu>
@@ -25333,6 +25674,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wim archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093105Z" creationid="LiarOnce" creationdate="20181110T093105Z">
+        <seg>Wim archive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Win32 error: %s (%u)%s%s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092530Z" creationid="LiarOnce" creationdate="20181110T092530Z">
+        <seg>Win32 错误: %s (%u)%s%s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Window Caption</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131444Z" creationid="LiarOnce" creationdate="20181013T131444Z">
@@ -25669,6 +26026,15 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are not allowed to distribute games created with this
+release candidate in any way.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093236Z" creationid="LiarOnce" creationdate="20181110T093236Z">
+        <seg>您不允许以任何方式分发使用此版本候选项创建的游戏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You are not allowed to distribute games created with this release candidate in any way.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123457Z" creationid="LiarOnce" creationdate="20181013T123457Z">
@@ -25681,6 +26047,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091602Z" creationid="LiarOnce" creationdate="20181110T091602Z">
         <seg>您只能分配以下类型之一或其后代：TStrings，TStream。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot use this control in design mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092618Z" creationid="LiarOnce" creationdate="20181110T092618Z">
+        <seg>不能在设计模式下使用此控件</seg>
       </tuv>
     </tu>
     <tu>
@@ -25913,6 +26287,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091157Z" creationid="LiarOnce" creationdate="20181028T091157Z">
         <seg>game.gmres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>gmbck</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093218Z" creationid="LiarOnce" creationdate="20181110T093218Z">
+        <seg>gmbck</seg>
       </tuv>
     </tu>
     <tu>
