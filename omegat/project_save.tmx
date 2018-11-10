@@ -6278,6 +6278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot assign a non-ScreenTipItem to a ScreenTipItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024617Z" creationid="LiarOnce" creationdate="20181110T024617Z">
+        <seg>无法将非ScreenTipItem指定给ScreenTipItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot load image.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051806Z" creationid="LiarOnce" creationdate="20181030T051806Z">
@@ -7367,6 +7375,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color not in color table</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024832Z" creationid="LiarOnce" creationdate="20181110T024832Z">
+        <seg>颜色不在颜色表中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color only</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023222Z" creationid="LiarOnce" creationdate="20181014T023222Z">
@@ -7379,6 +7395,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052734Z" creationid="LiarOnce" creationdate="20181015T052734Z">
         <seg>房间区域外的颜色:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color table is empty</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025013Z" creationid="LiarOnce" creationdate="20181110T025013Z">
+        <seg>颜色表为空</seg>
       </tuv>
     </tu>
     <tu>
@@ -12252,6 +12276,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Image has no DIB</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024827Z" creationid="LiarOnce" creationdate="20181110T024827Z">
+        <seg>图像没有 DIB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Image preview:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052910Z" creationid="LiarOnce" creationdate="20181015T052910Z">
@@ -12896,6 +12928,30 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T021258Z" creationid="LiarOnce" creationdate="20181021T021258Z">
         <seg>间 质</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid Bits Per Pixel value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025003Z" creationid="LiarOnce" creationdate="20181110T025003Z">
+        <seg>每像素值的位数无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid image dimensions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024823Z" creationid="LiarOnce" creationdate="20181110T024823Z">
+        <seg>无效的图像尺寸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid stream operation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024829Z" creationid="LiarOnce" creationdate="20181110T024829Z">
+        <seg>无效的流操作</seg>
       </tuv>
     </tu>
     <tu>
@@ -15860,6 +15916,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Optimizing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024545Z" creationid="LiarOnce" creationdate="20181110T024545Z">
+        <seg>优化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Option_StudioForm</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091420Z" creationid="LiarOnce" creationdate="20181028T091420Z">
@@ -16714,6 +16778,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125024Z" creationid="LiarOnce" creationdate="20181013T125024Z">
         <seg>按自定义键组合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press F1 for more help.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024627Z" creationid="LiarOnce" creationdate="20181110T024627Z">
+        <seg>按 F1 以获得更多帮助</seg>
       </tuv>
     </tu>
     <tu>
@@ -21490,6 +21562,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This command is disabled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024606Z" creationid="LiarOnce" creationdate="20181110T024548Z">
+        <seg>此命令已禁用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is not the speed in the game!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T051925Z" creationid="LiarOnce" creationdate="20181103T051925Z">
@@ -22482,6 +22562,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unable to generate Screen Tips because there are no linked Action Lists.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024642Z" creationid="LiarOnce" creationdate="20181110T024642Z">
+        <seg>无法生成屏幕提示, 因为没有链接的动作列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Uncompress as zip file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180926T023201Z" creationid="deciia" creationdate="20170106T161354Z">
@@ -22590,6 +22678,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052924Z" creationid="LiarOnce" creationdate="20181030T052924Z">
         <seg>解锁所有实例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsupported PixelFormat</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024821Z" creationid="LiarOnce" creationdate="20181110T024821Z">
+        <seg>不支持的 PixelFormat</seg>
       </tuv>
     </tu>
     <tu>
@@ -22926,6 +23022,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043811Z" creationid="LiarOnce" creationdate="20181014T043811Z">
         <seg>使用完整图像作为边界框</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the glyph property to set an image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024602Z" creationid="LiarOnce" creationdate="20181110T024602Z">
+        <seg>使用 Glyph 属性设置图像</seg>
       </tuv>
     </tu>
     <tu>
