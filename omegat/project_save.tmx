@@ -4462,6 +4462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alias/Wavefront images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T083851Z" creationid="LiarOnce" creationdate="20181110T083851Z">
+        <seg>Alias/Wavefront 图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Align &amp;Center</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050105Z" creationid="LiarOnce" creationdate="20181009T050105Z">
@@ -4698,6 +4706,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032204Z" creationid="LiarOnce" creationdate="20181021T032204Z">
         <seg>允许的 IP 地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allowed are 1, 2 and 4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T083741Z" creationid="LiarOnce" creationdate="20181110T083741Z">
+        <seg>允许为 1、2和4。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5430,6 +5446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Autodesk images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T084132Z" creationid="LiarOnce" creationdate="20181110T084132Z">
+        <seg>Autodesk 图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic indentation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031439Z" creationid="LiarOnce" creationdate="20181021T031439Z">
@@ -5674,6 +5698,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T051837Z" creationid="LiarOnce" creationdate="20181103T051837Z">
         <seg>比特率 (kbps)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bits per sample must be 1, 2, 4, 8 or 16.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T083730Z" creationid="LiarOnce" creationdate="20181110T083730Z">
+        <seg>每个样品的小块必须为1、2、4、8或16。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6346,6 +6378,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024617Z" creationid="LiarOnce" creationdate="20181110T024617Z">
         <seg>无法将非ScreenTipItem指定给ScreenTipItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot load PNG image.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T083429Z" creationid="LiarOnce" creationdate="20181110T083429Z">
+        <seg>无法加载 PNG 图像。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7463,6 +7503,22 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color conversion failed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T083447Z" creationid="LiarOnce" creationdate="20181110T083447Z">
+        <seg>颜色转换失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color depth is invalid.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T083450Z" creationid="LiarOnce" creationdate="20181110T083450Z">
+        <seg>颜色深度无效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color not in color table</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024832Z" creationid="LiarOnce" creationdate="20181110T024832Z">
@@ -7743,6 +7799,22 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compression error found in %s file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T083315Z" creationid="LiarOnce" creationdate="20181110T083315Z">
+        <seg>在 %s 文件中发现压缩错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CompuServe images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T084205Z" creationid="LiarOnce" creationdate="20181110T084205Z">
+        <seg>CompuServe 图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compute the bounding box automatically based on the sprite images</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043755Z" creationid="LiarOnce" creationdate="20181014T043755Z">
@@ -7859,6 +7931,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032618Z" creationid="LiarOnce" creationdate="20181021T032618Z">
         <seg>控制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conversion between indexed and non-indexed pixel formats is not supported.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T083445Z" creationid="LiarOnce" creationdate="20181110T083445Z">
+        <seg>不支持索引像素格式和非索引像素格式之间的转换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8027,6 +8107,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085752Z" creationid="LiarOnce" creationdate="20181013T085752Z">
         <seg>复制|将所选项目复制到剪贴板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not find a proper method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T083449Z" creationid="LiarOnce" creationdate="20181110T083449Z">
+        <seg>找不到正确的方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9583,6 +9671,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dr. Halo images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T090118Z" creationid="LiarOnce" creationdate="20181110T090118Z">
+        <seg>Dr. Halo 图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T044213Z" creationid="deciia" creationdate="20170102T044213Z">
@@ -10459,6 +10555,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032059Z" creationid="LiarOnce" creationdate="20181021T032059Z">
         <seg>外部声音播放器:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extra compressed data found in %s file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T083326Z" creationid="LiarOnce" creationdate="20181110T083326Z">
+        <seg>在 %s 文件中找到的额外压缩数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13814,8 +13918,8 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       <tuv lang="EN-US">
         <seg>Kodak Photo-CD images</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052204Z" creationid="LiarOnce" creationdate="20181030T052204Z">
-        <seg>Kodak Photo-CD images</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T084141Z" creationid="LiarOnce" creationdate="20181030T052204Z">
+        <seg>柯达 Photo-CD 图像</seg>
       </tuv>
     </tu>
     <tu>
@@ -14456,6 +14560,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T021616Z" creationid="deciia" creationdate="20180922T021616Z">
         <seg>进度条扩展</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading data...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T083819Z" creationid="LiarOnce" creationdate="20181110T083819Z">
+        <seg>正在加载数据...</seg>
       </tuv>
     </tu>
     <tu>
@@ -16726,6 +16838,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Palette in %s file is invalid.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T083424Z" creationid="LiarOnce" creationdate="20181110T083424Z">
+        <seg>%s 文件中的调色板无效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Panel1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044830Z" creationid="LiarOnce" creationdate="20181030T044830Z">
@@ -16906,6 +17026,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091603Z" creationid="LiarOnce" creationdate="20181028T091603Z">
         <seg>Photography : public.app-category.photography</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Photoshop images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T083953Z" creationid="LiarOnce" creationdate="20181110T083953Z">
+        <seg>Photoshop 图像</seg>
       </tuv>
     </tu>
     <tu>
@@ -17102,6 +17230,38 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Portable bitmap images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T084125Z" creationid="LiarOnce" creationdate="20181110T084125Z">
+        <seg>便携式位图图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Portable gray map images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T084123Z" creationid="LiarOnce" creationdate="20181110T084123Z">
+        <seg>便携式灰度地图图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Portable map images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T084119Z" creationid="LiarOnce" creationdate="20181110T084119Z">
+        <seg>便携式地图图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Portable pixel map images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T084121Z" creationid="LiarOnce" creationdate="20181110T084121Z">
+        <seg>便携式像素地图图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Portrait</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T070017Z" creationid="deciia" creationdate="20170104T065947Z">
@@ -17186,6 +17346,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T030013Z" creationid="LiarOnce" creationdate="20181110T030013Z">
         <seg>数据过早结束</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preparing...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T083808Z" creationid="LiarOnce" creationdate="20181110T083808Z">
+        <seg>准备中...</seg>
       </tuv>
     </tu>
     <tu>
@@ -18856,6 +19024,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SGI black/white images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T083947Z" creationid="LiarOnce" creationdate="20181110T083947Z">
+        <seg>SGI 黑/白图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SGI true color images with alpha</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T083934Z" creationid="LiarOnce" creationdate="20181110T083934Z">
+        <seg>带有 Alpha 的 SGI 真彩色图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>STDCALL</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090549Z" creationid="LiarOnce" creationdate="20181028T090549Z">
@@ -18900,6 +19084,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T051836Z" creationid="LiarOnce" creationdate="20181103T051836Z">
         <seg>采样率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sample count per pixel does not correspond to the given color scheme.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T083733Z" creationid="LiarOnce" creationdate="20181110T083733Z">
+        <seg>每个像素的样本数与给定的配色方案不对应。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21410,6 +21602,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Subsampling value is invalid.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T083734Z" creationid="LiarOnce" creationdate="20181110T083734Z">
+        <seg>子采样值无效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Subtle</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124641Z" creationid="LiarOnce" creationdate="20181013T124641Z">
@@ -21766,6 +21966,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090326Z" creationid="LiarOnce" creationdate="20181020T090326Z">
         <seg>游戏的公司信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The compression scheme is</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T083438Z" creationid="LiarOnce" creationdate="20181110T083438Z">
+        <seg>压缩方案是</seg>
       </tuv>
     </tu>
     <tu>
@@ -23130,6 +23338,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unexpected but critical chunk detected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T083435Z" creationid="LiarOnce" creationdate="20181110T083435Z">
+        <seg>检测到意外但关键的块。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unexpected end of input.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T034253Z" creationid="LiarOnce" creationdate="20181110T034253Z">
@@ -23969,6 +24185,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085509Z" creationid="LiarOnce" creationdate="20181013T085509Z">
         <seg>垂直大小:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical subsampling value must be &lt;= horizontal subsampling value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T083758Z" creationid="LiarOnce" creationdate="20181110T083758Z">
+        <seg>垂直子采样值必须 &lt;= 水平子采样值。</seg>
       </tuv>
     </tu>
     <tu>
