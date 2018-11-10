@@ -1846,10 +1846,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1,2,0,0</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T033830Z" creationid="LiarOnce" creationdate="20181110T033830Z">
+        <seg>1,2,0,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1.00</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T044653Z" creationid="LiarOnce" creationdate="20181029T044653Z">
         <seg>1.00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1.2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T033822Z" creationid="LiarOnce" creationdate="20181110T033822Z">
+        <seg>1.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1.2.0.0</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T033828Z" creationid="LiarOnce" creationdate="20181110T033828Z">
+        <seg>1.2.0.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -3226,6 +3250,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T044712Z" creationid="LiarOnce" creationdate="20181029T044712Z">
         <seg>56x56</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5piceIDE.exe</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T033825Z" creationid="LiarOnce" creationdate="20181110T033825Z">
+        <seg>5piceIDE.exe</seg>
       </tuv>
     </tu>
     <tu>
@@ -7927,6 +7959,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copyright © 1999-2013 YoYo Games Ltd</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T033826Z" creationid="LiarOnce" creationdate="20181110T033826Z">
+        <seg>Copyright © 1999-2013 YoYo Games Ltd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copyright © 1999-2015 YoYoGames Ltd</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T085332Z" creationid="LiarOnce" creationdate="20181028T085332Z">
@@ -11495,10 +11535,26 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GameMaker:Studio</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T033823Z" creationid="LiarOnce" creationdate="20181110T033823Z">
+        <seg>GameMaker:Studio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GameMaker:Studio Key Bindings</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052120Z" creationid="LiarOnce" creationdate="20181015T052120Z">
         <seg>GameMaker:Studio 键位绑定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GameMaker:Studio, game creation program</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T033827Z" creationid="LiarOnce" creationdate="20181110T033827Z">
+        <seg>GameMaker:Studio, game creation program</seg>
       </tuv>
     </tu>
     <tu>
@@ -24521,6 +24577,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091230Z" creationid="LiarOnce" creationdate="20181028T091230Z">
         <seg>YoYo Games :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>YoYo Games Ltd</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T033829Z" creationid="LiarOnce" creationdate="20181110T033829Z">
+        <seg>YoYo Games Ltd</seg>
       </tuv>
     </tu>
     <tu>
