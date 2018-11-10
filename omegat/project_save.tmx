@@ -13332,6 +13332,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid color format in %s file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T090135Z" creationid="LiarOnce" creationdate="20181110T090135Z">
+        <seg>%s 文件中的颜色格式无效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid color index</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T032339Z" creationid="LiarOnce" creationdate="20181110T032339Z">
@@ -13384,6 +13392,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T032505Z" creationid="LiarOnce" creationdate="20181110T032505Z">
         <seg>屏幕描述符中指定的颜色数量无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid or unexpected %s image format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T090130Z" creationid="LiarOnce" creationdate="20181110T090130Z">
+        <seg>无效或意外的 %s 图像格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14808,6 +14824,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052227Z" creationid="LiarOnce" creationdate="20181030T052227Z">
         <seg>Mach-O archive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Macintosh TIFF images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T090223Z" creationid="LiarOnce" creationdate="20181110T090223Z">
+        <seg>Macintosh TIFF 图像</seg>
       </tuv>
     </tu>
     <tu>
@@ -16732,6 +16756,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PC TIF images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T090227Z" creationid="LiarOnce" creationdate="20181110T090227Z">
+        <seg>PC TIF 图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PCRE</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091251Z" creationid="LiarOnce" creationdate="20181028T091251Z">
@@ -16834,6 +16866,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051325Z" creationid="LiarOnce" creationdate="20181015T051325Z">
         <seg>油漆工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paintshop Pro images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T090122Z" creationid="LiarOnce" creationdate="20181110T090122Z">
+        <seg>Paintshop Pro 图像</seg>
       </tuv>
     </tu>
     <tu>
@@ -17250,6 +17290,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T084119Z" creationid="LiarOnce" creationdate="20181110T084119Z">
         <seg>便携式地图图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Portable network graphic images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T090124Z" creationid="LiarOnce" creationdate="20181110T090124Z">
+        <seg>便携式网络图形图像</seg>
       </tuv>
     </tu>
     <tu>
@@ -19028,6 +19076,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T083947Z" creationid="LiarOnce" creationdate="20181110T083947Z">
         <seg>SGI 黑/白图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SGI images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T090231Z" creationid="LiarOnce" creationdate="20181110T090231Z">
+        <seg>SGI 图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SGI true color images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T090246Z" creationid="LiarOnce" creationdate="20181110T090246Z">
+        <seg>SGI 真彩色图像</seg>
       </tuv>
     </tu>
     <tu>
@@ -21730,6 +21794,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tagged image file format images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T090211Z" creationid="LiarOnce" creationdate="20181110T090211Z">
+        <seg>标记的图像文件格式图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tahoma</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181104T014757Z" creationid="LiarOnce" creationdate="20181104T014757Z">
@@ -23158,6 +23230,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170312T025141Z" creationid="deciia" creationdate="20170104T083528Z">
         <seg>奖杯界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Truevision images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T090207Z" creationid="LiarOnce" creationdate="20181110T090207Z">
+        <seg>Truevision 图像</seg>
       </tuv>
     </tu>
     <tu>
@@ -24721,6 +24801,30 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045408Z" creationid="LiarOnce" creationdate="20181029T045408Z">
         <seg>Windows UWP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows enhanced meta files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T090203Z" creationid="LiarOnce" creationdate="20181110T090203Z">
+        <seg>Windows 增强的元文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows icons</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T090141Z" creationid="LiarOnce" creationdate="20181110T090141Z">
+        <seg>Windows 图标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows metafiles</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T090155Z" creationid="LiarOnce" creationdate="20181110T090155Z">
+        <seg>Windows 元文件</seg>
       </tuv>
     </tu>
     <tu>
