@@ -78,6 +78,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%s on %s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015608Z" creationid="LiarOnce" creationdate="20181111T015608Z">
+        <seg>%s 在 %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%s property out of range</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015903Z" creationid="LiarOnce" creationdate="20181111T015903Z">
+        <seg>%s 属性超出范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%s: Missing call to LoadColumnDetails</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T030002Z" creationid="LiarOnce" creationdate="20181110T030002Z">
@@ -102,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Abort</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015524Z" creationid="LiarOnce" creationdate="20181111T015524Z">
+        <seg>中止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Abort on all error messages</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052710Z" creationid="LiarOnce" creationdate="20181015T052710Z">
@@ -122,6 +146,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142112Z" creationid="LiarOnce" creationdate="20181007T142112Z">
         <seg>&amp;添加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;All</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015534Z" creationid="LiarOnce" creationdate="20181111T015534Z">
+        <seg>全部</seg>
       </tuv>
     </tu>
     <tu>
@@ -258,6 +290,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045134Z" creationid="LiarOnce" creationdate="20181009T045134Z">
         <seg>&amp;清除全部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Close</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015507Z" creationid="LiarOnce" creationdate="20181111T015507Z">
+        <seg>关闭</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Ignore</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015531Z" creationid="LiarOnce" creationdate="20181111T015531Z">
+        <seg>忽略</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Image</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050545Z" creationid="LiarOnce" creationdate="20181009T050545Z">
@@ -822,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;No</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015510Z" creationid="LiarOnce" creationdate="20181111T015510Z">
+        <seg>否</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;No Zoom</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050747Z" creationid="LiarOnce" creationdate="20181009T050747Z">
@@ -1010,6 +1066,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042242Z" creationid="LiarOnce" creationdate="20181014T042242Z">
         <seg>资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Retry</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015526Z" creationid="LiarOnce" creationdate="20181111T015526Z">
+        <seg>重试</seg>
       </tuv>
     </tu>
     <tu>
@@ -1366,6 +1430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Yes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015509Z" creationid="LiarOnce" creationdate="20181111T015509Z">
+        <seg>是</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;YoYoGames.com</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091149Z" creationid="LiarOnce" creationdate="20181028T091139Z">
@@ -1450,6 +1522,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031111Z" creationid="LiarOnce" creationdate="20181021T031111Z">
         <seg>(仅限编辑器)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(IHDR chunk is not the first)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015355Z" creationid="LiarOnce" creationdate="20181111T015355Z">
+        <seg>(IHDR 块不是第一个)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3975,6 +4055,14 @@ Right mouse button = menu</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A control cannot have itself as its parent</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015619Z" creationid="LiarOnce" creationdate="20181111T015619Z">
+        <seg>控件不能将其自身作为其父控件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A legacy method that may be more compatible with older GPUs and drivers</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090714Z" creationid="LiarOnce" creationdate="20181020T090714Z">
@@ -4059,6 +4147,14 @@ Right mouse button = menu</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090923Z" creationid="LiarOnce" creationdate="20181028T090923Z">
         <seg>Aa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Abort</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015536Z" creationid="LiarOnce" creationdate="20181111T015536Z">
+        <seg>中止</seg>
       </tuv>
     </tu>
     <tu>
@@ -6080,6 +6176,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bitmaps</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015542Z" creationid="LiarOnce" creationdate="20181111T015542Z">
+        <seg>位图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bits per sample must be 1, 2, 4, 8 or 16.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T083730Z" creationid="LiarOnce" creationdate="20181110T083730Z">
@@ -6808,6 +6912,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can only modify an image if it contains a bitmap</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015616Z" creationid="LiarOnce" creationdate="20181111T015616Z">
+        <seg>只有当图像包含位图时, 才能修改图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044644Z" creationid="LiarOnce" creationdate="20181008T044644Z">
@@ -6856,10 +6968,50 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot change Visible in OnShow or OnHide</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015804Z" creationid="LiarOnce" creationdate="20181111T015804Z">
+        <seg>无法在 OnShow 或 OnHide 中更改可见</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot change a connected IOHandler.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091620Z" creationid="LiarOnce" creationdate="20181110T091620Z">
         <seg>无法更改连接的 IOHandler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create form.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015613Z" creationid="LiarOnce" creationdate="20181111T015613Z">
+        <seg>无法创建窗体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot drag a form</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015538Z" creationid="LiarOnce" creationdate="20181111T015538Z">
+        <seg>无法拖动窗体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot focus a disabled or invisible window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015637Z" creationid="LiarOnce" creationdate="20181111T015637Z">
+        <seg>无法聚焦已禁用或不可见的窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot hide an MDI Child Form</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015742Z" creationid="LiarOnce" creationdate="20181111T015742Z">
+        <seg>无法隐藏 MDI 子窗体</seg>
       </tuv>
     </tu>
     <tu>
@@ -6876,6 +7028,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051806Z" creationid="LiarOnce" creationdate="20181030T051806Z">
         <seg>无法加载图像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot make a visible window modal</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015853Z" creationid="LiarOnce" creationdate="20181111T015853Z">
+        <seg>无法制作可见窗口模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -7905,6 +8065,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Close some windows and try again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015106Z" creationid="LiarOnce" creationdate="20181111T015106Z">
+        <seg>请关闭一些窗口, 然后重试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Close the form</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045506Z" creationid="LiarOnce" creationdate="20181009T045506Z">
@@ -8481,6 +8649,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Control '%s' has no parent window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015642Z" creationid="LiarOnce" creationdate="20181111T015642Z">
+        <seg>控件 "%s" 没有父窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Control Help</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T044729Z" creationid="LiarOnce" creationdate="20181103T044729Z">
@@ -8685,6 +8861,14 @@ Toggle mipmapping of Texture Group&lt;片段 2129&gt;
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085752Z" creationid="LiarOnce" creationdate="20181013T085752Z">
         <seg>复制|将所选项目复制到剪贴板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not decompress the image because it contains invalid compressed data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015324Z" creationid="LiarOnce" creationdate="20181111T015324Z">
+        <seg>无法解压缩图像, 因为它包含无效的压缩数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11090,6 +11274,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enhanced Metafiles</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015541Z" creationid="LiarOnce" creationdate="20181111T015541Z">
+        <seg>增强型元文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093154Z" creationid="36011" creationdate="20170114T032921Z">
@@ -11214,6 +11406,22 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091454Z" creationid="LiarOnce" creationdate="20181110T091454Z">
         <seg>创建 SSL 上下文时出错。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error creating window class</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015633Z" creationid="LiarOnce" creationdate="20181111T015633Z">
+        <seg>创建窗口类时出错</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error creating window device context</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015632Z" creationid="LiarOnce" creationdate="20181111T015632Z">
+        <seg>创建窗口设备上下文时出错</seg>
       </tuv>
     </tu>
     <tu>
@@ -11754,6 +11962,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Failed to get ANSI replacement character</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015255Z" creationid="LiarOnce" creationdate="20181111T015255Z">
+        <seg>未能获取 ANSI 替换字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Failed to obtain size of file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T013802Z" creationid="LiarOnce" creationdate="20181111T013802Z">
@@ -11766,6 +11982,22 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T013105Z" creationid="LiarOnce" creationdate="20181111T013105Z">
         <seg>无法打开互斥体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to read ImageList data from stream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015623Z" creationid="LiarOnce" creationdate="20181111T015623Z">
+        <seg>无法从流中读取图像列表数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to write ImageList data to stream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015631Z" creationid="LiarOnce" creationdate="20181111T015631Z">
+        <seg>未能将映像列表数据写入流式传输</seg>
       </tuv>
     </tu>
     <tu>
@@ -12174,6 +12406,22 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141107Z" creationid="LiarOnce" creationdate="20181007T141107Z">
         <seg>第一个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fixed column count must be less than column count</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015548Z" creationid="LiarOnce" creationdate="20181111T015548Z">
+        <seg>固定列计数必须小于列计数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fixed row count must be less than row count</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015549Z" creationid="LiarOnce" creationdate="20181111T015549Z">
+        <seg>固定行计数必须小于行计数</seg>
       </tuv>
     </tu>
     <tu>
@@ -13102,10 +13350,34 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Grid index out of range</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015547Z" creationid="LiarOnce" creationdate="20181111T015547Z">
+        <seg>网格索引超出范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grid too large for operation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015544Z" creationid="LiarOnce" creationdate="20181111T015544Z">
+        <seg>网格太大, 无法操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Group Undo operations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031436Z" creationid="LiarOnce" creationdate="20181021T031436Z">
         <seg>组撤消操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GroupIndex cannot be less than a previous menu item's GroupIndex</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015612Z" creationid="LiarOnce" creationdate="20181111T015612Z">
+        <seg>组索引不能小于以前的菜单项的组索引</seg>
       </tuv>
     </tu>
     <tu>
@@ -14623,6 +14895,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid ImageList Index</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015622Z" creationid="LiarOnce" creationdate="20181111T015622Z">
+        <seg>无效的图像列表索引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid MMF name "%s"</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092747Z" creationid="LiarOnce" creationdate="20181110T092747Z">
@@ -14779,6 +15059,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043007Z" creationid="LiarOnce" creationdate="20181014T043007Z">
         <seg>看起来您已将帐户设置为使用我们的两步身份验证。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's not allowed to add a new chunk because the current image is invalid.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015054Z" creationid="LiarOnce" creationdate="20181111T015054Z">
+        <seg>不允许添加新的块, 因为当前图像无效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16615,6 +16903,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Metafiles</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015540Z" creationid="LiarOnce" creationdate="20181111T015540Z">
+        <seg>元文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Middle button</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142844Z" creationid="LiarOnce" creationdate="20181007T142807Z">
@@ -17215,6 +17511,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>N&amp;o to All</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015452Z" creationid="LiarOnce" creationdate="20181111T015452Z">
+        <seg>全否</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOT</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141352Z" creationid="LiarOnce" creationdate="20181007T141352Z">
@@ -17591,6 +17895,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No MDI forms are currently active</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015615Z" creationid="LiarOnce" creationdate="20181111T015615Z">
+        <seg>当前没有 mdi 窗体处于活动状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No Zoom</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T044708Z" creationid="LiarOnce" creationdate="20181103T044708Z">
@@ -17723,6 +18035,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092226Z" creationid="LiarOnce" creationdate="20181110T092226Z">
         <seg>缓冲区中的数据不足。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not enough timers available</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015552Z" creationid="LiarOnce" creationdate="20181111T015552Z">
+        <seg>没有足够的计时器可用</seg>
       </tuv>
     </tu>
     <tu>
@@ -18215,6 +18535,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Operation is not supported while compressing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015300Z" creationid="LiarOnce" creationdate="20181111T015300Z">
+        <seg>压缩时不支持操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operation is not supported while decompressing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015301Z" creationid="LiarOnce" creationdate="20181111T015301Z">
+        <seg>解压缩时不支持操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Optimizing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024545Z" creationid="LiarOnce" creationdate="20181110T024545Z">
@@ -18669,6 +19005,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180923T082417Z" creationid="deciia" creationdate="20170103T100607Z">
         <seg>父</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parent given is not a parent of '%s'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015654Z" creationid="LiarOnce" creationdate="20181111T015654Z">
+        <seg>给定的父项不是 "%s" 的父项</seg>
       </tuv>
     </tu>
     <tu>
@@ -19403,6 +19747,38 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Printer index out of range</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015556Z" creationid="LiarOnce" creationdate="20181111T015556Z">
+        <seg>打印机索引超出范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Printer is not currently printing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015554Z" creationid="LiarOnce" creationdate="20181111T015554Z">
+        <seg>打印机当前未打印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Printer selected is not valid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015557Z" creationid="LiarOnce" creationdate="20181111T015557Z">
+        <seg>选择的打印机无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Printing in progress</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015555Z" creationid="LiarOnce" creationdate="20181111T015555Z">
+        <seg>打印正在进行中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ProcessAffinityMask</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052333Z" creationid="LiarOnce" creationdate="20181030T052333Z">
@@ -19511,6 +19887,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T103148Z" creationid="deciia" creationdate="20170103T103148Z">
         <seg>属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Property is not available</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015258Z" creationid="LiarOnce" creationdate="20181111T015258Z">
+        <seg>属性不可用</seg>
       </tuv>
     </tu>
     <tu>
@@ -21613,6 +21997,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scrollbar property out of range</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015855Z" creationid="LiarOnce" creationdate="20181111T015855Z">
+        <seg>滚动条属性超出范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Search For Resources matching Whole Word Only</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032716Z" creationid="LiarOnce" creationdate="20181014T032716Z">
@@ -22109,10 +22501,58 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Setting bit transparency color is not allowed for png images containing alpha value for each pixel (COLOR_RGBALPHA and COLOR_GRAYSCALEALPHA)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015233Z" creationid="LiarOnce" creationdate="20181111T015233Z">
+        <seg>对于每个像素包含 alpha 值的 PNG 图像，不允许设置位透明度颜色 (COLOR_RGBALPHA 和 COLOR_GRAYSCALEALPHA) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Settings</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170314T163946Z" creationid="deciia" creationdate="20170314T163946Z">
         <seg>设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sevenzip: Error result (%.8x) "%s"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T014934Z" creationid="LiarOnce" creationdate="20181111T014934Z">
+        <seg>Sevenzip: 错误结果 (%.8x) "%s"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sevenzip: Failed to get in archive interface for class %s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015003Z" creationid="LiarOnce" creationdate="20181111T014956Z">
+        <seg>Sevenzip: 无法进入类 %s 的存档接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sevenzip: Failed to get out archive interface for class %s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T014949Z" creationid="LiarOnce" creationdate="20181111T014949Z">
+        <seg>Sevenzip: 无法获取类 %s 的存档接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sevenzip: Failed to load 7z.dll</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T014925Z" creationid="LiarOnce" creationdate="20181111T014925Z">
+        <seg>Sevenzip: 无法加载 7z.dll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sevenzip: Unknown value type (%d) for property ID %d</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015049Z" creationid="LiarOnce" creationdate="20181111T015049Z">
+        <seg>Sevenzip: 属性 ID %d 的未知值类型 (%d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23327,6 +23767,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some operation could not be performed because the system is out of resources.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015105Z" creationid="LiarOnce" creationdate="20181111T015105Z">
+        <seg>由于系统资源不足, 无法执行某些操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sort by Name</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042856Z" creationid="LiarOnce" creationdate="20181014T042856Z">
@@ -23967,6 +24415,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sub-menu is not in menu</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015551Z" creationid="LiarOnce" creationdate="20181111T015551Z">
+        <seg>子菜单不在菜单中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Submission &amp;Guide</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042625Z" creationid="LiarOnce" creationdate="20181014T042625Z">
@@ -24407,6 +24863,30 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The "Portable Network Graphics" could not be created because invalid image type parameters have being provided.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015249Z" creationid="LiarOnce" creationdate="20181111T015249Z">
+        <seg>无法创建 "便携式网络图形", 因为提供了无效的图像类型参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The "Portable Network Graphics" image contains an invalid palette.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015327Z" creationid="LiarOnce" creationdate="20181111T015327Z">
+        <seg>"便携式网络图形" 图像包含无效的调色板。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The "Portable Network Graphics" image could not be loaded because one of its main piece of data (ihdr) might be corrupted</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015318Z" creationid="LiarOnce" creationdate="20181111T015318Z">
+        <seg>无法加载 "便携式网络图形" 图像, 因为其主要数据块之一 (ihdr) 可能已损坏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The IOHandler already has a different Intercept assigned</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092002Z" creationid="LiarOnce" creationdate="20181110T092002Z">
@@ -24507,6 +24987,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T014849Z" creationid="LiarOnce" creationdate="20181111T014849Z">
         <seg>文件 %s 不存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The file being read is not a valid "Portable Network Graphics" image because it contains an invalid header.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015329Z" creationid="LiarOnce" creationdate="20181111T015329Z">
+        <seg>正在读取的文件不是有效的 "便携式网络图形" 图像, 因为它包含无效的标头。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24639,6 +25127,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The new size provided for image resizing is invalid.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015243Z" creationid="LiarOnce" creationdate="20181111T015243Z">
+        <seg>为图像调整大小提供的新大小无效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The number of steps per second</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082426Z" creationid="LiarOnce" creationdate="20181027T082426Z">
@@ -24659,6 +25155,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052331Z" creationid="LiarOnce" creationdate="20181015T052331Z">
         <seg>事件和操作的父级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The png image could not be loaded from the resource ID.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015102Z" creationid="LiarOnce" creationdate="20181111T015102Z">
+        <seg>无法从资源 ID 加载 PNG 图像。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24759,6 +25263,30 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This "Portable Network Graphics" image is invalid because it has missing image parts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015321Z" creationid="LiarOnce" creationdate="20181111T015321Z">
+        <seg>此 "便携式网络图形" 图像无效, 因为它缺少图像部件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This "Portable Network Graphics" image is not supported or it might be invalid.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015334Z" creationid="LiarOnce" creationdate="20181111T015334Z">
+        <seg>不支持此 "便携式网络图形" 图像, 或者它可能无效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This "Portable Network Graphics" image is not valid because it contains invalid pieces of data (crc error)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015313Z" creationid="LiarOnce" creationdate="20181111T015313Z">
+        <seg>此 "便携式网络图形" 图像无效, 因为它包含无效的数据片段 (crc 错误)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This app uses ID_CAP_MICROPHONE</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135529Z" creationid="LiarOnce" creationdate="20181020T135529Z">
@@ -24779,6 +25307,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024606Z" creationid="LiarOnce" creationdate="20181110T024548Z">
         <seg>此命令已禁用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This file may be corrupted, try obtaining it again</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015333Z" creationid="LiarOnce" creationdate="20181111T015333Z">
+        <seg>此文件可能已损坏, 请尝试再次获取它</seg>
       </tuv>
     </tu>
     <tu>
@@ -24819,6 +25355,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123451Z" creationid="LiarOnce" creationdate="20181013T123451Z">
         <seg>这是 GameMaker 8.1 的限时测试版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This operation is not valid because the current image contains no valid header.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015238Z" creationid="LiarOnce" creationdate="20181111T015238Z">
+        <seg>此操作无效, 因为当前图像不包含有效的标头。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25560,6 +26104,14 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Too many rows or columns deleted</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015545Z" creationid="LiarOnce" creationdate="20181111T015545Z">
+        <seg>删除的行数或列太多</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Too much data in buffer.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092229Z" creationid="LiarOnce" creationdate="20181110T092229Z">
@@ -25928,6 +26480,14 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unable to Replace Image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015621Z" creationid="LiarOnce" creationdate="20181111T015621Z">
+        <seg>无法替换图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unable to create directory</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T013953Z" creationid="LiarOnce" creationdate="20181111T013953Z">
@@ -26204,6 +26764,14 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091750Z" creationid="LiarOnce" creationdate="20181110T091750Z">
         <seg>不支持的哈希算法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsupported method</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015302Z" creationid="LiarOnce" creationdate="20181111T015302Z">
+        <seg>不支持的方法</seg>
       </tuv>
     </tu>
     <tu>
@@ -27835,6 +28403,14 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yes to &amp;All</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015457Z" creationid="LiarOnce" creationdate="20181111T015457Z">
+        <seg>全是</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>YoYo</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091234Z" creationid="LiarOnce" creationdate="20181028T091234Z">
@@ -29218,6 +29794,14 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031249Z" creationid="LiarOnce" creationdate="20181021T031249Z">
         <seg>在物体属性上打开的操作选项卡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>write is not an supported operation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015257Z" creationid="LiarOnce" creationdate="20181111T015257Z">
+        <seg>写入不是受支持的操作。</seg>
       </tuv>
     </tu>
     <tu>
