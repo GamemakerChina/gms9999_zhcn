@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Begin of step</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T034005Z" creationid="LiarOnce" creationdate="20181111T033946Z">
+        <seg>步开始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Blur...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T031855Z" creationid="LiarOnce" creationdate="20181014T031855Z">
@@ -330,6 +338,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T030143Z" creationid="LiarOnce" creationdate="20181014T030143Z">
         <seg>&amp;着色...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Condition:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033931Z" creationid="LiarOnce" creationdate="20181111T033931Z">
+        <seg>条件</seg>
       </tuv>
     </tu>
     <tu>
@@ -822,6 +838,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Merge</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033437Z" creationid="LiarOnce" creationdate="20181111T033437Z">
+        <seg>合并</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Middle of step</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033956Z" creationid="LiarOnce" creationdate="20181111T033956Z">
+        <seg>步骤中间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Mirror/Flip...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T030350Z" creationid="LiarOnce" creationdate="20181014T030350Z">
@@ -1170,6 +1202,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042622Z" creationid="LiarOnce" creationdate="20181014T042622Z">
         <seg>出售资产</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Shift</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033424Z" creationid="LiarOnce" creationdate="20181111T033424Z">
+        <seg>移动</seg>
       </tuv>
     </tu>
     <tu>
@@ -6440,6 +6480,22 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Block pattern</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033922Z" creationid="LiarOnce" creationdate="20181111T033922Z">
+        <seg>块模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Block size:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033920Z" creationid="LiarOnce" creationdate="20181111T033920Z">
+        <seg>块大小：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bluetooth gamepad/iCade Support</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025030Z" creationid="LiarOnce" creationdate="20181021T025030Z">
@@ -7624,6 +7680,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change the moment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033341Z" creationid="LiarOnce" creationdate="20181111T033341Z">
+        <seg>改变时刻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change the opacity of the image</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T031653Z" creationid="LiarOnce" creationdate="20181014T031653Z">
@@ -8160,6 +8224,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clears all moments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033441Z" creationid="LiarOnce" creationdate="20181111T033441Z">
+        <seg>清除所有时刻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click a line to move to the resource</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T051617Z" creationid="LiarOnce" creationdate="20181103T051617Z">
@@ -8176,10 +8248,26 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click here to add another moment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033340Z" creationid="LiarOnce" creationdate="20181111T033340Z">
+        <seg>点击这里添加另一个时刻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click here to go to the YoYoGames website for more information on GameMaker</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032713Z" creationid="LiarOnce" creationdate="20181014T032713Z">
         <seg>单击此处转到 YoYoGames 网站, 了解有关 GameMaker 的更多信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click on a trigger to change it</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033928Z" creationid="LiarOnce" creationdate="20181111T033928Z">
+        <seg>单击触发器进行更改</seg>
       </tuv>
     </tu>
     <tu>
@@ -8470,6 +8558,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170219T010027Z" creationid="deciia" creationdate="20170219T010027Z">
         <seg>云</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Co&amp;nstant name:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033942Z" creationid="LiarOnce" creationdate="20181111T033942Z">
+        <seg>常量名称：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10442,6 +10538,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete  moments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033342Z" creationid="LiarOnce" creationdate="20181111T033342Z">
+        <seg>删除时刻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete &amp;underlying</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050333Z" creationid="LiarOnce" creationdate="20181029T050333Z">
@@ -11307,6 +11411,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Duplicates moments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033422Z" creationid="LiarOnce" creationdate="20181111T033344Z">
+        <seg>复制时刻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>E</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090307Z" creationid="LiarOnce" creationdate="20181028T090307Z">
@@ -12023,6 +12135,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052026Z" creationid="LiarOnce" creationdate="20181030T052026Z">
         <seg>Esc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Event will be checked at the beginning of each step</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033950Z" creationid="LiarOnce" creationdate="20181111T033950Z">
+        <seg>将在每个步骤开始时检查事件</seg>
       </tuv>
     </tu>
     <tu>
@@ -17064,6 +17184,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>List of Actions for this Moment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033911Z" creationid="LiarOnce" creationdate="20181111T033911Z">
+        <seg>此时刻的行动清单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>List of Configurations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043045Z" creationid="LiarOnce" creationdate="20181014T043045Z">
@@ -17096,6 +17224,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>List of Moments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033912Z" creationid="LiarOnce" creationdate="20181111T033912Z">
+        <seg>时刻列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>List of Phone Devices to test on</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T025248Z" creationid="LiarOnce" creationdate="20181111T025248Z">
@@ -17108,6 +17244,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T140150Z" creationid="LiarOnce" creationdate="20181020T140150Z">
         <seg>允许访问的 url 列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of all defined triggers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033927Z" creationid="LiarOnce" creationdate="20181111T033927Z">
+        <seg>所有已定义触发器的列表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17944,6 +18088,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Merges a number of moments into one</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033440Z" creationid="LiarOnce" creationdate="20181111T033440Z">
+        <seg>将许多时刻合并为一个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Message</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170215T152300Z" creationid="deciia" creationdate="20170215T152300Z">
@@ -18180,6 +18332,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025041Z" creationid="LiarOnce" creationdate="20181021T025041Z">
         <seg>Moga 手柄支持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moment of checking:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033933Z" creationid="LiarOnce" creationdate="20181111T033933Z">
+        <seg>检查时刻：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moments:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033910Z" creationid="LiarOnce" creationdate="20181111T033910Z">
+        <seg>时刻：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22814,6 +22982,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>S&amp;pread</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033452Z" creationid="LiarOnce" creationdate="20181111T033445Z">
+        <seg>展开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SCIPasswordEdit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T044755Z" creationid="LiarOnce" creationdate="20181029T044755Z">
@@ -23966,6 +24142,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set the size of the blocks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033925Z" creationid="LiarOnce" creationdate="20181111T033925Z">
+        <seg>设置块的大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SetCipher failed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091449Z" creationid="LiarOnce" creationdate="20181110T091449Z">
@@ -24132,6 +24316,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052919Z" creationid="LiarOnce" creationdate="20181030T052919Z">
         <seg>按指定数量转移所有实例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shift moments by an amount</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033436Z" creationid="LiarOnce" creationdate="20181111T033436Z">
+        <seg>移动一定数量的时刻</seg>
       </tuv>
     </tu>
     <tu>
@@ -24808,6 +25000,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show information about the time line</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033908Z" creationid="LiarOnce" creationdate="20181111T033908Z">
+        <seg>显示有关时间线的信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show line numbers</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T084229Z" creationid="deciia" creationdate="20180922T032648Z">
@@ -25124,6 +25324,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032834Z" creationid="LiarOnce" creationdate="20181111T032834Z">
         <seg>模拟器：iPhone 6s Plus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Single Color</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033923Z" creationid="LiarOnce" creationdate="20181111T033923Z">
+        <seg>单色</seg>
       </tuv>
     </tu>
     <tu>
@@ -25700,6 +25908,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023522Z" creationid="LiarOnce" creationdate="20181014T023522Z">
         <seg>在图像上喷漆 (A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spread out the moments adding additional time between them</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033906Z" creationid="LiarOnce" creationdate="20181111T033906Z">
+        <seg>展开他们之间增加额外时间的时刻</seg>
       </tuv>
     </tu>
     <tu>
@@ -26856,6 +27072,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The name of the time line</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033338Z" creationid="LiarOnce" creationdate="20181111T033338Z">
+        <seg>时间线的名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The name of your extension</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130414Z" creationid="LiarOnce" creationdate="20181013T130414Z">
@@ -27353,10 +27577,26 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Time Line Information</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033913Z" creationid="LiarOnce" creationdate="20181111T033913Z">
+        <seg>时间线信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Time Line Names</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032908Z" creationid="LiarOnce" creationdate="20181111T032908Z">
         <seg>时间线名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time Line Properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033337Z" creationid="LiarOnce" creationdate="20181111T033337Z">
+        <seg>时间线属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -28153,6 +28393,14 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Triggers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033926Z" creationid="LiarOnce" creationdate="20181111T033926Z">
+        <seg>触发器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Trim the image to remove the transparent space around it</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T024027Z" creationid="LiarOnce" creationdate="20181014T024027Z">
@@ -28245,6 +28493,22 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170215T151712Z" creationid="deciia" creationdate="20170215T151712Z">
         <seg>类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type here a name for the trigger</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033944Z" creationid="LiarOnce" creationdate="20181111T033944Z">
+        <seg>在此键入触发器的名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type here the condition for the trigger</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033945Z" creationid="LiarOnce" creationdate="20181111T033945Z">
+        <seg>在此键入触发条件</seg>
       </tuv>
     </tu>
     <tu>
