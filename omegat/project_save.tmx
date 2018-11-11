@@ -1478,6 +1478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;number of images:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023532Z" creationid="LiarOnce" creationdate="20181111T023532Z">
+        <seg>图像数量:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;objects</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032503Z" creationid="LiarOnce" creationdate="20181021T032445Z">
@@ -4127,6 +4135,14 @@ Right mouse button = menu</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A unique password of 8 or more characters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023437Z" creationid="LiarOnce" creationdate="20181111T023437Z">
+        <seg>8个或更多字符的唯一密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A&amp;larm</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142533Z" creationid="LiarOnce" creationdate="20181007T142526Z">
@@ -5151,6 +5167,14 @@ Right mouse button = menu</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Already have a certificate?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023422Z" creationid="LiarOnce" creationdate="20181111T023422Z">
+        <seg>已经有证书了吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also indicate information about your machine and the version of
 windows you are using.</seg>
       </tuv>
@@ -5268,6 +5292,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045903Z" creationid="LiarOnce" creationdate="20181029T045903Z">
         <seg>Amazon Fire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AmericanFootball</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023018Z" creationid="LiarOnce" creationdate="20181111T023018Z">
+        <seg>AmericanFootball</seg>
       </tuv>
     </tu>
     <tu>
@@ -5944,6 +5976,22 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto download purchased assets</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023354Z" creationid="LiarOnce" creationdate="20181111T023354Z">
+        <seg>自动下载购买的资产</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto update purchased assets</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023357Z" creationid="LiarOnce" creationdate="20181111T023357Z">
+        <seg>自动更新购买的资产</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto-Detect</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134955Z" creationid="LiarOnce" creationdate="20181020T134955Z">
@@ -5956,6 +6004,22 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T084132Z" creationid="LiarOnce" creationdate="20181110T084132Z">
         <seg>Autodesk 图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automatic Downloads</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023041Z" creationid="LiarOnce" creationdate="20181111T023041Z">
+        <seg>自动下载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automatic Updates</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023338Z" creationid="LiarOnce" creationdate="20181111T023338Z">
+        <seg>自动更新</seg>
       </tuv>
     </tu>
     <tu>
@@ -6584,6 +6648,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bowling</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023013Z" creationid="LiarOnce" creationdate="20181111T023013Z">
+        <seg>Bowling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Box</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170114T034430Z" creationid="deciia" creationdate="20170103T102429Z">
@@ -6596,6 +6668,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091244Z" creationid="LiarOnce" creationdate="20181028T091244Z">
         <seg>Box2D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boxing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023015Z" creationid="LiarOnce" creationdate="20181111T023015Z">
+        <seg>Boxing</seg>
       </tuv>
     </tu>
     <tu>
@@ -7304,6 +7384,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Certificate Details</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023423Z" creationid="LiarOnce" creationdate="20181111T023423Z">
+        <seg>证书详细信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Certification</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T024315Z" creationid="LiarOnce" creationdate="20181021T024315Z">
@@ -7708,6 +7796,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025221Z" creationid="LiarOnce" creationdate="20181110T025221Z">
         <seg>圆形解码器表条目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>City/Town</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023431Z" creationid="LiarOnce" creationdate="20181111T023431Z">
+        <seg>市/县</seg>
       </tuv>
     </tu>
     <tu>
@@ -9342,6 +9438,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T044827Z" creationid="LiarOnce" creationdate="20181103T044827Z">
         <seg>创建时代码...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cricket</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023020Z" creationid="LiarOnce" creationdate="20181111T023020Z">
+        <seg>Cricket</seg>
       </tuv>
     </tu>
     <tu>
@@ -13331,6 +13435,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Generate Certificate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023442Z" creationid="LiarOnce" creationdate="20181111T023442Z">
+        <seg>生成证书</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generate Spotify App</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T073213Z" creationid="deciia" creationdate="20170104T073213Z">
@@ -13475,6 +13587,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043848Z" creationid="LiarOnce" creationdate="20181014T043848Z">
         <seg>前往首页</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Golf</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023015Z" creationid="LiarOnce" creationdate="20181111T023015Z">
+        <seg>Golf</seg>
       </tuv>
     </tu>
     <tu>
@@ -13687,6 +13807,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Handball</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023019Z" creationid="LiarOnce" creationdate="20181111T023019Z">
+        <seg>Handball</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Handling Naming Conflicts</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051457Z" creationid="LiarOnce" creationdate="20181015T051457Z">
@@ -13852,6 +13980,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094653Z" creationid="LiarOnce" creationdate="20181110T094653Z">
         <seg>Historical</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hockey</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023017Z" creationid="LiarOnce" creationdate="20181111T023017Z">
+        <seg>Hockey</seg>
       </tuv>
     </tu>
     <tu>
@@ -16680,6 +16816,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loading a strip image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023458Z" creationid="LiarOnce" creationdate="20181111T023458Z">
+        <seg>加载长带图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loading bar extension</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T021616Z" creationid="deciia" creationdate="20180922T021616Z">
@@ -17108,6 +17252,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141549Z" creationid="LiarOnce" creationdate="20181007T141549Z">
         <seg>市场 Beta 登录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marketplace Properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023037Z" creationid="LiarOnce" creationdate="20181111T023037Z">
+        <seg>应用商店属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -20474,6 +20626,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T032608Z" creationid="LiarOnce" creationdate="20181014T032608Z">
         <seg>购买模块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Purchased assets will be automatically downloaded to your PC</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023336Z" creationid="LiarOnce" creationdate="20181111T023336Z">
+        <seg>购买的资产将自动下载到您的 PC</seg>
       </tuv>
     </tu>
     <tu>
@@ -23912,6 +24072,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023440Z" creationid="LiarOnce" creationdate="20181111T023440Z">
+        <seg>显示密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show recently edited games in file menu</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030115Z" creationid="LiarOnce" creationdate="20181021T030115Z">
@@ -25628,6 +25796,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025726Z" creationid="LiarOnce" creationdate="20181021T025726Z">
         <seg>点列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The location of your organisation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023434Z" creationid="LiarOnce" creationdate="20181111T023434Z">
+        <seg>您的组织的位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -27521,6 +27697,14 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Updates to purchased assets will be automatically downloaded as soon as they are available</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023346Z" creationid="LiarOnce" creationdate="20181111T023346Z">
+        <seg>购买资产的更新将在可用时自动下载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Upgrade</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041750Z" creationid="LiarOnce" creationdate="20181014T041750Z">
@@ -28572,6 +28756,14 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Weightlifting</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023020Z" creationid="LiarOnce" creationdate="20181111T023020Z">
+        <seg>Weightlifting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Welcome</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170311T113744Z" creationid="deciia" creationdate="20170311T113744Z">
@@ -28712,6 +28904,14 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141118Z" creationid="LiarOnce" creationdate="20181007T141118Z">
         <seg>全词匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why do I need this?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023439Z" creationid="LiarOnce" creationdate="20181111T023439Z">
+        <seg>我为什么需要这个？</seg>
       </tuv>
     </tu>
     <tu>
@@ -28928,6 +29128,14 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124411Z" creationid="LiarOnce" creationdate="20181013T124411Z">
         <seg>垂直环绕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrestling</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023016Z" creationid="LiarOnce" creationdate="20181111T023016Z">
+        <seg>Wrestling</seg>
       </tuv>
     </tu>
     <tu>
@@ -29247,6 +29455,14 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your Publisher name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023426Z" creationid="LiarOnce" creationdate="20181111T023426Z">
+        <seg>您的发布者名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Z</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090344Z" creationid="LiarOnce" creationdate="20181028T090344Z">
@@ -29491,6 +29707,14 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022317Z" creationid="LiarOnce" creationdate="20181111T022317Z">
         <seg>gmspr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>horizontal &amp;pixel offset:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023503Z" creationid="LiarOnce" creationdate="20181111T023503Z">
+        <seg>水平和像素偏移：</seg>
       </tuv>
     </tu>
     <tu>
@@ -30087,6 +30311,30 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>image &amp;height:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023528Z" creationid="LiarOnce" creationdate="20181111T023528Z">
+        <seg>图像高度:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>image &amp;width:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023525Z" creationid="LiarOnce" creationdate="20181111T023525Z">
+        <seg>图像宽度:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images per &amp;row:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024441Z" creationid="LiarOnce" creationdate="20181111T023541Z">
+        <seg>每行图片数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>incompatible version</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091251Z" creationid="LiarOnce" creationdate="20181110T091251Z">
@@ -30459,6 +30707,14 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091106Z" creationid="LiarOnce" creationdate="20181110T091106Z">
         <seg>未知的压缩方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>vertical p&amp;ixel offset:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023521Z" creationid="LiarOnce" creationdate="20181111T023521Z">
+        <seg>垂直像素偏移：</seg>
       </tuv>
     </tu>
     <tu>
