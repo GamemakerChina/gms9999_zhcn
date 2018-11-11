@@ -78,3 +78,4 @@ cursor	光标	统一翻译为光标。
 Addon	附加组件	add-ons，addon，附加组件，外接组件。
 Chain	连接线	链，连接，连接线
 Mask	遮罩
+Location	路径
