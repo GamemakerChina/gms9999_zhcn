@@ -4055,6 +4055,14 @@ Right mouse button = menu</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A call to an OS function failed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021851Z" creationid="LiarOnce" creationdate="20181111T021851Z">
+        <seg>对操作系统函数的调用失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A control cannot have itself as its parent</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015619Z" creationid="LiarOnce" creationdate="20181111T015619Z">
@@ -5576,6 +5584,22 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apr</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021902Z" creationid="LiarOnce" creationdate="20181111T021902Z">
+        <seg>四月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>April</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021756Z" creationid="LiarOnce" creationdate="20181111T021756Z">
+        <seg>四月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Arcade</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094657Z" creationid="LiarOnce" creationdate="20181110T094657Z">
@@ -5812,6 +5836,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T051849Z" creationid="LiarOnce" creationdate="20181103T051849Z">
         <seg>AudioGroupCombo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>August</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021803Z" creationid="LiarOnce" creationdate="20181111T021803Z">
+        <seg>八月</seg>
       </tuv>
     </tu>
     <tu>
@@ -7036,6 +7068,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015742Z" creationid="LiarOnce" creationdate="20181111T015742Z">
         <seg>无法隐藏 MDI 子窗体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot insert or delete rows from grid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021704Z" creationid="LiarOnce" creationdate="20181111T021704Z">
+        <seg>无法从网格中插入或删除行</seg>
       </tuv>
     </tu>
     <tu>
@@ -9898,6 +9938,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>December</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021807Z" creationid="LiarOnce" creationdate="20181111T021807Z">
+        <seg>十二月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Decoder bit buffer under-run</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025214Z" creationid="LiarOnce" creationdate="20181110T025214Z">
@@ -12027,6 +12075,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Feb</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021855Z" creationid="LiarOnce" creationdate="20181111T021855Z">
+        <seg>2月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Feed Name:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045422Z" creationid="LiarOnce" creationdate="20181103T045422Z">
@@ -12675,6 +12731,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fri</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021843Z" creationid="LiarOnce" creationdate="20181111T021843Z">
+        <seg>周五</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Friction of object</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044536Z" creationid="LiarOnce" creationdate="20181014T044536Z">
@@ -12687,6 +12751,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044332Z" creationid="LiarOnce" creationdate="20181014T044332Z">
         <seg>阻力:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Friday</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021751Z" creationid="LiarOnce" creationdate="20181111T021751Z">
+        <seg>星期五</seg>
       </tuv>
     </tu>
     <tu>
@@ -14952,6 +15024,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid input value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021705Z" creationid="LiarOnce" creationdate="20181111T021705Z">
+        <seg>无效的输入值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid input value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021711Z" creationid="LiarOnce" creationdate="20181111T021708Z">
+        <seg>无效的输入值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid number of colors specified in Image Descriptor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025153Z" creationid="LiarOnce" creationdate="20181110T025153Z">
@@ -15168,6 +15256,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jan</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021908Z" creationid="LiarOnce" creationdate="20181111T021853Z">
+        <seg>一月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Java JDK Location</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T081733Z" creationid="deciia" creationdate="20170105T081733Z">
@@ -15188,6 +15284,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090033Z" creationid="LiarOnce" creationdate="20181028T090033Z">
         <seg>Joystick 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>July</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021802Z" creationid="LiarOnce" creationdate="20181111T021802Z">
+        <seg>七月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>June</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021801Z" creationid="LiarOnce" creationdate="20181111T021801Z">
+        <seg>六月</seg>
       </tuv>
     </tu>
     <tu>
@@ -16728,6 +16840,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021858Z" creationid="LiarOnce" creationdate="20181111T021858Z">
+        <seg>3月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MarkedUp</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T044902Z" creationid="LiarOnce" creationdate="20181029T044902Z">
@@ -16844,6 +16964,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T013200Z" creationid="LiarOnce" creationdate="20181111T013200Z">
         <seg>MaximumAllocationSize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>May</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021800Z" creationid="LiarOnce" creationdate="20181111T021800Z">
+        <seg>五月</seg>
       </tuv>
     </tu>
     <tu>
@@ -17132,6 +17260,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025041Z" creationid="LiarOnce" creationdate="20181021T025041Z">
         <seg>Moga 手柄支持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mon</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021811Z" creationid="LiarOnce" creationdate="20181111T021811Z">
+        <seg>周一</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Monday</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021747Z" creationid="LiarOnce" creationdate="20181111T021747Z">
+        <seg>星期一</seg>
       </tuv>
     </tu>
     <tu>
@@ -18112,6 +18256,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>November</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021806Z" creationid="LiarOnce" creationdate="20181111T021806Z">
+        <seg>十一月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NpTitleId</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T044600Z" creationid="LiarOnce" creationdate="20181029T044600Z">
@@ -18388,6 +18540,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051739Z" creationid="LiarOnce" creationdate="20181008T051739Z">
         <seg>对象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>October</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021805Z" creationid="LiarOnce" creationdate="20181111T021805Z">
+        <seg>十月</seg>
       </tuv>
     </tu>
     <tu>
@@ -21640,8 +21800,8 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       <tuv lang="EN-US">
         <seg>Sat</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T105837Z" creationid="deciia" creationdate="20170105T105837Z">
-        <seg>饱和度</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021849Z" creationid="deciia" creationdate="20170105T105837Z">
+        <seg>周六</seg>
       </tuv>
     </tu>
     <tu>
@@ -21650,6 +21810,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124154Z" creationid="LiarOnce" creationdate="20181013T124154Z">
         <seg>饱和度:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saturday</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021752Z" creationid="LiarOnce" creationdate="20181111T021752Z">
+        <seg>星期六</seg>
       </tuv>
     </tu>
     <tu>
@@ -22426,6 +22594,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043623Z" creationid="LiarOnce" creationdate="20181014T043623Z">
         <seg>分离碰撞面罩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>September</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021804Z" creationid="LiarOnce" creationdate="20181111T021804Z">
+        <seg>九月</seg>
       </tuv>
     </tu>
     <tu>
@@ -24536,6 +24712,22 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sun</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021821Z" creationid="LiarOnce" creationdate="20181111T021808Z">
+        <seg>周日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sunday</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021746Z" creationid="LiarOnce" creationdate="20181111T021746Z">
+        <seg>星期天</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supersonic Ads</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045022Z" creationid="LiarOnce" creationdate="20181029T045022Z">
@@ -25489,6 +25681,22 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thu</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021840Z" creationid="LiarOnce" creationdate="20181111T021840Z">
+        <seg>周四</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thursday</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021749Z" creationid="LiarOnce" creationdate="20181111T021749Z">
+        <seg>星期四</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tick if using Google Cloud Services, requires Savegames enabling in Google Developer Console</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025155Z" creationid="LiarOnce" creationdate="20181021T025155Z">
@@ -26433,6 +26641,22 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tue</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021832Z" creationid="LiarOnce" creationdate="20181111T021826Z">
+        <seg>周二</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tuesday</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021748Z" creationid="LiarOnce" creationdate="20181111T021748Z">
+        <seg>星期二</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Turn the image grayscale</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T030024Z" creationid="LiarOnce" creationdate="20181014T030024Z">
@@ -27173,6 +27397,14 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031603Z" creationid="LiarOnce" creationdate="20181021T031603Z">
         <seg>使用颜色编码变量、函数名称等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use escape key to abandon changes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021727Z" creationid="LiarOnce" creationdate="20181111T021727Z">
+        <seg>使用转义键放弃更改</seg>
       </tuv>
     </tu>
     <tu>
@@ -27952,6 +28184,22 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091636Z" creationid="LiarOnce" creationdate="20181028T091636Z">
         <seg>WebGL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021836Z" creationid="LiarOnce" creationdate="20181111T021836Z">
+        <seg>周三</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wednesday</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021748Z" creationid="LiarOnce" creationdate="20181111T021748Z">
+        <seg>星期三</seg>
       </tuv>
     </tu>
     <tu>
