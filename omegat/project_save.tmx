@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Clean build	F7</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035635Z" creationid="LiarOnce" creationdate="20181111T035635Z">
+        <seg>&amp;清除构建	F7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Clear</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142126Z" creationid="LiarOnce" creationdate="20181007T142126Z">
@@ -418,6 +426,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T034744Z" creationid="LiarOnce" creationdate="20181111T034744Z">
         <seg>&amp;删除	Del</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Delete	Shift+Del</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035415Z" creationid="LiarOnce" creationdate="20181111T035415Z">
+        <seg>&amp;删除	Shift+Del</seg>
       </tuv>
     </tu>
     <tu>
@@ -974,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;New Project	Ctrl+N</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035319Z" creationid="LiarOnce" creationdate="20181111T035319Z">
+        <seg>&amp;新的项目	Ctrl+N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;New...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050551Z" creationid="LiarOnce" creationdate="20181009T050551Z">
@@ -1042,6 +1066,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042722Z" creationid="LiarOnce" creationdate="20181014T042722Z">
         <seg>在资源管理器中打开 GameMaker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Open GameMaker in Explorer	Ctrl+Alt+O</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035707Z" creationid="LiarOnce" creationdate="20181111T035707Z">
+        <seg>&amp;在资源管理器中打开 GameMaker	Ctrl+Alt+O</seg>
       </tuv>
     </tu>
     <tu>
@@ -1214,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Rename	F2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035424Z" creationid="LiarOnce" creationdate="20181111T035424Z">
+        <seg>&amp;重命名	F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Reset</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031545Z" creationid="LiarOnce" creationdate="20181021T031545Z">
@@ -1262,10 +1302,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Run normally	F5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035615Z" creationid="LiarOnce" creationdate="20181111T035615Z">
+        <seg>&amp;正常运行	F5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Save</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041946Z" creationid="LiarOnce" creationdate="20181014T041946Z">
         <seg>保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Save	Ctrl+S</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035327Z" creationid="LiarOnce" creationdate="20181111T035327Z">
+        <seg>&amp;保存	Ctrl+S</seg>
       </tuv>
     </tu>
     <tu>
@@ -7216,6 +7272,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>C&amp;ut	Ctrl+X</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035754Z" creationid="LiarOnce" creationdate="20181111T035754Z">
+        <seg>&amp;剪切	Ctrl+X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>C&amp;ut Event</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052446Z" creationid="LiarOnce" creationdate="20181015T052446Z">
@@ -7684,6 +7748,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042308Z" creationid="LiarOnce" creationdate="20181014T042308Z">
         <seg>更改全局游戏设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change &amp;Global Game Settings	Shift+Ctrl+G</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035604Z" creationid="LiarOnce" creationdate="20181111T035604Z">
+        <seg>&amp;更改全局游戏设置	Shift+Ctrl+G</seg>
       </tuv>
     </tu>
     <tu>
@@ -8930,6 +9002,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Colour Change Tool	H</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035236Z" creationid="LiarOnce" creationdate="20181111T035236Z">
+        <seg>变色工具	H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Colour Mode</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050239Z" creationid="LiarOnce" creationdate="20181009T050239Z">
@@ -9370,6 +9450,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copy Selection	Ctrl+C</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035834Z" creationid="LiarOnce" creationdate="20181111T035834Z">
+        <seg>复制所选	Ctrl+C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copy Texture Groups from config</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090145Z" creationid="LiarOnce" creationdate="20181020T090145Z">
@@ -9586,10 +9674,26 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create &amp;Background	Shift+Ctrl+B</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035510Z" creationid="LiarOnce" creationdate="20181111T035510Z">
+        <seg>&amp;创建背景	Shift+Ctrl+B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create &amp;Font</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042256Z" creationid="LiarOnce" creationdate="20181014T042256Z">
         <seg>创建字体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create &amp;Font	Shift+Ctrl+F</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035533Z" creationid="LiarOnce" creationdate="20181111T035533Z">
+        <seg>&amp;创建字体	Shift+Ctrl+F</seg>
       </tuv>
     </tu>
     <tu>
@@ -9602,10 +9706,26 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create &amp;Group	Shift+Ins</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035412Z" creationid="LiarOnce" creationdate="20181111T035412Z">
+        <seg>&amp;创建分组	Shift+Ins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create &amp;Object</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042259Z" creationid="LiarOnce" creationdate="20181014T042259Z">
         <seg>创建物体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create &amp;Object	Shift+Ctrl+O</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035546Z" creationid="LiarOnce" creationdate="20181111T035546Z">
+        <seg>&amp;创建物体	Shift+Ctrl+O</seg>
       </tuv>
     </tu>
     <tu>
@@ -9618,10 +9738,26 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create &amp;Path	Shift+Ctrl+P</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035515Z" creationid="LiarOnce" creationdate="20181111T035515Z">
+        <seg>&amp;创建路径	Shift+Ctrl+P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create &amp;Room</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042301Z" creationid="LiarOnce" creationdate="20181014T042301Z">
         <seg>创建房间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create &amp;Room	Shift+Ctrl+R</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035553Z" creationid="LiarOnce" creationdate="20181111T035553Z">
+        <seg>&amp;创建房间	Shift+Ctrl+R</seg>
       </tuv>
     </tu>
     <tu>
@@ -9634,10 +9770,26 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create &amp;Sprite	Shift+Ctrl+S</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035459Z" creationid="LiarOnce" creationdate="20181111T035459Z">
+        <seg>&amp;创建精灵	Shift+Ctrl+S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create &amp;Time Line</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042258Z" creationid="LiarOnce" creationdate="20181014T042258Z">
         <seg>创建时间线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create &amp;Time Line	Shift+Ctrl+T</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035540Z" creationid="LiarOnce" creationdate="20181111T035540Z">
+        <seg>&amp;创建时间线	Shift+Ctrl+T</seg>
       </tuv>
     </tu>
     <tu>
@@ -9738,6 +9890,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create S&amp;cript	Shift+Ctrl+C</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035521Z" creationid="LiarOnce" creationdate="20181111T035521Z">
+        <seg>&amp;创建脚本	Shift+Ctrl+C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create SCM Config</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031141Z" creationid="LiarOnce" creationdate="20181111T031141Z">
@@ -9754,10 +9914,26 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create Sh&amp;ader	Shift+Ctrl+A</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035526Z" creationid="LiarOnce" creationdate="20181111T035526Z">
+        <seg>&amp;创建着色器	Shift+Ctrl+A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create So&amp;und</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042249Z" creationid="LiarOnce" creationdate="20181014T042249Z">
         <seg>创建声音</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create So&amp;und	Shift+Ctrl+U</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035506Z" creationid="LiarOnce" creationdate="20181111T035506Z">
+        <seg>&amp;创建声音	Shift+Ctrl+U</seg>
       </tuv>
     </tu>
     <tu>
@@ -10398,6 +10574,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042052Z" creationid="LiarOnce" creationdate="20181014T042052Z">
         <seg>复制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>D&amp;uplicate	Alt+Ins</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035401Z" creationid="LiarOnce" creationdate="20181111T035401Z">
+        <seg>&amp;复制	Alt+Ins</seg>
       </tuv>
     </tu>
     <tu>
@@ -11603,6 +11787,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>E&amp;xit	Alt+F4</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035337Z" creationid="LiarOnce" creationdate="20181111T035337Z">
+        <seg>&amp;退出	Alt+F4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EOF was observed that violates the protocol</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091521Z" creationid="LiarOnce" creationdate="20181110T091521Z">
@@ -11815,6 +12007,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051418Z" creationid="36011" creationdate="20170322T053005Z">
         <seg>椭圆工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellipse Tool	I</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035048Z" creationid="LiarOnce" creationdate="20181111T035048Z">
+        <seg>椭圆工具	I</seg>
       </tuv>
     </tu>
     <tu>
@@ -13147,6 +13347,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fill Tool	F</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035222Z" creationid="LiarOnce" creationdate="20181111T035222Z">
+        <seg>填充工具	F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fill an area (F)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023517Z" creationid="LiarOnce" creationdate="20181014T023517Z">
@@ -13247,6 +13455,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051758Z" creationid="LiarOnce" creationdate="20181015T051758Z">
         <seg>查找实例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Instance	Ctrl+F</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035306Z" creationid="LiarOnce" creationdate="20181111T035306Z">
+        <seg>查找实例	Ctrl+F</seg>
       </tuv>
     </tu>
     <tu>
@@ -13387,10 +13603,26 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flip Tile or Instance on X Axis	M</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T040034Z" creationid="LiarOnce" creationdate="20181111T040034Z">
+        <seg>将当前图块或实例沿 X 轴翻转	M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flip Tile or Instance on Y Axis</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045228Z" creationid="LiarOnce" creationdate="20181103T045228Z">
         <seg>将当前图块或实例沿 Y 轴翻转</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flip Tile or Instance on Y Axis	F</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T040027Z" creationid="LiarOnce" creationdate="20181111T040027Z">
+        <seg>将当前图块或实例沿 Y 轴翻转	F</seg>
       </tuv>
     </tu>
     <tu>
@@ -14652,6 +14884,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045136Z" creationid="LiarOnce" creationdate="20181103T045136Z">
         <seg>使用创建代码突出显示物体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highlight Objects with Creation Code	C</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035857Z" creationid="LiarOnce" creationdate="20181111T035857Z">
+        <seg>使用创建代码突出显示物体	C</seg>
       </tuv>
     </tu>
     <tu>
@@ -20040,6 +20280,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open &amp;Project in Explorer	Ctrl+Alt+P</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035723Z" creationid="LiarOnce" creationdate="20181111T035723Z">
+        <seg>&amp;在资源管理器中打开项目	Ctrl+Alt+P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open Extension Directory</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042820Z" creationid="LiarOnce" creationdate="20181014T042820Z">
@@ -20140,6 +20388,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042649Z" creationid="LiarOnce" creationdate="20181014T042649Z">
         <seg>打开帮助文档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open the &amp;Manual	F1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035647Z" creationid="LiarOnce" creationdate="20181111T035647Z">
+        <seg>&amp;打开帮助文档	F1</seg>
       </tuv>
     </tu>
     <tu>
@@ -20754,6 +21010,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Paste Selection	Ctrl+V</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035840Z" creationid="LiarOnce" creationdate="20181111T035840Z">
+        <seg>粘贴所选	Ctrl+V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Paste from &amp;File...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051135Z" creationid="LiarOnce" creationdate="20181015T051135Z">
@@ -21136,6 +21400,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051406Z" creationid="LiarOnce" creationdate="20181015T051406Z">
         <seg>多边形工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Polygon Tool	P</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035057Z" creationid="LiarOnce" creationdate="20181111T035057Z">
+        <seg>多边形工具	P</seg>
       </tuv>
     </tu>
     <tu>
@@ -22038,6 +22310,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rectangle Tool	R</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035030Z" creationid="LiarOnce" creationdate="20181111T035030Z">
+        <seg>矩形工具	R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Redo</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20161224T080032Z" creationid="deciia" creationdate="20161224T080032Z">
@@ -22574,6 +22854,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reset Zoom	Ctrl+0</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035819Z" creationid="LiarOnce" creationdate="20181111T035819Z">
+        <seg>重置缩放	Ctrl+0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset all colours to default</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031546Z" creationid="LiarOnce" creationdate="20181021T031546Z">
@@ -23030,6 +23318,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rotate Instance Clockwise	o</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T040053Z" creationid="LiarOnce" creationdate="20181111T040053Z">
+        <seg>顺时针旋转实例	o</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rotate Instance Clockwise (by 10)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045406Z" creationid="LiarOnce" creationdate="20181103T045406Z">
@@ -23038,10 +23334,26 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rotate Instance Clockwise (by 10)	5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T040122Z" creationid="LiarOnce" creationdate="20181111T040122Z">
+        <seg>顺时针旋转实例 (由 10)	5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rotate Instance Clockwise (by 5)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045401Z" creationid="LiarOnce" creationdate="20181103T045401Z">
         <seg>顺时针旋转实例 (由 5)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate Instance Clockwise (by 5)	8</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T040100Z" creationid="LiarOnce" creationdate="20181111T040100Z">
+        <seg>顺时针旋转实例 (由 5)	8</seg>
       </tuv>
     </tu>
     <tu>
@@ -23062,10 +23374,26 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rotate Instance Counter-Clockwise (by 10)	6</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T040129Z" creationid="LiarOnce" creationdate="20181111T040129Z">
+        <seg>逆时针旋转实例 (由 10)	6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rotate Instance Counter-Clockwise (by 5)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045403Z" creationid="LiarOnce" creationdate="20181103T045403Z">
         <seg>逆时针旋转实例 (由 5)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate Instance Counter-Clockwise (by 5)	9</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T040113Z" creationid="LiarOnce" creationdate="20181111T040113Z">
+        <seg>逆时针旋转实例 (由 5)	9</seg>
       </tuv>
     </tu>
     <tu>
@@ -23098,6 +23426,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051401Z" creationid="LiarOnce" creationdate="20181015T051401Z">
         <seg>圆形矩形工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Round Rectangle Tool	O</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035040Z" creationid="LiarOnce" creationdate="20181111T035040Z">
+        <seg>圆角矩形工具	O</seg>
       </tuv>
     </tu>
     <tu>
@@ -23138,6 +23474,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042457Z" creationid="LiarOnce" creationdate="20181014T042457Z">
         <seg>在调试模式下运行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run in &amp;Debug mode	F6</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035624Z" creationid="LiarOnce" creationdate="20181111T035624Z">
+        <seg>&amp;在调试模式下运行	F6</seg>
       </tuv>
     </tu>
     <tu>
@@ -23670,10 +24014,26 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scale Tile or Instance Down	F78</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T040047Z" creationid="LiarOnce" creationdate="20181111T040047Z">
+        <seg>缩放图块或实例向下	F78</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scale Tile or Instance Up</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045303Z" creationid="LiarOnce" creationdate="20181103T045303Z">
         <seg>缩放图块或实例向上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scale Tile or Instance Up	F76</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T040041Z" creationid="LiarOnce" creationdate="20181111T040041Z">
+        <seg>缩放图块或实例向上	F76</seg>
       </tuv>
     </tu>
     <tu>
@@ -24050,6 +24410,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045139Z" creationid="LiarOnce" creationdate="20181103T045139Z">
         <seg>选择所有实例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select All Instances	Ctrl+A</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035925Z" creationid="LiarOnce" creationdate="20181111T035925Z">
+        <seg>选择所有实例	Ctrl+A</seg>
       </tuv>
     </tu>
     <tu>
@@ -27016,6 +27384,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Text Tool	T</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035209Z" creationid="LiarOnce" creationdate="20181111T035209Z">
+        <seg>文本工具	T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Texture Group Settings</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052927Z" creationid="LiarOnce" creationdate="20181015T052927Z">
@@ -28017,6 +28393,14 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Toggle Breakpoint	F9</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035748Z" creationid="LiarOnce" creationdate="20181111T035748Z">
+        <seg>开/关断点	F9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Toggle Code Completion</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T051603Z" creationid="LiarOnce" creationdate="20181103T051555Z">
@@ -28037,6 +28421,14 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170316T092230Z" creationid="deciia" creationdate="20170311T165853Z">
         <seg>切换网格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle Grid	Ctrl+G</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035912Z" creationid="LiarOnce" creationdate="20181111T035912Z">
+        <seg>切换网格	Ctrl+G</seg>
       </tuv>
     </tu>
     <tu>
@@ -28125,6 +28517,14 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051433Z" creationid="LiarOnce" creationdate="20181015T051433Z">
         <seg>切换 Scratch 页面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle Scratch Page	J</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035253Z" creationid="LiarOnce" creationdate="20181111T035253Z">
+        <seg>切换 Scratch 页面	J</seg>
       </tuv>
     </tu>
     <tu>
@@ -28981,6 +29381,14 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20161224T080215Z" creationid="deciia" creationdate="20161224T080215Z">
         <seg>撤消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undo	Ctrl+Z</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035811Z" creationid="LiarOnce" creationdate="20181111T035811Z">
+        <seg>撤销	Ctrl+Z</seg>
       </tuv>
     </tu>
     <tu>
@@ -31375,10 +31783,26 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Zoom In	Ctrl+F76</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035828Z" creationid="LiarOnce" creationdate="20181111T035828Z">
+        <seg>放大	Ctrl+F76</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Zoom Out</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T105712Z" creationid="deciia" creationdate="20170103T105712Z">
         <seg>缩小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom Out	Ctrl+F78</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035822Z" creationid="LiarOnce" creationdate="20181111T035822Z">
+        <seg>缩小	Ctrl+F78</seg>
       </tuv>
     </tu>
     <tu>
