@@ -1510,6 +1510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;vertical cell offset:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024515Z" creationid="LiarOnce" creationdate="20181111T024515Z">
+        <seg>垂直单元格偏移：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;views</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050645Z" creationid="LiarOnce" creationdate="20181029T050645Z">
@@ -4163,6 +4171,22 @@ Right mouse button = menu</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045535Z" creationid="LiarOnce" creationdate="20181029T045535Z">
         <seg>ACCESS_NETWORK_STATE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ADB IP Address</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024850Z" creationid="LiarOnce" creationdate="20181111T024846Z">
+        <seg>ADB IP 地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ADB dir on Mac</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024825Z" creationid="LiarOnce" creationdate="20181111T024814Z">
+        <seg>Mac 上的 ADB 路径</seg>
       </tuv>
     </tu>
     <tu>
@@ -9250,6 +9274,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create Private KeyStore</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024744Z" creationid="LiarOnce" creationdate="20181111T024744Z">
+        <seg>创建私钥库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create S&amp;cript</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042254Z" creationid="LiarOnce" creationdate="20181014T042254Z">
@@ -14080,6 +14112,30 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Horizontal offset of the first image in term of the number of cells</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024643Z" creationid="LiarOnce" creationdate="20181111T024541Z">
+        <seg>第一个图像的水平偏移量 (以单元格数为单位)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horizontal offset of the first image in term of the number of pixels</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024639Z" creationid="LiarOnce" creationdate="20181111T024608Z">
+        <seg>第一个图像的水平偏移量 (以像素数为单位)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horizontal separation between the images in pixels</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024651Z" creationid="LiarOnce" creationdate="20181111T024651Z">
+        <seg>图像之间的水平分离 (以像素为单位)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Horizontal separation between the tiles</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121644Z" creationid="LiarOnce" creationdate="20181013T121644Z">
@@ -14224,6 +14280,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IMPORTANT: Backup keystore file and info above!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024720Z" creationid="LiarOnce" creationdate="20181111T024720Z">
+        <seg>重要信息：备份密钥库文件和上面的信息！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>INTERNET</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045534Z" creationid="LiarOnce" creationdate="20181029T045534Z">
@@ -14364,6 +14428,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045039Z" creationid="LiarOnce" creationdate="20181029T045039Z">
         <seg>Id 4:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If lost, you cannot submit app updates to Google Play or Amazon.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024735Z" creationid="LiarOnce" creationdate="20181111T024735Z">
+        <seg>如果丢失, 您将无法向 Google Play 或 Amazon 提交应用更新。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15008,6 +15080,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Install on "Create Application"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024913Z" creationid="LiarOnce" creationdate="20181111T024913Z">
+        <seg>在“创建应用程序”上安装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Install or uninstall extension packages</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130258Z" creationid="LiarOnce" creationdate="20181013T130258Z">
@@ -15116,6 +15196,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170107T053947Z" creationid="deciia" creationdate="20170107T053947Z">
         <seg>实例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead, force an "adb uninstall" and clear all prior data associated with your game.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T025038Z" creationid="LiarOnce" creationdate="20181111T025038Z">
+        <seg>相反，强制“adb uninstall”并清除与您的游戏相关的所有先前数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15600,6 +15688,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Java Max Heap Size (GB)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024907Z" creationid="LiarOnce" creationdate="20181111T024907Z">
+        <seg>JDK 最大堆大小 (GB)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Joystick 1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090031Z" creationid="LiarOnce" creationdate="20181028T090031Z">
@@ -15804,6 +15900,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T134224Z" creationid="deciia" creationdate="20170105T081053Z">
         <seg>密钥哈希</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key Hash(SHA1)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024748Z" creationid="LiarOnce" creationdate="20181111T024748Z">
+        <seg>Key Hash(SHA1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18096,6 +18200,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NDK Status:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024831Z" creationid="LiarOnce" creationdate="20181111T024831Z">
+        <seg>NDK 状态：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NDK not validated</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024845Z" creationid="LiarOnce" creationdate="20181111T024845Z">
+        <seg>NDK 未经过验证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOT</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141352Z" creationid="LiarOnce" creationdate="20181007T141352Z">
@@ -18736,6 +18856,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Number of images per row</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024536Z" creationid="LiarOnce" creationdate="20181111T024536Z">
+        <seg>每行的图像数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of images to take from the strip</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024529Z" creationid="LiarOnce" creationdate="20181111T024529Z">
+        <seg>从长带图中取出的图像数量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Number of processors to use in compilation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032042Z" creationid="LiarOnce" creationdate="20181021T032042Z">
@@ -18972,6 +19108,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124402Z" creationid="LiarOnce" creationdate="20181013T124402Z">
         <seg>旧色调:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On Run/Debug, or when using "Create Application" and 'Install on "Create Application"' is selected, do not perform "adb install -r".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024928Z" creationid="LiarOnce" creationdate="20181111T024928Z">
+        <seg>在运行/调试时，或使用“创建应用程序”和“安装时”创建应用程序“'时，请不要执行”adb install -r“。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20420,6 +20564,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Private KeyStore File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024717Z" creationid="LiarOnce" creationdate="20181111T024717Z">
+        <seg>私钥存储文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ProcessAffinityMask</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052333Z" creationid="LiarOnce" creationdate="20181030T052333Z">
@@ -21622,6 +21774,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reveal password contents</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024751Z" creationid="LiarOnce" creationdate="20181111T024751Z">
+        <seg>显示密码内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reverse</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180927T080831Z" creationid="deciia" creationdate="20170103T104809Z">
@@ -22154,6 +22314,22 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T045129Z" creationid="LiarOnce" creationdate="20181030T045129Z">
         <seg>SDK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SDK Status:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024833Z" creationid="LiarOnce" creationdate="20181111T024817Z">
+        <seg>SDK 状态：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SDK not validated</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024836Z" creationid="LiarOnce" creationdate="20181111T024757Z">
+        <seg>SDK 未经过验证</seg>
       </tuv>
     </tu>
     <tu>
@@ -25760,6 +25936,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The height of each image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024539Z" creationid="LiarOnce" creationdate="20181111T024539Z">
+        <seg>每个图像的高度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The horizontal position of the image</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050547Z" creationid="LiarOnce" creationdate="20181029T050547Z">
@@ -26012,6 +26196,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025845Z" creationid="LiarOnce" creationdate="20181021T025845Z">
         <seg>垂直捕捉距离</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The width of each image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024538Z" creationid="LiarOnce" creationdate="20181111T024538Z">
+        <seg>每个图像的宽度</seg>
       </tuv>
     </tu>
     <tu>
@@ -28412,6 +28604,22 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vertical offset of the first image in term of the number of cells</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024555Z" creationid="LiarOnce" creationdate="20181111T024555Z">
+        <seg>第一个图像的垂直偏移量 (以单元格数为单位)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical separation between the images in pixels</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024708Z" creationid="LiarOnce" creationdate="20181111T024708Z">
+        <seg>图像之间的垂直分离 (以像素为单位)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vertical separation between the tiles</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T121641Z" creationid="LiarOnce" creationdate="20181013T121641Z">
@@ -29711,10 +29919,26 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>hori&amp;zontal cell offset:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024508Z" creationid="LiarOnce" creationdate="20181111T024508Z">
+        <seg>水平单元格偏移：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>horizontal &amp;pixel offset:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023503Z" creationid="LiarOnce" creationdate="20181111T023503Z">
         <seg>水平和像素偏移：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>horizontal &amp;separation:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024453Z" creationid="LiarOnce" creationdate="20181111T024445Z">
+        <seg>水平分离：</seg>
       </tuv>
     </tu>
     <tu>
@@ -30711,10 +30935,26 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>vertical offset of the first image in term of the number of pixels</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024617Z" creationid="LiarOnce" creationdate="20181111T024617Z">
+        <seg>第一个图像的垂直偏移量 (以像素数为单位)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>vertical p&amp;ixel offset:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023521Z" creationid="LiarOnce" creationdate="20181111T023521Z">
         <seg>垂直像素偏移：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>vertical s&amp;eparation:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024447Z" creationid="LiarOnce" creationdate="20181111T024447Z">
+        <seg>垂直分离：</seg>
       </tuv>
     </tu>
     <tu>
