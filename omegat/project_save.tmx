@@ -3137,6 +3137,22 @@ Right mouse button = menu</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3DS SDK Location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032754Z" creationid="LiarOnce" creationdate="20181111T032754Z">
+        <seg>3DS SDK 路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3DS Tools Location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032757Z" creationid="LiarOnce" creationdate="20181111T032757Z">
+        <seg>3DS工具路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3rd Party Frameworks + Bundles (Check for weak ref)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130507Z" creationid="LiarOnce" creationdate="20181013T130507Z">
@@ -5418,8 +5434,8 @@ windows you are using.</seg>
       <tuv lang="EN-US">
         <seg>Android NDK Location</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="36011" changedate="20170318T073254Z" creationid="deciia" creationdate="20170105T081724Z">
-        <seg>Android NDK 位置</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032310Z" creationid="deciia" creationdate="20170105T081724Z">
+        <seg>Android NDK 路径</seg>
       </tuv>
     </tu>
     <tu>
@@ -5434,8 +5450,8 @@ windows you are using.</seg>
       <tuv lang="EN-US">
         <seg>Android SDK Location</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="36011" changedate="20170318T073254Z" creationid="deciia" creationdate="20170105T081713Z">
-        <seg>Android SDK 位置</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032301Z" creationid="deciia" creationdate="20170105T081713Z">
+        <seg>Android SDK 路径</seg>
       </tuv>
     </tu>
     <tu>
@@ -7352,6 +7368,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Case Sensitive Search</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032855Z" creationid="LiarOnce" creationdate="20181111T032855Z">
+        <seg>区分大小写搜索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Case sensitive</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141121Z" creationid="LiarOnce" creationdate="20181007T141121Z">
@@ -7688,6 +7712,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check 3DS SDK</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032801Z" creationid="LiarOnce" creationdate="20181111T032801Z">
+        <seg>检查 3DS SDK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check Android NDK</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170318T073254Z" creationid="deciia" creationdate="20170105T081203Z">
@@ -7752,6 +7784,22 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check PS3 SDK</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032724Z" creationid="LiarOnce" creationdate="20181111T032724Z">
+        <seg>检查 PS3 SDK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check PS4 SDK</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032607Z" creationid="LiarOnce" creationdate="20181111T032607Z">
+        <seg>检查 PS4 SDK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check Steam SDK</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T030819Z" creationid="LiarOnce" creationdate="20181111T030819Z">
@@ -7776,6 +7824,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check WiiU SDK</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032749Z" creationid="LiarOnce" creationdate="20181111T032749Z">
+        <seg>检查 WiiU SDK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check Windows Phone SDK</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T025234Z" creationid="LiarOnce" creationdate="20181111T025234Z">
@@ -7788,6 +7844,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031116Z" creationid="LiarOnce" creationdate="20181111T031116Z">
         <seg>检查 Windows SDK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check Xbox One SDK</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032817Z" creationid="LiarOnce" creationdate="20181111T032817Z">
+        <seg>检查 Xbox One SDK</seg>
       </tuv>
     </tu>
     <tu>
@@ -12083,6 +12147,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extension Names</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032920Z" creationid="LiarOnce" creationdate="20181111T032920Z">
+        <seg>扩展名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extension Package Help</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130342Z" creationid="LiarOnce" creationdate="20181013T130342Z">
@@ -12811,6 +12883,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Filter By:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032902Z" creationid="LiarOnce" creationdate="20181111T032902Z">
+        <seg>过滤：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Filter Tree</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180924T032700Z" creationid="deciia" creationdate="20170104T052212Z">
@@ -13063,6 +13143,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170215T151850Z" creationid="deciia" creationdate="20170215T151850Z">
         <seg>字体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font Names</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032916Z" creationid="LiarOnce" creationdate="20181111T032916Z">
+        <seg>字体名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -14712,6 +14800,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ignore Comments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032931Z" creationid="LiarOnce" creationdate="20181111T032922Z">
+        <seg>忽略注释</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IgnoreDupUnits</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T013133Z" creationid="LiarOnce" creationdate="20181111T013133Z">
@@ -15922,8 +16018,8 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       <tuv lang="EN-US">
         <seg>Java JDK Location</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T081733Z" creationid="deciia" creationdate="20170105T081733Z">
-        <seg>Java JDK 位置</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032256Z" creationid="deciia" creationdate="20170105T081733Z">
+        <seg>Java JDK 路径</seg>
       </tuv>
     </tu>
     <tu>
@@ -15938,8 +16034,8 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       <tuv lang="EN-US">
         <seg>Java Runtime Location</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T025255Z" creationid="LiarOnce" creationdate="20181111T025255Z">
-        <seg>Java 运行时位置</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032347Z" creationid="LiarOnce" creationdate="20181111T025255Z">
+        <seg>Java 运行时路径</seg>
       </tuv>
     </tu>
     <tu>
@@ -17936,6 +18032,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum Platform Version</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032848Z" creationid="LiarOnce" creationdate="20181111T032848Z">
+        <seg>最低平台版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum display time:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025012Z" creationid="LiarOnce" creationdate="20181021T025012Z">
@@ -18682,8 +18786,8 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       <tuv lang="EN-US">
         <seg>NeoGeoX SDK Location</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T025340Z" creationid="LiarOnce" creationdate="20181111T025340Z">
-        <seg>NeoGeoX SDK 位置</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032355Z" creationid="LiarOnce" creationdate="20181111T025340Z">
+        <seg>NeoGeoX SDK 路径</seg>
       </tuv>
     </tu>
     <tu>
@@ -18892,6 +18996,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043818Z" creationid="LiarOnce" creationdate="20181014T043818Z">
         <seg>下一提示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nintendo 3DS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032750Z" creationid="LiarOnce" creationdate="20181111T032750Z">
+        <seg>Nintendo 3DS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nintendo WiiU</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032726Z" creationid="LiarOnce" creationdate="20181111T032726Z">
+        <seg>Nintendo WiiU</seg>
       </tuv>
     </tu>
     <tu>
@@ -19356,6 +19476,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052500Z" creationid="LiarOnce" creationdate="20181015T052500Z">
         <seg>物体信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Object Names</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032914Z" creationid="LiarOnce" creationdate="20181111T032914Z">
+        <seg>物体名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -19992,6 +20120,54 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PS3 RunnerLocation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032616Z" creationid="LiarOnce" creationdate="20181111T032616Z">
+        <seg>PS3 RunnerLocation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PS3 SDK Location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032615Z" creationid="LiarOnce" creationdate="20181111T032615Z">
+        <seg>PS3 SDK 路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PS3 Tools Location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032633Z" creationid="LiarOnce" creationdate="20181111T032633Z">
+        <seg>PS3 工具路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PS4 RunnerLocation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032557Z" creationid="LiarOnce" creationdate="20181111T032557Z">
+        <seg>PS4 RunnerLocation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PS4 SDK Location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032555Z" creationid="LiarOnce" creationdate="20181111T032234Z">
+        <seg>PS4 SDK 路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PS4 Tools Location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032552Z" creationid="LiarOnce" creationdate="20181111T032236Z">
+        <seg>PS4工具路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Package</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135648Z" creationid="LiarOnce" creationdate="20181020T135648Z">
@@ -20222,6 +20398,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085821Z" creationid="LiarOnce" creationdate="20181013T085757Z">
         <seg>粘贴|粘贴剪贴板的内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Path Names</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032915Z" creationid="LiarOnce" creationdate="20181111T032915Z">
+        <seg>路径名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -22358,6 +22542,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Room Names</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032909Z" creationid="LiarOnce" creationdate="20181111T032909Z">
+        <seg>房间名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Room Properties</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T130725Z" creationid="deciia" creationdate="20170103T130725Z">
@@ -22698,6 +22890,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024833Z" creationid="LiarOnce" creationdate="20181111T024817Z">
         <seg>SDK 状态：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SDK Status: SDK not validated</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032845Z" creationid="LiarOnce" creationdate="20181111T032845Z">
+        <seg>SDK 状态：SDK 未经过验证</seg>
       </tuv>
     </tu>
     <tu>
@@ -23270,6 +23470,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search In:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032858Z" creationid="LiarOnce" creationdate="20181111T032858Z">
+        <seg>搜索：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Search Knowledgebase</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041905Z" creationid="LiarOnce" creationdate="20181014T041905Z">
@@ -23290,6 +23498,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140918Z" creationid="LiarOnce" creationdate="20181007T140918Z">
         <seg>搜索字符串</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search in Scripts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032852Z" creationid="LiarOnce" creationdate="20181111T032852Z">
+        <seg>在脚本中搜索</seg>
       </tuv>
     </tu>
     <tu>
@@ -23826,6 +24042,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051043Z" creationid="LiarOnce" creationdate="20181015T051043Z">
         <seg>阴影...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shader Names</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032907Z" creationid="LiarOnce" creationdate="20181111T032907Z">
+        <seg>着色器名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -24800,6 +25024,110 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Simulator: Apple TV 1080p</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032835Z" creationid="LiarOnce" creationdate="20181111T032835Z">
+        <seg>模拟器：Apple TV 1080p</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simulator: iPad 2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032823Z" creationid="LiarOnce" creationdate="20181111T032823Z">
+        <seg>模拟器：iPad 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simulator: iPad Air</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032824Z" creationid="LiarOnce" creationdate="20181111T032824Z">
+        <seg>模拟器：iPad Air</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simulator: iPad Air 2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032825Z" creationid="LiarOnce" creationdate="20181111T032825Z">
+        <seg>模拟器：iPad Air 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simulator: iPad Pro</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032827Z" creationid="LiarOnce" creationdate="20181111T032827Z">
+        <seg>模拟器：iPad Pro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simulator: iPad Retina</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032828Z" creationid="LiarOnce" creationdate="20181111T032828Z">
+        <seg>模拟器：iPad Retina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simulator: iPhone 4s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032828Z" creationid="LiarOnce" creationdate="20181111T032828Z">
+        <seg>模拟器：iPhone 4s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simulator: iPhone 5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032829Z" creationid="LiarOnce" creationdate="20181111T032829Z">
+        <seg>模拟器：iPhone 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simulator: iPhone 5s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032831Z" creationid="LiarOnce" creationdate="20181111T032831Z">
+        <seg>模拟器：iPhone 5s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simulator: iPhone 6</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032832Z" creationid="LiarOnce" creationdate="20181111T032832Z">
+        <seg>模拟器：iPhone 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simulator: iPhone 6 Plus</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032832Z" creationid="LiarOnce" creationdate="20181111T032832Z">
+        <seg>模拟器：iPhone 6 Plus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simulator: iPhone 6s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032833Z" creationid="LiarOnce" creationdate="20181111T032833Z">
+        <seg>模拟器：iPhone 6s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simulator: iPhone 6s Plus</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032834Z" creationid="LiarOnce" creationdate="20181111T032834Z">
+        <seg>模拟器：iPhone 6s Plus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Size</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T071551Z" creationid="deciia" creationdate="20170102T071551Z">
@@ -25100,6 +25428,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032054Z" creationid="LiarOnce" creationdate="20181021T032054Z">
         <seg>声音编辑器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sound Names</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032905Z" creationid="LiarOnce" creationdate="20181111T032905Z">
+        <seg>声音名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -25408,6 +25744,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sprite Names</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032906Z" creationid="LiarOnce" creationdate="20181111T032906Z">
+        <seg>精灵名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sprite Properties</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094451Z" creationid="LiarOnce" creationdate="20181110T094451Z">
@@ -25562,8 +25906,8 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       <tuv lang="EN-US">
         <seg>Steamworks SDK location</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T030815Z" creationid="LiarOnce" creationdate="20181111T030815Z">
-        <seg>Steamworks SDK 位置</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032402Z" creationid="LiarOnce" creationdate="20181111T030815Z">
+        <seg>Steamworks SDK 路径</seg>
       </tuv>
     </tu>
     <tu>
@@ -26028,6 +26372,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T051834Z" creationid="LiarOnce" creationdate="20181103T051834Z">
         <seg>目标选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Target Platform Version</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032847Z" creationid="LiarOnce" creationdate="20181111T032847Z">
+        <seg>目标平台版本</seg>
       </tuv>
     </tu>
     <tu>
@@ -27001,6 +27353,14 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Time Line Names</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032908Z" creationid="LiarOnce" creationdate="20181111T032908Z">
+        <seg>时间线名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Time Lines</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143243Z" creationid="LiarOnce" creationdate="20181007T143243Z">
@@ -27043,8 +27403,8 @@ games.</seg>
       <tuv lang="EN-US">
         <seg>Tizen SDK Location</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T025250Z" creationid="LiarOnce" creationdate="20181111T025250Z">
-        <seg>Tizen SDK 位置</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032325Z" creationid="LiarOnce" creationdate="20181111T025250Z">
+        <seg>Tizen SDK 路径</seg>
       </tuv>
     </tu>
     <tu>
@@ -27281,6 +27641,14 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Toggle case sensitive search</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032856Z" creationid="LiarOnce" creationdate="20181111T032856Z">
+        <seg>切换区分大小写的搜索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Toggle case sensitivity in search</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T051726Z" creationid="LiarOnce" creationdate="20181103T051726Z">
@@ -27357,6 +27725,14 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052816Z" creationid="LiarOnce" creationdate="20181030T052816Z">
         <seg>如果在这个房间里启用了物理功能, 切换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle ignoring comments in search</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033333Z" creationid="LiarOnce" creationdate="20181111T032924Z">
+        <seg>切换忽略搜索中的注释</seg>
       </tuv>
     </tu>
     <tu>
@@ -27877,6 +28253,22 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135517Z" creationid="LiarOnce" creationdate="20181020T135517Z">
         <seg>应用类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Types to filter by</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032903Z" creationid="LiarOnce" creationdate="20181111T032903Z">
+        <seg>要过滤的类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Types to search in</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032859Z" creationid="LiarOnce" creationdate="20181111T032859Z">
+        <seg>要搜索的类型</seg>
       </tuv>
     </tu>
     <tu>
@@ -29254,8 +29646,8 @@ games.</seg>
       <tuv lang="EN-US">
         <seg>Visual Studio Location</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031110Z" creationid="LiarOnce" creationdate="20181111T031110Z">
-        <seg>Visual Studio 位置</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032536Z" creationid="LiarOnce" creationdate="20181111T031110Z">
+        <seg>Visual Studio 路径</seg>
       </tuv>
     </tu>
     <tu>
@@ -29270,16 +29662,16 @@ games.</seg>
       <tuv lang="EN-US">
         <seg>Vita SDK Location</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031908Z" creationid="LiarOnce" creationdate="20181111T031908Z">
-        <seg>Vita SDK 位置</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032540Z" creationid="LiarOnce" creationdate="20181111T031908Z">
+        <seg>Vita SDK 路径</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Vita Tools Location</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031912Z" creationid="LiarOnce" creationdate="20181111T031912Z">
-        <seg>Vita 工具位置</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032542Z" creationid="LiarOnce" creationdate="20181111T031912Z">
+        <seg>Vita 工具路径</seg>
       </tuv>
     </tu>
     <tu>
@@ -29700,6 +30092,22 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WiiU SDK Location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032733Z" creationid="LiarOnce" creationdate="20181111T032733Z">
+        <seg>WiiU SDK 路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WiiU Tools Location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032736Z" creationid="LiarOnce" creationdate="20181111T032736Z">
+        <seg>WiiU工具路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wim archive</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093105Z" creationid="LiarOnce" creationdate="20181110T093105Z">
@@ -29782,8 +30190,8 @@ games.</seg>
       <tuv lang="EN-US">
         <seg>Windows SDK Location</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T030822Z" creationid="LiarOnce" creationdate="20181111T030822Z">
-        <seg>Windows SDK 位置</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032403Z" creationid="LiarOnce" creationdate="20181111T030822Z">
+        <seg>Windows SDK 路径</seg>
       </tuv>
     </tu>
     <tu>
@@ -29792,6 +30200,14 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045408Z" creationid="LiarOnce" creationdate="20181029T045408Z">
         <seg>Windows UWP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows UWP SDK tools</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032839Z" creationid="LiarOnce" creationdate="20181111T032839Z">
+        <seg>Windows UWP SDK 工具</seg>
       </tuv>
     </tu>
     <tu>
@@ -29844,6 +30260,22 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WindowsUAPMinimumVersion</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032850Z" creationid="LiarOnce" creationdate="20181111T032850Z">
+        <seg>WindowsUAPMinimumVersion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WindowsUAPTargetVersion</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032849Z" creationid="LiarOnce" creationdate="20181111T032849Z">
+        <seg>WindowsUAPTargetVersion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Word</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094557Z" creationid="LiarOnce" creationdate="20181110T094557Z">
@@ -29864,6 +30296,14 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091620Z" creationid="LiarOnce" creationdate="20181028T091620Z">
         <seg>Word Games : public.app-category.word-games</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Word(s) to search for</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032854Z" creationid="LiarOnce" creationdate="20181111T032854Z">
+        <seg>要搜索的字词</seg>
       </tuv>
     </tu>
     <tu>
@@ -29964,6 +30404,22 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>XBox One</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032803Z" creationid="LiarOnce" creationdate="20181111T032803Z">
+        <seg>XBox One</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XBox One Runner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032810Z" creationid="LiarOnce" creationdate="20181111T032810Z">
+        <seg>XBox One Runner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>XXL Image Banner 6:1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045047Z" creationid="LiarOnce" creationdate="20181029T045047Z">
@@ -29992,6 +30448,30 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T044707Z" creationid="LiarOnce" creationdate="20181029T044707Z">
         <seg>Xbox One</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Xbox One MS SDK Dir</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032813Z" creationid="LiarOnce" creationdate="20181111T032813Z">
+        <seg>Xbox One MS SDK 目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Xbox One SDK Dir</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032805Z" creationid="LiarOnce" creationdate="20181111T032805Z">
+        <seg>Xbox One SDK 目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Xbox One Tools Dir</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032808Z" creationid="LiarOnce" creationdate="20181111T032808Z">
+        <seg>Xbox One Tools 目录</seg>
       </tuv>
     </tu>
     <tu>
@@ -30619,6 +31099,14 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130426Z" creationid="LiarOnce" creationdate="20181013T130426Z">
         <seg>iOS 设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iOS Target:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032821Z" creationid="LiarOnce" creationdate="20181111T032821Z">
+        <seg>iOS 目标：</seg>
       </tuv>
     </tu>
     <tu>
