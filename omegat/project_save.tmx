@@ -7768,10 +7768,26 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check Vita SDK</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031920Z" creationid="LiarOnce" creationdate="20181111T031920Z">
+        <seg>检查 Vita SDK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check Windows Phone SDK</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T025234Z" creationid="LiarOnce" creationdate="20181111T025234Z">
         <seg>检查 Windows Phone SDK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check Windows SDK</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031116Z" creationid="LiarOnce" creationdate="20181111T031116Z">
+        <seg>检查 Windows SDK</seg>
       </tuv>
     </tu>
     <tu>
@@ -9410,6 +9426,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create SCM Config</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031141Z" creationid="LiarOnce" creationdate="20181111T031141Z">
+        <seg>创建 SCM 配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create Sh&amp;ader</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042255Z" creationid="LiarOnce" creationdate="20181014T042255Z">
@@ -10683,6 +10707,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Development Kit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031940Z" creationid="LiarOnce" creationdate="20181111T031940Z">
+        <seg>开发套件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Device</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T070420Z" creationid="deciia" creationdate="20170105T070420Z">
@@ -10759,6 +10791,22 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134452Z" creationid="LiarOnce" creationdate="20181020T134452Z">
         <seg>要在其中创建可执行文件的 Mac 上的目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable GM:S SCM usage - for external SCM use, or no SCM required.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031230Z" creationid="LiarOnce" creationdate="20181111T031230Z">
+        <seg>禁用 GM: S SCM 使用 - 用于外部 SCM，或不需要 SCM 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable SCM usage ( Restart Required )</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031211Z" creationid="LiarOnce" creationdate="20181111T031211Z">
+        <seg>禁用 SCM 使用（需要重新启动）</seg>
       </tuv>
     </tu>
     <tu>
@@ -10975,6 +11023,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094215Z" creationid="LiarOnce" creationdate="20181110T094215Z">
         <seg>文档|*.rtf|文本文件|*.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Don't commit folders - required by some SCMs ( such as Mercurial )</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031159Z" creationid="LiarOnce" creationdate="20181111T031159Z">
+        <seg>不提交文件夹 - 某些 SCM 需要（例如 Mercurial）</seg>
       </tuv>
     </tu>
     <tu>
@@ -11291,6 +11347,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit SCM Config</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031146Z" creationid="LiarOnce" creationdate="20181111T031146Z">
+        <seg>编辑 SCM 配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit the background image</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141737Z" creationid="LiarOnce" creationdate="20181007T141737Z">
@@ -11427,6 +11491,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enable Advanced SCM Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031203Z" creationid="LiarOnce" creationdate="20181111T031203Z">
+        <seg>启用高级 SCM 选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable Advertising</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T100710Z" creationid="deciia" creationdate="20170105T100710Z">
@@ -11455,6 +11527,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032029Z" creationid="LiarOnce" creationdate="20181021T032029Z">
         <seg>在脚本关键字上启用粗体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Colours for SCM Conflicts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031901Z" creationid="LiarOnce" creationdate="20181111T031901Z">
+        <seg>为 SCM 冲突启用颜色</seg>
       </tuv>
     </tu>
     <tu>
@@ -11615,6 +11695,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141004Z" creationid="LiarOnce" creationdate="20181007T141004Z">
         <seg>启用代码自动补全帮助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable colours for SCM Conflict form</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031906Z" creationid="LiarOnce" creationdate="20181111T031906Z">
+        <seg>为 SCM 冲突表单启用颜色</seg>
       </tuv>
     </tu>
     <tu>
@@ -11915,6 +12003,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Executable Location:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031129Z" creationid="LiarOnce" creationdate="20181111T031129Z">
+        <seg>可执行文件目录：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Executables|*.exe</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022644Z" creationid="LiarOnce" creationdate="20181111T022644Z">
@@ -12071,6 +12167,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032050Z" creationid="LiarOnce" creationdate="20181021T032050Z">
         <seg>要使用的外部图像编辑器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External Merge Tool to use</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031137Z" creationid="LiarOnce" creationdate="20181111T031137Z">
+        <seg>要使用的外部合并工具</seg>
       </tuv>
     </tu>
     <tu>
@@ -18808,6 +18912,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No Folder Commits</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031152Z" creationid="LiarOnce" creationdate="20181111T031152Z">
+        <seg>没有文件夹提交</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No IOHandler of type %s is installed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091637Z" creationid="LiarOnce" creationdate="20181110T091637Z">
@@ -21990,6 +22102,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Retail</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031938Z" creationid="LiarOnce" creationdate="20181111T031938Z">
+        <seg>零售</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Retro</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094703Z" creationid="LiarOnce" creationdate="20181110T094703Z">
@@ -22538,6 +22658,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045448Z" creationid="LiarOnce" creationdate="20181103T045448Z">
         <seg>SCM 命令行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SCM Config File:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031135Z" creationid="LiarOnce" creationdate="20181111T031135Z">
+        <seg>SCM 配置文件：</seg>
       </tuv>
     </tu>
     <tu>
@@ -24296,6 +24424,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show SCM Output</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031151Z" creationid="LiarOnce" creationdate="20181111T031151Z">
+        <seg>显示 SCM 输出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Status</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042935Z" creationid="LiarOnce" creationdate="20181014T042935Z">
@@ -25880,6 +26016,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Target Device Type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031937Z" creationid="LiarOnce" creationdate="20181111T031937Z">
+        <seg>目标设备类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Target Options</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T051834Z" creationid="LiarOnce" creationdate="20181103T051834Z">
@@ -25972,6 +26116,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094714Z" creationid="LiarOnce" creationdate="20181110T094714Z">
         <seg>Tennis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test Kit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T032231Z" creationid="LiarOnce" creationdate="20181111T031939Z">
+        <seg>测试套件</seg>
       </tuv>
     </tu>
     <tu>
@@ -27045,6 +27197,14 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052824Z" creationid="LiarOnce" creationdate="20181015T052824Z">
         <seg>切换已更改文件重新加载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle Runner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031935Z" creationid="LiarOnce" creationdate="20181111T031935Z">
+        <seg>切换 Runner</seg>
       </tuv>
     </tu>
     <tu>
@@ -28265,6 +28425,14 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use Built-in SVN:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031132Z" creationid="LiarOnce" creationdate="20181111T031132Z">
+        <seg>使用内置 SVN：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use Facebook</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T071842Z" creationid="deciia" creationdate="20170104T071842Z">
@@ -29088,6 +29256,30 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031110Z" creationid="LiarOnce" creationdate="20181111T031110Z">
         <seg>Visual Studio 位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vita RunnerLocation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031915Z" creationid="LiarOnce" creationdate="20181111T031915Z">
+        <seg>Vita RunnerLocation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vita SDK Location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031908Z" creationid="LiarOnce" creationdate="20181111T031908Z">
+        <seg>Vita SDK 位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vita Tools Location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031912Z" creationid="LiarOnce" creationdate="20181111T031912Z">
+        <seg>Vita 工具位置</seg>
       </tuv>
     </tu>
     <tu>
