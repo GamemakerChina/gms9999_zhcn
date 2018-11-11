@@ -5640,6 +5640,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Application Install Dir</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T030804Z" creationid="LiarOnce" creationdate="20181111T030804Z">
+        <seg>应用程序安装目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Application Level</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T130600Z" creationid="LiarOnce" creationdate="20181013T130600Z">
@@ -7712,6 +7720,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check Linux Connection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T030812Z" creationid="LiarOnce" creationdate="20181111T030812Z">
+        <seg>检查 Linux 连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check Mac Connection</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T025110Z" creationid="LiarOnce" creationdate="20181111T025110Z">
@@ -7732,6 +7748,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T030755Z" creationid="LiarOnce" creationdate="20181111T030755Z">
         <seg>检查 NeoGeoX SDK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check Steam SDK</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T030819Z" creationid="LiarOnce" creationdate="20181111T030819Z">
+        <seg>检查 Steam SDK</seg>
       </tuv>
     </tu>
     <tu>
@@ -16808,6 +16832,38 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Linux Host Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T030803Z" creationid="LiarOnce" creationdate="20181111T030803Z">
+        <seg>Linux 主机名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Linux Install Dir</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T030806Z" creationid="LiarOnce" creationdate="20181111T030806Z">
+        <seg>Linux 安装目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Linux Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T030758Z" creationid="LiarOnce" creationdate="20181111T030758Z">
+        <seg>Linux 密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Linux User Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T030801Z" creationid="LiarOnce" creationdate="20181111T030801Z">
+        <seg>Linux 用户名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>List of Configurations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043045Z" creationid="LiarOnce" creationdate="20181014T043045Z">
@@ -25368,6 +25424,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Steamworks SDK location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T030815Z" creationid="LiarOnce" creationdate="20181111T030815Z">
+        <seg>Steamworks SDK 位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044949Z" creationid="LiarOnce" creationdate="20181008T044949Z">
@@ -29020,6 +29084,14 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Visual Studio Location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T031110Z" creationid="LiarOnce" creationdate="20181111T031110Z">
+        <seg>Visual Studio 位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Volume:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T134746Z" creationid="deciia" creationdate="20170103T134746Z">
@@ -29512,6 +29584,14 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T025236Z" creationid="LiarOnce" creationdate="20181111T025236Z">
         <seg>Windows Phone 设备</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows SDK Location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T030822Z" creationid="LiarOnce" creationdate="20181111T030822Z">
+        <seg>Windows SDK 位置</seg>
       </tuv>
     </tu>
     <tu>
