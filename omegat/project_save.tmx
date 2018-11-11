@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Center</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022246Z" creationid="LiarOnce" creationdate="20181111T022246Z">
+        <seg>中心</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Center the game in the browser</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135001Z" creationid="LiarOnce" creationdate="20181020T135001Z">
@@ -822,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Modify Mask</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022301Z" creationid="LiarOnce" creationdate="20181111T022301Z">
+        <seg>修改遮罩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Mouse</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142612Z" creationid="LiarOnce" creationdate="20181007T142612Z">
@@ -970,6 +986,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043603Z" creationid="LiarOnce" creationdate="20181014T043603Z">
         <seg>精确</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Precise collision checking</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022254Z" creationid="LiarOnce" creationdate="20181111T022254Z">
+        <seg>精确的碰撞检查</seg>
       </tuv>
     </tu>
     <tu>
@@ -1989,6 +2013,14 @@ Right mouse button = menu</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093529Z" creationid="LiarOnce" creationdate="20181110T093529Z">
         <seg>.gml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022114Z" creationid="LiarOnce" creationdate="20181111T022114Z">
+        <seg>.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -4431,6 +4463,14 @@ Right mouse button = menu</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add a screenshot</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022853Z" creationid="LiarOnce" creationdate="20181111T022853Z">
+        <seg>添加屏幕截图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add a shadow to the image</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051045Z" creationid="LiarOnce" creationdate="20181015T051045Z">
@@ -5586,8 +5626,8 @@ windows you are using.</seg>
       <tuv lang="EN-US">
         <seg>Apr</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021902Z" creationid="LiarOnce" creationdate="20181111T021902Z">
-        <seg>四月</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021926Z" creationid="LiarOnce" creationdate="20181111T021902Z">
+        <seg>Apr</seg>
       </tuv>
     </tu>
     <tu>
@@ -5836,6 +5876,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T051849Z" creationid="LiarOnce" creationdate="20181103T051849Z">
         <seg>AudioGroupCombo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aug</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021929Z" creationid="LiarOnce" creationdate="20181111T021929Z">
+        <seg>Aug</seg>
       </tuv>
     </tu>
     <tu>
@@ -8162,6 +8210,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Collision Checking</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022249Z" creationid="LiarOnce" creationdate="20181111T022249Z">
+        <seg>碰撞检查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Collision Group:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044325Z" creationid="LiarOnce" creationdate="20181014T044325Z">
@@ -9266,6 +9322,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating a Stand-Alone Game</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022456Z" creationid="LiarOnce" creationdate="20181111T022456Z">
+        <seg>创建独立游戏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creation Code</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T071132Z" creationid="deciia" creationdate="20170103T073400Z">
@@ -9738,6 +9802,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DESCRIPTION</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022832Z" creationid="LiarOnce" creationdate="20181111T022832Z">
+        <seg>描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dark</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T064915Z" creationid="deciia" creationdate="20170104T064915Z">
@@ -9934,6 +10006,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050245Z" creationid="LiarOnce" creationdate="20181021T032037Z">
         <seg>手动添加调试器目标 IP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dec</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021932Z" creationid="LiarOnce" creationdate="20181111T021932Z">
+        <seg>Dec</seg>
       </tuv>
     </tu>
     <tu>
@@ -10255,6 +10335,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T035203Z" creationid="deciia" creationdate="20170104T035203Z">
         <seg>描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description of Game</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022841Z" creationid="LiarOnce" creationdate="20181111T022841Z">
+        <seg>游戏的描述</seg>
       </tuv>
     </tu>
     <tu>
@@ -10595,10 +10683,26 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you agree to these terms?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022810Z" creationid="LiarOnce" creationdate="20181111T022810Z">
+        <seg>你同意这些条款吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do&amp;wn</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142204Z" creationid="LiarOnce" creationdate="20181007T142204Z">
         <seg>&amp;下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Documents|*.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022119Z" creationid="LiarOnce" creationdate="20181111T022119Z">
+        <seg>文档|*.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -11307,6 +11411,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter Game Description</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022842Z" creationid="LiarOnce" creationdate="20181111T022842Z">
+        <seg>输入游戏说明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter License Key</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044108Z" creationid="LiarOnce" creationdate="20181014T044108Z">
@@ -11531,6 +11643,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Executables|*.exe</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022644Z" creationid="LiarOnce" creationdate="20181111T022644Z">
+        <seg>可执行文件|*.exe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Export</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170106T161117Z" creationid="deciia" creationdate="20170106T161117Z">
@@ -11559,6 +11679,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031548Z" creationid="LiarOnce" creationdate="20181021T031548Z">
         <seg>导出当前配色方案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export to Steam WORKSHOP</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022820Z" creationid="LiarOnce" creationdate="20181111T022820Z">
+        <seg>导出到 Steam 创意工坊</seg>
       </tuv>
     </tu>
     <tu>
@@ -12077,8 +12205,16 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       <tuv lang="EN-US">
         <seg>Feb</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021855Z" creationid="LiarOnce" creationdate="20181111T021855Z">
-        <seg>2月</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021924Z" creationid="LiarOnce" creationdate="20181111T021855Z">
+        <seg>Feb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>February</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021918Z" creationid="LiarOnce" creationdate="20181111T021918Z">
+        <seg>二月</seg>
       </tuv>
     </tu>
     <tu>
@@ -12175,6 +12311,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143345Z" creationid="LiarOnce" creationdate="20181007T143345Z">
         <seg>文件名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File name for stand alone game</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022645Z" creationid="LiarOnce" creationdate="20181111T022645Z">
+        <seg>独立游戏的文件名</seg>
       </tuv>
     </tu>
     <tu>
@@ -12763,6 +12907,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Friends only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022847Z" creationid="LiarOnce" creationdate="20181111T022847Z">
+        <seg>仅限好友</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From Code</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T072732Z" creationid="deciia" creationdate="20170102T072732Z">
@@ -12987,6 +13139,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Game Maker Sprite Files|*.gmspr</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022437Z" creationid="LiarOnce" creationdate="20181111T022437Z">
+        <seg>Game Maker 精灵文件|*.gmspr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Game Maker X project|*.project.gmx</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093528Z" creationid="LiarOnce" creationdate="20181110T093528Z">
@@ -13023,6 +13183,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052718Z" creationid="LiarOnce" creationdate="20181015T052718Z">
         <seg>游戏设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Game Title</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022839Z" creationid="LiarOnce" creationdate="20181111T022839Z">
+        <seg>游戏标题</seg>
       </tuv>
     </tu>
     <tu>
@@ -13864,6 +14032,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I Agree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022810Z" creationid="LiarOnce" creationdate="20181111T022810Z">
+        <seg>我同意</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I Understand</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123545Z" creationid="LiarOnce" creationdate="20181013T123545Z">
@@ -13876,6 +14052,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T051302Z" creationid="deciia" creationdate="20180922T051302Z">
         <seg>我同意列出的条款</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I don't agree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022812Z" creationid="LiarOnce" creationdate="20181111T022812Z">
+        <seg>我不同意</seg>
       </tuv>
     </tu>
     <tu>
@@ -15258,7 +15442,15 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       <tuv lang="EN-US">
         <seg>Jan</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021908Z" creationid="LiarOnce" creationdate="20181111T021853Z">
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021923Z" creationid="LiarOnce" creationdate="20181111T021853Z">
+        <seg>Jan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>January</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021917Z" creationid="LiarOnce" creationdate="20181111T021917Z">
         <seg>一月</seg>
       </tuv>
     </tu>
@@ -15288,10 +15480,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jul</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021928Z" creationid="LiarOnce" creationdate="20181111T021928Z">
+        <seg>Jul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>July</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021802Z" creationid="LiarOnce" creationdate="20181111T021802Z">
         <seg>七月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jun</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021927Z" creationid="LiarOnce" creationdate="20181111T021927Z">
+        <seg>Jun</seg>
       </tuv>
     </tu>
     <tu>
@@ -16368,6 +16576,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Load ScreenShot</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022850Z" creationid="LiarOnce" creationdate="20181111T022850Z">
+        <seg>加载屏幕截图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Load a Screenshot</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022851Z" creationid="LiarOnce" creationdate="20181111T022851Z">
+        <seg>加载屏幕截图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Load a game</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T042805Z" creationid="LiarOnce" creationdate="20181014T042805Z">
@@ -16842,8 +17066,16 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       <tuv lang="EN-US">
         <seg>Mar</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021858Z" creationid="LiarOnce" creationdate="20181111T021858Z">
-        <seg>3月</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021925Z" creationid="LiarOnce" creationdate="20181111T021858Z">
+        <seg>Mar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>March</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021921Z" creationid="LiarOnce" creationdate="20181111T021921Z">
+        <seg>三月</seg>
       </tuv>
     </tu>
     <tu>
@@ -16970,8 +17202,8 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       <tuv lang="EN-US">
         <seg>May</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021800Z" creationid="LiarOnce" creationdate="20181111T021800Z">
-        <seg>五月</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022027Z" creationid="LiarOnce" creationdate="20181111T022022Z">
+        <seg>May</seg>
       </tuv>
     </tu>
     <tu>
@@ -17220,6 +17452,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T062621Z" creationid="deciia" creationdate="20170103T102751Z">
         <seg>修改碰撞形状</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modify additional options for the collision mask</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022304Z" creationid="LiarOnce" creationdate="20181111T022304Z">
+        <seg>修改碰撞掩码的其他选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -18256,6 +18496,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nov</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021931Z" creationid="LiarOnce" creationdate="20181111T021931Z">
+        <seg>Nov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>November</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021806Z" creationid="LiarOnce" creationdate="20181111T021806Z">
@@ -18544,6 +18792,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oct</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021930Z" creationid="LiarOnce" creationdate="20181111T021930Z">
+        <seg>Oct</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>October</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021805Z" creationid="LiarOnce" creationdate="20181111T021805Z">
@@ -18668,6 +18924,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030858Z" creationid="LiarOnce" creationdate="20181021T030830Z">
         <seg>在复制时打开属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Spine</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022315Z" creationid="LiarOnce" creationdate="20181111T022315Z">
+        <seg>打开 Spine</seg>
       </tuv>
     </tu>
     <tu>
@@ -19579,6 +19843,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please read the Steam Workshop terms and conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022808Z" creationid="LiarOnce" creationdate="20181111T022808Z">
+        <seg>请阅读 Steam 创意工坊的条款和条件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please report any errors through our bug tracking system by using the 
 "Report a Bug" option on the HELP menu.</seg>
       </tuv>
@@ -19988,6 +20260,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Private</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022848Z" creationid="LiarOnce" creationdate="20181111T022848Z">
+        <seg>私人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ProcessAffinityMask</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052333Z" creationid="LiarOnce" creationdate="20181030T052333Z">
@@ -20134,6 +20414,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Public</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022845Z" creationid="LiarOnce" creationdate="20181111T022845Z">
+        <seg>公共</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Public Key</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025249Z" creationid="LiarOnce" creationdate="20181021T025249Z">
@@ -20202,6 +20490,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143123Z" creationid="LiarOnce" creationdate="20181007T143123Z">
         <seg>推送通知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Put the origin in the center of the image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022248Z" creationid="LiarOnce" creationdate="20181111T022248Z">
+        <seg>将原点置于图像的中心</seg>
       </tuv>
     </tu>
     <tu>
@@ -21686,6 +21982,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SCREENSHOT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022835Z" creationid="LiarOnce" creationdate="20181111T022835Z">
+        <seg>截图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SDK</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T045129Z" creationid="LiarOnce" creationdate="20181030T045129Z">
@@ -22182,6 +22486,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screenshot</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022852Z" creationid="LiarOnce" creationdate="20181111T022852Z">
+        <seg>截图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Script Files|*.gml</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093536Z" creationid="LiarOnce" creationdate="20181110T093536Z">
@@ -22586,6 +22898,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T062359Z" creationid="deciia" creationdate="20170103T101843Z">
         <seg>感应器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sep</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021929Z" creationid="LiarOnce" creationdate="20181111T021929Z">
+        <seg>Sep</seg>
       </tuv>
     </tu>
     <tu>
@@ -24472,6 +24792,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Steam Workshop Agreement</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022705Z" creationid="LiarOnce" creationdate="20181111T022705Z">
+        <seg>Steam 创意工坊协议</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SteamUGC_Visibility</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044954Z" creationid="LiarOnce" creationdate="20181030T044954Z">
@@ -25440,6 +25768,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The quality level used for this vector sprite</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022308Z" creationid="LiarOnce" creationdate="20181111T022308Z">
+        <seg>此矢量精灵使用的质量级别</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The simplest method</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090721Z" creationid="LiarOnce" creationdate="20181020T090721Z">
@@ -25508,6 +25844,22 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T014011Z" creationid="LiarOnce" creationdate="20181111T014011Z">
         <seg>具有句柄 %d 的窗口无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The x-coordinate in the sprite that is used for the origin</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022241Z" creationid="LiarOnce" creationdate="20181111T022241Z">
+        <seg>用于原点的精灵中的 x 坐标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The y-coordinate in the sprite that is used for the origin</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022243Z" creationid="LiarOnce" creationdate="20181111T022243Z">
+        <seg>用于原点的精灵中的 y 坐标</seg>
       </tuv>
     </tu>
     <tu>
@@ -27113,6 +27465,14 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Up to space delimited 16 tags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022831Z" creationid="LiarOnce" creationdate="20181111T022831Z">
+        <seg>最多空格分隔16个标签记</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Update</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T080444Z" creationid="deciia" creationdate="20170103T080444Z">
@@ -27669,6 +28029,14 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091243Z" creationid="LiarOnce" creationdate="20181028T091243Z">
         <seg>VCLskin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VISIBILITY</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022837Z" creationid="LiarOnce" creationdate="20181111T022834Z">
+        <seg>可见性</seg>
       </tuv>
     </tu>
     <tu>
@@ -29119,6 +29487,14 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>gmspr</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022317Z" creationid="LiarOnce" creationdate="20181111T022317Z">
+        <seg>gmspr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>http://advertising.apple.com/developers/</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045019Z" creationid="LiarOnce" creationdate="20181029T045019Z">
@@ -30190,5 +30566,16 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">GameMaker-Studio_zh-CN.sdlxliff</prop>
+      <prop type="prev">April</prop>
+      <prop type="next">June</prop>
+      <tuv lang="EN-US">
+        <seg>May</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022038Z" creationid="LiarOnce" creationdate="20181111T022038Z">
+        <seg>五月</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
