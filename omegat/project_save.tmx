@@ -6176,6 +6176,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bitmap image is not valid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015913Z" creationid="LiarOnce" creationdate="20181111T015913Z">
+        <seg>位图图像无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bitmaps</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015542Z" creationid="LiarOnce" creationdate="20181111T015542Z">
@@ -6984,6 +6992,22 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot change the size of a WIC Image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015928Z" creationid="LiarOnce" creationdate="20181111T015928Z">
+        <seg>无法更改 WIC 图像的大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot change the size of an icon</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015920Z" creationid="LiarOnce" creationdate="20181111T015920Z">
+        <seg>无法更改图标的大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot create form.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015613Z" creationid="LiarOnce" creationdate="20181111T015613Z">
@@ -7060,6 +7084,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T032356Z" creationid="LiarOnce" creationdate="20181110T032356Z">
         <seg>无法保存空 GIF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Canvas does not allow drawing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015952Z" creationid="LiarOnce" creationdate="20181111T015952Z">
+        <seg>画布不允许绘制</seg>
       </tuv>
     </tu>
     <tu>
@@ -7911,70 +7943,7 @@ windows you are using.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>以下片段机器翻译诡异需特别注意校对：
-
-Change how opaque or transparent the drawing colors must be
-更改绘图颜色必须的不透明或透明程度&lt;片段 1032&gt;（&lt;片段 1033&gt;、&lt;片段 1034&gt;）
-
-Change how transparent the onion skin is
-改变洋葱皮的透明程度&lt;片段 1046&gt;（&lt;片段 1047&gt;、&lt;片段 1048&gt;）
-
-Max number of forward onion images
-正向洋葱图像的最大数量&lt;片段 1051&gt;（&lt;片段 1052&gt;）
-
-Max number of previous onion images
-以前的洋葱图像的最大数量&lt;片段 1054&gt;（&lt;片段 1056&gt;）
-
-Toggles whether the grid must be shown when zooming in
-切换在放大时是否必须显示网格&lt;片段 1151&gt;
-
-Erases the image to the current left color
-将图像擦除到当前左边的颜色&lt;片段 1163&gt;
-
-Whether this object is kinematic
-此对象是否为运动学&lt;片段 1947&gt;
-
-You are importing from an old version of GameMaker, functionality has changed from previous versions so DO NOT expect this to work without changes.
-您从旧版本的 GameMaker 导入，函数已从以前的版本更改，所以不要期望这个没有更改。.&lt;片段 1334&gt;
-
-Deselect this option to prevent splash screen rendering
-取消选择此选项以防止初始屏幕呈现&lt;片段 2191&gt;
-
-Use a different synchronization method that may result in more consistent performance
-使用可能导致更一致的性能的不同同步方法&lt;片段 2248&gt;、
-
-Toggle use of internet
-切换使用互联网&lt;片段 2348&gt;
-
-Toggle use of search
-切换使用搜索&lt;片段 2350&gt;（&lt;片段 2352&gt;）
-
-File containing loading bar extension
-包含加载条扩展名的文件&lt;片段 2492&gt;
-
-Delete from resource tree deletes from disk
-从磁盘删除资源树删除&lt;片段 4234&gt;
-
-
-以下片段不知道应该如何翻译。。。。。。：
-
-Toggle Anti Alias on Line
-Toggle Anti Alias on Line&lt;片段 1081&gt;
-
-If none are available, make sure you have created an asset title within your
-If none are available, make sure you have created an asset title within your&lt;片段 0763&gt;
-
-Persistent
-Persistent&lt;片段 1966&gt;
-
-Whether the object is persistent between rooms
-Whether the object is persistent between rooms&lt;片段 1967&gt;
-
-Is mipmapped
-Is mipmapped&lt;片段 2128&gt;
-
-Toggle mipmapping of Texture Group
-Toggle mipmapping of Texture Group&lt;片段 2129&gt;
+      <note>
 </note>
       <tuv lang="EN-US">
         <seg>Click to indicate which aspects of the room you want to see</seg>
@@ -13903,6 +13872,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Icon image is not valid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015914Z" creationid="LiarOnce" creationdate="20181111T015914Z">
+        <seg>图标图像无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Icon to display</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090424Z" creationid="LiarOnce" creationdate="20181020T090424Z">
@@ -14895,6 +14872,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid ImageList</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015954Z" creationid="LiarOnce" creationdate="20181111T015954Z">
+        <seg>无效的映像列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid ImageList Index</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015622Z" creationid="LiarOnce" creationdate="20181111T015622Z">
@@ -14943,6 +14928,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015918Z" creationid="LiarOnce" creationdate="20181111T015918Z">
+        <seg>无效的图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid image dimensions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024823Z" creationid="LiarOnce" creationdate="20181110T024823Z">
@@ -14975,6 +14968,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid operation on TOleGraphic</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015941Z" creationid="LiarOnce" creationdate="20181111T015941Z">
+        <seg>TOleGraphic 上的操作无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid or unexpected %s image format.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T090130Z" creationid="LiarOnce" creationdate="20181110T090130Z">
@@ -14987,6 +14988,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025654Z" creationid="LiarOnce" creationdate="20181110T025654Z">
         <seg>无效的像素坐标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid pixel format</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015917Z" creationid="LiarOnce" creationdate="20181111T015917Z">
+        <seg>无效的像素格式</seg>
       </tuv>
     </tu>
     <tu>
@@ -16487,6 +16496,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Low surrogate char without a preceding high surrogate char at index: %d.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T020004Z" creationid="LiarOnce" creationdate="20181111T020004Z">
+        <seg>低代理字符, 而没有前面的高代理字符在索引: %d。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lzh archive</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052212Z" creationid="LiarOnce" creationdate="20181030T052212Z">
@@ -16871,6 +16888,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Menu index out of range</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015906Z" creationid="LiarOnce" creationdate="20181111T015906Z">
+        <seg>菜单索引超出范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Menu inserted twice</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015909Z" creationid="LiarOnce" creationdate="20181111T015909Z">
+        <seg>插入两次的菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Merge Moments</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180924T031947Z" creationid="deciia" creationdate="20170104T050119Z">
@@ -16899,6 +16932,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124740Z" creationid="LiarOnce" creationdate="20181013T124740Z">
         <seg>提交日志中的消息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Metafile is not valid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015916Z" creationid="LiarOnce" creationdate="20181111T015916Z">
+        <seg>元文件无效</seg>
       </tuv>
     </tu>
     <tu>
@@ -18707,6 +18748,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T045203Z" creationid="deciia" creationdate="20170102T045203Z">
         <seg>其它</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Out of system resources</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015951Z" creationid="LiarOnce" creationdate="20181111T015951Z">
+        <seg>系统资源不足</seg>
       </tuv>
     </tu>
     <tu>
@@ -21917,6 +21966,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scan line index out of range</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015919Z" creationid="LiarOnce" creationdate="20181111T015919Z">
+        <seg>扫描线索引超出范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SceNpCommunicationId</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T044644Z" creationid="LiarOnce" creationdate="20181029T044644Z">
@@ -24631,6 +24688,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tab style incompatible with current tab position</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015911Z" creationid="LiarOnce" creationdate="20181111T015911Z">
+        <seg>选项卡样式与当前选项卡位置不兼容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tagged image file format images</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T090211Z" creationid="LiarOnce" creationdate="20181110T090211Z">
@@ -26712,6 +26777,14 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unknown picture file extension (.%s)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015946Z" creationid="LiarOnce" creationdate="20181111T015946Z">
+        <seg>未知的图片文件扩展名 (.%s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unknown socks error.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092139Z" creationid="LiarOnce" creationdate="20181110T092053Z">
@@ -26756,6 +26829,14 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024821Z" creationid="LiarOnce" creationdate="20181110T024821Z">
         <seg>不支持的 PixelFormat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsupported clipboard format</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015949Z" creationid="LiarOnce" creationdate="20181111T015949Z">
+        <seg>不支持的剪贴板格式</seg>
       </tuv>
     </tu>
     <tu>
