@@ -5624,6 +5624,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At least one compression volumes could not be replaced after an archive out-of-place update</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T013930Z" creationid="LiarOnce" creationdate="20181111T013930Z">
+        <seg>存档更新不当后, 至少有一个压缩卷无法替换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Athletics</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094715Z" creationid="LiarOnce" creationdate="20181110T094715Z">
@@ -11218,6 +11226,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error illegal date or time format</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T013941Z" creationid="LiarOnce" creationdate="20181111T013941Z">
+        <seg>错误: 非法日期或时间格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error seeking stream</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T013058Z" creationid="LiarOnce" creationdate="20181111T013058Z">
@@ -11886,6 +11902,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134928Z" creationid="LiarOnce" creationdate="20181020T134928Z">
         <seg>包含加载条扩展名的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File contains no version information</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T014845Z" creationid="LiarOnce" creationdate="20181111T014845Z">
+        <seg>文件不包含版本信息</seg>
       </tuv>
     </tu>
     <tu>
@@ -13739,6 +13763,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T013133Z" creationid="LiarOnce" creationdate="20181111T013133Z">
         <seg>IgnoreDupUnits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Illegal language index</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T014851Z" creationid="LiarOnce" creationdate="20181111T014851Z">
+        <seg>非法语言索引</seg>
       </tuv>
     </tu>
     <tu>
@@ -17611,6 +17643,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125921Z" creationid="LiarOnce" creationdate="20181013T125905Z">
         <seg>没有更多生命值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No value was supplied</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T014853Z" creationid="LiarOnce" creationdate="20181111T014853Z">
+        <seg>未提供任何值</seg>
       </tuv>
     </tu>
     <tu>
@@ -24383,6 +24423,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Module with handle %d is not valid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T014843Z" creationid="LiarOnce" creationdate="20181111T014843Z">
+        <seg>句柄 %d 的模块无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Sony packed ID</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135657Z" creationid="LiarOnce" creationdate="20181020T135657Z">
@@ -24443,6 +24491,22 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090331Z" creationid="LiarOnce" creationdate="20181020T090331Z">
         <seg>游戏描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The file %s already exists in the archive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T013916Z" creationid="LiarOnce" creationdate="20181111T013916Z">
+        <seg>文件 %s 已存在于存档中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The file %s does not exist</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T014849Z" creationid="LiarOnce" creationdate="20181111T014849Z">
+        <seg>文件 %s 不存在</seg>
       </tuv>
     </tu>
     <tu>
@@ -24599,6 +24663,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The process with ID %d is not valid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T014835Z" creationid="LiarOnce" creationdate="20181111T014835Z">
+        <seg>ID为 %d 的进程无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The product name for the game</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090328Z" creationid="LiarOnce" creationdate="20181020T090328Z">
@@ -24631,6 +24703,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The value %s was not found.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T014858Z" creationid="LiarOnce" creationdate="20181111T014858Z">
+        <seg>找不到值 %s 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The version of the game</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090253Z" creationid="LiarOnce" creationdate="20181020T090253Z">
@@ -24659,6 +24739,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025845Z" creationid="LiarOnce" creationdate="20181021T025845Z">
         <seg>垂直捕捉距离</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The window with handle %d is not valid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T014011Z" creationid="LiarOnce" creationdate="20181111T014011Z">
+        <seg>具有句柄 %d 的窗口无效</seg>
       </tuv>
     </tu>
     <tu>
@@ -24772,6 +24860,14 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123454Z" creationid="LiarOnce" creationdate="20181013T123454Z">
         <seg>此版本仅用于测试程序, 而不是用于生成游戏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This windows version is not supported</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T014003Z" creationid="LiarOnce" creationdate="20181111T014003Z">
+        <seg>不支持此 Windows 版本</seg>
       </tuv>
     </tu>
     <tu>
@@ -25832,6 +25928,14 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unable to create directory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T013953Z" creationid="LiarOnce" creationdate="20181111T013953Z">
+        <seg>无法创建目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unable to generate Screen Tips because there are no linked Action Lists.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024642Z" creationid="LiarOnce" creationdate="20181110T024642Z">
@@ -26036,6 +26140,14 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025147Z" creationid="LiarOnce" creationdate="20181110T025147Z">
         <seg>未知的扩展类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown function at %s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T013950Z" creationid="LiarOnce" creationdate="20181111T013950Z">
+        <seg>%s 处的未知函数</seg>
       </tuv>
     </tu>
     <tu>
