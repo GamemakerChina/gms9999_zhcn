@@ -1640,8 +1640,8 @@
       <tuv lang="EN-US">
         <seg>&amp;Trim...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T023843Z" creationid="LiarOnce" creationdate="20181014T023843Z">
-        <seg>修剪...</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T053220Z" creationid="LiarOnce" creationdate="20181014T023843Z">
+        <seg>&amp;修剪...</seg>
       </tuv>
     </tu>
     <tu>
@@ -23128,8 +23128,8 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       <tuv lang="EN-US">
         <seg>Resize &amp;Canvas...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T030826Z" creationid="LiarOnce" creationdate="20181014T030826Z">
-        <seg>调整画布大小...</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T053223Z" creationid="LiarOnce" creationdate="20181014T030826Z">
+        <seg>&amp;调整画布大小...</seg>
       </tuv>
     </tu>
     <tu>
@@ -23800,8 +23800,8 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       <tuv lang="EN-US">
         <seg>S&amp;kew...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T030726Z" creationid="LiarOnce" creationdate="20181014T030726Z">
-        <seg>扭曲...</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T053224Z" creationid="LiarOnce" creationdate="20181014T030726Z">
+        <seg>&amp;扭曲...</seg>
       </tuv>
     </tu>
     <tu>
@@ -24232,8 +24232,8 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       <tuv lang="EN-US">
         <seg>Sc&amp;ale...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T030553Z" creationid="LiarOnce" creationdate="20181014T030553Z">
-        <seg>缩放...</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T053231Z" creationid="LiarOnce" creationdate="20181014T030553Z">
+        <seg>&amp;缩放...</seg>
       </tuv>
     </tu>
     <tu>
@@ -27130,8 +27130,8 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       <tuv lang="EN-US">
         <seg>Str&amp;etch...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T030844Z" creationid="LiarOnce" creationdate="20181014T030844Z">
-        <seg>拉伸...</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T053222Z" creationid="LiarOnce" creationdate="20181014T030844Z">
+        <seg>&amp;拉伸...</seg>
       </tuv>
     </tu>
     <tu>
