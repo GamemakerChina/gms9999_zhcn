@@ -96,8 +96,8 @@
       <tuv lang="EN-US">
         <seg>%s: Missing call to LoadColumnDetails</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T030002Z" creationid="LiarOnce" creationdate="20181110T030002Z">
-        <seg>%s: 缺少对 LoadColumnDetails 的调用</seg>
+      <tuv lang="ZH-CN" changeid="deciia" changedate="20181112T055758Z" creationid="LiarOnce" creationdate="20181110T030002Z">
+        <seg>%s：缺少对 LoadColumnDetails 的调用</seg>
       </tuv>
     </tu>
     <tu>
@@ -14261,8 +14261,8 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       <tuv lang="EN-US">
         <seg>GIF Image</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052101Z" creationid="LiarOnce" creationdate="20181030T052101Z">
-        <seg>GIF Image</seg>
+      <tuv lang="ZH-CN" changeid="deciia" changedate="20181112T054519Z" creationid="LiarOnce" creationdate="20181030T052101Z">
+        <seg>GIF 图片</seg>
       </tuv>
     </tu>
     <tu>
@@ -16402,8 +16402,8 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       <tuv lang="EN-US">
         <seg>Internal error: Extension Instance does not match Extension Label</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025544Z" creationid="LiarOnce" creationdate="20181110T025544Z">
-        <seg>内部错误: 扩展实例与扩展标签不匹配</seg>
+      <tuv lang="ZH-CN" changeid="deciia" changedate="20181112T055546Z" creationid="LiarOnce" creationdate="20181110T025544Z">
+        <seg>内部错误：扩展实例与扩展标签不匹配</seg>
       </tuv>
     </tu>
     <tu>
@@ -16447,11 +16447,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
     </tu>
     <tu>
+      <note>译文：预告片
+修改：追踪
+理由：叫预告片不太合适，不过也找到追踪者可以代替的词。这个是不是类似于缩略图之类的东西呢。</note>
       <tuv lang="EN-US">
         <seg>Invalid Image trailer</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025539Z" creationid="LiarOnce" creationdate="20181110T025539Z">
-        <seg>无效的图像预告片</seg>
+      <tuv lang="ZH-CN" changeid="deciia" changedate="20181112T055450Z" creationid="LiarOnce" creationdate="20181110T025539Z">
+        <seg>无效的图像追踪</seg>
       </tuv>
     </tu>
     <tu>
