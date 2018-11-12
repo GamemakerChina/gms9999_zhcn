@@ -12000,8 +12000,8 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       <tuv lang="EN-US">
         <seg>EOF was observed that violates the protocol</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091521Z" creationid="LiarOnce" creationdate="20181110T091521Z">
-        <seg>被观察到的 EOF 违反了协议</seg>
+      <tuv lang="ZH-CN" changeid="deciia" changedate="20181112T221231Z" creationid="LiarOnce" creationdate="20181110T091521Z">
+        <seg>观察到EOF违反了协议</seg>
       </tuv>
     </tu>
     <tu>
