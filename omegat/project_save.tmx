@@ -28200,6 +28200,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This "Portable Network Graphics" image is not supported because either it's width or height exceeds the maximum size, which is 65535 pixels length.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T052349Z" creationid="LiarOnce" creationdate="20181112T052334Z">
+        <seg>不支持此 "便携式网络图形" 图像, 因为它的宽度或高度超过了最大大小, 即 65535 像素的长度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This "Portable Network Graphics" image is not supported or it might be invalid.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015334Z" creationid="LiarOnce" creationdate="20181111T015334Z">
