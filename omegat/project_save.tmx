@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>"%s" DOMImplementation already registered</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T052000Z" creationid="LiarOnce" creationdate="20181113T051956Z">
+        <seg>"%s" 已经注册了 DOMImplementation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#000000</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091425Z" creationid="LiarOnce" creationdate="20181028T091425Z">
@@ -6319,6 +6327,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T051748Z" creationid="LiarOnce" creationdate="20181103T051748Z">
         <seg>属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attributes are not supported on this node type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T052757Z" creationid="LiarOnce" creationdate="20181113T052757Z">
+        <seg>此节点类型不支持属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -15430,6 +15446,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IDOMNode required</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T052633Z" creationid="LiarOnce" creationdate="20181113T052633Z">
+        <seg>需要 IDOMNode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ID_CAP_MICROPHONE</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091717Z" creationid="LiarOnce" creationdate="20181028T091717Z">
@@ -18893,6 +18917,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Microsoft MSXML is not installed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T052336Z" creationid="LiarOnce" creationdate="20181113T052336Z">
+        <seg>Microsoft MSXML 未安装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Middle button</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142844Z" creationid="LiarOnce" creationdate="20181007T142807Z">
@@ -19015,8 +19047,8 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       <tuv lang="EN-US">
         <seg>Mismatched paramaters to RegisterChildNodes</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051316Z" creationid="LiarOnce" creationdate="20181113T051316Z">
-        <seg>RegisterChildNodes 的参数不匹配</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T052512Z" creationid="LiarOnce" creationdate="20181113T051316Z">
+        <seg>RegisterChildNodes 的节点不匹配</seg>
       </tuv>
     </tu>
     <tu>
@@ -20021,6 +20053,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No active document</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T052338Z" creationid="LiarOnce" creationdate="20181113T052338Z">
+        <seg>没有活动文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No button</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142811Z" creationid="LiarOnce" creationdate="20181007T142811Z">
@@ -20049,6 +20089,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025652Z" creationid="LiarOnce" creationdate="20181110T025652Z">
         <seg>未定义全局或本地颜色表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No matching DOM Vendor: "%s"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T052012Z" creationid="LiarOnce" creationdate="20181113T052012Z">
+        <seg>没有匹配的DOM Vendor: "%s"</seg>
       </tuv>
     </tu>
     <tu>
@@ -20085,10 +20133,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Node "%s" not found</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T052628Z" creationid="LiarOnce" creationdate="20181113T052426Z">
+        <seg>找不到节点 "%s" not found</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Node cannot be null</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T052507Z" creationid="LiarOnce" creationdate="20181113T052316Z">
+        <seg>节点不能为空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Node is readonly</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051353Z" creationid="LiarOnce" creationdate="20181113T051353Z">
-        <seg>参数是只读的</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T052437Z" creationid="LiarOnce" creationdate="20181113T051353Z">
+        <seg>节点是只读的</seg>
       </tuv>
     </tu>
     <tu>
@@ -20145,6 +20209,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T013821Z" creationid="LiarOnce" creationdate="20181111T013821Z">
         <seg>不是资源目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not all bytes sent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051909Z" creationid="LiarOnce" creationdate="20181113T051909Z">
+        <seg>并非所有字节都发送。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21215,6 +21287,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Package Size Too Big.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051943Z" creationid="LiarOnce" creationdate="20181113T051943Z">
+        <seg>数据包大小太大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Package name</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025020Z" creationid="LiarOnce" creationdate="20181021T025020Z">
@@ -22248,6 +22328,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015258Z" creationid="LiarOnce" creationdate="20181111T015258Z">
         <seg>属性不可用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Property or Method "%s" is not supported by DOM Vendor "%s"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T052310Z" creationid="LiarOnce" creationdate="20181113T052310Z">
+        <seg>属性或方法 "%s" 在 DOM Vendor "%s" 中不支持</seg>
       </tuv>
     </tu>
     <tu>
@@ -24934,6 +25022,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selected DOM Vendor does not support this property or method</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T052023Z" creationid="LiarOnce" creationdate="20181113T052023Z">
+        <seg>选定的 DOM Vendor 不支持此属性或方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selected Line Number</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T031520Z" creationid="LiarOnce" creationdate="20181021T031520Z">
@@ -25098,6 +25194,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091905Z" creationid="LiarOnce" creationdate="20181110T091905Z">
         <seg>将 LargeStream 设置为 True 以发送大于 2GB 的流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set Size Exceeded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051945Z" creationid="LiarOnce" creationdate="20181113T051945Z">
+        <seg>超出设置大小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28223,6 +28327,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022308Z" creationid="LiarOnce" creationdate="20181111T022308Z">
         <seg>此矢量精灵使用的质量级别</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The requested IPVersion / Address family is not supported.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051902Z" creationid="LiarOnce" creationdate="20181113T051902Z">
+        <seg>请求的 IPVersion / Address 系列不受支持。</seg>
       </tuv>
     </tu>
     <tu>
