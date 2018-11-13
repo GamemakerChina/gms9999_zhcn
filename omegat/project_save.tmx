@@ -6333,8 +6333,8 @@ windows you are using.</seg>
       <tuv lang="EN-US">
         <seg>Attributes are not supported on this node type</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T052757Z" creationid="LiarOnce" creationdate="20181113T052757Z">
-        <seg>此节点类型不支持属性</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T052852Z" creationid="LiarOnce" creationdate="20181113T052757Z">
+        <seg>此节点类型不支持特性</seg>
       </tuv>
     </tu>
     <tu>
@@ -13561,6 +13561,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File name too long.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T052806Z" creationid="LiarOnce" creationdate="20181113T052806Z">
+        <seg>文件名太长了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File to load information from</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131408Z" creationid="LiarOnce" creationdate="20181013T131408Z">
@@ -15358,6 +15366,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Host is down.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T053033Z" creationid="LiarOnce" creationdate="20181113T053033Z">
+        <seg>主机已关闭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Host unreachable.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092204Z" creationid="LiarOnce" creationdate="20181110T092204Z">
@@ -16641,6 +16657,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T021711Z" creationid="LiarOnce" creationdate="20181111T021708Z">
         <seg>无效的输入值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid node type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T052759Z" creationid="LiarOnce" creationdate="20181113T052759Z">
+        <seg>节点类型无效</seg>
       </tuv>
     </tu>
     <tu>
@@ -20113,6 +20137,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125921Z" creationid="LiarOnce" creationdate="20181013T125905Z">
         <seg>没有更多生命值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No route to host.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T053049Z" creationid="LiarOnce" creationdate="20181113T053049Z">
+        <seg>没有路由到主机。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29456,6 +29488,14 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T024848Z" creationid="deciia" creationdate="20170102T101232Z">
         <seg>容差：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Too many levels of symbolic links.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T052805Z" creationid="LiarOnce" creationdate="20181113T052805Z">
+        <seg>太多级别的符号链接。</seg>
       </tuv>
     </tu>
     <tu>
