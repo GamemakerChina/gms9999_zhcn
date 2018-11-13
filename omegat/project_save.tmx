@@ -69,6 +69,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>%s is not a valid IPv6 address</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051739Z" creationid="LiarOnce" creationdate="20181113T051739Z">
+        <seg>%s 不是有效的 IPv6 地址</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>译文：%s 文件不支持 %s 。
 修改：%s 不支持 %s 文件。
 理由：%s 没有标序号，翻译时调换前后顺序可能会出问题。</note>
@@ -7651,6 +7659,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot change the size of a JPEG image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051728Z" creationid="LiarOnce" creationdate="20181113T051728Z">
+        <seg>无法更改 JPEG 图像的大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot change the size of a WIC Image</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015928Z" creationid="LiarOnce" creationdate="20181111T015928Z">
@@ -10781,10 +10797,26 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DCOM not installed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051703Z" creationid="LiarOnce" creationdate="20181113T051703Z">
+        <seg>DCOM 未安装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DESCRIPTION</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022832Z" creationid="LiarOnce" creationdate="20181111T022832Z">
         <seg>描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DOM Implementation does not support IDOMParseOptions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051337Z" creationid="LiarOnce" creationdate="20181113T051337Z">
+        <seg>DOM 实现不支持 IDOMParseOptions</seg>
       </tuv>
     </tu>
     <tu>
@@ -11550,6 +11582,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dispatch methods do not support more than 64 parameters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051659Z" creationid="LiarOnce" creationdate="20181113T051659Z">
+        <seg>调度方法不支持超过 64 个参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Display "running outside server" alert</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134948Z" creationid="LiarOnce" creationdate="20181020T134948Z">
@@ -12202,6 +12242,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134746Z" creationid="LiarOnce" creationdate="20181020T134746Z">
         <seg>El Capitan 需要签名才能运行应用程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Element "%s" does not contain a single text node</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051331Z" creationid="LiarOnce" creationdate="20181113T051331Z">
+        <seg>元素 “%s” 不包含单个文本节点</seg>
       </tuv>
     </tu>
     <tu>
@@ -13517,6 +13565,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131427Z" creationid="LiarOnce" creationdate="20181013T131427Z">
         <seg>向文件写入信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FileName cannot be blank</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051415Z" creationid="LiarOnce" creationdate="20181113T051415Z">
+        <seg>FileName 不能为空</seg>
       </tuv>
     </tu>
     <tu>
@@ -16717,6 +16773,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ItemTag property is not initialized</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051340Z" creationid="LiarOnce" creationdate="20181113T051340Z">
+        <seg>ItemTag 属性未初始化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>J</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090318Z" creationid="LiarOnce" creationdate="20181028T090318Z">
@@ -18821,6 +18885,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Method '%s' not supported by automation object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051500Z" creationid="LiarOnce" creationdate="20181113T051500Z">
+        <seg>自动化对象不支持的方法 '%s'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Middle button</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142844Z" creationid="LiarOnce" creationdate="20181007T142807Z">
@@ -18937,6 +19009,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T082603Z" creationid="deciia" creationdate="20180922T082603Z">
         <seg>杂项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mismatched paramaters to RegisterChildNodes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051316Z" creationid="LiarOnce" creationdate="20181113T051316Z">
+        <seg>RegisterChildNodes 的参数不匹配</seg>
       </tuv>
     </tu>
     <tu>
@@ -20005,6 +20085,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Node is readonly</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051353Z" creationid="LiarOnce" creationdate="20181113T051353Z">
+        <seg>参数是只读的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Non Mac App Store</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134737Z" creationid="LiarOnce" creationdate="20181020T134737Z">
@@ -20297,6 +20385,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092554Z" creationid="LiarOnce" creationdate="20181110T092554Z">
         <seg>OLE 控件激活失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OLE error %.8x</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051419Z" creationid="LiarOnce" creationdate="20181113T051419Z">
+        <seg>OLE 错误 %.8x</seg>
       </tuv>
     </tu>
     <tu>
@@ -22650,6 +22746,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180925T033412Z" creationid="deciia" creationdate="20170104T065203Z">
         <seg>从Mac刷新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refresh is only supported if the FileName or XML properties are set</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051411Z" creationid="LiarOnce" creationdate="20181113T051411Z">
+        <seg>仅在设置了 FileName 或 XML 属性时才支持刷新</seg>
       </tuv>
     </tu>
     <tu>
@@ -27819,6 +27923,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The chunks must be compatible to be assigned.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051204Z" creationid="LiarOnce" creationdate="20181113T051204Z">
+        <seg>块必须兼容才能分配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The company information for the game</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090326Z" creationid="LiarOnce" creationdate="20181020T090326Z">
@@ -28099,6 +28211,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The program tried to add a existent critical chunk to the current image which is not allowed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051246Z" creationid="LiarOnce" creationdate="20181113T051246Z">
+        <seg>该程序试图在当前图像中添加一个不存在的关键块。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The quality level used for this vector sprite</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022308Z" creationid="LiarOnce" creationdate="20181111T022308Z">
@@ -28203,6 +28323,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There is no such palette entry.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T050928Z" creationid="LiarOnce" creationdate="20181113T050928Z">
+        <seg>没有这样的调色板条目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thickness:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124611Z" creationid="LiarOnce" creationdate="20181013T124611Z">
@@ -28211,10 +28339,42 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This "Portable Network Graphics" image contains an unknown critical part which could not be decoded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T050950Z" creationid="LiarOnce" creationdate="20181113T050950Z">
+        <seg>这个“便携式网络图形”图像包含一个无法解码的未知关键部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This "Portable Network Graphics" image contains no data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051242Z" creationid="LiarOnce" creationdate="20181113T051242Z">
+        <seg>该“便携式网络图形”图像不包含任何数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This "Portable Network Graphics" image is encoded with an unknown compression scheme which could not be decoded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051005Z" creationid="LiarOnce" creationdate="20181113T051005Z">
+        <seg>该“便携式网络图形”图像使用未知压缩方案进行编码，该方案无法解码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This "Portable Network Graphics" image is invalid because it has missing image parts.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015321Z" creationid="LiarOnce" creationdate="20181111T015321Z">
         <seg>此 "便携式网络图形" 图像无效, 因为它缺少图像部件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This "Portable Network Graphics" image is invalid because the decoder found an unexpected end of the file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051228Z" creationid="LiarOnce" creationdate="20181113T051228Z">
+        <seg>该“便携式网络图形”图像无效，因为解码器发现文件的意外结束。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28239,6 +28399,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015313Z" creationid="LiarOnce" creationdate="20181111T015313Z">
         <seg>此 "便携式网络图形" 图像无效, 因为它包含无效的数据片段 (crc 错误)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This "Portable Network Graphics" image uses an unknown interlace scheme which could not be decoded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051200Z" creationid="LiarOnce" creationdate="20181113T051200Z">
+        <seg>该“便携式网络图形”图像使用无法解码的未知交错方案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30619,6 +30787,14 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180921T153540Z" creationid="deciia" creationdate="20180921T153540Z">
         <seg>变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Variant does not reference an automation object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051536Z" creationid="LiarOnce" creationdate="20181113T051536Z">
+        <seg>变量不引用自动化对象</seg>
       </tuv>
     </tu>
     <tu>
