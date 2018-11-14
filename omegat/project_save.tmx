@@ -85,6 +85,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>%s is not a valid service.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051645Z" creationid="LiarOnce" creationdate="20181114T051645Z">
+        <seg>%s 不是有效的服务。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>译文：%s 文件不支持 %s 。
 修改：%s 不支持 %s 文件。
 理由：%s 没有标序号，翻译时调换前后顺序可能会出问题。</note>
@@ -4674,6 +4682,14 @@ Right mouse button = menu</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Access denied.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052113Z" creationid="LiarOnce" creationdate="20181114T052113Z">
+        <seg>拒绝访问。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Account</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T083644Z" creationid="deciia" creationdate="20170102T083644Z">
@@ -5118,6 +5134,30 @@ Right mouse button = menu</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T051315Z" creationid="LiarOnce" creationdate="20181103T051315Z">
         <seg>其他函数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Address already in use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051822Z" creationid="LiarOnce" creationdate="20181114T051822Z">
+        <seg>地址已在使用中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Address and port are already in use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051615Z" creationid="LiarOnce" creationdate="20181114T051615Z">
+        <seg>地址和端口已在使用中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Address family not supported by protocol family.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051820Z" creationid="LiarOnce" creationdate="20181114T051820Z">
+        <seg>协议系列不支持的地址系列。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6723,6 +6763,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bad file number.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052110Z" creationid="LiarOnce" creationdate="20181114T052110Z">
+        <seg>文件号错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ball</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094737Z" creationid="LiarOnce" creationdate="20181110T094737Z">
@@ -7203,6 +7251,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Buffer fault.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052115Z" creationid="LiarOnce" creationdate="20181114T052115Z">
+        <seg>缓冲区故障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Buffer start position is invalid.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091608Z" creationid="LiarOnce" creationdate="20181110T091608Z">
@@ -7595,6 +7651,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can not bind in port range (%d - %d)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051520Z" creationid="LiarOnce" creationdate="20181114T051520Z">
+        <seg>无法在端口范围内绑定 (%d - %d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can not write to a read-only memory stream</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092732Z" creationid="LiarOnce" creationdate="20181110T092732Z">
@@ -7651,10 +7715,26 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot assign requested address.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051825Z" creationid="LiarOnce" creationdate="20181114T051825Z">
+        <seg>无法分配请求的地址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot call TerminateAndWaitFor on FreeAndTerminate threads</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091931Z" creationid="LiarOnce" creationdate="20181110T091931Z">
         <seg>无法在 FreeAndTerminate 线程上调用 TerminateAndWaitFor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot change IPVersion when connected</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051429Z" creationid="LiarOnce" creationdate="20181114T051429Z">
+        <seg>连接时无法更改 IPVersion</seg>
       </tuv>
     </tu>
     <tu>
@@ -7783,6 +7863,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T032356Z" creationid="LiarOnce" creationdate="20181110T032356Z">
         <seg>无法保存空 GIF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot send or receive after socket is closed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052007Z" creationid="LiarOnce" creationdate="20181114T052007Z">
+        <seg>套接字关闭后无法发送或接收。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9509,6 +9597,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connection Closed Gracefully.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051955Z" creationid="LiarOnce" creationdate="20181114T051558Z">
+        <seg>服务器停止响应。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connection Kind</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T062831Z" creationid="deciia" creationdate="20170103T103810Z">
@@ -9537,6 +9633,22 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092206Z" creationid="LiarOnce" creationdate="20181110T092206Z">
         <seg>连接被拒绝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connection reset by peer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051848Z" creationid="LiarOnce" creationdate="20181114T051848Z">
+        <seg>通过对等方重置连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connection timed out.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052102Z" creationid="LiarOnce" creationdate="20181114T052102Z">
+        <seg>连接超时。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9777,6 +9889,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T085752Z" creationid="LiarOnce" creationdate="20181013T085752Z">
         <seg>复制|将所选项目复制到剪贴板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not bind socket.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051605Z" creationid="LiarOnce" creationdate="20181114T051605Z">
+        <seg>无法绑定套接字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11554,6 +11674,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141303Z" creationid="deciia" creationdate="20181006T130409Z">
         <seg>方向:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Directory not empty</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051233Z" creationid="LiarOnce" creationdate="20181114T051233Z">
+        <seg>目录非空</seg>
       </tuv>
     </tu>
     <tu>
@@ -15374,6 +15502,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Host not found.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051242Z" creationid="LiarOnce" creationdate="20181114T051242Z">
+        <seg>主机未找到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Host unreachable.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092204Z" creationid="LiarOnce" creationdate="20181110T092204Z">
@@ -15506,6 +15642,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032155Z" creationid="LiarOnce" creationdate="20181021T032155Z">
         <seg>IP 允许列表 (CIDR 格式)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv6 unavailable</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051648Z" creationid="LiarOnce" creationdate="20181114T051648Z">
+        <seg>IPv6 不可用</seg>
       </tuv>
     </tu>
     <tu>
@@ -16585,6 +16729,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092747Z" creationid="LiarOnce" creationdate="20181110T092747Z">
         <seg>无效的 MMF 名称 "%s"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid Port Range (%d - %d)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051638Z" creationid="LiarOnce" creationdate="20181114T051638Z">
+        <seg>无效的端口范围 (%d - %d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid argument.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052150Z" creationid="LiarOnce" creationdate="20181114T052150Z">
+        <seg>无效的参数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19797,6 +19957,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Net dropped connection or reset.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051840Z" creationid="LiarOnce" creationdate="20181114T051840Z">
+        <seg>网络断开连接或重置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Network Access URLs (check to allow subdomains)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T140141Z" creationid="LiarOnce" creationdate="20181020T140141Z">
@@ -19809,6 +19977,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135947Z" creationid="LiarOnce" creationdate="20181020T135947Z">
         <seg>网络配置清单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Network is down.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051828Z" creationid="LiarOnce" creationdate="20181114T051828Z">
+        <seg>网络已关闭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Network is unreachable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051837Z" creationid="LiarOnce" creationdate="20181114T051837Z">
+        <seg>网络无法访问。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20081,6 +20265,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T052338Z" creationid="LiarOnce" creationdate="20181113T052338Z">
         <seg>没有活动文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No buffer space available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051855Z" creationid="LiarOnce" creationdate="20181114T051855Z">
+        <seg>没有可用的缓冲空间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20677,6 +20869,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only one TIdAntiFreeze can exist per application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051338Z" creationid="LiarOnce" creationdate="20181114T051338Z">
+        <seg>每个应用程序只能存在一个TIdAntiFreeze。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only support devices with GPU</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T025130Z" creationid="LiarOnce" creationdate="20181021T025130Z">
@@ -20861,6 +21061,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Operation already in progress.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052209Z" creationid="LiarOnce" creationdate="20181114T052209Z">
+        <seg>操作已在进行中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Operation is not supported while compressing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015300Z" creationid="LiarOnce" creationdate="20181111T015300Z">
@@ -20873,6 +21081,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015301Z" creationid="LiarOnce" creationdate="20181111T015301Z">
         <seg>解压缩时不支持操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operation now in progress.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052205Z" creationid="LiarOnce" creationdate="20181114T052205Z">
+        <seg>操作正在进行中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operation would block.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052202Z" creationid="LiarOnce" creationdate="20181114T052155Z">
+        <seg>操作已阻止。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22368,6 +22592,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T052310Z" creationid="LiarOnce" creationdate="20181113T052310Z">
         <seg>属性或方法 "%s" 在 DOM Vendor "%s" 中不支持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protocol family not supported.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051804Z" creationid="LiarOnce" creationdate="20181114T051804Z">
+        <seg>协议系列不受支持。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26755,6 +26987,22 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Socket is already connected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051916Z" creationid="LiarOnce" creationdate="20181114T051916Z">
+        <seg>套接字已经连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Socket is not connected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052002Z" creationid="LiarOnce" creationdate="20181114T052002Z">
+        <seg>套接字未连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Socks server did not respond.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092122Z" creationid="LiarOnce" creationdate="20181110T092122Z">
@@ -26767,6 +27015,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T135618Z" creationid="LiarOnce" creationdate="20181007T135618Z">
         <seg>柔体阴影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Software caused connection abort.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051843Z" creationid="LiarOnce" creationdate="20181114T051843Z">
+        <seg>软件导致连接中止。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27183,6 +27439,22 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T131527Z" creationid="LiarOnce" creationdate="20181013T131527Z">
         <seg>始终在顶部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stack Class is undefined.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051316Z" creationid="LiarOnce" creationdate="20181114T051316Z">
+        <seg>堆栈类未定义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stack already created.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051327Z" creationid="LiarOnce" creationdate="20181114T051327Z">
+        <seg>堆栈已经创建。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29496,6 +29768,22 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T052805Z" creationid="LiarOnce" creationdate="20181113T052805Z">
         <seg>太多级别的符号链接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Too many open files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052153Z" creationid="LiarOnce" creationdate="20181114T052153Z">
+        <seg>打开的文件太多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Too many references, cannot splice.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052100Z" creationid="LiarOnce" creationdate="20181114T052100Z">
+        <seg>引用太多, 不能拼接。</seg>
       </tuv>
     </tu>
     <tu>
