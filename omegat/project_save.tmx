@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%d is an invalid PageIndex value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052724Z" creationid="LiarOnce" creationdate="20181114T052712Z">
+        <seg>%d 是无效的 PageIndex 值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%d: Circular links are not allowed</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092224Z" creationid="LiarOnce" creationdate="20181110T092224Z">
@@ -74,6 +82,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T045516Z" creationid="LiarOnce" creationdate="20181030T045516Z">
         <seg>%s (%s, line %d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%s is already associated with %s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052701Z" creationid="LiarOnce" creationdate="20181114T052701Z">
+        <seg>%s 已与 %s 关联</seg>
       </tuv>
     </tu>
     <tu>
@@ -6771,6 +6787,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bad protocol option.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052404Z" creationid="LiarOnce" creationdate="20181114T052404Z">
+        <seg>错误的协议选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ball</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094737Z" creationid="LiarOnce" creationdate="20181110T094737Z">
@@ -9597,6 +9621,22 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052937Z" creationid="LiarOnce" creationdate="20181114T052937Z">
+        <seg>已连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connecting to %s.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052933Z" creationid="LiarOnce" creationdate="20181114T052933Z">
+        <seg>解析主机名 %s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connection Closed Gracefully.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051955Z" creationid="LiarOnce" creationdate="20181114T051558Z">
@@ -11558,6 +11598,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Destination address required.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052353Z" creationid="LiarOnce" creationdate="20181114T052353Z">
+        <seg>需要目标地址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Destroy Event</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044805Z" creationid="LiarOnce" creationdate="20181008T044805Z">
@@ -11722,6 +11770,22 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T065842Z" creationid="deciia" creationdate="20170104T065830Z">
         <seg>禁用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disconnected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T053026Z" creationid="LiarOnce" creationdate="20181114T053026Z">
+        <seg>已断开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disconnecting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052948Z" creationid="LiarOnce" creationdate="20181114T052948Z">
+        <seg>正在断开连接</seg>
       </tuv>
     </tu>
     <tu>
@@ -12889,6 +12953,22 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error on call to Winsock2 library function %s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052909Z" creationid="LiarOnce" creationdate="20181114T052909Z">
+        <seg>调用 Winsock2 库函数 %s 时出错</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error on loading Winsock2 library (%s)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052921Z" creationid="LiarOnce" creationdate="20181114T052921Z">
+        <seg>加载 Winsock2 库时出错 (%s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error seeking stream</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T013058Z" creationid="LiarOnce" creationdate="20181111T013058Z">
@@ -13437,6 +13517,30 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T031842Z" creationid="LiarOnce" creationdate="20181014T031842Z">
         <seg>将图像淡化为一种颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed attempting to retrieve time zone information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052851Z" creationid="LiarOnce" creationdate="20181114T052851Z">
+        <seg>试图检索时区信息失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to Load Stream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052513Z" creationid="LiarOnce" creationdate="20181114T052513Z">
+        <seg>无法加载流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to Save Stream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052519Z" creationid="LiarOnce" creationdate="20181114T052519Z">
+        <seg>无法保存流</seg>
       </tuv>
     </tu>
     <tu>
@@ -16658,6 +16762,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interrupted system call.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T053049Z" creationid="LiarOnce" creationdate="20181114T053049Z">
+        <seg>系统调用中断。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Intersect boundary</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143015Z" creationid="LiarOnce" creationdate="20181007T143015Z">
@@ -17225,6 +17337,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170215T152322Z" creationid="deciia" creationdate="20170215T152322Z">
         <seg>键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key  :</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T053103Z" creationid="LiarOnce" creationdate="20181114T053103Z">
+        <seg>密钥:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19073,6 +19193,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124740Z" creationid="LiarOnce" creationdate="20181013T124740Z">
         <seg>提交日志中的消息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message too long.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052356Z" creationid="LiarOnce" creationdate="20181114T052356Z">
+        <seg>消息太长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21085,6 +21213,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Operation not supported on socket.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052507Z" creationid="LiarOnce" creationdate="20181114T052507Z">
+        <seg>套接字不支持操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Operation now in progress.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052205Z" creationid="LiarOnce" creationdate="20181114T052205Z">
@@ -21579,6 +21715,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T082221Z" creationid="deciia" creationdate="20180922T082221Z">
         <seg>打包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PageIndex must be between 0 and %d</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052817Z" creationid="LiarOnce" creationdate="20181114T052817Z">
+        <seg>PageIndex 必须介于 0 到 %d 之间</seg>
       </tuv>
     </tu>
     <tu>
@@ -22612,6 +22756,22 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Protocol not supported.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052446Z" creationid="LiarOnce" creationdate="20181114T052446Z">
+        <seg>协议不受支持。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protocol wrong type for socket.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052401Z" creationid="LiarOnce" creationdate="20181114T052401Z">
+        <seg>套接字的协议类型错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Provide Values</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T034311Z" creationid="LiarOnce" creationdate="20181111T034311Z">
@@ -23618,6 +23778,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T051333Z" creationid="LiarOnce" creationdate="20181103T051333Z">
         <seg>解决</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resolving hostname %s.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052929Z" creationid="LiarOnce" creationdate="20181114T052929Z">
+        <seg>解析主机名 %s.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26987,6 +27155,16 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Socket Error # %d
+%s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T053041Z" creationid="LiarOnce" creationdate="20181114T053041Z">
+        <seg>套接字错误 # %d
+%s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Socket is already connected.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051916Z" creationid="LiarOnce" creationdate="20181114T051916Z">
@@ -26999,6 +27177,22 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052002Z" creationid="LiarOnce" creationdate="20181114T052002Z">
         <seg>套接字未连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Socket operation on non-socket.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052350Z" creationid="LiarOnce" creationdate="20181114T052350Z">
+        <seg>非套接字上的套接字操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Socket type not supported.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052448Z" creationid="LiarOnce" creationdate="20181114T052448Z">
+        <seg>套接字类型不受支持。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28847,6 +29041,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024606Z" creationid="LiarOnce" creationdate="20181110T024548Z">
         <seg>此命令已禁用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This control requires version 4.70 or greater of COMCTL32.DLL</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052838Z" creationid="LiarOnce" creationdate="20181114T052838Z">
+        <seg>此控件需要 4.70 或更高版本的COMCTL32.DLL</seg>
       </tuv>
     </tu>
     <tu>
