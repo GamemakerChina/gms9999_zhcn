@@ -7907,6 +7907,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Caption cannot be empty</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181115T050416Z" creationid="LiarOnce" creationdate="20181115T050416Z">
+        <seg>标题不能为空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CaptionLabel1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T045505Z" creationid="LiarOnce" creationdate="20181030T045505Z">
@@ -13553,6 +13561,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Failed to clear tab control</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181115T050436Z" creationid="LiarOnce" creationdate="20181115T050436Z">
+        <seg>无法清除标签控件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Failed to create FileMapping</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T013800Z" creationid="LiarOnce" creationdate="20181111T013800Z">
@@ -13577,10 +13593,26 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Failed to delete tab at index %d</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181115T050510Z" creationid="LiarOnce" creationdate="20181115T050510Z">
+        <seg>未能删除索引 %d 处的选项卡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Failed to get ANSI replacement character</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015255Z" creationid="LiarOnce" creationdate="20181111T015255Z">
         <seg>未能获取 ANSI 替换字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to get object at index %d</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181115T051258Z" creationid="LiarOnce" creationdate="20181115T051258Z">
+        <seg>无法在索引 %d 处获取对象</seg>
       </tuv>
     </tu>
     <tu>
@@ -13605,6 +13637,30 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015623Z" creationid="LiarOnce" creationdate="20181111T015623Z">
         <seg>无法从流中读取图像列表数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to retrieve tab at index %d</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181115T051249Z" creationid="LiarOnce" creationdate="20181115T051249Z">
+        <seg>无法检索索引 %d 处的选项卡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to set object at index %d</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181115T051324Z" creationid="LiarOnce" creationdate="20181115T051324Z">
+        <seg>无法在索引 %d 处设置对象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to set tab "%s" at index %d</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181115T051315Z" creationid="LiarOnce" creationdate="20181115T051315Z">
+        <seg>无法在索引 %d 处设置选项卡“%s”</seg>
       </tuv>
     </tu>
     <tu>
@@ -19841,6 +19897,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052243Z" creationid="LiarOnce" creationdate="20181030T052243Z">
         <seg>Mub archive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MultiLine must be True when TabPosition is tpLeft or tpRight</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181115T051343Z" creationid="LiarOnce" creationdate="20181115T051343Z">
+        <seg>当 TabPosition 为 tpLeft 或 tpRight 时，MultiLine 必须为 True</seg>
       </tuv>
     </tu>
     <tu>
@@ -32759,6 +32823,14 @@ release candidate in any way.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091602Z" creationid="LiarOnce" creationdate="20181110T091602Z">
         <seg>您只能分配以下类型之一或其后代：TStrings，TStream。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can only tab dock TWinControl based Controls</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181115T050429Z" creationid="LiarOnce" creationdate="20181115T050429Z">
+        <seg>您只能选中基于 TWinControl 的控件</seg>
       </tuv>
     </tu>
     <tu>
