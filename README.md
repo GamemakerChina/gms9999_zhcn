@@ -7,6 +7,8 @@ zh-CN translation for GameMaker:Studio 1.4.9999
 
 SDL Passolo 项目文件位于 [passolo](https://github.com/GamemakerChina/gms9999_zhcn/tree/passolo) 分支。
 
+目前已基本翻译完毕，接下来可以开始进行校对，需特别注意的已给出：[GMS1-IDE-issues.md](https://github.com/GamemakerChina/gms9999_zhcn/blob/master/GMS1-IDE-issues.md)
+
 ## 已知问题
 
 以下问题均为历史遗留问题，1.4.1763（汉化后）开始就已出现。
