@@ -153,6 +153,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%s of address %p</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051834Z" creationid="LiarOnce" creationdate="20181116T051819Z">
+        <seg>地址 %p 的 %s </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%s on %s</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015608Z" creationid="LiarOnce" creationdate="20181111T015608Z">
@@ -4842,6 +4850,14 @@ Right mouse button = menu</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Abstract Error</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051722Z" creationid="LiarOnce" creationdate="20181116T051722Z">
+        <seg>抽象错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Access Instance's Creation Code</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051817Z" creationid="LiarOnce" creationdate="20181015T051817Z">
@@ -4854,6 +4870,14 @@ Right mouse button = menu</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052113Z" creationid="LiarOnce" creationdate="20181114T052113Z">
         <seg>拒绝访问。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Access violation at address %p in module '%s'.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051803Z" creationid="LiarOnce" creationdate="20181116T051803Z">
+        <seg>模块 '%s' 中地址 %p 处的访问冲突。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6043,6 +6067,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ancestor for '%s' not found</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051558Z" creationid="LiarOnce" creationdate="20181116T051558Z">
+        <seg>找不到 '%s' 的原型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Android</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090609Z" creationid="LiarOnce" creationdate="20181028T090609Z">
@@ -6447,6 +6479,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094713Z" creationid="LiarOnce" creationdate="20181110T094713Z">
         <seg>Art</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assertion failed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051629Z" creationid="LiarOnce" creationdate="20181116T051629Z">
+        <seg>断言失败</seg>
       </tuv>
     </tu>
     <tu>
@@ -7875,6 +7915,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can't load package %s.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051855Z" creationid="LiarOnce" creationdate="20181116T051855Z">
+        <seg>无法加载包 %s。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can't write to a read-only resource stream</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050708Z" creationid="LiarOnce" creationdate="20181116T050708Z">
@@ -7911,6 +7959,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T051744Z" creationid="LiarOnce" creationdate="20181015T051744Z">
         <seg>取消和关闭实例顺序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot access package information for package '%s'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051844Z" creationid="LiarOnce" creationdate="20181116T051844Z">
+        <seg>无法访问包 '%s' 的包信息</seg>
       </tuv>
     </tu>
     <tu>
@@ -9461,6 +9517,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Code: %d.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051902Z" creationid="LiarOnce" creationdate="20181116T051902Z">
+        <seg>代码: %d.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Collision Checking</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022249Z" creationid="LiarOnce" creationdate="20181111T022249Z">
@@ -10281,6 +10345,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051605Z" creationid="LiarOnce" creationdate="20181114T051605Z">
         <seg>无法绑定套接字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not convert variant of type (%s) into type (%s)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052315Z" creationid="LiarOnce" creationdate="20181116T052315Z">
+        <seg>无法将类型 (%s) 的变体转换为类型 (%s)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11209,6 +11281,30 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082735Z" creationid="LiarOnce" creationdate="20181027T082735Z">
         <seg>当前所选用的图块集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom variant type (%s%.4x) already used by %s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052145Z" creationid="LiarOnce" creationdate="20181116T052110Z">
+        <seg>%s 已使用的自定义变量类型 (%s%.4x)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom variant type (%s%.4x) is not usable</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052131Z" creationid="LiarOnce" creationdate="20181116T052131Z">
+        <seg>自定义变量类型 (%s.4x)不可用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom variant type (%s%.4x) is out of range</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052036Z" creationid="LiarOnce" creationdate="20181116T051950Z">
+        <seg>自定义变量类型 (%s%.4x) 超出范围</seg>
       </tuv>
     </tu>
     <tu>
@@ -13281,6 +13377,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error creating variant or safe array</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052157Z" creationid="LiarOnce" creationdate="20181116T051908Z">
+        <seg>创建变量或安全数组时出错</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error creating window class</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015633Z" creationid="LiarOnce" creationdate="20181111T015633Z">
@@ -13455,6 +13559,14 @@ Would you like to delete it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094623Z" creationid="LiarOnce" creationdate="20181110T094623Z">
         <seg>Example</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exception in safecall method</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051714Z" creationid="LiarOnce" creationdate="20181116T051714Z">
+        <seg>safecall 方法中的例外情况</seg>
       </tuv>
     </tu>
     <tu>
@@ -13735,6 +13847,14 @@ Would you like to delete it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032132Z" creationid="LiarOnce" creationdate="20181021T032132Z">
         <seg>要使用的外部 Spine 编辑器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External exception %x</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051625Z" creationid="LiarOnce" creationdate="20181116T051625Z">
+        <seg>外部异常 %x</seg>
       </tuv>
     </tu>
     <tu>
@@ -14855,6 +14975,14 @@ Would you like to delete it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141615Z" creationid="LiarOnce" creationdate="20181007T141615Z">
         <seg>忘记?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Format string too long</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051906Z" creationid="LiarOnce" creationdate="20181116T051906Z">
+        <seg>格式化字符串太长</seg>
       </tuv>
     </tu>
     <tu>
@@ -17268,6 +17396,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interface not supported</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051651Z" creationid="LiarOnce" creationdate="20181116T051651Z">
+        <seg>接口不支持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Internal error: Extension Instance does not match Extension Label</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181112T055546Z" creationid="LiarOnce" creationdate="20181110T025544Z">
@@ -17359,6 +17495,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid NULL variant operation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051923Z" creationid="LiarOnce" creationdate="20181116T051923Z">
+        <seg>无效的 NULL 变量操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid Port Range (%d - %d)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051638Z" creationid="LiarOnce" creationdate="20181114T051638Z">
@@ -17371,6 +17515,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181115T052615Z" creationid="LiarOnce" creationdate="20181115T052615Z">
         <seg>无效的超时值: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid argument</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051604Z" creationid="LiarOnce" creationdate="20181116T051604Z">
+        <seg>无效的参数</seg>
       </tuv>
     </tu>
     <tu>
@@ -17403,6 +17555,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181115T052538Z" creationid="LiarOnce" creationdate="20181115T052538Z">
         <seg>剪贴板格式无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid code page</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051510Z" creationid="LiarOnce" creationdate="20181116T051510Z">
+        <seg>无效的代码页</seg>
       </tuv>
     </tu>
     <tu>
@@ -17667,6 +17827,40 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024829Z" creationid="LiarOnce" creationdate="20181110T024829Z">
         <seg>无效的流操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid variant operation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051919Z" creationid="LiarOnce" creationdate="20181116T051919Z">
+        <seg>变量操作无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid variant operation (%s%.8x)
+%s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051930Z" creationid="LiarOnce" creationdate="20181116T051930Z">
+        <seg>变量操作无效 (%s%.8x)
+%s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid variant type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052153Z" creationid="LiarOnce" creationdate="20181116T051607Z">
+        <seg>无效的变量类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid variant type conversion</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052200Z" creationid="LiarOnce" creationdate="20181116T051917Z">
+        <seg>变量类型转换无效</seg>
       </tuv>
     </tu>
     <tu>
@@ -20231,6 +20425,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Monitor support function not initialized</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051720Z" creationid="LiarOnce" creationdate="20181116T051720Z">
+        <seg>监视器支持功能未初始化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mono</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T074527Z" creationid="deciia" creationdate="20170103T074527Z">
@@ -21751,6 +21953,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Object lock not owned</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051718Z" creationid="LiarOnce" creationdate="20181116T051718Z">
+        <seg>不拥有对象锁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Object to add with left mouse:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032520Z" creationid="LiarOnce" creationdate="20181021T032520Z">
@@ -22067,6 +22277,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181115T052840Z" creationid="LiarOnce" creationdate="20181115T052840Z">
         <seg>排序列表中不允许操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operation not supported</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051618Z" creationid="LiarOnce" creationdate="20181116T051618Z">
+        <seg>操作不受支持</seg>
       </tuv>
     </tu>
     <tu>
@@ -29119,6 +29337,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>System Error.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051857Z" creationid="LiarOnce" creationdate="20181116T051857Z">
+        <seg>系统错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>System Event</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143142Z" creationid="LiarOnce" creationdate="20181007T143142Z">
@@ -31032,6 +31258,14 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Too many custom variant types have been registered</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052211Z" creationid="LiarOnce" creationdate="20181116T052211Z">
+        <seg>注册的自定义变量类型太多</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Too many levels of symbolic links.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T052805Z" creationid="LiarOnce" creationdate="20181113T052805Z">
@@ -31692,6 +31926,14 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092525Z" creationid="LiarOnce" creationdate="20181110T092525Z">
         <seg>意外结束的序列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unexpected variant error</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052155Z" creationid="LiarOnce" creationdate="20181116T051620Z">
+        <seg>意外的变量错误</seg>
       </tuv>
     </tu>
     <tu>
@@ -32567,6 +32809,22 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051536Z" creationid="LiarOnce" creationdate="20181113T051536Z">
         <seg>变量不引用自动化对象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Variant or safe array index out of bounds</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051912Z" creationid="LiarOnce" creationdate="20181116T051912Z">
+        <seg>变量或安全数组索引超出范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Variant or safe array is locked</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051915Z" creationid="LiarOnce" creationdate="20181116T051915Z">
+        <seg>变量或安全数组被锁定</seg>
       </tuv>
     </tu>
     <tu>
