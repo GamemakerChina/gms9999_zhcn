@@ -193,6 +193,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%s%s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052517Z" creationid="LiarOnce" creationdate="20181116T052517Z">
+        <seg>%s%s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%s.Seek not implemented</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050640Z" creationid="LiarOnce" creationdate="20181116T050640Z">
@@ -2013,6 +2021,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181115T052115Z" creationid="LiarOnce" creationdate="20181115T052115Z">
         <seg>'%d' 不是有效范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>'%s' is not a valid GUID value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052602Z" creationid="LiarOnce" creationdate="20181116T052544Z">
+        <seg>'%s' 不是有效的 GUID 值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>'%s' is not a valid boolean value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052559Z" creationid="LiarOnce" creationdate="20181116T052547Z">
+        <seg>'%s' 不是有效的布尔值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>'%s' is not a valid floating point value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052552Z" creationid="LiarOnce" creationdate="20181116T052542Z">
+        <seg>'%s' 不是有效的浮点值</seg>
       </tuv>
     </tu>
     <tu>
@@ -4874,10 +4906,26 @@ Right mouse button = menu</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Access violation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052412Z" creationid="LiarOnce" creationdate="20181116T052412Z">
+        <seg>访问冲突</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Access violation at address %p in module '%s'.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051803Z" creationid="LiarOnce" creationdate="20181116T051803Z">
         <seg>模块 '%s' 中地址 %p 处的访问冲突。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Access violation at address %p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052407Z" creationid="LiarOnce" creationdate="20181116T052407Z">
+        <seg>地址 %p 处的访问冲突。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5626,6 +5674,14 @@ Right mouse button = menu</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All Files|*.*</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052707Z" creationid="LiarOnce" creationdate="20181116T052707Z">
+        <seg>所有文件|*.*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All files (*.*)|*.*</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051654Z" creationid="LiarOnce" creationdate="20181030T051654Z">
@@ -6295,6 +6351,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T070026Z" creationid="deciia" creationdate="20170104T070026Z">
         <seg>应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Application Error</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052521Z" creationid="LiarOnce" creationdate="20181116T052521Z">
+        <seg>应用程序错误</seg>
       </tuv>
     </tu>
     <tu>
@@ -10133,6 +10197,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Control-C hit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052418Z" creationid="LiarOnce" creationdate="20181116T052418Z">
+        <seg>Control-C 命中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ControlItem.Control cannot be set to owning GridPanel</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181115T051730Z" creationid="LiarOnce" creationdate="20181115T051730Z">
@@ -10351,8 +10423,8 @@ windows you are using.</seg>
       <tuv lang="EN-US">
         <seg>Could not convert variant of type (%s) into type (%s)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052315Z" creationid="LiarOnce" creationdate="20181116T052315Z">
-        <seg>无法将类型 (%s) 的变体转换为类型 (%s)</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052331Z" creationid="LiarOnce" creationdate="20181116T052315Z">
+        <seg>无法将类型 (%s) 的变量转换为类型 (%s)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12230,6 +12302,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disk full</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052622Z" creationid="LiarOnce" creationdate="20181116T052622Z">
+        <seg>磁盘已满</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dispatch methods do not support more than 64 parameters</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T051659Z" creationid="LiarOnce" creationdate="20181113T051659Z">
@@ -12346,6 +12426,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094728Z" creationid="LiarOnce" creationdate="20181110T094728Z">
         <seg>Diving</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Division by zero</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052630Z" creationid="LiarOnce" creationdate="20181116T052628Z">
+        <seg>按零划分</seg>
       </tuv>
     </tu>
     <tu>
@@ -13563,6 +13651,14 @@ Would you like to delete it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exception %s in module %s at %p.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052516Z" creationid="LiarOnce" creationdate="20181116T052516Z">
+        <seg>异常 %s 来自模块 %s 中%p 中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exception in safecall method</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051714Z" creationid="LiarOnce" creationdate="20181116T051714Z">
@@ -14379,6 +14475,14 @@ Would you like to delete it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File access denied</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052612Z" creationid="LiarOnce" creationdate="20181116T052612Z">
+        <seg>文件访问被拒绝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File containing loading bar extension</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T134928Z" creationid="LiarOnce" creationdate="20181020T134928Z">
@@ -14803,6 +14907,30 @@ Would you like to delete it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Floating point division by zero</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052638Z" creationid="LiarOnce" creationdate="20181116T052638Z">
+        <seg>浮点除以零</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Floating point overflow</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052341Z" creationid="LiarOnce" creationdate="20181116T052341Z">
+        <seg>浮点溢出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Floating point underflow</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052343Z" creationid="LiarOnce" creationdate="20181116T052343Z">
+        <seg>浮点下溢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flurry</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T044829Z" creationid="LiarOnce" creationdate="20181029T044829Z">
@@ -14975,6 +15103,14 @@ Would you like to delete it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141615Z" creationid="LiarOnce" creationdate="20181007T141615Z">
         <seg>忘记?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Format '%s' invalid or incompatible with argument</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052529Z" creationid="LiarOnce" creationdate="20181116T052529Z">
+        <seg>格式 '%s' 无效或与参数不兼容</seg>
       </tuv>
     </tu>
     <tu>
@@ -16320,6 +16456,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I/O error %d</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052608Z" creationid="LiarOnce" creationdate="20181116T052608Z">
+        <seg>I/O 错误 %d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IAP</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090429Z" creationid="LiarOnce" creationdate="20181028T090429Z">
@@ -17396,6 +17540,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Integer overflow</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052634Z" creationid="LiarOnce" creationdate="20181116T052634Z">
+        <seg>整数溢出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Interface not supported</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051651Z" creationid="LiarOnce" creationdate="20181116T051651Z">
@@ -17527,6 +17679,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid argument to date encode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052549Z" creationid="LiarOnce" creationdate="20181116T052549Z">
+        <seg>日期编码的参数无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid argument to time encode</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181115T052621Z" creationid="LiarOnce" creationdate="20181115T052621Z">
@@ -17547,6 +17707,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181115T052948Z" creationid="LiarOnce" creationdate="20181115T052948Z">
         <seg>路径中的字符无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid class typecast</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052400Z" creationid="LiarOnce" creationdate="20181116T052400Z">
+        <seg>无效的类类型转换</seg>
       </tuv>
     </tu>
     <tu>
@@ -17639,6 +17807,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid floating point operation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052644Z" creationid="LiarOnce" creationdate="20181116T052636Z">
+        <seg>无效的浮点运算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid image</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015918Z" creationid="LiarOnce" creationdate="20181111T015918Z">
@@ -17727,6 +17903,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid numeric input</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052626Z" creationid="LiarOnce" creationdate="20181116T052626Z">
+        <seg>无效的数字输入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid operation on TOleGraphic</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015941Z" creationid="LiarOnce" creationdate="20181111T015941Z">
@@ -17763,6 +17947,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015917Z" creationid="LiarOnce" creationdate="20181111T015917Z">
         <seg>无效的像素格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid pointer operation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052357Z" creationid="LiarOnce" creationdate="20181116T052357Z">
+        <seg>指针操作无效</seg>
       </tuv>
     </tu>
     <tu>
@@ -21409,6 +21601,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No argument for format '%s'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052535Z" creationid="LiarOnce" creationdate="20181116T052535Z">
+        <seg>格式 '%s' 没有参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No buffer space available.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T051855Z" creationid="LiarOnce" creationdate="20181114T051855Z">
@@ -22249,6 +22449,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Operation aborted</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052424Z" creationid="LiarOnce" creationdate="20181116T052424Z">
+        <seg>操作已中止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Operation already in progress.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052209Z" creationid="LiarOnce" creationdate="20181114T052209Z">
@@ -22481,6 +22689,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Out of memory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052605Z" creationid="LiarOnce" creationdate="20181116T052605Z">
+        <seg>内存不足</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Out of memory while expanding memory stream</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050506Z" creationid="LiarOnce" creationdate="20181116T050506Z">
@@ -22589,6 +22805,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T125622Z" creationid="LiarOnce" creationdate="20181013T125622Z">
         <seg>离开视野 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overflow while converting variant of type (%s) into type (%s)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052337Z" creationid="LiarOnce" creationdate="20181116T052329Z">
+        <seg>将类型 (%s) 的变量转换为类型 (%s) 时的溢出</seg>
       </tuv>
     </tu>
     <tu>
@@ -23720,6 +23944,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Privileged instruction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052420Z" creationid="LiarOnce" creationdate="20181116T052420Z">
+        <seg>特权指令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ProcessAffinityMask</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052333Z" creationid="LiarOnce" creationdate="20181030T052333Z">
@@ -24210,6 +24442,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Range check error</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052632Z" creationid="LiarOnce" creationdate="20181116T052632Z">
+        <seg>范围检查错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rar archive</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052345Z" creationid="LiarOnce" creationdate="20181030T052345Z">
@@ -24254,6 +24494,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170224T003724Z" creationid="deciia" creationdate="20170224T003724Z">
         <seg>读</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read beyond end of file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052619Z" creationid="LiarOnce" creationdate="20181116T052615Z">
+        <seg>阅读超出文件末尾</seg>
       </tuv>
     </tu>
     <tu>
@@ -27335,6 +27583,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shift+F79</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052720Z" creationid="LiarOnce" creationdate="20181116T052720Z">
+        <seg>Shift+F79</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shift+I</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044855Z" creationid="LiarOnce" creationdate="20181030T044855Z">
@@ -28841,6 +29097,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stack overflow</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052415Z" creationid="LiarOnce" creationdate="20181116T052415Z">
+        <seg>堆栈溢出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start Awake</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T062345Z" creationid="deciia" creationdate="20170103T102300Z">
@@ -29613,6 +29877,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T090543Z" creationid="LiarOnce" creationdate="20181013T090543Z">
         <seg>文本颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text Files (*.txt)|*.txt</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052655Z" creationid="LiarOnce" creationdate="20181116T052655Z">
+        <seg>文本文件 (*.txt)|*.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -31274,6 +31546,14 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Too many open files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052610Z" creationid="LiarOnce" creationdate="20181116T052610Z">
+        <seg>打开的文件太多了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Too many open files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052153Z" creationid="LiarOnce" creationdate="20181114T052153Z">
@@ -32813,6 +33093,14 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Variant method calls not supported</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052538Z" creationid="LiarOnce" creationdate="20181116T052538Z">
+        <seg>不支持变量方法调用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Variant or safe array index out of bounds</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051912Z" creationid="LiarOnce" creationdate="20181116T051912Z">
@@ -32825,6 +33113,14 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051915Z" creationid="LiarOnce" creationdate="20181116T051915Z">
         <seg>变量或安全数组被锁定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Variant overflow</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052339Z" creationid="LiarOnce" creationdate="20181116T052339Z">
+        <seg>变量溢出</seg>
       </tuv>
     </tu>
     <tu>
@@ -35576,6 +35872,14 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T044603Z" creationid="LiarOnce" creationdate="20181029T044603Z">
         <seg>trophy00.trp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>txt</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T052648Z" creationid="LiarOnce" creationdate="20181116T052648Z">
+        <seg>txt</seg>
       </tuv>
     </tu>
     <tu>
