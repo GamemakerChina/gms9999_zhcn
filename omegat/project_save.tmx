@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%s has not been registered as a COM class</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050514Z" creationid="LiarOnce" creationdate="20181116T050514Z">
+        <seg>%s尚未注册为 COM 类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%s is already associated with %s</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052701Z" creationid="LiarOnce" creationdate="20181114T052701Z">
@@ -173,6 +181,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181115T051905Z" creationid="LiarOnce" creationdate="20181115T051905Z">
         <seg>%s 需要启用主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%s.Seek not implemented</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050640Z" creationid="LiarOnce" creationdate="20181116T050640Z">
+        <seg>%s.不执行</seg>
       </tuv>
     </tu>
     <tu>
@@ -1997,6 +2013,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092547Z" creationid="LiarOnce" creationdate="20181110T092547Z">
         <seg>"%s" 不是有效的属性值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>''%s'' is not a valid component name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050839Z" creationid="LiarOnce" creationdate="20181116T050839Z">
+        <seg>''%s'' 不是有效的组件名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -4650,6 +4674,22 @@ Right mouse button = menu</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A class named %s already exists</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050747Z" creationid="LiarOnce" creationdate="20181116T050747Z">
+        <seg>名为 %s 的类已存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A component named %s already exists</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050804Z" creationid="LiarOnce" creationdate="20181116T050804Z">
+        <seg>名为 %s 的组件已存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A control cannot have itself as its parent</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015619Z" creationid="LiarOnce" creationdate="20181111T015619Z">
@@ -7019,6 +7059,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bits index out of range</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050706Z" creationid="LiarOnce" creationdate="20181116T050706Z">
+        <seg>点对点索引超出范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bits per sample must be 1, 2, 4, 8 or 16.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181112T214025Z" creationid="LiarOnce" creationdate="20181110T083730Z">
@@ -7827,6 +7875,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can't write to a read-only resource stream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050708Z" creationid="LiarOnce" creationdate="20181116T050708Z">
+        <seg>无法写入只读资源流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044644Z" creationid="LiarOnce" creationdate="20181008T044644Z">
@@ -7863,6 +7919,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181115T052108Z" creationid="LiarOnce" creationdate="20181115T052108Z">
         <seg>扩展样式是固定大小时无法添加列或行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot assign a %s to a %s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050658Z" creationid="LiarOnce" creationdate="20181116T050658Z">
+        <seg>无法将 %s 分配给 %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -7951,6 +8015,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015920Z" creationid="LiarOnce" creationdate="20181111T015920Z">
         <seg>无法更改图标的大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create file "%s".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050823Z" creationid="LiarOnce" creationdate="20181116T050823Z">
+        <seg>无法创建文件 "%s".</seg>
       </tuv>
     </tu>
     <tu>
@@ -8443,6 +8515,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Character index out of bounds (%d)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050906Z" creationid="LiarOnce" creationdate="20181116T050906Z">
+        <seg>字符索引超出范围 (%d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristics</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T013347Z" creationid="LiarOnce" creationdate="20181111T013347Z">
@@ -8699,6 +8779,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CheckSynchronize called from thread $%x, which is NOT the main thread</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050730Z" creationid="LiarOnce" creationdate="20181116T050730Z">
+        <seg>从线程  $%x 调用的CheckSynchronize，它不是主线程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Checkout</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T051906Z" creationid="LiarOnce" creationdate="20181103T051906Z">
@@ -8807,6 +8895,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T023431Z" creationid="LiarOnce" creationdate="20181111T023431Z">
         <seg>市/县</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class %s not found</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050738Z" creationid="LiarOnce" creationdate="20181116T050738Z">
+        <seg>未找到类 %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -13251,6 +13347,14 @@ Would you like to delete it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error reading %s%s%s: %s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050528Z" creationid="LiarOnce" creationdate="20181116T050528Z">
+        <seg>读取 %s%s%s 时出错: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error removing control from dock tree</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181115T052400Z" creationid="LiarOnce" creationdate="20181115T052400Z">
@@ -13899,6 +14003,14 @@ Would you like to delete it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Failed to create key %s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050538Z" creationid="LiarOnce" creationdate="20181116T050538Z">
+        <seg>无法创建密钥 %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Failed to create mutex</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T013104Z" creationid="LiarOnce" creationdate="20181111T013104Z">
@@ -13919,6 +14031,14 @@ Would you like to delete it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015255Z" creationid="LiarOnce" creationdate="20181111T015255Z">
         <seg>未能获取 ANSI 替换字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to get data for '%s'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050549Z" creationid="LiarOnce" creationdate="20181116T050549Z">
+        <seg>无法获取 '%s' 的数据</seg>
       </tuv>
     </tu>
     <tu>
@@ -13959,6 +14079,14 @@ Would you like to delete it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181115T051249Z" creationid="LiarOnce" creationdate="20181115T051249Z">
         <seg>无法检索索引 %d 处的选项卡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to set data for '%s'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050559Z" creationid="LiarOnce" creationdate="20181116T050559Z">
+        <seg>无法为 '%s' 设置数据</seg>
       </tuv>
     </tu>
     <tu>
@@ -17303,10 +17431,50 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid count (%d)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050919Z" creationid="LiarOnce" creationdate="20181116T050919Z">
+        <seg>计数无效 (%d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid data type for '%s'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050341Z" creationid="LiarOnce" creationdate="20181116T050341Z">
+        <seg>'%s' 的数据类型无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid destination array</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050859Z" creationid="LiarOnce" creationdate="20181116T050859Z">
+        <seg>目标数组无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid destination index (%d)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051503Z" creationid="LiarOnce" creationdate="20181116T051503Z">
+        <seg>无效的目标索引 (%d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid extension introducer</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025200Z" creationid="LiarOnce" creationdate="20181110T025200Z">
         <seg>无效的扩展程序导入器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid file name - %s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050828Z" creationid="LiarOnce" creationdate="20181116T050828Z">
+        <seg>无效的文件名 - %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -17439,6 +17607,30 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid property element: %s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050849Z" creationid="LiarOnce" creationdate="20181116T050849Z">
+        <seg>无效的属性元素： %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid property path</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050325Z" creationid="LiarOnce" creationdate="20181116T050325Z">
+        <seg>无效的属性路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid property value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050329Z" creationid="LiarOnce" creationdate="20181116T050329Z">
+        <seg>无效的属性值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid reduction method</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T032516Z" creationid="LiarOnce" creationdate="20181110T032516Z">
@@ -17451,6 +17643,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092134Z" creationid="LiarOnce" creationdate="20181110T092134Z">
         <seg>无效的 Socks 身份验证方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid source array</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050857Z" creationid="LiarOnce" creationdate="20181116T050857Z">
+        <seg>源数组无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid stream format</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050832Z" creationid="LiarOnce" creationdate="20181116T050832Z">
+        <seg>无效的流格式</seg>
       </tuv>
     </tu>
     <tu>
@@ -18731,6 +18939,38 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T030801Z" creationid="LiarOnce" creationdate="20181111T030801Z">
         <seg>Linux 用户名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List capacity out of bounds (%d)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050401Z" creationid="LiarOnce" creationdate="20181116T050401Z">
+        <seg>列出容量超出范围 (%d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List count out of bounds (%d)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050447Z" creationid="LiarOnce" creationdate="20181116T050447Z">
+        <seg>列表数超出范围 (%d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List does not allow duplicates ($0%x)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050755Z" creationid="LiarOnce" creationdate="20181116T050755Z">
+        <seg>列表不允许重复项 ($0%x)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List index out of bounds (%d)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050502Z" creationid="LiarOnce" creationdate="20181116T050502Z">
+        <seg>列表索引超出范围 (%d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22023,6 +22263,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Out of memory while expanding memory stream</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050506Z" creationid="LiarOnce" creationdate="20181116T050506Z">
+        <seg>扩展内存流时内存不足</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Out of system resources</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015951Z" creationid="LiarOnce" creationdate="20181111T015951Z">
@@ -23390,6 +23638,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Property is read-only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050532Z" creationid="LiarOnce" creationdate="20181116T050532Z">
+        <seg>财产是只读的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Property or Method "%s" is not supported by DOM Vendor "%s"</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T052310Z" creationid="LiarOnce" creationdate="20181113T052310Z">
@@ -24452,6 +24708,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181114T052929Z" creationid="LiarOnce" creationdate="20181114T052929Z">
         <seg>解析主机名 %s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resource %s not found</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050605Z" creationid="LiarOnce" creationdate="20181116T050605Z">
+        <seg>找不到资源 %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -28383,6 +28647,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Start index out of bounds (%d)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050911Z" creationid="LiarOnce" creationdate="20181116T050911Z">
+        <seg>开始索引越界 (%d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Startup</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T044639Z" creationid="LiarOnce" creationdate="20181029T044621Z">
@@ -28599,6 +28871,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stream read error</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050530Z" creationid="LiarOnce" creationdate="20181116T050530Z">
+        <seg>流读取错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stream read error in %s file.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T034708Z" creationid="LiarOnce" creationdate="20181110T034708Z">
@@ -28651,6 +28931,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181115T053010Z" creationid="LiarOnce" creationdate="20181115T053010Z">
         <seg>字符串索引超出范围 (%d).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>String list does not allow duplicates</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050815Z" creationid="LiarOnce" creationdate="20181116T050815Z">
+        <seg>字符串列表不允许重复项</seg>
       </tuv>
     </tu>
     <tu>
