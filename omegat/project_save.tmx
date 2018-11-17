@@ -6891,6 +6891,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assamese</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050426Z" creationid="LiarOnce" creationdate="20181117T050426Z">
+        <seg>Assamese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assertion failed</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051629Z" creationid="LiarOnce" creationdate="20181116T051629Z">
@@ -7479,6 +7487,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044954Z" creationid="LiarOnce" creationdate="20181008T044954Z">
         <seg>步开始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bengali</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050426Z" creationid="LiarOnce" creationdate="20181117T050426Z">
+        <seg>Bengali</seg>
       </tuv>
     </tu>
     <tu>
@@ -10025,6 +10041,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T051902Z" creationid="LiarOnce" creationdate="20181116T051902Z">
         <seg>代码: %d.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CodePage437</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050444Z" creationid="LiarOnce" creationdate="20181117T050444Z">
+        <seg>CodePage437</seg>
       </tuv>
     </tu>
     <tu>
@@ -12702,6 +12726,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Devanagari</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050427Z" creationid="LiarOnce" creationdate="20181117T050427Z">
+        <seg>Devanagari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Developer</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T075534Z" creationid="deciia" creationdate="20170103T075534Z">
@@ -14463,6 +14495,14 @@ Would you like to delete it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T013835Z" creationid="LiarOnce" creationdate="20181111T013835Z">
         <seg>导出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extended_UNIX_Code_Packed_Format_for_Japanese</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050434Z" creationid="LiarOnce" creationdate="20181117T050434Z">
+        <seg>Extended_UNIX_Code_Packed_Format_for_Japanese</seg>
       </tuv>
     </tu>
     <tu>
@@ -16675,6 +16715,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015612Z" creationid="LiarOnce" creationdate="20181111T015612Z">
         <seg>组索引不能小于以前的菜单项的组索引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gujarathi</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050428Z" creationid="LiarOnce" creationdate="20181117T050428Z">
+        <seg>Gujarathi</seg>
       </tuv>
     </tu>
     <tu>
@@ -19169,6 +19217,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Johab</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050440Z" creationid="LiarOnce" creationdate="20181117T050440Z">
+        <seg>Johab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Joystick 1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090031Z" creationid="LiarOnce" creationdate="20181028T090031Z">
@@ -19229,6 +19285,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090319Z" creationid="LiarOnce" creationdate="20181028T090319Z">
         <seg>K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kannada</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050428Z" creationid="LiarOnce" creationdate="20181117T050428Z">
+        <seg>Kannada</seg>
       </tuv>
     </tu>
     <tu>
@@ -19821,6 +19885,30 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090231Z" creationid="LiarOnce" creationdate="20181020T090231Z">
         <seg>上次更改:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Latin3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050441Z" creationid="LiarOnce" creationdate="20181117T050441Z">
+        <seg>Latin3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Latin5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050446Z" creationid="LiarOnce" creationdate="20181117T050446Z">
+        <seg>Latin5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Latin9</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050442Z" creationid="LiarOnce" creationdate="20181117T050442Z">
+        <seg>Latin9</seg>
       </tuv>
     </tu>
     <tu>
@@ -20989,6 +21077,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T045118Z" creationid="LiarOnce" creationdate="20181030T045118Z">
         <seg>Maker_StudioPreferences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Malayalam</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050429Z" creationid="LiarOnce" creationdate="20181117T050429Z">
+        <seg>Malayalam</seg>
       </tuv>
     </tu>
     <tu>
@@ -23763,6 +23859,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oriya</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050430Z" creationid="LiarOnce" creationdate="20181117T050430Z">
+        <seg>Oriya</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ot&amp;her</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142619Z" creationid="LiarOnce" creationdate="20181007T142619Z">
@@ -24217,6 +24321,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044830Z" creationid="LiarOnce" creationdate="20181030T044830Z">
         <seg>Panel1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Panjabi</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050431Z" creationid="LiarOnce" creationdate="20181117T050431Z">
+        <seg>Panjabi</seg>
       </tuv>
     </tu>
     <tu>
@@ -30475,6 +30587,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>States</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050443Z" creationid="LiarOnce" creationdate="20181117T050443Z">
+        <seg>States</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Status</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T075601Z" creationid="deciia" creationdate="20170103T075601Z">
@@ -31091,6 +31211,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tamil</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050432Z" creationid="LiarOnce" creationdate="20181117T050432Z">
+        <seg>Tamil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tar archive</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052442Z" creationid="LiarOnce" creationdate="20181030T052442Z">
@@ -31191,6 +31319,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170316T092910Z" creationid="deciia" creationdate="20170104T071324Z">
         <seg>团队标识符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Telugu</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050432Z" creationid="LiarOnce" creationdate="20181117T050432Z">
+        <seg>Telugu</seg>
       </tuv>
     </tu>
     <tu>
@@ -33700,6 +33836,14 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>United</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050443Z" creationid="LiarOnce" creationdate="20181117T050443Z">
+        <seg>United</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unknown</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T102216Z" creationid="deciia" creationdate="20170105T102216Z">
@@ -35713,6 +35857,14 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>X-EBCDIC-Spain</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050422Z" creationid="LiarOnce" creationdate="20181117T050422Z">
+        <seg>X-EBCDIC-Spain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>X-Large Image Banner 6:1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045046Z" creationid="LiarOnce" creationdate="20181029T045046Z">
@@ -36212,6 +36364,14 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>_iso-2022-jp$SIO</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050436Z" creationid="LiarOnce" creationdate="20181117T050436Z">
+        <seg>_iso-2022-jp$SIO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>asd=123</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T085424Z" creationid="LiarOnce" creationdate="20181028T085424Z">
@@ -36324,6 +36484,22 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>csISO2022JP</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050436Z" creationid="LiarOnce" creationdate="20181117T050436Z">
+        <seg>csISO2022JP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO2022KR</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050440Z" creationid="LiarOnce" creationdate="20181117T050440Z">
+        <seg>csISO2022KR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>csISO58GB231280</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050403Z" creationid="LiarOnce" creationdate="20181117T050403Z">
@@ -36360,6 +36536,38 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050405Z" creationid="LiarOnce" creationdate="20181117T050405Z">
         <seg>csKOI8R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csKSC56011987</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050439Z" creationid="LiarOnce" creationdate="20181117T050439Z">
+        <seg>csKSC56011987</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csPC8</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050444Z" creationid="LiarOnce" creationdate="20181117T050444Z">
+        <seg>csPC8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csUnicode11UTF7</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050447Z" creationid="LiarOnce" creationdate="20181117T050447Z">
+        <seg>csUnicode11UTF7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csWindows31J</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050437Z" creationid="LiarOnce" creationdate="20181117T050437Z">
+        <seg>csWindows31J</seg>
       </tuv>
     </tu>
     <tu>
@@ -37413,6 +37621,14 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ms_Kanji</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050439Z" creationid="LiarOnce" creationdate="20181117T050439Z">
+        <seg>ms_Kanji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>need dictionary</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091112Z" creationid="LiarOnce" creationdate="20181110T091112Z">
@@ -37816,6 +38032,70 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>x-EBCDIC-JapaneseKatakana</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050420Z" creationid="LiarOnce" creationdate="20181117T050420Z">
+        <seg>x-EBCDIC-JapaneseKatakana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>x-EBCDIC-KoreanAndKoreanExtended</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050421Z" creationid="LiarOnce" creationdate="20181117T050421Z">
+        <seg>x-EBCDIC-KoreanAndKoreanExtended</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>x-EBCDIC-KoreanExtended</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050421Z" creationid="LiarOnce" creationdate="20181117T050421Z">
+        <seg>x-EBCDIC-KoreanExtended</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>x-EBCDIC-SimplifiedChinese</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050422Z" creationid="LiarOnce" creationdate="20181117T050422Z">
+        <seg>x-EBCDIC-SimplifiedChinese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>x-EBCDIC-Thai</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050423Z" creationid="LiarOnce" creationdate="20181117T050423Z">
+        <seg>x-EBCDIC-Thai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>x-EBCDIC-TraditionalChinese</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050424Z" creationid="LiarOnce" creationdate="20181117T050424Z">
+        <seg>x-EBCDIC-TraditionalChinese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>x-EBCDIC-Turkish</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050424Z" creationid="LiarOnce" creationdate="20181117T050424Z">
+        <seg>x-EBCDIC-Turkish</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>x-EBCDIC-UK</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050425Z" creationid="LiarOnce" creationdate="20181117T050425Z">
+        <seg>x-EBCDIC-UK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>x-Europa</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050405Z" creationid="LiarOnce" creationdate="20181117T050405Z">
@@ -37828,6 +38108,22 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050406Z" creationid="LiarOnce" creationdate="20181117T050406Z">
         <seg>x-IA5-German</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>x-IA5-Norwegian</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050442Z" creationid="LiarOnce" creationdate="20181117T050442Z">
+        <seg>x-IA5-Norwegian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>x-IA5-Swedish</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050445Z" creationid="LiarOnce" creationdate="20181117T050445Z">
+        <seg>x-IA5-Swedish</seg>
       </tuv>
     </tu>
     <tu>
