@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#define</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052345Z" creationid="LiarOnce" creationdate="20181120T052345Z">
+        <seg>#define</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>$00212121</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050114Z" creationid="LiarOnce" creationdate="20181029T050114Z">
@@ -2737,6 +2745,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Good)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052328Z" creationid="LiarOnce" creationdate="20181120T052328Z">
+        <seg>(Good)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(IHDR chunk is not the first)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015355Z" creationid="LiarOnce" creationdate="20181111T015355Z">
@@ -2789,6 +2805,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T123613Z" creationid="LiarOnce" creationdate="20181013T123613Z">
         <seg>(您还可以单击原始图像以更改此)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>***** SetMdiMax Flase</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051913Z" creationid="LiarOnce" creationdate="20181120T051913Z">
+        <seg>***** SetMdiMax Flase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>***** SetMdiMax True</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051911Z" creationid="LiarOnce" creationdate="20181120T051911Z">
+        <seg>***** SetMdiMax True</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*****Skin Active finish</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051939Z" creationid="LiarOnce" creationdate="20181120T051939Z">
+        <seg>*****Skin Active finish</seg>
       </tuv>
     </tu>
     <tu>
@@ -3180,6 +3220,30 @@ Right mouse button = menu</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>, BufSize =</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052720Z" creationid="LiarOnce" creationdate="20181120T052720Z">
+        <seg>, BufSize =</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>, about to go</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052701Z" creationid="LiarOnce" creationdate="20181120T052701Z">
+        <seg>, about to go</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>, finished at</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052719Z" creationid="LiarOnce" creationdate="20181120T052719Z">
+        <seg>, finished at</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090027Z" creationid="LiarOnce" creationdate="20181028T090027Z">
@@ -3200,6 +3264,22 @@ Right mouse button = menu</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181115T052407Z" creationid="LiarOnce" creationdate="20181115T052407Z">
         <seg>- 找不到停靠区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>--%s\r\nContent-Disposition: form-data; name="%s"; filename="%s"\r\nContent-Type: %s\r\n\r\n</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052649Z" creationid="LiarOnce" creationdate="20181120T052649Z">
+        <seg>--%s\r\nContent-Disposition: form-data; name="%s"; filename="%s"\r\nContent-Type: %s\r\n\r\n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>--%s\r\nContent-Disposition: form-data; name="%s"\r\n\r\n%s\r\n</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052650Z" creationid="LiarOnce" creationdate="20181120T052650Z">
+        <seg>--%s\r\nContent-Disposition: form-data; name="%s"\r\n\r\n%s\r\n</seg>
       </tuv>
     </tu>
     <tu>
@@ -3248,6 +3328,14 @@ Right mouse button = menu</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022114Z" creationid="LiarOnce" creationdate="20181111T022114Z">
         <seg>.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.mjf=audio/x-vnd.AudioExplosion.MjuiceMediaFile</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052634Z" creationid="LiarOnce" creationdate="20181120T052634Z">
+        <seg>.mjf=audio/x-vnd.AudioExplosion.MjuiceMediaFile</seg>
       </tuv>
     </tu>
     <tu>
@@ -5474,6 +5562,14 @@ Right mouse button = menu</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052720Z" creationid="LiarOnce" creationdate="20181120T052720Z">
+        <seg>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACCESS_NETWORK_STATE</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045535Z" creationid="LiarOnce" creationdate="20181029T045535Z">
@@ -5518,6 +5614,22 @@ Right mouse button = menu</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051644Z" creationid="LiarOnce" creationdate="20181030T051644Z">
         <seg>ANSI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AOÛ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052631Z" creationid="LiarOnce" creationdate="20181120T052631Z">
+        <seg>AOÛ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AOÛT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052633Z" creationid="LiarOnce" creationdate="20181120T052633Z">
+        <seg>AOÛT</seg>
       </tuv>
     </tu>
     <tu>
@@ -6170,6 +6282,22 @@ Right mouse button = menu</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adobe-Standard-Encoding</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052611Z" creationid="LiarOnce" creationdate="20181120T052611Z">
+        <seg>Adobe-Standard-Encoding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adobe-Symbol-Encoding</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052620Z" creationid="LiarOnce" creationdate="20181120T052620Z">
+        <seg>Adobe-Symbol-Encoding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adult</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094708Z" creationid="LiarOnce" creationdate="20181110T094708Z">
@@ -6354,6 +6482,14 @@ Right mouse button = menu</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Align</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052207Z" creationid="LiarOnce" creationdate="20181120T052207Z">
+        <seg>对齐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Align &amp;Center</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050105Z" creationid="LiarOnce" creationdate="20181009T050105Z">
@@ -6390,6 +6526,14 @@ Right mouse button = menu</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050357Z" creationid="LiarOnce" creationdate="20181009T045915Z">
         <seg>右对齐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alignment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052018Z" creationid="LiarOnce" creationdate="20181120T052018Z">
+        <seg>对齐</seg>
       </tuv>
     </tu>
     <tu>
@@ -7803,6 +7947,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BS_viewdata</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052416Z" creationid="LiarOnce" creationdate="20181120T052416Z">
+        <seg>BS_viewdata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BZip2 archive</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T051716Z" creationid="LiarOnce" creationdate="20181030T051716Z">
@@ -8055,6 +8207,22 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T030452Z" creationid="LiarOnce" creationdate="20181021T030452Z">
         <seg>大资源树图标 (需要重新启动)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Big5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052625Z" creationid="LiarOnce" creationdate="20181120T052625Z">
+        <seg>Big5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Big5-HKSCS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052552Z" creationid="LiarOnce" creationdate="20181120T052552Z">
+        <seg>Big5-HKSCS</seg>
       </tuv>
     </tu>
     <tu>
@@ -8327,6 +8495,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051049Z" creationid="LiarOnce" creationdate="20181120T051049Z">
         <seg>Bopomofo Extended</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Border</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052317Z" creationid="LiarOnce" creationdate="20181120T052317Z">
+        <seg>边界</seg>
       </tuv>
     </tu>
     <tu>
@@ -8731,6 +8907,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Buttonlight</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052254Z" creationid="LiarOnce" creationdate="20181120T052254Z">
+        <seg>Buttonlight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Buttons</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170316T092335Z" creationid="deciia" creationdate="20170102T073512Z">
@@ -8863,6 +9047,62 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T013144Z" creationid="LiarOnce" creationdate="20181111T013144Z">
         <seg>C++ Builder 4 or later</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C:\\Builds\\TP\\indysockets\\lib\\Core\\IdIOHandler.pas</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052357Z" creationid="LiarOnce" creationdate="20181120T052357Z">
+        <seg>C:\\Builds\\TP\\indysockets\\lib\\Core\\IdIOHandler.pas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C:\\Builds\\TP\\indysockets\\lib\\Core\\IdIOHandlerStack.pas</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052359Z" creationid="LiarOnce" creationdate="20181120T052359Z">
+        <seg>C:\\Builds\\TP\\indysockets\\lib\\Core\\IdIOHandlerStack.pas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C:\\Builds\\TP\\indysockets\\lib\\Core\\IdScheduler.pas</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052729Z" creationid="LiarOnce" creationdate="20181120T052729Z">
+        <seg>C:\\Builds\\TP\\indysockets\\lib\\Core\\IdScheduler.pas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C:\\Builds\\TP\\indysockets\\lib\\Core\\IdThread.pas</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052725Z" creationid="LiarOnce" creationdate="20181120T052725Z">
+        <seg>C:\\Builds\\TP\\indysockets\\lib\\Core\\IdThread.pas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C:\\Builds\\TP\\indysockets\\lib\\Protocols\\IdCoder3to4.pas</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052706Z" creationid="LiarOnce" creationdate="20181120T052706Z">
+        <seg>C:\\Builds\\TP\\indysockets\\lib\\Protocols\\IdCoder3to4.pas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C:\\Builds\\TP\\indysockets\\lib\\Protocols\\IdGlobalProtocols.pas</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052647Z" creationid="LiarOnce" creationdate="20181120T052647Z">
+        <seg>C:\\Builds\\TP\\indysockets\\lib\\Protocols\\IdGlobalProtocols.pas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C:\\Builds\\TP\\indysockets\\lib\\Protocols\\IdZLibCompressorBase.pas</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052724Z" creationid="LiarOnce" creationdate="20181120T052724Z">
+        <seg>C:\\Builds\\TP\\indysockets\\lib\\Protocols\\IdZLibCompressorBase.pas</seg>
       </tuv>
     </tu>
     <tu>
@@ -9019,6 +9259,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CN_SkinActive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051957Z" creationid="LiarOnce" creationdate="20181120T051957Z">
+        <seg>CN_SkinActive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CODEVIEW</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T013215Z" creationid="LiarOnce" creationdate="20181111T013215Z">
@@ -9079,6 +9327,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181112T213429Z" creationid="LiarOnce" creationdate="20181110T044145Z">
         <seg>在 %s 文件中发现 CRC 错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CSA_Z243.4-1985-gr</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052450Z" creationid="LiarOnce" creationdate="20181120T052450Z">
+        <seg>CSA_Z243.4-1985-gr</seg>
       </tuv>
     </tu>
     <tu>
@@ -9463,6 +9719,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015952Z" creationid="LiarOnce" creationdate="20181111T015952Z">
         <seg>画布不允许绘制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Capacity cannot be smaller than Size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052351Z" creationid="LiarOnce" creationdate="20181120T052351Z">
+        <seg>容量不能小于 Size</seg>
       </tuv>
     </tu>
     <tu>
@@ -10087,6 +10351,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181116T050730Z" creationid="LiarOnce" creationdate="20181116T050730Z">
         <seg>从线程  $%x 调用的CheckSynchronize，它不是主线程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checked</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052030Z" creationid="LiarOnce" creationdate="20181120T052030Z">
+        <seg>检测</seg>
       </tuv>
     </tu>
     <tu>
@@ -11469,6 +11741,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Content Type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052635Z" creationid="LiarOnce" creationdate="20181120T052635Z">
+        <seg>Content Type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Continue?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T111846Z" creationid="deciia" creationdate="20170103T111846Z">
@@ -12781,6 +13061,14 @@ windows you are using.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Customcolors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052309Z" creationid="LiarOnce" creationdate="20181120T052309Z">
+        <seg>Customcolors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cut</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T091819Z" creationid="deciia" creationdate="20170102T091819Z">
@@ -13113,6 +13401,14 @@ windows you are using.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T013158Z" creationid="LiarOnce" creationdate="20181111T013158Z">
         <seg>DeCommitTotalFreeThreshold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deavtive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051944Z" creationid="LiarOnce" creationdate="20181120T051944Z">
+        <seg>Deavtive</seg>
       </tuv>
     </tu>
     <tu>
@@ -13714,6 +14010,22 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050724Z" creationid="LiarOnce" creationdate="20181117T050724Z">
         <seg>Dingbats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DirectSound - finalize end</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052329Z" creationid="LiarOnce" creationdate="20181120T052329Z">
+        <seg>DirectSound - finalize end</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DirectSound - finalize start</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052329Z" creationid="LiarOnce" creationdate="20181120T052329Z">
+        <seg>DirectSound - finalize start</seg>
       </tuv>
     </tu>
     <tu>
@@ -14334,6 +14646,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DÉC</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052632Z" creationid="LiarOnce" creationdate="20181120T052632Z">
+        <seg>DÉC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>E</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090307Z" creationid="LiarOnce" creationdate="20181028T090307Z">
@@ -14354,6 +14674,30 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035337Z" creationid="LiarOnce" creationdate="20181111T035337Z">
         <seg>&amp;退出	Alt+F4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EBCDIC-Cyrillic</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052545Z" creationid="LiarOnce" creationdate="20181120T052545Z">
+        <seg>EBCDIC-Cyrillic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EBCDIC-JP-kana</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052528Z" creationid="LiarOnce" creationdate="20181120T052528Z">
+        <seg>EBCDIC-JP-kana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ECMA-cyrillic</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052447Z" creationid="LiarOnce" creationdate="20181120T052447Z">
+        <seg>ECMA-cyrillic</seg>
       </tuv>
     </tu>
     <tu>
@@ -14866,6 +15210,14 @@ example .gm81 file that exhibits the problematic behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T135845Z" creationid="LiarOnce" creationdate="20181020T135845Z">
         <seg>从后触摸板启用触摸事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enabled</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052022Z" creationid="LiarOnce" creationdate="20181120T052022Z">
+        <seg>启用</seg>
       </tuv>
     </tu>
     <tu>
@@ -15435,10 +15787,26 @@ Would you like to delete it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extended_UNIX_Code_Fixed_Width_for_Japanese</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052557Z" creationid="LiarOnce" creationdate="20181120T052557Z">
+        <seg>Extended_UNIX_Code_Fixed_Width_for_Japanese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extended_UNIX_Code_Packed_Format_for_Japanese</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050434Z" creationid="LiarOnce" creationdate="20181117T050434Z">
         <seg>Extended_UNIX_Code_Packed_Format_for_Japanese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extension</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052646Z" creationid="LiarOnce" creationdate="20181120T052646Z">
+        <seg>扩展</seg>
       </tuv>
     </tu>
     <tu>
@@ -16507,6 +16875,14 @@ Would you like to delete it?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flat</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051932Z" creationid="LiarOnce" creationdate="20181120T051932Z">
+        <seg>平面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flip</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T092345Z" creationid="deciia" creationdate="20170102T092345Z">
@@ -17007,6 +17383,22 @@ Would you like to delete it?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050124Z" creationid="LiarOnce" creationdate="20181117T050124Z">
         <seg>Fwpuclnt.dll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FÉV</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052631Z" creationid="LiarOnce" creationdate="20181120T052631Z">
+        <seg>FÉV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FÉVR</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052633Z" creationid="LiarOnce" creationdate="20181120T052633Z">
+        <seg>FÉVR</seg>
       </tuv>
     </tu>
     <tu>
@@ -17567,6 +17959,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Glyph</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052009Z" creationid="LiarOnce" creationdate="20181120T052009Z">
+        <seg>字形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go Home</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043848Z" creationid="LiarOnce" creationdate="20181014T043848Z">
@@ -17783,6 +18183,38 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HP-DeskTop</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052620Z" creationid="LiarOnce" creationdate="20181120T052620Z">
+        <seg>HP-DeskTop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HP-Legal</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052617Z" creationid="LiarOnce" creationdate="20181120T052617Z">
+        <seg>HP-Legal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HP-Math8</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052619Z" creationid="LiarOnce" creationdate="20181120T052619Z">
+        <seg>HP-Math8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HP-Pi-font</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052618Z" creationid="LiarOnce" creationdate="20181120T052618Z">
+        <seg>HP-Pi-font</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HTML5</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091625Z" creationid="LiarOnce" creationdate="20181028T091625Z">
@@ -17951,6 +18383,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Headerbar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052321Z" creationid="LiarOnce" creationdate="20181120T052321Z">
+        <seg>Headerbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Healthcare &amp; Fitness : public.app-category.healthcare-fitness</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091554Z" creationid="LiarOnce" creationdate="20181028T091554Z">
@@ -18108,6 +18548,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T035857Z" creationid="LiarOnce" creationdate="20181111T035857Z">
         <seg>使用创建代码突出显示物体	C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hilight</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052247Z" creationid="LiarOnce" creationdate="20181120T052244Z">
+        <seg>高亮</seg>
       </tuv>
     </tu>
     <tu>
@@ -18416,6 +18864,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IBM-Symbols</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052616Z" creationid="LiarOnce" creationdate="20181120T052616Z">
+        <seg>IBM-Symbols</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IBM-Thai</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052617Z" creationid="LiarOnce" creationdate="20181120T052617Z">
+        <seg>IBM-Thai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IDOMNode required</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T052633Z" creationid="LiarOnce" creationdate="20181113T052633Z">
@@ -18436,6 +18900,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T024720Z" creationid="LiarOnce" creationdate="20181111T024720Z">
         <seg>重要信息：备份密钥库文件和上面的信息！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>INIS-cyrillic</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052419Z" creationid="LiarOnce" creationdate="20181120T052419Z">
+        <seg>INIS-cyrillic</seg>
       </tuv>
     </tu>
     <tu>
@@ -18480,10 +18952,146 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ISO-10646-UCS-Basic</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052558Z" creationid="LiarOnce" creationdate="20181120T052558Z">
+        <seg>ISO-10646-UCS-Basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISO-10646-Unicode-Latin1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052558Z" creationid="LiarOnce" creationdate="20181120T052558Z">
+        <seg>ISO-10646-Unicode-Latin1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISO-8859-1-Windows-3.0-Latin-1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052606Z" creationid="LiarOnce" creationdate="20181120T052606Z">
+        <seg>ISO-8859-1-Windows-3.0-Latin-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISO-8859-1-Windows-3.1-Latin-1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052607Z" creationid="LiarOnce" creationdate="20181120T052607Z">
+        <seg>ISO-8859-1-Windows-3.1-Latin-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISO-8859-2-Windows-Latin-2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052609Z" creationid="LiarOnce" creationdate="20181120T052609Z">
+        <seg>ISO-8859-2-Windows-Latin-2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISO-8859-9-Windows-Latin-5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052610Z" creationid="LiarOnce" creationdate="20181120T052610Z">
+        <seg>ISO-8859-9-Windows-Latin-5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISO-Unicode-IBM-1261</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052559Z" creationid="LiarOnce" creationdate="20181120T052559Z">
+        <seg>ISO-Unicode-IBM-1261</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISO-Unicode-IBM-1264</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052603Z" creationid="LiarOnce" creationdate="20181120T052603Z">
+        <seg>ISO-Unicode-IBM-1264</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISO-Unicode-IBM-1265</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052605Z" creationid="LiarOnce" creationdate="20181120T052605Z">
+        <seg>ISO-Unicode-IBM-1265</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISO-Unicode-IBM-1268</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052601Z" creationid="LiarOnce" creationdate="20181120T052601Z">
+        <seg>ISO-Unicode-IBM-1268</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISO-Unicode-IBM-1276</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052602Z" creationid="LiarOnce" creationdate="20181120T052602Z">
+        <seg>ISO-Unicode-IBM-1276</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISO5427Cyrillic1981</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052421Z" creationid="LiarOnce" creationdate="20181120T052421Z">
+        <seg>ISO5427Cyrillic1981</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISO_10367-box</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052516Z" creationid="LiarOnce" creationdate="20181120T052516Z">
+        <seg>ISO_10367-box</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISO_646.basic:1983</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052401Z" creationid="LiarOnce" creationdate="20181120T052401Z">
+        <seg>ISO_646.basic:1983</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISO_646.irv:1983</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052402Z" creationid="LiarOnce" creationdate="20181120T052402Z">
+        <seg>ISO_646.irv:1983</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ISO_646.irv:1991</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051037Z" creationid="LiarOnce" creationdate="20181120T051037Z">
         <seg>ISO_646.irv:1991</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISO_6937-2-add</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052505Z" creationid="LiarOnce" creationdate="20181120T052505Z">
+        <seg>ISO_6937-2-add</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISO_8859-supp</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052515Z" creationid="LiarOnce" creationdate="20181120T052515Z">
+        <seg>ISO_8859-supp</seg>
       </tuv>
     </tu>
     <tu>
@@ -19040,6 +19648,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170101T040812Z" creationid="deciia" creationdate="20170101T040812Z">
         <seg>索引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Index out of bounds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052356Z" creationid="LiarOnce" creationdate="20181120T052356Z">
+        <seg>索引超出范围。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20257,6 +20873,78 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>JIS_C6220-1969-jp</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052406Z" creationid="LiarOnce" creationdate="20181120T052406Z">
+        <seg>JIS_C6220-1969-jp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JIS_C6220-1969-ro</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052407Z" creationid="LiarOnce" creationdate="20181120T052407Z">
+        <seg>JIS_C6220-1969-ro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JIS_C6229-1984-a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052432Z" creationid="LiarOnce" creationdate="20181120T052432Z">
+        <seg>JIS_C6229-1984-a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JIS_C6229-1984-b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052433Z" creationid="LiarOnce" creationdate="20181120T052433Z">
+        <seg>JIS_C6229-1984-b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JIS_C6229-1984-b-add</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052435Z" creationid="LiarOnce" creationdate="20181120T052435Z">
+        <seg>JIS_C6229-1984-b-add</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JIS_C6229-1984-hand</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052436Z" creationid="LiarOnce" creationdate="20181120T052436Z">
+        <seg>JIS_C6229-1984-hand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JIS_C6229-1984-hand-add</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052437Z" creationid="LiarOnce" creationdate="20181120T052437Z">
+        <seg>JIS_C6229-1984-hand-add</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JIS_C6229-1984-kana</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052439Z" creationid="LiarOnce" creationdate="20181120T052439Z">
+        <seg>JIS_C6229-1984-kana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JIS_Encoding</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052554Z" creationid="LiarOnce" creationdate="20181120T052554Z">
+        <seg>JIS_Encoding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>JPE images</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181112T215227Z" creationid="LiarOnce" creationdate="20181030T052147Z">
@@ -20301,6 +20989,22 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181112T215215Z" creationid="LiarOnce" creationdate="20181030T052153Z">
         <seg>JPG 图片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JUS_I.B1.003-mac</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052510Z" creationid="LiarOnce" creationdate="20181120T052510Z">
+        <seg>JUS_I.B1.003-mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JUS_I.B1.003-serb</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052509Z" creationid="LiarOnce" creationdate="20181120T052509Z">
+        <seg>JUS_I.B1.003-serb</seg>
       </tuv>
     </tu>
     <tu>
@@ -20841,6 +21545,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kind</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051935Z" creationid="LiarOnce" creationdate="20181120T051935Z">
+        <seg>类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kind:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T140317Z" creationid="LiarOnce" creationdate="20181007T140317Z">
@@ -21133,6 +21845,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050543Z" creationid="LiarOnce" creationdate="20181117T050543Z">
         <seg>Latin-1 Supplement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Latin-greek-1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052413Z" creationid="LiarOnce" creationdate="20181120T052413Z">
+        <seg>Latin-greek-1</seg>
       </tuv>
     </tu>
     <tu>
@@ -22217,6 +22937,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MS_Kanji</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052556Z" creationid="LiarOnce" creationdate="20181120T052556Z">
+        <seg>MS_Kanji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mac</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045406Z" creationid="LiarOnce" creationdate="20181029T045406Z">
@@ -22579,6 +23307,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maximize</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051928Z" creationid="LiarOnce" creationdate="20181120T051928Z">
+        <seg>最大化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maximum number of line allowed exceeded</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091934Z" creationid="LiarOnce" creationdate="20181110T091934Z">
@@ -22659,10 +23395,26 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Menu</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052251Z" creationid="LiarOnce" creationdate="20181120T052251Z">
+        <seg>菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Menu '%s' is already being used by another form</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181115T052337Z" creationid="LiarOnce" creationdate="20181115T052337Z">
         <seg>菜单 '%s' 已被其他表单使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Menu hook:%4x %s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051925Z" creationid="LiarOnce" creationdate="20181120T051925Z">
+        <seg>菜单钩子:%4x %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -22679,6 +23431,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015909Z" creationid="LiarOnce" creationdate="20181111T015909Z">
         <seg>插入两次的菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Menubar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052249Z" creationid="LiarOnce" creationdate="20181120T052249Z">
+        <seg>菜单栏</seg>
       </tuv>
     </tu>
     <tu>
@@ -22759,6 +23519,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181113T052336Z" creationid="LiarOnce" creationdate="20181113T052336Z">
         <seg>Microsoft MSXML 未安装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microsoft-Publishing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052622Z" creationid="LiarOnce" creationdate="20181120T052622Z">
+        <seg>Microsoft-Publishing</seg>
       </tuv>
     </tu>
     <tu>
@@ -23195,6 +23963,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MouseOverColour2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052228Z" creationid="LiarOnce" creationdate="20181120T052228Z">
+        <seg>MouseOverColour2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move &amp;Left	Ctrl+L</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T040341Z" creationid="LiarOnce" creationdate="20181111T040336Z">
@@ -23535,6 +24311,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091600Z" creationid="LiarOnce" creationdate="20181028T091600Z">
         <seg>Music Games : public.app-category.music-games</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Music file name too long for player.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052341Z" creationid="LiarOnce" creationdate="20181120T052341Z">
+        <seg>播放器的音乐文件名太长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24179,6 +24963,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No bytes in buffer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052354Z" creationid="LiarOnce" creationdate="20181120T052354Z">
+        <seg>缓冲区中没有字节。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No context-sensitive help installed</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181115T052627Z" creationid="LiarOnce" creationdate="20181115T052627Z">
@@ -24275,6 +25067,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No sound device detected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052335Z" creationid="LiarOnce" creationdate="20181120T052335Z">
+        <seg>未检测到声音设备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No topic-based help system installed</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181115T052654Z" creationid="LiarOnce" creationdate="20181115T052654Z">
@@ -24359,6 +25159,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T055305Z" creationid="deciia" creationdate="20170105T055305Z">
         <seg>通常文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NormalColour2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052230Z" creationid="LiarOnce" creationdate="20181120T052230Z">
+        <seg>NormalColour2</seg>
       </tuv>
     </tu>
     <tu>
@@ -25579,6 +26387,30 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PC-Multilingual-850+euro</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052551Z" creationid="LiarOnce" creationdate="20181120T052551Z">
+        <seg>PC-Multilingual-850+euro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PC8-Danish-Norwegian</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052613Z" creationid="LiarOnce" creationdate="20181120T052613Z">
+        <seg>PC8-Danish-Norwegian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PC8-Turkish</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052615Z" creationid="LiarOnce" creationdate="20181120T052615Z">
+        <seg>PC8-Turkish</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PCRE</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091251Z" creationid="LiarOnce" creationdate="20181028T091251Z">
@@ -26021,6 +26853,14 @@ Genre，类型，种类; 体裁，样式; 风俗画。它是指艺术创作中�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Personality</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052157Z" creationid="LiarOnce" creationdate="20181120T052157Z">
+        <seg>个性化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PgDn</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052318Z" creationid="LiarOnce" creationdate="20181030T052318Z">
@@ -26418,6 +27258,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pos:%1d</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051955Z" creationid="LiarOnce" creationdate="20181120T051955Z">
+        <seg>Pos:%1d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Position</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T100806Z" creationid="deciia" creationdate="20170102T100806Z">
@@ -26518,6 +27366,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T024627Z" creationid="LiarOnce" creationdate="20181110T024627Z">
         <seg>按 F1 以获得更多帮助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PressedColour2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052230Z" creationid="LiarOnce" creationdate="20181120T052230Z">
+        <seg>PressedColour2</seg>
       </tuv>
     </tu>
     <tu>
@@ -26798,6 +27654,22 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T093935Z" creationid="LiarOnce" creationdate="20181110T093935Z">
         <seg>程序|*.exe|所有文件|*.*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Progress</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052313Z" creationid="LiarOnce" creationdate="20181120T052313Z">
+        <seg>Progress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Progress.Chunk</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052314Z" creationid="LiarOnce" creationdate="20181120T052314Z">
+        <seg>Progress.Chunk</seg>
       </tuv>
     </tu>
     <tu>
@@ -28788,6 +29660,62 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SB_ENDSCROLL</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051954Z" creationid="LiarOnce" creationdate="20181120T051954Z">
+        <seg>SB_ENDSCROLL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SB_LINEDown</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051951Z" creationid="LiarOnce" creationdate="20181120T051951Z">
+        <seg>SB_LINEDown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SB_LINEUp</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051950Z" creationid="LiarOnce" creationdate="20181120T051950Z">
+        <seg>SB_LINEUp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SB_PAGEDown</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051953Z" creationid="LiarOnce" creationdate="20181120T051953Z">
+        <seg>SB_PAGEDown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SB_PAGEUp</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051952Z" creationid="LiarOnce" creationdate="20181120T051952Z">
+        <seg>SB_PAGEUp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SB_THUMBPOSITION</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051952Z" creationid="LiarOnce" creationdate="20181120T051952Z">
+        <seg>SB_THUMBPOSITION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SB_THUMBTRACK</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051952Z" creationid="LiarOnce" creationdate="20181120T051952Z">
+        <seg>SB_THUMBTRACK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SCIPasswordEdit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T044755Z" creationid="LiarOnce" creationdate="20181029T044755Z">
@@ -29456,6 +30384,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051440Z" creationid="LiarOnce" creationdate="20181008T051440Z">
         <seg>脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scrollbar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052243Z" creationid="LiarOnce" creationdate="20181120T052243Z">
+        <seg>滚动条</seg>
       </tuv>
     </tu>
     <tu>
@@ -30541,6 +31477,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091123Z" creationid="LiarOnce" creationdate="20181028T091123Z">
         <seg>Shift+Ins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shift_JIS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052555Z" creationid="LiarOnce" creationdate="20181120T052555Z">
+        <seg>Shift_JIS</seg>
       </tuv>
     </tu>
     <tu>
@@ -31731,10 +32675,26 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sound_DirectX - CoUnitialize</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052342Z" creationid="LiarOnce" creationdate="20181120T052342Z">
+        <seg>Sound_DirectX - CoUnitialize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sounds</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051425Z" creationid="LiarOnce" creationdate="20181008T051425Z">
         <seg>声音</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sounds might not play.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052337Z" creationid="LiarOnce" creationdate="20181120T052337Z">
+        <seg>声音可能无法播放。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31799,6 +32759,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T094642Z" creationid="36011" creationdate="20170114T033039Z">
         <seg>Space</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spacing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052011Z" creationid="LiarOnce" creationdate="20181120T052011Z">
+        <seg>间距</seg>
       </tuv>
     </tu>
     <tu>
@@ -32747,6 +33715,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SysMonthCal32</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052310Z" creationid="LiarOnce" creationdate="20181120T052310Z">
+        <seg>SysMonthCal32</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>System</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170219T005714Z" creationid="deciia" creationdate="20170219T005714Z">
@@ -32787,6 +33763,94 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>T.61-7bit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052443Z" creationid="LiarOnce" creationdate="20181120T052443Z">
+        <seg>T.61-7bit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T.61-8bit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052445Z" creationid="LiarOnce" creationdate="20181120T052445Z">
+        <seg>T.61-8bit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TAdvMemo=scrollbar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052043Z" creationid="LiarOnce" creationdate="20181120T052043Z">
+        <seg>TAdvMemo=scrollbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TAdvPanelGroup=scrollbar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052038Z" creationid="LiarOnce" creationdate="20181120T052038Z">
+        <seg>TAdvPanelGroup=scrollbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TCategoryButtons=scrollbar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052035Z" creationid="LiarOnce" creationdate="20181120T052035Z">
+        <seg>TCategoryButtons=scrollbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TComboboxex=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052038Z" creationid="LiarOnce" creationdate="20181120T052038Z">
+        <seg>TComboboxex=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TControlBar=Panel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052041Z" creationid="LiarOnce" creationdate="20181120T052041Z">
+        <seg>TControlBar=Panel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TDBAdvMemo=scrollbar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052044Z" creationid="LiarOnce" creationdate="20181120T052044Z">
+        <seg>TDBAdvMemo=scrollbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TDBCheckboxEh=Checkbox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052102Z" creationid="LiarOnce" creationdate="20181120T052102Z">
+        <seg>TDBCheckboxEh=Checkbox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TDBCtrlGrid=scrollbar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052040Z" creationid="LiarOnce" creationdate="20181120T052040Z">
+        <seg>TDBCtrlGrid=scrollbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TDBLookupCombobox=Combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052130Z" creationid="LiarOnce" creationdate="20181120T052130Z">
+        <seg>TDBLookupCombobox=Combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TGpIntegerListWalkEnumerator.HandleListChange: Unexpected list operation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051415Z" creationid="LiarOnce" creationdate="20181120T051415Z">
@@ -32811,6 +33875,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>THTMLViewer=scrollbar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052039Z" creationid="LiarOnce" creationdate="20181120T052039Z">
+        <seg>THTMLViewer=scrollbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TIFF Images</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052430Z" creationid="LiarOnce" creationdate="20181030T052430Z">
@@ -32819,10 +33891,490 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TIdEncoder3to4.Encode: Calculated length exceeded (expected</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052659Z" creationid="LiarOnce" creationdate="20181120T052659Z">
+        <seg>TIdEncoder3to4.Encode: Calculated length exceeded (expected</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TIdEncoder3to4.Encode: Calculated length not met (expected</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052718Z" creationid="LiarOnce" creationdate="20181120T052718Z">
+        <seg>TIdEncoder3to4.Encode: 未达到计算的长度（预期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TImageEnMView=scrollbar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052042Z" creationid="LiarOnce" creationdate="20181120T052042Z">
+        <seg>TImageEnMView=scrollbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TImageEnView=scrollbar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052043Z" creationid="LiarOnce" creationdate="20181120T052043Z">
+        <seg>TImageEnView=scrollbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDBROWSEEDIT=Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052124Z" creationid="LiarOnce" creationdate="20181120T052124Z">
+        <seg>TLMDBROWSEEDIT=Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDButton=bitbtn</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052100Z" creationid="LiarOnce" creationdate="20181120T052100Z">
+        <seg>TLMDButton=bitbtn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDButtonPanel=Panel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052106Z" creationid="LiarOnce" creationdate="20181120T052106Z">
+        <seg>TLMDButtonPanel=Panel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDCALENDAREDIT=Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052125Z" creationid="LiarOnce" creationdate="20181120T052125Z">
+        <seg>TLMDCALENDAREDIT=Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDCHECKBOX=Checkbox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052102Z" creationid="LiarOnce" creationdate="20181120T052102Z">
+        <seg>TLMDCHECKBOX=Checkbox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDCOLOREDIT=Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052126Z" creationid="LiarOnce" creationdate="20181120T052126Z">
+        <seg>TLMDCOLOREDIT=Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDCalculator=panel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052104Z" creationid="LiarOnce" creationdate="20181120T052104Z">
+        <seg>TLMDCalculator=panel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDCalculatorComboBox=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052118Z" creationid="LiarOnce" creationdate="20181120T052118Z">
+        <seg>TLMDCalculatorComboBox=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDCalculatorEdit=edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052122Z" creationid="LiarOnce" creationdate="20181120T052122Z">
+        <seg>TLMDCalculatorEdit=edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDCalendarComboBox=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052119Z" creationid="LiarOnce" creationdate="20181120T052119Z">
+        <seg>TLMDCalendarComboBox=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDCheckGroup=CheckGroup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052121Z" creationid="LiarOnce" creationdate="20181120T052121Z">
+        <seg>TLMDCheckGroup=CheckGroup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDCheckListCombobox=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052114Z" creationid="LiarOnce" creationdate="20181120T052114Z">
+        <seg>TLMDCheckListCombobox=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDColorCombobox=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052115Z" creationid="LiarOnce" creationdate="20181120T052115Z">
+        <seg>TLMDColorCombobox=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDDBCHECKBOX=Checkbox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052103Z" creationid="LiarOnce" creationdate="20181120T052103Z">
+        <seg>TLMDDBCHECKBOX=Checkbox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDDBCalendar=Panel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052105Z" creationid="LiarOnce" creationdate="20181120T052105Z">
+        <seg>TLMDDBCalendar=Panel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDDBCheckGroup=CheckGroup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052122Z" creationid="LiarOnce" creationdate="20181120T052122Z">
+        <seg>TLMDDBCheckGroup=CheckGroup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDDBEDIT=Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052127Z" creationid="LiarOnce" creationdate="20181120T052127Z">
+        <seg>TLMDDBEDIT=Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDDBEDITDBLookup=Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052129Z" creationid="LiarOnce" creationdate="20181120T052129Z">
+        <seg>TLMDDBEDITDBLookup=Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDDBEXTSPINEDIT=Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052128Z" creationid="LiarOnce" creationdate="20181120T052128Z">
+        <seg>TLMDDBEXTSPINEDIT=Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDDBMASKEDIT=Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052127Z" creationid="LiarOnce" creationdate="20181120T052127Z">
+        <seg>TLMDDBMASKEDIT=Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDDBRADIOGROUP=radiogroup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052121Z" creationid="LiarOnce" creationdate="20181120T052121Z">
+        <seg>TLMDDBRADIOGROUP=radiogroup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDDBSPINEDIT=Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052128Z" creationid="LiarOnce" creationdate="20181120T052128Z">
+        <seg>TLMDDBSPINEDIT=Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDDriveCombobox=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052117Z" creationid="LiarOnce" creationdate="20181120T052117Z">
+        <seg>TLMDDriveCombobox=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDEDIT=Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052123Z" creationid="LiarOnce" creationdate="20181120T052123Z">
+        <seg>TLMDEDIT=Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDEDITDBLookup=Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052129Z" creationid="LiarOnce" creationdate="20181120T052129Z">
+        <seg>TLMDEDITDBLookup=Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDEXTSPINEDIT=Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052124Z" creationid="LiarOnce" creationdate="20181120T052124Z">
+        <seg>TLMDEXTSPINEDIT=Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDFILEOPENEDIT=Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052125Z" creationid="LiarOnce" creationdate="20181120T052125Z">
+        <seg>TLMDFILEOPENEDIT=Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDFILESAVEEDIT=Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052126Z" creationid="LiarOnce" creationdate="20181120T052126Z">
+        <seg>TLMDFILESAVEEDIT=Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDFontCombobox=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052116Z" creationid="LiarOnce" creationdate="20181120T052116Z">
+        <seg>TLMDFontCombobox=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDFontSizeCombobox=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052117Z" creationid="LiarOnce" creationdate="20181120T052117Z">
+        <seg>TLMDFontSizeCombobox=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDGROUPBOX=Panel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052104Z" creationid="LiarOnce" creationdate="20181120T052104Z">
+        <seg>TLMDGROUPBOX=Panel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDGroupBox=Groupbox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052101Z" creationid="LiarOnce" creationdate="20181120T052101Z">
+        <seg>TLMDGroupBox=Groupbox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDHeaderListCombobox=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052114Z" creationid="LiarOnce" creationdate="20181120T052114Z">
+        <seg>TLMDHeaderListCombobox=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDHeaderPanel=Panel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052107Z" creationid="LiarOnce" creationdate="20181120T052107Z">
+        <seg>TLMDHeaderPanel=Panel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDImageCombobox=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052115Z" creationid="LiarOnce" creationdate="20181120T052115Z">
+        <seg>TLMDImageCombobox=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDLMDCalculator=Panel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052106Z" creationid="LiarOnce" creationdate="20181120T052106Z">
+        <seg>TLMDLMDCalculator=Panel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDLMDClock=Panel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052112Z" creationid="LiarOnce" creationdate="20181120T052112Z">
+        <seg>TLMDLMDClock=Panel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDListCombobox=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052113Z" creationid="LiarOnce" creationdate="20181120T052113Z">
+        <seg>TLMDListCombobox=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDMASKEDIT=Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052123Z" creationid="LiarOnce" creationdate="20181120T052123Z">
+        <seg>TLMDMASKEDIT=Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDPrinterCombobox=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052117Z" creationid="LiarOnce" creationdate="20181120T052117Z">
+        <seg>TLMDPrinterCombobox=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDRADIOGROUP=radiogroup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052120Z" creationid="LiarOnce" creationdate="20181120T052120Z">
+        <seg>TLMDRADIOGROUP=radiogroup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDRadiobutton=Radiobutton</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052103Z" creationid="LiarOnce" creationdate="20181120T052103Z">
+        <seg>TLMDRadiobutton=Radiobutton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDSIMPLEPANEL=Panel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052105Z" creationid="LiarOnce" creationdate="20181120T052105Z">
+        <seg>TLMDSIMPLEPANEL=Panel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDTechnicalLine=Panel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052112Z" creationid="LiarOnce" creationdate="20181120T052112Z">
+        <seg>TLMDTechnicalLine=Panel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDTrackBarComboBox=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052119Z" creationid="LiarOnce" creationdate="20181120T052119Z">
+        <seg>TLMDTrackBarComboBox=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDTrackbar=panel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052113Z" creationid="LiarOnce" creationdate="20181120T052113Z">
+        <seg>TLMDTrackbar=panel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLMDTreeComboBox=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052120Z" creationid="LiarOnce" creationdate="20181120T052120Z">
+        <seg>TLMDTreeComboBox=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TLS</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052432Z" creationid="LiarOnce" creationdate="20181030T052432Z">
         <seg>TLS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TO32DBFLEXEDIT=Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052142Z" creationid="LiarOnce" creationdate="20181120T052142Z">
+        <seg>TO32DBFLEXEDIT=Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TOVCDBNUMERICFIELD=Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052143Z" creationid="LiarOnce" creationdate="20181120T052143Z">
+        <seg>TOVCDBNUMERICFIELD=Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TOVCDBPICTUREFIELD=Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052139Z" creationid="LiarOnce" creationdate="20181120T052139Z">
+        <seg>TOVCDBPICTUREFIELD=Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TOVCDBSIMPLEFIELD=Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052141Z" creationid="LiarOnce" creationdate="20181120T052141Z">
+        <seg>TOVCDBSIMPLEFIELD=Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TOVCDBSLIDEREDIT=Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052140Z" creationid="LiarOnce" creationdate="20181120T052140Z">
+        <seg>TOVCDBSLIDEREDIT=Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TOVCNUMERICFIELD=Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052143Z" creationid="LiarOnce" creationdate="20181120T052143Z">
+        <seg>TOVCNUMERICFIELD=Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TOVCPICTUREFIELD=Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052139Z" creationid="LiarOnce" creationdate="20181120T052139Z">
+        <seg>TOVCPICTUREFIELD=Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TOVCSIMPLEFIELD=Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052141Z" creationid="LiarOnce" creationdate="20181120T052141Z">
+        <seg>TOVCSIMPLEFIELD=Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TOVCSLIDEREDIT=Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052140Z" creationid="LiarOnce" creationdate="20181120T052140Z">
+        <seg>TOVCSLIDEREDIT=Edit</seg>
       </tuv>
     </tu>
     <tu>
@@ -33075,6 +34627,22 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TPngBitBtn=pngbitbtn</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052036Z" creationid="LiarOnce" creationdate="20181120T052036Z">
+        <seg>TPngBitBtn=pngbitbtn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TPngSpeedbutton=pngspeedbutton</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052035Z" creationid="LiarOnce" creationdate="20181120T052035Z">
+        <seg>TPngSpeedbutton=pngspeedbutton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TROPHY.TRP</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T044648Z" creationid="LiarOnce" creationdate="20181029T044648Z">
@@ -33091,6 +34659,174 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TRxDBLookupCombo=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052050Z" creationid="LiarOnce" creationdate="20181120T052050Z">
+        <seg>TRxDBLookupCombo=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRxLookupEdit=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052050Z" creationid="LiarOnce" creationdate="20181120T052050Z">
+        <seg>TRxLookupEdit=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRxSpeedButton=speedbutton</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052039Z" creationid="LiarOnce" creationdate="20181120T052039Z">
+        <seg>TRxSpeedButton=speedbutton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRzBitbtn=bitbtn</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052053Z" creationid="LiarOnce" creationdate="20181120T052053Z">
+        <seg>TRzBitbtn=bitbtn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRzButton=button</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052052Z" creationid="LiarOnce" creationdate="20181120T052052Z">
+        <seg>TRzButton=button</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRzButtonEdit=Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052055Z" creationid="LiarOnce" creationdate="20181120T052055Z">
+        <seg>TRzButtonEdit=Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRzCheckGroup=CheckGroup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052054Z" creationid="LiarOnce" creationdate="20181120T052054Z">
+        <seg>TRzCheckGroup=CheckGroup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRzColorEdit=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052058Z" creationid="LiarOnce" creationdate="20181120T052058Z">
+        <seg>TRzColorEdit=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRzDBDateTimeEdit=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052059Z" creationid="LiarOnce" creationdate="20181120T052059Z">
+        <seg>TRzDBDateTimeEdit=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRzDBDateTimePicker=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052100Z" creationid="LiarOnce" creationdate="20181120T052100Z">
+        <seg>TRzDBDateTimePicker=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRzDBRadioButton=Radiobutton</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052056Z" creationid="LiarOnce" creationdate="20181120T052056Z">
+        <seg>TRzDBRadioButton=Radiobutton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRzDBRadioGroup=Radiogroup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052056Z" creationid="LiarOnce" creationdate="20181120T052056Z">
+        <seg>TRzDBRadioGroup=Radiogroup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRzDateTimeEdit=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052057Z" creationid="LiarOnce" creationdate="20181120T052057Z">
+        <seg>TRzDateTimeEdit=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRzDateTimePicker=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052058Z" creationid="LiarOnce" creationdate="20181120T052058Z">
+        <seg>TRzDateTimePicker=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRzDbColorEdit=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052059Z" creationid="LiarOnce" creationdate="20181120T052059Z">
+        <seg>TRzDbColorEdit=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRzGroup=panel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052051Z" creationid="LiarOnce" creationdate="20181120T052051Z">
+        <seg>TRzGroup=panel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRzMenuButton=menubtn</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052053Z" creationid="LiarOnce" creationdate="20181120T052053Z">
+        <seg>TRzMenuButton=menubtn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRzRadioGroup=Radiogroup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052055Z" creationid="LiarOnce" creationdate="20181120T052055Z">
+        <seg>TRzRadioGroup=Radiogroup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TTBDock=Panel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052041Z" creationid="LiarOnce" creationdate="20181120T052041Z">
+        <seg>TTBDock=Panel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TTBToolbar=Panel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052042Z" creationid="LiarOnce" creationdate="20181120T052042Z">
+        <seg>TTBToolbar=Panel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TTBXDockablePanel=Panel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052037Z" creationid="LiarOnce" creationdate="20181120T052037Z">
+        <seg>TTBXDockablePanel=Panel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TTL expired.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T092213Z" creationid="LiarOnce" creationdate="20181110T092213Z">
@@ -33103,6 +34839,78 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045551Z" creationid="LiarOnce" creationdate="20181029T045551Z">
         <seg>TV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TVirtualDrawTree=scrollbar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052037Z" creationid="LiarOnce" creationdate="20181120T052037Z">
+        <seg>TVirtualDrawTree=scrollbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TVirtualStringTree=scrollbar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052036Z" creationid="LiarOnce" creationdate="20181120T052036Z">
+        <seg>TVirtualStringTree=scrollbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TWWDBCombobox=Combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052130Z" creationid="LiarOnce" creationdate="20181120T052130Z">
+        <seg>TWWDBCombobox=Combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TWWDBDateTimePicker=Combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052134Z" creationid="LiarOnce" creationdate="20181120T052134Z">
+        <seg>TWWDBDateTimePicker=Combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TWWDBEDIT=Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052136Z" creationid="LiarOnce" creationdate="20181120T052136Z">
+        <seg>TWWDBEDIT=Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TWWDBLookupCombo=Combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052132Z" creationid="LiarOnce" creationdate="20181120T052132Z">
+        <seg>TWWDBLookupCombo=Combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TWWKeyCombo=Combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052133Z" creationid="LiarOnce" creationdate="20181120T052133Z">
+        <seg>TWWKeyCombo=Combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TWWRADIOGROUP=radiogroup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052135Z" creationid="LiarOnce" creationdate="20181120T052135Z">
+        <seg>TWWRADIOGROUP=radiogroup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TWWTempKeyCombo=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052134Z" creationid="LiarOnce" creationdate="20181120T052134Z">
+        <seg>TWWTempKeyCombo=combobox</seg>
       </tuv>
     </tu>
     <tu>
@@ -33135,6 +34943,22 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T015911Z" creationid="LiarOnce" creationdate="20181111T015911Z">
         <seg>选项卡样式与当前选项卡位置不兼容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tab.Pane</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052319Z" creationid="LiarOnce" creationdate="20181120T052319Z">
+        <seg>Tab.Pane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tabs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052318Z" creationid="LiarOnce" creationdate="20181120T052318Z">
+        <seg>标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -33175,6 +34999,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181104T014757Z" creationid="LiarOnce" creationdate="20181104T014757Z">
         <seg>Microsoft YaHei UI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tahoma MS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052239Z" creationid="LiarOnce" creationdate="20181120T052239Z">
+        <seg>Tahoma MS</seg>
       </tuv>
     </tu>
     <tu>
@@ -33299,6 +35131,110 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TcxButton=bitbtn</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052136Z" creationid="LiarOnce" creationdate="20181120T052136Z">
+        <seg>TcxButton=bitbtn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TcxDBBlobEdit=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052048Z" creationid="LiarOnce" creationdate="20181120T052048Z">
+        <seg>TcxDBBlobEdit=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TcxDBCalcEdit=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052047Z" creationid="LiarOnce" creationdate="20181120T052047Z">
+        <seg>TcxDBCalcEdit=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TcxDBComboBox=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052045Z" creationid="LiarOnce" creationdate="20181120T052045Z">
+        <seg>TcxDBComboBox=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TcxDBDateEdit=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052045Z" creationid="LiarOnce" creationdate="20181120T052045Z">
+        <seg>TcxDBDateEdit=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TcxDBFontNameComboBox=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052049Z" creationid="LiarOnce" creationdate="20181120T052049Z">
+        <seg>TcxDBFontNameComboBox=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TcxDBImageComboBox=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052046Z" creationid="LiarOnce" creationdate="20181120T052046Z">
+        <seg>TcxDBImageComboBox=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TcxDBLookupComboBox=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052044Z" creationid="LiarOnce" creationdate="20181120T052044Z">
+        <seg>TcxDBLookupComboBox=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TcxDBPopupEdit=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052048Z" creationid="LiarOnce" creationdate="20181120T052048Z">
+        <seg>TcxDBPopupEdit=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TcxDBRadioGroup=radiogroup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052137Z" creationid="LiarOnce" creationdate="20181120T052137Z">
+        <seg>TcxDBRadioGroup=radiogroup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TcxDBShellComboBox=combobox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052049Z" creationid="LiarOnce" creationdate="20181120T052049Z">
+        <seg>TcxDBShellComboBox=combobox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TcxGroupbox=groupbox</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052138Z" creationid="LiarOnce" creationdate="20181120T052138Z">
+        <seg>TcxGroupbox=groupbox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TcxRadioGroup=radiogroup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052137Z" creationid="LiarOnce" creationdate="20181120T052137Z">
+        <seg>TcxRadioGroup=radiogroup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Team Identifier</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170316T092910Z" creationid="deciia" creationdate="20170104T071324Z">
@@ -33411,6 +35347,14 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Textbackground</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052236Z" creationid="LiarOnce" creationdate="20181120T052236Z">
+        <seg>Textbackground</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Texture Group Settings</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052927Z" creationid="LiarOnce" creationdate="20181015T052927Z">
@@ -33487,6 +35431,30 @@ and report whether the problem also occured in version 8.0 of Game Maker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045221Z" creationid="LiarOnce" creationdate="20181029T045221Z">
         <seg>Texturepage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tfr</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052311Z" creationid="LiarOnce" creationdate="20181120T052311Z">
+        <seg>Tfr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TfrSpeedButton=speedbutton</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052040Z" creationid="LiarOnce" creationdate="20181120T052040Z">
+        <seg>TfrSpeedButton=speedbutton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TfrTBButton=speedbutton</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052041Z" creationid="LiarOnce" creationdate="20181120T052041Z">
+        <seg>TfrTBButton=speedbutton</seg>
       </tuv>
     </tu>
     <tu>
@@ -35300,10 +37268,74 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Track</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052326Z" creationid="LiarOnce" creationdate="20181120T052326Z">
+        <seg>Track</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trackbar.ThumbDown</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052325Z" creationid="LiarOnce" creationdate="20181120T052325Z">
+        <seg>Trackbar.ThumbDown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trackbar.ThumbHorz</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052322Z" creationid="LiarOnce" creationdate="20181120T052322Z">
+        <seg>Trackbar.ThumbHorz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trackbar.ThumbLeft</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052323Z" creationid="LiarOnce" creationdate="20181120T052323Z">
+        <seg>Trackbar.ThumbLeft</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trackbar.ThumbRight</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052324Z" creationid="LiarOnce" creationdate="20181120T052324Z">
+        <seg>Trackbar.ThumbRight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trackbar.ThumbUp</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052324Z" creationid="LiarOnce" creationdate="20181120T052324Z">
+        <seg>Trackbar.ThumbUp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trackbar.ThumbVert</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052322Z" creationid="LiarOnce" creationdate="20181120T052322Z">
+        <seg>Trackbar.ThumbVert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TrackingID</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T044834Z" creationid="LiarOnce" creationdate="20181029T044834Z">
         <seg>TrackingID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trans</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052204Z" creationid="LiarOnce" creationdate="20181120T052204Z">
+        <seg>反转</seg>
       </tuv>
     </tu>
     <tu>
@@ -35320,6 +37352,14 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T020251Z" creationid="deciia" creationdate="20180922T020251Z">
         <seg>翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transparent</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051933Z" creationid="LiarOnce" creationdate="20181120T051933Z">
+        <seg>透明</seg>
       </tuv>
     </tu>
     <tu>
@@ -36092,6 +38132,22 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UpDown.Horz</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052325Z" creationid="LiarOnce" creationdate="20181120T052325Z">
+        <seg>UpDown.Horz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UpDown.Vert</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052326Z" creationid="LiarOnce" creationdate="20181120T052326Z">
+        <seg>UpDown.Vert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Update</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T080444Z" creationid="deciia" creationdate="20170103T080444Z">
@@ -36668,6 +38724,14 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>VCLSkin Demo</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052238Z" creationid="LiarOnce" creationdate="20181120T052238Z">
+        <seg>VCLSkin Demo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VCLskin</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091243Z" creationid="LiarOnce" creationdate="20181028T091243Z">
@@ -36819,6 +38883,30 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050820Z" creationid="LiarOnce" creationdate="20181029T050820Z">
         <seg>Vbor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ventura-International</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052612Z" creationid="LiarOnce" creationdate="20181120T052612Z">
+        <seg>Ventura-International</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ventura-Math</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052621Z" creationid="LiarOnce" creationdate="20181120T052621Z">
+        <seg>Ventura-Math</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ventura-US</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052612Z" creationid="LiarOnce" creationdate="20181120T052612Z">
+        <seg>Ventura-US</seg>
       </tuv>
     </tu>
     <tu>
@@ -37145,6 +39233,14 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Visibility1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052225Z" creationid="LiarOnce" creationdate="20181120T052219Z">
+        <seg>Visibility1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Visible</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T102330Z" creationid="deciia" creationdate="20170103T102330Z">
@@ -37249,10 +39345,98 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WM_CTLCOLOR %1x</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051950Z" creationid="LiarOnce" creationdate="20181120T051950Z">
+        <seg>WM_CTLCOLOR %1x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WM_CTLCOLORBTN %1x</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051950Z" creationid="LiarOnce" creationdate="20181120T051950Z">
+        <seg>WM_CTLCOLORBTN %1x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WM_CTLCOLORSTATIC %1x</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051949Z" creationid="LiarOnce" creationdate="20181120T051949Z">
+        <seg>WM_CTLCOLORSTATIC %1x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WM_MDIACTIVATE deactive:%1x, active:%1x</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051958Z" creationid="LiarOnce" creationdate="20181120T051958Z">
+        <seg>WM_MDIACTIVATE deactive:%1x, active:%1x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>WM_NCLButtonDown</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T051056Z" creationid="LiarOnce" creationdate="20181117T051056Z">
         <seg>WM_NCLButtonDown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WM_NCLButtonUp</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051948Z" creationid="LiarOnce" creationdate="20181120T051948Z">
+        <seg>WM_NCLButtonUp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WM_NCRButtonDown</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051948Z" creationid="LiarOnce" creationdate="20181120T051948Z">
+        <seg>WM_NCRButtonDown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WM_NCRButtonUp</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051949Z" creationid="LiarOnce" creationdate="20181120T051949Z">
+        <seg>WM_NCRButtonUp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WM_PARENTNOTIFY WM_CREATE %1x</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051958Z" creationid="LiarOnce" creationdate="20181120T051958Z">
+        <seg>WM_PARENTNOTIFY WM_CREATE %1x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WM_PARENTNOTIFY WM_DESTROY %1x</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051959Z" creationid="LiarOnce" creationdate="20181120T051959Z">
+        <seg>WM_PARENTNOTIFY WM_DESTROY %1x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WM_Paint %1x</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051941Z" creationid="LiarOnce" creationdate="20181120T051941Z">
+        <seg>WM_Paint %1x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WM_SIZE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051946Z" creationid="LiarOnce" creationdate="20181120T051946Z">
+        <seg>WM_SIZE</seg>
       </tuv>
     </tu>
     <tu>
@@ -37413,6 +39597,14 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091225Z" creationid="LiarOnce" creationdate="20181028T091225Z">
         <seg>Welcome to GameMaker: Studio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wg</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052001Z" creationid="LiarOnce" creationdate="20181120T052001Z">
+        <seg>Wg</seg>
       </tuv>
     </tu>
     <tu>
@@ -37953,6 +40145,14 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Windows-31J</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052622Z" creationid="LiarOnce" creationdate="20181120T052622Z">
+        <seg>Windows-31J</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Windows8</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T045147Z" creationid="LiarOnce" creationdate="20181030T045147Z">
@@ -38217,6 +40417,14 @@ games.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Xcoord</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052209Z" creationid="LiarOnce" creationdate="20181120T052209Z">
+        <seg>Xcoord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Xz archive</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052516Z" creationid="LiarOnce" creationdate="20181030T052516Z">
@@ -38277,6 +40485,14 @@ games.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050751Z" creationid="LiarOnce" creationdate="20181029T050751Z">
         <seg>Y:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ycoord</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052210Z" creationid="LiarOnce" creationdate="20181120T052210Z">
+        <seg>Ycoord</seg>
       </tuv>
     </tu>
     <tu>
@@ -38628,6 +40844,22 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>\\MIME\\Database\\Content Type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052636Z" creationid="LiarOnce" creationdate="20181120T052636Z">
+        <seg>\\MIME\\Database\\Content Type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\\MIME\\Database\\Content Type\\</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052638Z" creationid="LiarOnce" creationdate="20181120T052638Z">
+        <seg>\\MIME\\Database\\Content Type\\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layouts\\</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T045905Z" creationid="LiarOnce" creationdate="20181117T045905Z">
@@ -38684,10 +40916,26 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>at offset</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052705Z" creationid="LiarOnce" creationdate="20181120T052705Z">
+        <seg>at offset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>auto</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T045504Z" creationid="LiarOnce" creationdate="20181029T045504Z">
         <seg>auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>avtive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T051944Z" creationid="LiarOnce" creationdate="20181120T051944Z">
+        <seg>avtive</seg>
       </tuv>
     </tu>
     <tu>
@@ -38772,6 +41020,22 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>csBig5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052624Z" creationid="LiarOnce" creationdate="20181120T052624Z">
+        <seg>csBig5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csCESU-8</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052554Z" creationid="LiarOnce" creationdate="20181120T052554Z">
+        <seg>csCESU-8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>csGB2312</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050402Z" creationid="LiarOnce" creationdate="20181117T050402Z">
@@ -38784,6 +41048,550 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050402Z" creationid="LiarOnce" creationdate="20181117T050402Z">
         <seg>csGB231280</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csHPMath8</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052619Z" creationid="LiarOnce" creationdate="20181120T052619Z">
+        <seg>csHPMath8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csHPRoman8</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052521Z" creationid="LiarOnce" creationdate="20181120T052521Z">
+        <seg>csHPRoman8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBBM904</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052548Z" creationid="LiarOnce" creationdate="20181120T052548Z">
+        <seg>csIBBM904</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM037</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052521Z" creationid="LiarOnce" creationdate="20181120T052521Z">
+        <seg>csIBM037</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM038</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052522Z" creationid="LiarOnce" creationdate="20181120T052522Z">
+        <seg>csIBM038</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM1026</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052550Z" creationid="LiarOnce" creationdate="20181120T052550Z">
+        <seg>csIBM1026</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM273</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052523Z" creationid="LiarOnce" creationdate="20181120T052523Z">
+        <seg>csIBM273</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM274</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052523Z" creationid="LiarOnce" creationdate="20181120T052523Z">
+        <seg>csIBM274</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM275</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052524Z" creationid="LiarOnce" creationdate="20181120T052524Z">
+        <seg>csIBM275</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM277</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052524Z" creationid="LiarOnce" creationdate="20181120T052524Z">
+        <seg>csIBM277</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM278</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052525Z" creationid="LiarOnce" creationdate="20181120T052525Z">
+        <seg>csIBM278</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM280</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052526Z" creationid="LiarOnce" creationdate="20181120T052526Z">
+        <seg>csIBM280</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM281</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052526Z" creationid="LiarOnce" creationdate="20181120T052526Z">
+        <seg>csIBM281</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM284</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052527Z" creationid="LiarOnce" creationdate="20181120T052527Z">
+        <seg>csIBM284</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM285</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052528Z" creationid="LiarOnce" creationdate="20181120T052528Z">
+        <seg>csIBM285</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM290</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052529Z" creationid="LiarOnce" creationdate="20181120T052529Z">
+        <seg>csIBM290</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM297</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052529Z" creationid="LiarOnce" creationdate="20181120T052529Z">
+        <seg>csIBM297</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM420</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052530Z" creationid="LiarOnce" creationdate="20181120T052530Z">
+        <seg>csIBM420</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM423</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052531Z" creationid="LiarOnce" creationdate="20181120T052531Z">
+        <seg>csIBM423</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM424</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052531Z" creationid="LiarOnce" creationdate="20181120T052531Z">
+        <seg>csIBM424</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM500</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052533Z" creationid="LiarOnce" creationdate="20181120T052533Z">
+        <seg>csIBM500</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM851</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052535Z" creationid="LiarOnce" creationdate="20181120T052535Z">
+        <seg>csIBM851</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM855</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052537Z" creationid="LiarOnce" creationdate="20181120T052537Z">
+        <seg>csIBM855</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM857</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052538Z" creationid="LiarOnce" creationdate="20181120T052538Z">
+        <seg>csIBM857</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM860</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052539Z" creationid="LiarOnce" creationdate="20181120T052539Z">
+        <seg>csIBM860</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM861</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052539Z" creationid="LiarOnce" creationdate="20181120T052539Z">
+        <seg>csIBM861</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM863</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052540Z" creationid="LiarOnce" creationdate="20181120T052540Z">
+        <seg>csIBM863</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM864</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052541Z" creationid="LiarOnce" creationdate="20181120T052541Z">
+        <seg>csIBM864</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM865</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052542Z" creationid="LiarOnce" creationdate="20181120T052542Z">
+        <seg>csIBM865</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM866</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052542Z" creationid="LiarOnce" creationdate="20181120T052542Z">
+        <seg>csIBM866</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM868</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052543Z" creationid="LiarOnce" creationdate="20181120T052543Z">
+        <seg>csIBM868</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM869</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052543Z" creationid="LiarOnce" creationdate="20181120T052543Z">
+        <seg>csIBM869</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM870</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052544Z" creationid="LiarOnce" creationdate="20181120T052544Z">
+        <seg>csIBM870</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM871</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052545Z" creationid="LiarOnce" creationdate="20181120T052545Z">
+        <seg>csIBM871</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM880</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052546Z" creationid="LiarOnce" creationdate="20181120T052546Z">
+        <seg>csIBM880</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM891</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052546Z" creationid="LiarOnce" creationdate="20181120T052546Z">
+        <seg>csIBM891</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM903</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052547Z" creationid="LiarOnce" creationdate="20181120T052547Z">
+        <seg>csIBM903</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM905</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052548Z" creationid="LiarOnce" creationdate="20181120T052548Z">
+        <seg>csIBM905</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csIBM918</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052549Z" creationid="LiarOnce" creationdate="20181120T052549Z">
+        <seg>csIBM918</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO102T617bit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052444Z" creationid="LiarOnce" creationdate="20181120T052444Z">
+        <seg>csISO102T617bit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO10367Box</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052517Z" creationid="LiarOnce" creationdate="20181120T052517Z">
+        <seg>csISO10367Box</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO103T618bit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052445Z" creationid="LiarOnce" creationdate="20181120T052445Z">
+        <seg>csISO103T618bit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO10646UTF1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052401Z" creationid="LiarOnce" creationdate="20181120T052401Z">
+        <seg>csISO10646UTF1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO10Swedish</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052404Z" creationid="LiarOnce" creationdate="20181120T052404Z">
+        <seg>csISO10Swedish</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO111ECMACyrillic</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052448Z" creationid="LiarOnce" creationdate="20181120T052448Z">
+        <seg>csISO111ECMACyrillic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO11SwedishForNames</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052404Z" creationid="LiarOnce" creationdate="20181120T052404Z">
+        <seg>csISO11SwedishForNames</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO121Canadian1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052449Z" creationid="LiarOnce" creationdate="20181120T052449Z">
+        <seg>csISO121Canadian1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO122Canadian2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052450Z" creationid="LiarOnce" creationdate="20181120T052450Z">
+        <seg>csISO122Canadian2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO123CSAZ24341985gr</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052451Z" creationid="LiarOnce" creationdate="20181120T052451Z">
+        <seg>csISO123CSAZ24341985gr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO128T101G2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052454Z" creationid="LiarOnce" creationdate="20181120T052454Z">
+        <seg>csISO128T101G2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO139CSN369103</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052504Z" creationid="LiarOnce" creationdate="20181120T052504Z">
+        <seg>csISO139CSN369103</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO13JISC6220jp</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052407Z" creationid="LiarOnce" creationdate="20181120T052407Z">
+        <seg>csISO13JISC6220jp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO141JUSIB1002</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052505Z" creationid="LiarOnce" creationdate="20181120T052505Z">
+        <seg>csISO141JUSIB1002</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO143IECP271</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052508Z" creationid="LiarOnce" creationdate="20181120T052508Z">
+        <seg>csISO143IECP271</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO146Serbian</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052510Z" creationid="LiarOnce" creationdate="20181120T052510Z">
+        <seg>csISO146Serbian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO147Macedonian</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052511Z" creationid="LiarOnce" creationdate="20181120T052511Z">
+        <seg>csISO147Macedonian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO14JISC6220ro</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052408Z" creationid="LiarOnce" creationdate="20181120T052408Z">
+        <seg>csISO14JISC6220ro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO150</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052512Z" creationid="LiarOnce" creationdate="20181120T052512Z">
+        <seg>csISO150</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO150GreekCCITT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052512Z" creationid="LiarOnce" creationdate="20181120T052512Z">
+        <seg>csISO150GreekCCITT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO151Cuba</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052513Z" creationid="LiarOnce" creationdate="20181120T052513Z">
+        <seg>csISO151Cuba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO153GOST1976874</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052514Z" creationid="LiarOnce" creationdate="20181120T052514Z">
+        <seg>csISO153GOST1976874</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO158Lap</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052518Z" creationid="LiarOnce" creationdate="20181120T052518Z">
+        <seg>csISO158Lap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO159JISX02121990</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052518Z" creationid="LiarOnce" creationdate="20181120T052518Z">
+        <seg>csISO159JISX02121990</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO15Italian</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052408Z" creationid="LiarOnce" creationdate="20181120T052408Z">
+        <seg>csISO15Italian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO16Portuguese</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052409Z" creationid="LiarOnce" creationdate="20181120T052409Z">
+        <seg>csISO16Portuguese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO17Spanish</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052409Z" creationid="LiarOnce" creationdate="20181120T052409Z">
+        <seg>csISO17Spanish</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO18Greek7Old</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052410Z" creationid="LiarOnce" creationdate="20181120T052410Z">
+        <seg>csISO18Greek7Old</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO19LatinGreek</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052410Z" creationid="LiarOnce" creationdate="20181120T052410Z">
+        <seg>csISO19LatinGreek</seg>
       </tuv>
     </tu>
     <tu>
@@ -38796,10 +41604,130 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>csISO2022JP2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052406Z" creationid="LiarOnce" creationdate="20181120T052406Z">
+        <seg>csISO2022JP2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>csISO2022KR</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050440Z" creationid="LiarOnce" creationdate="20181117T050440Z">
         <seg>csISO2022KR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO2033</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052441Z" creationid="LiarOnce" creationdate="20181120T052441Z">
+        <seg>csISO2033</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO21German</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052411Z" creationid="LiarOnce" creationdate="20181120T052411Z">
+        <seg>csISO21German</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO25French</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052411Z" creationid="LiarOnce" creationdate="20181120T052411Z">
+        <seg>csISO25French</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO27LatinGreek1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052414Z" creationid="LiarOnce" creationdate="20181120T052414Z">
+        <seg>csISO27LatinGreek1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO2IntlRefVersion</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052403Z" creationid="LiarOnce" creationdate="20181120T052403Z">
+        <seg>csISO2IntlRefVersion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO42JISC62261978</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052415Z" creationid="LiarOnce" creationdate="20181120T052415Z">
+        <seg>csISO42JISC62261978</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO47BSViewdata</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052416Z" creationid="LiarOnce" creationdate="20181120T052416Z">
+        <seg>csISO47BSViewdata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO49INIS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052417Z" creationid="LiarOnce" creationdate="20181120T052417Z">
+        <seg>csISO49INIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO4UnitedKingdom</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052403Z" creationid="LiarOnce" creationdate="20181120T052403Z">
+        <seg>csISO4UnitedKingdom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO50INIS8</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052419Z" creationid="LiarOnce" creationdate="20181120T052419Z">
+        <seg>csISO50INIS8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO51INISCyrillic</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052420Z" creationid="LiarOnce" creationdate="20181120T052420Z">
+        <seg>csISO51INISCyrillic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO5427Cyrillic</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052414Z" creationid="LiarOnce" creationdate="20181120T052414Z">
+        <seg>csISO5427Cyrillic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO5428Greek</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052421Z" creationid="LiarOnce" creationdate="20181120T052421Z">
+        <seg>csISO5428Greek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO57GB1988</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052422Z" creationid="LiarOnce" creationdate="20181120T052422Z">
+        <seg>csISO57GB1988</seg>
       </tuv>
     </tu>
     <tu>
@@ -38812,10 +41740,242 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>csISO60DanishNorwegian</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052424Z" creationid="LiarOnce" creationdate="20181120T052424Z">
+        <seg>csISO60DanishNorwegian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO60Norwegian1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052424Z" creationid="LiarOnce" creationdate="20181120T052424Z">
+        <seg>csISO60Norwegian1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO61Norwegian2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052425Z" creationid="LiarOnce" creationdate="20181120T052425Z">
+        <seg>csISO61Norwegian2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO646Danish</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052519Z" creationid="LiarOnce" creationdate="20181120T052519Z">
+        <seg>csISO646Danish</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO646basic1983</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052402Z" creationid="LiarOnce" creationdate="20181120T052402Z">
+        <seg>csISO646basic1983</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO6937Add</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052513Z" creationid="LiarOnce" creationdate="20181120T052513Z">
+        <seg>csISO6937Add</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO69French</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052426Z" creationid="LiarOnce" creationdate="20181120T052426Z">
+        <seg>csISO69French</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO70VideotexSupp1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052426Z" creationid="LiarOnce" creationdate="20181120T052426Z">
+        <seg>csISO70VideotexSupp1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO84Portuguese2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052427Z" creationid="LiarOnce" creationdate="20181120T052427Z">
+        <seg>csISO84Portuguese2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO85Spanish2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052428Z" creationid="LiarOnce" creationdate="20181120T052428Z">
+        <seg>csISO85Spanish2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO86Hungarian</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052428Z" creationid="LiarOnce" creationdate="20181120T052428Z">
+        <seg>csISO86Hungarian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO87JISX0208</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052429Z" creationid="LiarOnce" creationdate="20181120T052429Z">
+        <seg>csISO87JISX0208</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO88596E</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052452Z" creationid="LiarOnce" creationdate="20181120T052452Z">
+        <seg>csISO88596E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO88596I</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052452Z" creationid="LiarOnce" creationdate="20181120T052452Z">
+        <seg>csISO88596I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO88598E</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052503Z" creationid="LiarOnce" creationdate="20181120T052503Z">
+        <seg>csISO88598E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO88598I</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052504Z" creationid="LiarOnce" creationdate="20181120T052504Z">
+        <seg>csISO88598I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO8859Supp</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052515Z" creationid="LiarOnce" creationdate="20181120T052515Z">
+        <seg>csISO8859Supp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO88Greek7</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052430Z" creationid="LiarOnce" creationdate="20181120T052430Z">
+        <seg>csISO88Greek7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO89ASMO449</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052430Z" creationid="LiarOnce" creationdate="20181120T052430Z">
+        <seg>csISO89ASMO449</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO90</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052431Z" creationid="LiarOnce" creationdate="20181120T052431Z">
+        <seg>csISO90</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO91JISC62291984a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052433Z" creationid="LiarOnce" creationdate="20181120T052433Z">
+        <seg>csISO91JISC62291984a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO92JISC62991984b</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052434Z" creationid="LiarOnce" creationdate="20181120T052434Z">
+        <seg>csISO92JISC62991984b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO93JIS62291984badd</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052435Z" creationid="LiarOnce" creationdate="20181120T052435Z">
+        <seg>csISO93JIS62291984badd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO94JIS62291984hand</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052437Z" creationid="LiarOnce" creationdate="20181120T052437Z">
+        <seg>csISO94JIS62291984hand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO95JIS62291984handadd</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052438Z" creationid="LiarOnce" creationdate="20181120T052438Z">
+        <seg>csISO95JIS62291984handadd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO96JISC62291984kana</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052439Z" creationid="LiarOnce" creationdate="20181120T052439Z">
+        <seg>csISO96JISC62291984kana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISO99NAPLPS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052442Z" creationid="LiarOnce" creationdate="20181120T052442Z">
+        <seg>csISO99NAPLPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISOLatin1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052442Z" creationid="LiarOnce" creationdate="20181120T052442Z">
+        <seg>csISOLatin1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>csISOLatin2</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050401Z" creationid="LiarOnce" creationdate="20181117T050401Z">
         <seg>csISOLatin2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csISOLatin3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052446Z" creationid="LiarOnce" creationdate="20181120T052446Z">
+        <seg>csISOLatin3</seg>
       </tuv>
     </tu>
     <tu>
@@ -38836,6 +41996,14 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>csISOLatin6</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052517Z" creationid="LiarOnce" creationdate="20181120T052517Z">
+        <seg>csISOLatin6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>csKOI8R</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050405Z" creationid="LiarOnce" creationdate="20181117T050405Z">
@@ -38852,10 +42020,90 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>csKSC5636</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052520Z" creationid="LiarOnce" creationdate="20181120T052520Z">
+        <seg>csKSC5636</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csPC775Baltic</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052533Z" creationid="LiarOnce" creationdate="20181120T052533Z">
+        <seg>csPC775Baltic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>csPC8</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050444Z" creationid="LiarOnce" creationdate="20181117T050444Z">
         <seg>csPC8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csPC850Multilingual</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052534Z" creationid="LiarOnce" creationdate="20181120T052534Z">
+        <seg>csPC850Multilingual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csPC862LatinHebrew</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052540Z" creationid="LiarOnce" creationdate="20181120T052540Z">
+        <seg>csPC862LatinHebrew</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csPC8CodePage437</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052532Z" creationid="LiarOnce" creationdate="20181120T052532Z">
+        <seg>csPC8CodePage437</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csPC8DanishNorwegian</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052614Z" creationid="LiarOnce" creationdate="20181120T052614Z">
+        <seg>csPC8DanishNorwegian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csPC8Turkish</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052615Z" creationid="LiarOnce" creationdate="20181120T052615Z">
+        <seg>csPC8Turkish</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csPCp852</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052537Z" creationid="LiarOnce" creationdate="20181120T052537Z">
+        <seg>csPCp852</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csUCS4</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052520Z" creationid="LiarOnce" creationdate="20181120T052520Z">
+        <seg>csUCS4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csUnicode11</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052553Z" creationid="LiarOnce" creationdate="20181120T052553Z">
+        <seg>csUnicode11</seg>
       </tuv>
     </tu>
     <tu>
@@ -38868,10 +42116,98 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>csUnicodeIBM1261</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052600Z" creationid="LiarOnce" creationdate="20181120T052600Z">
+        <seg>csUnicodeIBM1261</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csUnicodeIBM1264</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052604Z" creationid="LiarOnce" creationdate="20181120T052604Z">
+        <seg>csUnicodeIBM1264</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csUnicodeIBM1265</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052605Z" creationid="LiarOnce" creationdate="20181120T052605Z">
+        <seg>csUnicodeIBM1265</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csUnicodeIBM1268</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052602Z" creationid="LiarOnce" creationdate="20181120T052602Z">
+        <seg>csUnicodeIBM1268</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csUnicodeIBM1276</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052603Z" creationid="LiarOnce" creationdate="20181120T052603Z">
+        <seg>csUnicodeIBM1276</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csUnicodeLatin1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052559Z" creationid="LiarOnce" creationdate="20181120T052559Z">
+        <seg>csUnicodeLatin1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csUnknown8BiT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052550Z" creationid="LiarOnce" creationdate="20181120T052550Z">
+        <seg>csUnknown8BiT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csWindows30Latin1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052607Z" creationid="LiarOnce" creationdate="20181120T052607Z">
+        <seg>csWindows30Latin1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>csWindows31J</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050437Z" creationid="LiarOnce" creationdate="20181117T050437Z">
         <seg>csWindows31J</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csWindows31Latin1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052608Z" creationid="LiarOnce" creationdate="20181120T052608Z">
+        <seg>csWindows31Latin1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csWindows31Latin2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052609Z" creationid="LiarOnce" creationdate="20181120T052609Z">
+        <seg>csWindows31Latin2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>csWindows31Latin5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052611Z" creationid="LiarOnce" creationdate="20181120T052611Z">
+        <seg>csWindows31Latin5</seg>
       </tuv>
     </tu>
     <tu>
@@ -38915,6 +42251,14 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>ebcdic-Latin9--euro</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052552Z" creationid="LiarOnce" creationdate="20181120T052552Z">
+        <seg>ebcdic-Latin9--euro</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>不确定的翻译</note>
       <tuv lang="EN-US">
         <seg>empty distance tree with lengths</seg>
@@ -38953,6 +42297,14 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181117T050326Z" creationid="LiarOnce" creationdate="20181117T050326Z">
         <seg>文件错误 (-1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>finalization of Sound_DirectX finished</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052344Z" creationid="LiarOnce" creationdate="20181120T052344Z">
+        <seg>finalization of Sound_DirectX finished</seg>
       </tuv>
     </tu>
     <tu>
@@ -39949,6 +43301,14 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>multipart/form-data; boundary=</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052649Z" creationid="LiarOnce" creationdate="20181120T052649Z">
+        <seg>multipart/form-data; boundary=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>need dictionary</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T091112Z" creationid="LiarOnce" creationdate="20181110T091112Z">
@@ -40631,6 +43991,17 @@ or you may find a bug (Please file a bug report (Help -&gt; Report a bug))</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">GameMaker-Studio.exe.hcs_zh-CN.sdlxliff</prop>
+      <prop type="prev">\\MIME\\Database\\Content Type\\</prop>
+      <prop type="next">C:\\Builds\\TP\\indysockets\\lib\\Protocols\\IdGlobalProtocols.pas</prop>
+      <tuv lang="EN-US">
+        <seg>Extension</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181120T052655Z" creationid="LiarOnce" creationdate="20181120T052655Z">
+        <seg>Extension</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">GameMaker-Studio_zh-CN.sdlxliff</prop>
       <prop type="prev">April</prop>
